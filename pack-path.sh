@@ -40,7 +40,10 @@ EOF
   cat lisdata.pack
   echo "Size: ${SIZE}"
   bash lisdata.pack
+  echo "Sleeping for 3..."
   sleep 3
+  echo "Done sleeping."
+  echo
 
   if [ $N -le 0 ]
   then break
