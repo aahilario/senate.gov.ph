@@ -1,0 +1,151 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	16th Congress - Journal No. 14 - Senate of the Philippines
+</title>
+   <script type="text/javascript" language="javascript" src="/scripts_web/div.js"></script>
+   <link rel="stylesheet" type="text/css" href="/scripts_web/print.css" media="print" /><link rel="stylesheet" type="text/css" href="../scripts_web/lis.css" media="all" /><link rel="stylesheet" type="text/css" href="../scripts_web/xhtml.css" media="all" /><link rel="stylesheet" type="text/css" href="../scripts_web/xhtml_body.css" media="all" /></head>
+
+<body>
+   <div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="/images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
+<table><tr><td><a href="/">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
+&nbsp;About&nbsp;</div><div id="nav_About" class="div_hidden" onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
+<div class="nav_dropdown"><p><a href="/about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="/about/history.asp">History of the Senate</a></p>
+<p><a href="/about/symbols%20of%20authority.asp">Symbols of Authority</a></p><p><a href="/about/legpro.asp">Legislative Process</a></p>
+</div></div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
+&nbsp;Senators&nbsp;</div><div id="nav_Senators" class="div_hidden" onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
+<div class="nav_dropdown"><p><a href="/senators/sen18th.asp">18th Congress Senators</a></p><p><a href="/senators/senlist.asp">List of Previous Senators</a></p>
+<p><a href="/senators/roll.asp">Roll of Senate President</a></p><p><a href="/senators/composition.asp">Composition of the Senate</a></p><p><a href="/senators/terms.asp">Terms of Office and Privileges</a></p>
+</div></div></td><td>|</td><td>
+<div onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">&nbsp;Committees&nbsp;</div>
+<div id="nav_Committees" class="div_hidden" onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">
+<div class="nav_dropdown"><p><a href="/committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
+<p><a href="/committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="/committee/schedwk.asp">Committee Schedule</a></p></div>
+</div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
+&nbsp;Secretariat&nbsp;</div><div id="nav_Secretariat" class="div_hidden" onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
+<div class="nav_dropdown"><p><a href="/secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="/secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="/secretariat/osec.asp">Office of the Secretary</a></p>
+<p><a href="/secretariat/leg.asp">Legislation</a></p><p><a href="/secretariat/admin.asp">Administration and Financial Services</a></p>
+<p><a href="/secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="/secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
+</div></div></td><td>| </td>
+
+
+<td>
+<div onmouseover="ShowDiv('nav_LegislativeDocuments');HideSelect();" onmouseout="HideDiv('nav_LegislativeDocuments');ShowSelect();">
+&nbsp;Legislative Documents&nbsp;</div>
+<div id="nav_LegislativeDocuments" class="div_hidden" onmouseover="ShowDiv('nav_LegislativeDocuments');HideSelect();" onmouseout="HideDiv('nav_LegislativeDocuments');ShowSelect();">
+<div class="nav_dropdown">
+<p><a href="/lis/leg_sys.aspx?congress=18&type=bill">Bills</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=resolution">Resolutions</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=journal">Journals</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=committee_rpt">Committee Reports</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=republic_act">Republic Acts</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=adopted_res">Adopted Resolutions</a></p>
+<p><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a></p>
+<p><a href="/statistical.pdf">Statistical Data</a></p>
+</div>
+</div>
+</td>
+<td>|</td>
+
+<td>
+<div onmouseover="ShowDiv('nav_publications');HideSelect();" onmouseout="HideDiv('nav_publications');ShowSelect();">
+&nbsp;Publications&nbsp;</div>
+<div id="nav_publications" class="div_hidden" onmouseover="ShowDiv('nav_publications');HideSelect();" onmouseout="HideDiv('nav_publications');ShowSelect();">
+<div class="nav_dropdown">
+<p><a href="/publications/sepo_publications.asp">SEPO Publications</a></p>
+<p><a href="/publications/stsro_publications.asp">STSRO Publications</a></p>
+<p><a href="/publications/lbrmo_publications.asp">LBRMO Publications</a></p>
+<p><a href="/publications/ils_publications.asp">ILS Publications</a></p>
+<p><a href="/publications/lrs_publications.asp">LRS Publications</a></p>
+<p><a href="/publications/lls_publications.asp">LLS Publications</a></p>
+<p><a href="/publications/other_publications.asp">Other Publications</a></p>
+</div>
+</div>
+</td>
+<td>|</td>
+
+<td>
+<div onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
+&nbsp;GAD&nbsp;</div>
+<div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
+<div class="nav_dropdown">
+<p><a href="/GAD/Bills&Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+</div>
+</div>
+</td>
+<td>|</td>
+
+
+<td>&nbsp;<a href="http://www.newsenatebuilding.com">Bagong Senado</a></td></tr></table></div></div>
+   <table id="container">
+      <tr>
+         <td id="content">
+            16th Congress - First Regular Session<div class="lis_doctitle"><p class="h1_bold">Journal No. 14</p></div>Date: August 28, 2013<br />Approved on  September 2, 2013<br />
+            <form name="form1" method="post" action="journal.aspx?congress=16&amp;session=1R&amp;q=14" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3MTU4MjE2ODdkZEdThTMJ9N5tfuur1ih31aB+7Ymc" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BE872B47" />
+</div>
+            </form>
+            <hr /><div id="lis_download">Download <img src="/images/pdf1.gif" alt="PDF icon" /><ul><li><a href="/lisdata/1737414623!.pdf">Journal No. 14</a><br /><small>9/3/2013</small> <small>719KB</small></li>
+</ul>
+</div>
+<p>Bill/resolution(s) on first reading<ul class="lis_ul"><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1151">SBN-1151: Office of Veterans Affairs</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1152">SBN-1152: Pantawid Pamilyang Pilipino Program Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1153">SBN-1153: Magna Carta of Workers in the Informal Economy</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1154">SBN-1154: Prohibiting the Service of Warrants of Arrests During Nightime, Legal Holidays or Weekends</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1155">SBN-1155: Tax Deductions to Parents and Legal Guardians of Children with Special Needs</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1156">SBN-1156: Magna Carta for Youth</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1157">SBN-1157: Anti-Racketeering and Organized Syndicates Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1158">SBN-1158: Family Code (Art. 26)</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1159">SBN-1159: Ovarian Cancer Public Awareness Campaign</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1160">SBN-1160: Pagasa Modernization of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1161">SBN-1161: Marine and Coastal Resources Protection Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1162">SBN-1162: Forfeiture Powers of the State</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1163">SBN-1163: Code of Conduct and Ethical Standards for Public Officials and Employees</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1164">SBN-1164: Hotline '117' Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1165">SBN-1165: Community Service in Lieu of Imprisonment for the Penalty of Arresto Menor</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1166">SBN-1166: Barangay Development Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1167">SBN-1167: Philippine Criminology Profession Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1168">SBN-1168: The Veterans Memorial Medical Center Charter of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1169">SBN-1169: Increasing Burial Assistance for Veterans to Twenty Thousand Pesos</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1170">SBN-1170: Local Music Industry Incentives Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1171">SBN-1171: Document Authentication and Security Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1172">SBN-1172: Highway Safety Program of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1173">SBN-1173: Armed Forces of the Philippines Peacekeeping.Expeditionary Contingent/Force Law of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1174">SBN-1174: Philippine Civil Service Code of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1175">SBN-1175: Food Safety Modernization Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1176">SBN-1176: Agrarian and Agricultural Credit Condonation Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1177">SBN-1177: Local Film Industry Development Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1178">SBN-1178: Revised Philippine Hiv and Aids Policy and Program Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1179">SBN-1179: Philippine Midwifery Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1180">SBN-1180: Fixed Terms for the Chief of Staff of the AFP</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1181">SBN-1181: Declaring Doctorate Degree Equivalent to Ceso</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1182">SBN-1182: Use of Income Derived From Entrance Fees by the National Museum</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1183">SBN-1183: Disaster Service Volunteer Leave Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1184">SBN-1184: Blood Type Identification Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1185">SBN-1185: Income Requirement for Conversion of a Municipality Into a City</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1186">SBN-1186: Postponement of the Sangguniang Kabataan Elections</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1187">SBN-1187: Tax Incentives Transparency Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1190">SBN-1190: Health Facilities Regulation Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1191">SBN-1191: Pag-Asa Ng Paglaya Sa Pagbasa Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1192">SBN-1192: Financial Literacy Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1193">SBN-1193: Aquatic Facility Standard Establishment Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1194">SBN-1194: Elder Serve Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1195">SBN-1195: Promoting Lifelong Active Communities Every Day Act or Play Every Day Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1196">SBN-1196: Pinoy Innovator Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1197">SBN-1197: Soid Waste Landfills</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1198">SBN-1198: Anti-Political Recommendations Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1199">SBN-1199: Prohibiting Unattended Children in Motor Vehicles</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1200">SBN-1200: Crime of Tampering with a Taximeter</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1201">SBN-1201: Girl Scouts of the Philippines</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1202">SBN-1202: Diploma Integrity Protection Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1203">SBN-1203: Anti-Vandalism Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1204">SBN-1204: Calorie Count Menu Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1205">SBN-1205: Anti-Graft and Corrupt Practices Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1206">SBN-1206: Taxi Passenger Bill of Rights Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1207">SBN-1207: Getting Youth Re-Invested in Environmental Education Now Act (Green Act)</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1208">SBN-1208: Liability of Owners for Dog Bites</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1209">SBN-1209: Genetically Modified Organism</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1210">SBN-1210: Anti-Trust Act of the Philippines</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1211">SBN-1211: Civil Engineering Law</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1212">SBN-1212: National Mariculture Program of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1213">SBN-1213: Excluding Performance-Based Bonus From the Computation of Taxable Income</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1214">SBN-1214: To Include Coa in the Task Force Created Under Sec. 14 of R.A.No. 8479</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1215">SBN-1215: Pilipinong Marino Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1216">SBN-1216: Fresh Graduates Pre-Employment Assistance Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1217">SBN-1217: National Comprehensive Hiv and Aids Prevention, Treatment, Care and Support Policy and Plan Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1218">SBN-1218: Abolishing the Imprisonment Penalty for the Crime of Libel</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1219">SBN-1219: Freedom of Information Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1220">SBN-1220: Direct Remittance of the Share of Local Government Units</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1221">SBN-1221: Anti-Mobile Communication Devices Use While Driving Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1222">SBN-1222: Revised Penal Code (Special Time Allowance for Loyalty)</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1223">SBN-1223: Revised Penal Code (Discharge of Firearms)</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1224">SBN-1224: Increasing the Penalties for Election-Related Offenses</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1225">SBN-1225: Teaching of Human Rights in Public and Private Schools</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1226">SBN-1226: Telecommunications Accessibility Enhancement Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1227">SBN-1227: Filipino Volunteerism in Nation-Building (VNB) or Bayanihan Sa Bagumbayan (Bsb) Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1228">SBN-1228: Local Government Code (Titles V and Vi, Secs. 102 and 107)</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1229">SBN-1229: Sugar Cane Industry Development Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1230">SBN-1230: Barangay Integrated Development Approach for Nutrition Improvement (Bidani) Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1231">SBN-1231: Urban Development and Housing Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1232">SBN-1232: National Food Authority Rationalization Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1233">SBN-1233: Pilotage Services Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1234">SBN-1234: Department of Information and Communications Technology Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1235">SBN-1235: OWWA Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1236">SBN-1236: Soil and Water Conservation Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1237">SBN-1237: Philippine Nursing Practice Reform Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1238">SBN-1238: Public School Teachers' Tax Incentive</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1239">SBN-1239: Allowing K-12 Enhanced Education Graduates in the PNP</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1242">SBN-1242: Philippine Independent Films Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1243">SBN-1243: Consumer Act of the Philippines</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1244">SBN-1244: Teach for the Philippines Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1245">SBN-1245: Save Our Children Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1246">SBN-1246: Skills Standard Certification Evaluation Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1247">SBN-1247: Siting of Landfills/Garbage Dumps Near Educational Facilities Ban</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1248">SBN-1248: Investment in Quality School Leadership Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1249">SBN-1249: Retirement Security Education Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-1250">SBN-1250: Rural Teacher Retention Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SRN-198">SRN-198: Inquiry: on the Priority Development Assistance Fund (PDAF) and Various Infrastructures</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SRN-199">SRN-199: Inquiry: Mv St. Thomas Aquinas and the Mv Sulpicio Express 7</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SRN-200">SRN-200: Condolences  (Collision Between Mv St. Thomas Aquinas/Mv Sulpicio Express 7)</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SRN-201">SRN-201: Inquiry: Government Agencies with Respect to Oil Spills</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SRN-202">SRN-202: Priority Development Assistance Fund of the Members of the Senate</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SRN-203">SRN-203: Philippine Tropical Fabrics (Implementation of Republic Act 9242)</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SRN-204">SRN-204: Investigation: Misuse of the Priority Development Assistance Fund (PDAF)</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SRN-205">SRN-205: Inquiry: Total Service Charges Collected by the Hotels, Restaurants and Similar Establisments</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SRN-206">SRN-206: Inquiry: Collision of Mv Sulpicio Express 7 with Mv St. Thomas</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SRN-207">SRN-207: Honoring and Commending the Outstanding Teachers of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SRN-208">SRN-208: Inquiry, Memorandum Circular No. 8, Dated 28 August 2001</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SRN-209">SRN-209: Honoring and Commending the Metrobank Foundation, Inc./Outstanding Teachers of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SRN-210">SRN-210: Congratulating and Commending Outstanding Police Officers in Service (C.O.P.S.) 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SRN-211">SRN-211: Inquiry and Investigation, M/V St. Tomas of Aquinas and M/V Sulpicio Express 7</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SRN-212">SRN-212: Rules of the Senate (Amending Rule X, Section 13)</a></li></ul></p>
+
+         </td>
+         <td id="sidepane">
+         	<div id="sidepane_l2"></div><div class="header_pane">
+Legislative Documents
+</div>
+
+<div class="sidepane_nav">
+	<ul>
+		<li><a href="/lis/leg_sys.aspx?congress=16&amp;type=bill">Bills</a>
+		</li>
+		<li><a href="/lis/leg_sys.aspx?congress=16&amp;type=resolution">Resolutions</a>
+		</li>
+		<li><a href="/lis/leg_sys.aspx?congress=16&amp;type=journal">Journals</a>
+		</li>
+		<li><a href="/lis/leg_sys.aspx?congress=16&amp;type=committee_rpt">Committee Reports</a>
+		</li>
+		<li><a href="/lis/pdf_sys.aspx?congress=16&amp;type=republic_act">Republic Acts</a>
+		</li>
+		<li><a href="/lis/pdf_sys.aspx?congress=16&amp;type=adopted_res">Adopted Resolutions</a>
+		</li>
+		<li><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a>
+		</li>
+		<li><a href="/statistical.pdf">Statistical Data</a>
+		</li>
+	</ul>
+</div>
+
+<div class="header_pane">
+Note
+</div>
+
+<div class="sidepane_nav">
+If you prefer to use a more advanced search, please use the <a href="/lis.aspx">Legislative Information System</a>.
+</div>
+         </td>
+      </tr>
+   </table>
+   <div class="xhtml_nav"><div id="nav_bottom"><table><tr>
+	<td style="text-align: left; color: white; width: 381px;">© Senate of the Philippines. All rights reserved.</td>
+<td style="text-align: right">
+<a href="../job.pdf">Job Openings </a></a>| 
+<a href="/contact18thcongress.asp">Contact Info</a> | <a href="/rss.asp">RSS Feeds</a> <a href="/rss.asp">
+<img src="/images/feed10.png" alt="RSS icon" /></a> | <a href="/search.aspx">Search</a> | <a href="/sitemap.asp">Site Map</a></td></tr></table></div></div>
+
+
+</body>
+

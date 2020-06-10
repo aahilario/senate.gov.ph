@@ -1,0 +1,151 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	18th Congress - Journal No. 2 - Senate of the Philippines
+</title>
+   <script type="text/javascript" language="javascript" src="/scripts_web/div.js"></script>
+   <link rel="stylesheet" type="text/css" href="/scripts_web/print.css" media="print" /><link rel="stylesheet" type="text/css" href="../scripts_web/lis.css" media="all" /><link rel="stylesheet" type="text/css" href="../scripts_web/xhtml.css" media="all" /><link rel="stylesheet" type="text/css" href="../scripts_web/xhtml_body.css" media="all" /></head>
+
+<body>
+   <div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="/images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
+<table><tr><td><a href="/">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
+&nbsp;About&nbsp;</div><div id="nav_About" class="div_hidden" onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
+<div class="nav_dropdown"><p><a href="/about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="/about/history.asp">History of the Senate</a></p>
+<p><a href="/about/symbols%20of%20authority.asp">Symbols of Authority</a></p><p><a href="/about/legpro.asp">Legislative Process</a></p>
+</div></div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
+&nbsp;Senators&nbsp;</div><div id="nav_Senators" class="div_hidden" onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
+<div class="nav_dropdown"><p><a href="/senators/sen18th.asp">18th Congress Senators</a></p><p><a href="/senators/senlist.asp">List of Previous Senators</a></p>
+<p><a href="/senators/roll.asp">Roll of Senate President</a></p><p><a href="/senators/composition.asp">Composition of the Senate</a></p><p><a href="/senators/terms.asp">Terms of Office and Privileges</a></p>
+</div></div></td><td>|</td><td>
+<div onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">&nbsp;Committees&nbsp;</div>
+<div id="nav_Committees" class="div_hidden" onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">
+<div class="nav_dropdown"><p><a href="/committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
+<p><a href="/committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="/committee/schedwk.asp">Committee Schedule</a></p></div>
+</div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
+&nbsp;Secretariat&nbsp;</div><div id="nav_Secretariat" class="div_hidden" onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
+<div class="nav_dropdown"><p><a href="/secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="/secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="/secretariat/osec.asp">Office of the Secretary</a></p>
+<p><a href="/secretariat/leg.asp">Legislation</a></p><p><a href="/secretariat/admin.asp">Administration and Financial Services</a></p>
+<p><a href="/secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="/secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
+</div></div></td><td>| </td>
+
+
+<td>
+<div onmouseover="ShowDiv('nav_LegislativeDocuments');HideSelect();" onmouseout="HideDiv('nav_LegislativeDocuments');ShowSelect();">
+&nbsp;Legislative Documents&nbsp;</div>
+<div id="nav_LegislativeDocuments" class="div_hidden" onmouseover="ShowDiv('nav_LegislativeDocuments');HideSelect();" onmouseout="HideDiv('nav_LegislativeDocuments');ShowSelect();">
+<div class="nav_dropdown">
+<p><a href="/lis/leg_sys.aspx?congress=18&type=bill">Bills</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=resolution">Resolutions</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=journal">Journals</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=committee_rpt">Committee Reports</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=republic_act">Republic Acts</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=adopted_res">Adopted Resolutions</a></p>
+<p><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a></p>
+<p><a href="/statistical.pdf">Statistical Data</a></p>
+</div>
+</div>
+</td>
+<td>|</td>
+
+<td>
+<div onmouseover="ShowDiv('nav_publications');HideSelect();" onmouseout="HideDiv('nav_publications');ShowSelect();">
+&nbsp;Publications&nbsp;</div>
+<div id="nav_publications" class="div_hidden" onmouseover="ShowDiv('nav_publications');HideSelect();" onmouseout="HideDiv('nav_publications');ShowSelect();">
+<div class="nav_dropdown">
+<p><a href="/publications/sepo_publications.asp">SEPO Publications</a></p>
+<p><a href="/publications/stsro_publications.asp">STSRO Publications</a></p>
+<p><a href="/publications/lbrmo_publications.asp">LBRMO Publications</a></p>
+<p><a href="/publications/ils_publications.asp">ILS Publications</a></p>
+<p><a href="/publications/lrs_publications.asp">LRS Publications</a></p>
+<p><a href="/publications/lls_publications.asp">LLS Publications</a></p>
+<p><a href="/publications/other_publications.asp">Other Publications</a></p>
+</div>
+</div>
+</td>
+<td>|</td>
+
+<td>
+<div onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
+&nbsp;GAD&nbsp;</div>
+<div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
+<div class="nav_dropdown">
+<p><a href="/GAD/Bills&Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+</div>
+</div>
+</td>
+<td>|</td>
+
+
+<td>&nbsp;<a href="http://www.newsenatebuilding.com">Bagong Senado</a></td></tr></table></div></div>
+   <table id="container">
+      <tr>
+         <td id="content">
+            18th Congress - First Regular Session<div class="lis_doctitle"><p class="h1_bold">Journal No. 2</p></div>Date: July 23, 2019<br />Approved on  July 24, 2019<br />
+            <form name="form1" method="post" action="journal.aspx?congress=18&amp;session=1R&amp;q=2" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3MTU4MjE2ODdkZPVWzNSGP+WiCzoGlVexQFflEA/H" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BE872B47" />
+</div>
+            </form>
+            <hr /><div id="lis_download">Download <img src="/images/pdf1.gif" alt="PDF icon" /><ul><li><a href="/lisdata/3060727396!.pdf">Journal No. 2</a><br /><small>7/31/2019</small> <small>11.7MB</small></li>
+</ul>
+</div>
+<p>Bill/resolution(s) on first reading<ul class="lis_ul"><li><a href="bill_res.aspx?congress=18&amp;q=SBN-1">SBN-1: Medical Scholarship Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-2">SBN-2: Anti-Drug Penal Institution Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-3">SBN-3: Presidential Drug Enforcement Authority Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-4">SBN-4: Creating the Dangerous Drugs Court</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-5">SBN-5: Lowering the Minimum Age of Criminal Responsibility</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-6">SBN-6: Prevention of Terrorism Act, Amending R.A.No. 9372</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-7">SBN-7: The Hybrid Election Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-8">SBN-8: Increasing the Penalty for the Crime of Perjury, Amending Art. 183 of the Revised Penal Code</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-9">SBN-9: Anti-False Content Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-10">SBN-10: 14th Month Pay Law</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-11">SBN-11: The Anti-Political Dynasty Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-12">SBN-12: The Political Party System Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-13">SBN-13: Amending the Public Service Law</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-14">SBN-14: Amending the Retail Trade Liberalization Act of 2000 (R.A.No. 8762)</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-15">SBN-15: Public-Private Partnership Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-16">SBN-16: Amending the Citizenship Retention and Reacquisition Act of 2003 (R.A.No. 9225)</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-17">SBN-17: Creating the Boracay Development Authority</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-18">SBN-18: Waste Importation Ban Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-19">SBN-19: Adjustment in the Minimum Basic Salary of Public School Teachers/Higher Education Teaching Personnel</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-20">SBN-20: Creating the Philippine Water Commission</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-21">SBN-21: Anti-Terrorism Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-22">SBN-22: Expanded Anti-Wiretapping Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-23">SBN-23: The Budget Reform for Village Empowerment Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-24">SBN-24: People's Participation in the National Budget Process Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-25">SBN-25: Prepaid Subscriber Identity Module (SIM) Cards Regulations Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-26">SBN-26: Amending the Secrecy of the Bank Deposits Law (Sec. 2, R.A.No. 1405)</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-27">SBN-27: Death Penalty Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-28">SBN-28: Amending Art. 180, 183 and 184, Sec. 2, Chapter II, Title IV of the Revised Penal Code</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-29">SBN-29: Parents Welfare Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-30">SBN-30: Anti-Political Dynasty Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-31">SBN-31: Coconut Farmers and Industry Development Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-32">SBN-32: Department of Fisheries and Aquatic Resources Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-33">SBN-33: Post-Harvest Facilities Support Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-34">SBN-34: Amending the Organic Agriculture Act (R.A.No. 10068)</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-35">SBN-35: Expanded Crop Insurance Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-36">SBN-36: Rainwater Runoff</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-37">SBN-37: Basic Education Teachers Pay</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-38">SBN-38: National Land Use Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-39">SBN-39: Creating the Department of Disaster and Emergency Management</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-40">SBN-40: Single-Use Plastics Regulation and Management Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-41">SBN-41: One Town: One Doctor Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-42">SBN-42: Teaching Supplies Allowance Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-43">SBN-43: Full Crop Insurance Coverage to Qualified Comprehensive Agrarian Reform Program Beneficiaries</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-44">SBN-44: Creating the Water Regulatory Commission Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-45">SBN-45: Open Access in Data Transmission Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-46">SBN-46: National Employment Assistance Program Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-47">SBN-47: Multipurpose Gym in All Municipalities and Cities Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-48">SBN-48: The Solar Energy in National Government Offices Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-49">SBN-49: Salary Standardization Law V</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-50">SBN-50: Allowing the Use of Motorcycles as Public Utility Vehicles</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-51">SBN-51: Free Medical Assistance to the Poor Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-52">SBN-52: Water Resources Management Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-53">SBN-53: Expanding the Crime of Economic Sabotage</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-54">SBN-54: Automatic Gsis and Sss Pension Adjustment Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-55">SBN-55: Inclusive Education Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-56">SBN-56: Foundling Recognition Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-57">SBN-57: Mandatory Appointment of Municipal Agriculturists</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-58">SBN-58: Hazardous Household Substances Labelling Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-59">SBN-59: Consensual Recording for Law Enforcement Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-60">SBN-60: Financial Consumer Protection Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-61">SBN-61: Alternative Child Care Code of the Philippines</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-62">SBN-62: Educational Roadmap Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-63">SBN-63: Priority Health Infrastructure Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-64">SBN-64: Priority Infrastructure for Public Higher Education Institutions Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-65">SBN-65: Sustainable Cities and Communities Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-66">SBN-66: Sustainable Transportation Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-67">SBN-67: Recognizing Divorce/Foreign Decree of Termination of Marriage</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-68">SBN-68: Equal Weight to the Decisions of Both Parents  in Important Matters Concerning Their Marriage/Family</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-69">SBN-69: Inclusive Education for Children and Youth with Special Needs Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-70">SBN-70: Additional Support and Compensation for Public School Teachers/Non-Teaching Personnel</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-71">SBN-71: P125 Daily Across-The-Board Wage Increase Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-72">SBN-72: Lowering the Mandatory and Optional Retirement Age of Government Employees to 60 Years Old</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-73">SBN-73: Migrant Workers Hospital Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-74">SBN-74: Sangley Point Conversion Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-75">SBN-75: Teaching Supplies Allowance Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-76">SBN-76: VAT Exemption on Drugs and Medicines Prescribed for Mental Health Conditions</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-77">SBN-77: Retirement Benefit for Barangay Officials, Barangay Tanods, Barangay Health and Day Care Workers</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-78">SBN-78: Books for the Barrios Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-79">SBN-79: Permanent Item for Disaster Risk Officer in Every Local Government Unit</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-80">SBN-80: On-Site, In-City or Near-City Resettlement Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-81">SBN-81: Strengthening the Youth Social Welfare Programs</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-82">SBN-82: Right of Children for the Establishment of Their Filiation</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-83">SBN-83: Alien Social Integration Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-84">SBN-84: Whistleblower Protection Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-85">SBN-85: Body Camera and Dashboard Camera for Law Enforcement Officers Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-86">SBN-86: Amending RA 8972 ( Solo Parents’ Welfare Act of 2000)</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-87">SBN-87: Organ and Tissue Donation Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-88">SBN-88: Emergency Medical Services System (EMSS) Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-89">SBN-89: Increasing the Number of Rays of the Sun on the Philippine Flag</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-90">SBN-90: Lake Lanao Development Authority Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-91">SBN-91: Abolishing the Travel Tax</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-92">SBN-92: Department of Overseas Filipino Workers Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-93">SBN-93: The Expanded Balikbayan Program</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-94">SBN-94: Value for Money Procurement Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-95">SBN-95: Pondo Sa Pagbabago At Pag-Asenso (P3) Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-96">SBN-96: Magna Carta for Barangays</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-97">SBN-97: Share in the National Taxes of Local Government Units</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-98">SBN-98: Banning the Importation of Solid Waste</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-99">SBN-99: Computer Science Act of 2019</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SBN-100">SBN-100: National Center for Geriatric Health and Research Institute Act</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SRN-3">SRN-3: Investigation: Fraudulent Medical Claims to the Philhealth</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SRN-4">SRN-4: Inquiry: Implementation of Tatak Pinoy Industrialization Campaign and Policy</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SRN-5">SRN-5: Creating a Committee on Overseas Filipinos</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SRN-6">SRN-6: Inquiry on the National Poverty Situation of the Country</a></li><li><a href="bill_res.aspx?congress=18&amp;q=SRN-7">SRN-7: Reduce the Cost and Establish a Strict Price Ceiling for Text Messaging Services</a></li></ul></p>
+
+         </td>
+         <td id="sidepane">
+         	<div id="sidepane_l2"></div><div class="header_pane">
+Legislative Documents
+</div>
+
+<div class="sidepane_nav">
+	<ul>
+		<li><a href="/lis/leg_sys.aspx?congress=18&amp;type=bill">Bills</a>
+		</li>
+		<li><a href="/lis/leg_sys.aspx?congress=18&amp;type=resolution">Resolutions</a>
+		</li>
+		<li><a href="/lis/leg_sys.aspx?congress=18&amp;type=journal">Journals</a>
+		</li>
+		<li><a href="/lis/leg_sys.aspx?congress=18&amp;type=committee_rpt">Committee Reports</a>
+		</li>
+		<li><a href="/lis/pdf_sys.aspx?congress=18&amp;type=republic_act">Republic Acts</a>
+		</li>
+		<li><a href="/lis/pdf_sys.aspx?congress=18&amp;type=adopted_res">Adopted Resolutions</a>
+		</li>
+		<li><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a>
+		</li>
+		<li><a href="/statistical.pdf">Statistical Data</a>
+		</li>
+	</ul>
+</div>
+
+<div class="header_pane">
+Note
+</div>
+
+<div class="sidepane_nav">
+If you prefer to use a more advanced search, please use the <a href="/lis.aspx">Legislative Information System</a>.
+</div>
+         </td>
+      </tr>
+   </table>
+   <div class="xhtml_nav"><div id="nav_bottom"><table><tr>
+	<td style="text-align: left; color: white; width: 381px;">© Senate of the Philippines. All rights reserved.</td>
+<td style="text-align: right">
+<a href="../job.pdf">Job Openings </a></a>| 
+<a href="/contact18thcongress.asp">Contact Info</a> | <a href="/rss.asp">RSS Feeds</a> <a href="/rss.asp">
+<img src="/images/feed10.png" alt="RSS icon" /></a> | <a href="/search.aspx">Search</a> | <a href="/sitemap.asp">Site Map</a></td></tr></table></div></div>
+
+
+</body>
+

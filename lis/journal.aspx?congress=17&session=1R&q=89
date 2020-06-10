@@ -1,0 +1,153 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	17th Congress - Journal No. 89 - Senate of the Philippines
+</title>
+   <script type="text/javascript" language="javascript" src="/scripts_web/div.js"></script>
+   <link rel="stylesheet" type="text/css" href="/scripts_web/print.css" media="print" /><link rel="stylesheet" type="text/css" href="../scripts_web/lis.css" media="all" /><link rel="stylesheet" type="text/css" href="../scripts_web/xhtml.css" media="all" /><link rel="stylesheet" type="text/css" href="../scripts_web/xhtml_body.css" media="all" /></head>
+
+<body>
+   <div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="/images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
+<table><tr><td><a href="/">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
+&nbsp;About&nbsp;</div><div id="nav_About" class="div_hidden" onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
+<div class="nav_dropdown"><p><a href="/about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="/about/history.asp">History of the Senate</a></p>
+<p><a href="/about/symbols%20of%20authority.asp">Symbols of Authority</a></p><p><a href="/about/legpro.asp">Legislative Process</a></p>
+</div></div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
+&nbsp;Senators&nbsp;</div><div id="nav_Senators" class="div_hidden" onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
+<div class="nav_dropdown"><p><a href="/senators/sen18th.asp">18th Congress Senators</a></p><p><a href="/senators/senlist.asp">List of Previous Senators</a></p>
+<p><a href="/senators/roll.asp">Roll of Senate President</a></p><p><a href="/senators/composition.asp">Composition of the Senate</a></p><p><a href="/senators/terms.asp">Terms of Office and Privileges</a></p>
+</div></div></td><td>|</td><td>
+<div onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">&nbsp;Committees&nbsp;</div>
+<div id="nav_Committees" class="div_hidden" onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">
+<div class="nav_dropdown"><p><a href="/committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
+<p><a href="/committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="/committee/schedwk.asp">Committee Schedule</a></p></div>
+</div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
+&nbsp;Secretariat&nbsp;</div><div id="nav_Secretariat" class="div_hidden" onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
+<div class="nav_dropdown"><p><a href="/secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="/secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="/secretariat/osec.asp">Office of the Secretary</a></p>
+<p><a href="/secretariat/leg.asp">Legislation</a></p><p><a href="/secretariat/admin.asp">Administration and Financial Services</a></p>
+<p><a href="/secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="/secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
+</div></div></td><td>| </td>
+
+
+<td>
+<div onmouseover="ShowDiv('nav_LegislativeDocuments');HideSelect();" onmouseout="HideDiv('nav_LegislativeDocuments');ShowSelect();">
+&nbsp;Legislative Documents&nbsp;</div>
+<div id="nav_LegislativeDocuments" class="div_hidden" onmouseover="ShowDiv('nav_LegislativeDocuments');HideSelect();" onmouseout="HideDiv('nav_LegislativeDocuments');ShowSelect();">
+<div class="nav_dropdown">
+<p><a href="/lis/leg_sys.aspx?congress=18&type=bill">Bills</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=resolution">Resolutions</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=journal">Journals</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=committee_rpt">Committee Reports</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=republic_act">Republic Acts</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=adopted_res">Adopted Resolutions</a></p>
+<p><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a></p>
+<p><a href="/statistical.pdf">Statistical Data</a></p>
+</div>
+</div>
+</td>
+<td>|</td>
+
+<td>
+<div onmouseover="ShowDiv('nav_publications');HideSelect();" onmouseout="HideDiv('nav_publications');ShowSelect();">
+&nbsp;Publications&nbsp;</div>
+<div id="nav_publications" class="div_hidden" onmouseover="ShowDiv('nav_publications');HideSelect();" onmouseout="HideDiv('nav_publications');ShowSelect();">
+<div class="nav_dropdown">
+<p><a href="/publications/sepo_publications.asp">SEPO Publications</a></p>
+<p><a href="/publications/stsro_publications.asp">STSRO Publications</a></p>
+<p><a href="/publications/lbrmo_publications.asp">LBRMO Publications</a></p>
+<p><a href="/publications/ils_publications.asp">ILS Publications</a></p>
+<p><a href="/publications/lrs_publications.asp">LRS Publications</a></p>
+<p><a href="/publications/lls_publications.asp">LLS Publications</a></p>
+<p><a href="/publications/other_publications.asp">Other Publications</a></p>
+</div>
+</div>
+</td>
+<td>|</td>
+
+<td>
+<div onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
+&nbsp;GAD&nbsp;</div>
+<div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
+<div class="nav_dropdown">
+<p><a href="/GAD/Bills&Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+</div>
+</div>
+</td>
+<td>|</td>
+
+
+<td>&nbsp;<a href="http://www.newsenatebuilding.com">Bagong Senado</a></td></tr></table></div></div>
+   <table id="container">
+      <tr>
+         <td id="content">
+            17th Congress - First Regular Session<div class="lis_doctitle"><p class="h1_bold">Journal No. 89</p></div>Date: May 31, 2017<br />Approved on  May 31, 2017<br />
+            <form name="form1" method="post" action="journal.aspx?congress=17&amp;session=1R&amp;q=89" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3MTU4MjE2ODdkZPVWzNSGP+WiCzoGlVexQFflEA/H" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BE872B47" />
+</div>
+            </form>
+            <hr /><div id="lis_download">Download <img src="/images/pdf1.gif" alt="PDF icon" /><ul><li><a href="/lisdata/2623222671!.pdf">Journal No. 89</a><br /><small>8/1/2017</small> <small>21.4MB</small></li>
+</ul>
+</div>
+<p>Bill/resolution(s) on first reading<ul class="lis_ul"><li><a href="bill_res.aspx?congress=17&amp;q=SBN-1479">SBN-1479: Cadaver Handling Act of 2017</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SBN-1480">SBN-1480: The First Philippine Republic Day Act</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SBN-1481">SBN-1481: Gabaldon School Buildings Conservation Act</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SBN-1482">SBN-1482: Prevention of Adolescent Pregnancy Act of 2017</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SBN-1483">SBN-1483: Fiscal and Monetary Report Act of 2017</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SBN-1484">SBN-1484: Amending R.A. No. 9262 (Job Security to Working Women Who Are Victims of Violence)</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SBN-1485">SBN-1485: Amending Art. 54 of E.O. No. 209 (Family Code of the Philippines)</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SBN-1486">SBN-1486: Amending R.A. No. 8552 (Domestic Adoption Act of 1998)</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SBN-1487">SBN-1487: Lone Legislative District of General Santos City</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SCR-5">SCR-5: Adjournment of the 1st Regular Session</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SRN-394">SRN-394: Journal of the 89th Session Read and Approved</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SRN-395">SRN-395: Production and Distribution of the Journal and Record of the Senate</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SRN-396">SRN-396: Un Optional Protocol to the Convention on the Rights of the Child</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SRN-397">SRN-397: Condolences of the Senate on the Death of Former Senator Eva Estrada Kalaw</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SRN-398">SRN-398: Rehabilitation and Preservation of Manila Bay</a></li></ul></p>
+<p>Bill/resolution(s) on second reading<ul class="lis_ul"><li><a href="bill_res.aspx?congress=17&amp;q=SRN-399">SRN-399: Expression of Condolences on the Death of Former Senator Eva Estrada Kalaw</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SRN-387">SRN-387: Commending Indira Lacerna-Widmann (2017 Whitley Award)</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SRN-394">SRN-394: Journal of the 89th Session Read and Approved</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SRN-395">SRN-395: Production and Distribution of the Journal and Record of the Senate</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SCR-5">SCR-5: Adjournment of the 1st Regular Session</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SBN-1465">SBN-1465: Free Irrigation Service to Small Farmers Act of 2017</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SBN-1311">SBN-1311: Expanded Anti-Red Tape Act of 2017</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SBN-1397">SBN-1397: Motorcycle Crime Prevention Act of 2017</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SBN-1306">SBN-1306: Philippine Boxing and Combat Sports Commission Act of 2017</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SBN-1395">SBN-1395: Rightsizing the National Government Act</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SBN-1439">SBN-1439: Energy Virtual One Stop Shop Act of 2017</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SBN-1461">SBN-1461: Electric Cooperatives Emergency and Resiliency Fund Act of 2017</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SBN-1478">SBN-1478: Philippine Bamboo Industry Development Act of 2017</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SBN-1477">SBN-1477: Positive and Nonviolent Discipline of Children Act</a></li><li><a href="bill_res.aspx?congress=17&amp;q=SBN-1483">SBN-1483: Fiscal and Monetary Report Act of 2017</a></li><li><a href="bill_res.aspx?congress=17&amp;q=HBN-2924">HBN-2924: Barangay Cristo Rey (Municipality of Capas, Province of Tarlac)</a></li><li><a href="bill_res.aspx?congress=17&amp;q=HBN-4923">HBN-4923: Barangay Pampanga, Barangay Alfonso Angliongto, Sr. and Barangay V. Hizon</a></li><li><a href="bill_res.aspx?congress=17&amp;q=HBN-4924">HBN-4924: Barangay Magugpo, City of Tagum, Province of Davao Del Norte</a></li><li><a href="bill_res.aspx?congress=17&amp;q=HBN-4934">HBN-4934: Barangay San Isidro, Municipality of Titay, Province of Zamboanga Sibugay</a></li><li><a href="bill_res.aspx?congress=17&amp;q=HBN-4935">HBN-4935: Barangay Don Albino T. Taruc, Municipality of Socorro, Province of Surigao Del Norte</a></li><li><a href="bill_res.aspx?congress=17&amp;q=HBN-4937">HBN-4937: Barangay Care, City of Tarlac, Province of Tarlac</a></li><li><a href="bill_res.aspx?congress=17&amp;q=HBN-4938">HBN-4938: Barangay Poblacion 3, Municipality of Villanueva, Province of Misamis Oriental</a></li><li><a href="bill_res.aspx?congress=17&amp;q=HBN-4942">HBN-4942: Barangay Pudo, Municipality of Natonin, Mountain Province</a></li><li><a href="bill_res.aspx?congress=17&amp;q=HBN-4943">HBN-4943: Barangay Canumay, City of Valenzuela</a></li><li><a href="bill_res.aspx?congress=17&amp;q=HBN-4925">HBN-4925: Barangay Kalaw, Barangay Cabaritan and Barangay Quibel</a></li><li><a href="bill_res.aspx?congress=17&amp;q=HBN-4927">HBN-4927: Barangay Upper Pugaan, Municipality of Ditsaan-Ramain, Province of Lanao Del Sur</a></li><li><a href="bill_res.aspx?congress=17&amp;q=HBN-4940">HBN-4940: Barangay Liwon, Municipality of Asipulo, Province of Ifugao</a></li><li><a href="bill_res.aspx?congress=17&amp;q=HBN-4941">HBN-4941: Barangay Rizal, City of Makati</a></li></ul></p>
+<p>Committee report(s)<ul class="lis_ul"><li><a href="committee_rpt.aspx?congress=17&amp;q=103">No. 103 - Free Irrigation Service to Small Farmers Act of 2017</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=33">No. 33 - Ease of Doing Business Act</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=57">No. 57 - Motorcycle Crime Prevention Act</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=31">No. 31 - Philippine Boxing Commission Act of 2017</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=56">No. 56 - Rightsizing the National Government Act</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=60">No. 60 - Energy Virtual One Stop Shop Act of 2017</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=108">No. 108 - Barangay Cristo Rey (Municipality of Capas, Tarlac)</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=114">No. 114 - Barangays Pampanga, Alfonso Angliongto, Sr. and V. Hizon (Davao)</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=112">No. 112 - Barangays Magugpo  (Tagum City, Davao Del Norte)</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=109">No. 109 - Barangay San Isidro (Municipality of Titay, Zamboanga Sibugay)</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=111">No. 111 - Barangay Don Albino T. Taruc (Municipality of Socorro, Surigao Del Norte)</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=106">No. 106 - Barangay Care (City of Tarlac)</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=110">No. 110 - Barangay Poblacion 3 (Municipality of Villanueva, Misamis Oriental)</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=107">No. 107 - Barangay Pudo (Municipality of Natonin, Mountain Province)</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=113">No. 113 - Barangays Canumay (Valenzuela City)</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=119">No. 119 - Barangay Kalaw, Barangay Cabaritan, and Barangay Quibel in Dumalneg, Ilocos Norte</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=120">No. 120 - Barangay Upper Pugaan in Ditsaan-Ramain, Lanao Del Sur</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=122">No. 122 - Barangay Liwon in Asipulo, Ifugao</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=121">No. 121 - Barangay Rizal in the City of Makati</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=98">No. 98 - Electric Cooperatives Emergency and Resiliency Fund Act</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=116">No. 116 - Philippine Bamboo Industry Development Act of 2017</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=115">No. 115 - Positive Discipline of Children Act of 2017</a></li><li><a href="committee_rpt.aspx?congress=17&amp;q=117">No. 117 - Fiscal and Monetary Report Act of 2017</a></li></ul></p>
+
+         </td>
+         <td id="sidepane">
+         	<div id="sidepane_l2"></div><div class="header_pane">
+Legislative Documents
+</div>
+
+<div class="sidepane_nav">
+	<ul>
+		<li><a href="/lis/leg_sys.aspx?congress=17&amp;type=bill">Bills</a>
+		</li>
+		<li><a href="/lis/leg_sys.aspx?congress=17&amp;type=resolution">Resolutions</a>
+		</li>
+		<li><a href="/lis/leg_sys.aspx?congress=17&amp;type=journal">Journals</a>
+		</li>
+		<li><a href="/lis/leg_sys.aspx?congress=17&amp;type=committee_rpt">Committee Reports</a>
+		</li>
+		<li><a href="/lis/pdf_sys.aspx?congress=17&amp;type=republic_act">Republic Acts</a>
+		</li>
+		<li><a href="/lis/pdf_sys.aspx?congress=17&amp;type=adopted_res">Adopted Resolutions</a>
+		</li>
+		<li><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a>
+		</li>
+		<li><a href="/statistical.pdf">Statistical Data</a>
+		</li>
+	</ul>
+</div>
+
+<div class="header_pane">
+Note
+</div>
+
+<div class="sidepane_nav">
+If you prefer to use a more advanced search, please use the <a href="/lis.aspx">Legislative Information System</a>.
+</div>
+         </td>
+      </tr>
+   </table>
+   <div class="xhtml_nav"><div id="nav_bottom"><table><tr>
+	<td style="text-align: left; color: white; width: 381px;">© Senate of the Philippines. All rights reserved.</td>
+<td style="text-align: right">
+<a href="../job.pdf">Job Openings </a></a>| 
+<a href="/contact18thcongress.asp">Contact Info</a> | <a href="/rss.asp">RSS Feeds</a> <a href="/rss.asp">
+<img src="/images/feed10.png" alt="RSS icon" /></a> | <a href="/search.aspx">Search</a> | <a href="/sitemap.asp">Site Map</a></td></tr></table></div></div>
+
+
+</body>
+
