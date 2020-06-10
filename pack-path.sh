@@ -31,7 +31,7 @@ EOF
   tail -n$N lisdata.keep > lisdata.remainder
   mv lisdata.remainder lisdata.keep
   #echo $M $N
-  sed -i -r -e 's@^([^#$]{1,})$@  git add "\1" \&\& @g' lisdata.pack
+  sed -i -r -e 's@^([^#$]{1,})$@  git add "\1" \&\&@g' lisdata.pack
   cat <<EOF >> lisdata.pack
 git commit -a -m "PDF files fetched via wget --mirror on or before \$DATESTAMP" &&
 git push &&
@@ -45,7 +45,7 @@ EOF
   echo
   cat lisdata.pack
   echo "Size: ${SIZE}"
-  ./lisdata.pack || exit
+  bash lisdata.pack || exit
   echo
   echo "Sleeping for 3..."
   sleep 3
