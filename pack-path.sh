@@ -4,6 +4,7 @@ SIZELIMIT=10000
 diff --context=$(cat lisdata.current | wc -l) lisdata.{exclude,current} | grep '^+' | sed -r -e 's@^\+ @@g' > lisdata.keep
 Q=0
 while true; do
+  clear
   N=$(cat lisdata.keep | wc -l)
   M=$N
   PACKSIZE=1
@@ -30,16 +31,22 @@ EOF
   tail -n$N lisdata.keep > lisdata.remainder
   mv lisdata.remainder lisdata.keep
   #echo $M $N
-  sed -i -r -e 's@^([^#$]{1,})$@  git add "\1"@g' lisdata.pack
+  sed -i -r -e 's@^([^#$]{1,})$@  git add "\1" \&\& @g' lisdata.pack
   cat <<EOF >> lisdata.pack
-git commit -a -m "PDF files fetched via wget --mirror on or before \$DATESTAMP"
-git push
+git commit -a -m "PDF files fetched via wget --mirror on or before \$DATESTAMP" &&
+git push &&
+exit 0
+echo "Error in last batch:"
+cat lisdata.pack
+exit 1
 EOF
 
   chmod 755 lisdata.pack
+  echo
   cat lisdata.pack
   echo "Size: ${SIZE}"
-  bash lisdata.pack
+  ./lisdata.pack || exit
+  echo
   echo "Sleeping for 3..."
   sleep 3
   echo "Done sleeping."
