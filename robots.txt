@@ -1,0 +1,47 @@
+User-agent: *
+# system
+Disallow: /_derived/
+Disallow: /_fpclass/
+Disallow: /_overlay/
+Disallow: /_private/
+Disallow: /_themes/
+Disallow: /_vti_cnf/
+Disallow: /_vti_log/
+Disallow: /_vti_pvt/
+Disallow: /_vti_script/
+Disallow: /_vti_txt/
+Disallow: /aspnet_client/
+Disallow: /_vti_inf.html
+Disallow: /postinfo.html
+
+# user
+Disallow: /scripts_web/
+Disallow: /topnav.htm
+Disallow: /bottomnav.htm
+Disallow: /template.asp
+Disallow: /error.asp
+
+# manual remove for old index
+Disallow: /about/powers.htm
+Disallow: /about/powers2.htm
+Disallow: /about/powers3.htm
+Disallow: /bills_res/
+Disallow: /committee/sched.htm
+Disallow: /default.htm
+Disallow: /sitemap.htm
+Disallow: /committee/schedwk.htm
+Disallow: /index.html
+Disallow: /lis.htm
+# /photos.asp
+
+# 061227 removed for leg docs reorganization
+Disallow: /bills/
+Disallow: /committee_reports/
+Disallow: /conference_reports/
+Disallow: /journals/
+Disallow: /resolutions/
+Disallow: /spot_reports/
+
+# ..
+Disallow: /senpres/
+Disallow: /photogallery/
