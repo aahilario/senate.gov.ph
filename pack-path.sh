@@ -31,21 +31,17 @@ EOF
   tail -n$N lisdata.keep > lisdata.remainder
   mv lisdata.remainder lisdata.keep
   #echo $M $N
-  sed -i -r -e 's@^([^#$]{1,})$@  git add "\1" \&\&@g' lisdata.pack
+  sed -i -r -e 's@^([^#$]{1,})$@  git add "\1"@g' lisdata.pack
   cat <<EOF >> lisdata.pack
-git commit -a -m "PDF files fetched via wget --mirror on or before \$DATESTAMP" &&
-git push &&
-exit 0
-echo "Error in last batch:"
-cat lisdata.pack
-exit 1
+git commit -a -m "PDF files fetched via wget --mirror on or before \$DATESTAMP"
+git push
 EOF
 
   chmod 755 lisdata.pack
   echo
   cat lisdata.pack
   echo "Size: ${SIZE}"
-  bash lisdata.pack
+  bash ./lisdata.pack
   echo
   echo "Sleeping for 3..."
   sleep 3
@@ -53,7 +49,7 @@ EOF
   echo
 
   if [ $N -le 0 ]
-  then break
+    then break
   fi
   ((Q++))
 done
