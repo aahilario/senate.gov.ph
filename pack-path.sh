@@ -45,7 +45,7 @@ EOF
   echo
   cat lisdata.pack
   echo "Size: ${SIZE}"
-  bash lisdata.pack || exit
+  bash lisdata.pack
   echo
   echo "Sleeping for 3..."
   sleep 3
