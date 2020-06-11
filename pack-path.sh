@@ -2,6 +2,7 @@
 PACKLIMIT=10
 SIZELIMIT=10000
 diff --context=$(cat lisdata.current | wc -l) lisdata.{exclude,current} | grep '^+' | sed -r -e 's@^\+ @@g' > lisdata.keep
+[ ! -z $TEST ] && exit 0
 Q=0
 while true; do
   N=$(cat lisdata.keep | wc -l)
