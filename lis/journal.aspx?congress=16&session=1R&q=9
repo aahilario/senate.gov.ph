@@ -5,33 +5,33 @@
 <head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
 	16th Congress - Journal No. 9 - Senate of the Philippines
 </title>
-   <script type="text/javascript" language="javascript" src="/scripts_web/div.js"></script>
-   <link rel="stylesheet" type="text/css" href="/scripts_web/print.css" media="print" /><link rel="stylesheet" type="text/css" href="../scripts_web/lis.css" media="all" /><link rel="stylesheet" type="text/css" href="../scripts_web/xhtml.css" media="all" /><link rel="stylesheet" type="text/css" href="../scripts_web/xhtml_body.css" media="all" /></head>
+   <script type="text/javascript" language="javascript" src="http://senate.gov.ph/scripts_web/div.js"></script>
+   <link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/print.css" media="print" /><link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/lis.css" media="all" /><link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml.css" media="all" /><link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml_body.css" media="all" /></head>
 
 <body>
-   <div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="/images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
-<table><tr><td><a href="/">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
+   <div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="../images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
+<table><tr><td><a href="../index.html">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
 &nbsp;About&nbsp;</div><div id="nav_About" class="div_hidden" onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
-<div class="nav_dropdown"><p><a href="/about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="/about/history.asp">History of the Senate</a></p>
-<p><a href="/about/symbols%20of%20authority.asp">Symbols of Authority</a></p><p><a href="/about/legpro.asp">Legislative Process</a></p>
+<div class="nav_dropdown"><p><a href="../about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="../about/history.asp">History of the Senate</a></p>
+<p><a href="../about/symbols&#32;of&#32;authority.asp">Symbols of Authority</a></p><p><a href="../about/legpro.asp">Legislative Process</a></p>
 </div></div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
 &nbsp;Senators&nbsp;</div><div id="nav_Senators" class="div_hidden" onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
-<div class="nav_dropdown"><p><a href="/senators/sen18th.asp">18th Congress Senators</a></p><p><a href="/senators/senlist.asp">List of Previous Senators</a></p>
-<p><a href="/senators/roll.asp">Roll of Senate President</a></p><p><a href="/senators/composition.asp">Composition of the Senate</a></p><p><a href="/senators/terms.asp">Terms of Office and Privileges</a></p>
+<div class="nav_dropdown"><p><a href="../senators/sen18th.asp">18th Congress Senators</a></p><p><a href="../senators/senlist.asp">List of Previous Senators</a></p>
+<p><a href="../senators/roll.asp">Roll of Senate President</a></p><p><a href="../senators/composition.asp">Composition of the Senate</a></p><p><a href="../senators/terms.asp">Terms of Office and Privileges</a></p>
 </div></div></td><td>|</td><td>
 <div onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">&nbsp;Committees&nbsp;</div>
 <div id="nav_Committees" class="div_hidden" onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">
-<div class="nav_dropdown"><p><a href="/committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="/committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="/committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
-<p><a href="/committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="/committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="/notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="/committee/schedwk.asp">Committee Schedule</a></p></div>
+<div class="nav_dropdown"><p><a href="../committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="../committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="../committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
+<p><a href="../committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="../committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="../notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="../committee/schedwk.asp">Committee Schedule</a></p></div>
 </div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
 &nbsp;Secretariat&nbsp;</div><div id="nav_Secretariat" class="div_hidden" onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
-<div class="nav_dropdown"><p><a href="/secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="/secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="/secretariat/osec.asp">Office of the Secretary</a></p>
-<p><a href="/secretariat/leg.asp">Legislation</a></p><p><a href="/secretariat/admin.asp">Administration and Financial Services</a></p>
-<p><a href="/secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="/secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
+<div class="nav_dropdown"><p><a href="../secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="../secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="../secretariat/osec.asp">Office of the Secretary</a></p>
+<p><a href="../secretariat/leg.asp">Legislation</a></p><p><a href="../secretariat/admin.asp">Administration and Financial Services</a></p>
+<p><a href="../secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="../secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
 </div></div></td><td>| </td>
 
 
@@ -40,14 +40,14 @@
 &nbsp;Legislative Documents&nbsp;</div>
 <div id="nav_LegislativeDocuments" class="div_hidden" onmouseover="ShowDiv('nav_LegislativeDocuments');HideSelect();" onmouseout="HideDiv('nav_LegislativeDocuments');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="/lis/leg_sys.aspx?congress=18&type=bill">Bills</a></p>
-<p><a href="/lis/leg_sys.aspx?congress=18&type=resolution">Resolutions</a></p>
-<p><a href="/lis/leg_sys.aspx?congress=18&type=journal">Journals</a></p>
-<p><a href="/lis/leg_sys.aspx?congress=18&type=committee_rpt">Committee Reports</a></p>
-<p><a href="/lis/pdf_sys.aspx?congress=18&type=republic_act">Republic Acts</a></p>
-<p><a href="/lis/pdf_sys.aspx?congress=18&type=adopted_res">Adopted Resolutions</a></p>
-<p><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a></p>
-<p><a href="/statistical.pdf">Statistical Data</a></p>
+<p><a href="leg_sys.aspx?congress=18&amp;type=bill">Bills</a></p>
+<p><a href="leg_sys.aspx?congress=18&amp;type=resolution">Resolutions</a></p>
+<p><a href="leg_sys.aspx?congress=18&amp;type=journal">Journals</a></p>
+<p><a href="leg_sys.aspx?congress=18&amp;type=committee_rpt">Committee Reports</a></p>
+<p><a href="pdf_sys.aspx?congress=18&amp;type=republic_act">Republic Acts</a></p>
+<p><a href="pdf_sys.aspx?congress=18&amp;type=adopted_res">Adopted Resolutions</a></p>
+<p><a href="../18th_congress/treaties_18thcongress.asp">Treaties</a></p>
+<p><a href="../statistical.pdf">Statistical Data</a></p>
 </div>
 </div>
 </td>
@@ -58,13 +58,13 @@
 &nbsp;Publications&nbsp;</div>
 <div id="nav_publications" class="div_hidden" onmouseover="ShowDiv('nav_publications');HideSelect();" onmouseout="HideDiv('nav_publications');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="/publications/sepo_publications.asp">SEPO Publications</a></p>
-<p><a href="/publications/stsro_publications.asp">STSRO Publications</a></p>
-<p><a href="/publications/lbrmo_publications.asp">LBRMO Publications</a></p>
-<p><a href="/publications/ils_publications.asp">ILS Publications</a></p>
-<p><a href="/publications/lrs_publications.asp">LRS Publications</a></p>
-<p><a href="/publications/lls_publications.asp">LLS Publications</a></p>
-<p><a href="/publications/other_publications.asp">Other Publications</a></p>
+<p><a href="../publications/sepo_publications.asp">SEPO Publications</a></p>
+<p><a href="../publications/stsro_publications.asp">STSRO Publications</a></p>
+<p><a href="../publications/lbrmo_publications.asp">LBRMO Publications</a></p>
+<p><a href="../publications/ils_publications.asp">ILS Publications</a></p>
+<p><a href="../publications/lrs_publications.asp">LRS Publications</a></p>
+<p><a href="../publications/lls_publications.asp">LLS Publications</a></p>
+<p><a href="../publications/other_publications.asp">Other Publications</a></p>
 </div>
 </div>
 </td>
@@ -75,7 +75,7 @@
 &nbsp;GAD&nbsp;</div>
 <div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="/GAD/Bills&Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+<p><a href="../GAD/Bills&amp;Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
 </div>
 </div>
 </td>
@@ -97,7 +97,7 @@
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BE872B47" />
 </div>
             </form>
-            <hr /><div id="lis_download">Download <img src="/images/pdf1.gif" alt="PDF icon" /><ul><li><a href="/lisdata/1677814190!.pdf">Journal No. 9</a><br /><small>8/14/2013</small> <small>839.9KB</small></li>
+            <hr /><div id="lis_download">Download <img src="../images/pdf1.gif" alt="PDF icon" /><ul><li><a href="../lisdata/1677814190!.pdf">Journal No. 9</a><br /><small>8/14/2013</small> <small>839.9KB</small></li>
 </ul>
 </div>
 <p>Bill/resolution(s) on first reading<ul class="lis_ul"><li><a href="bill_res.aspx?congress=16&amp;q=SBN-651">SBN-651: Judicial Right to Know Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-652">SBN-652: Post-Harvest Facilities Support Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-653">SBN-653: Infant Mortality Initiative Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-654">SBN-654: National Registry of Diseases Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-655">SBN-655: National Capital Commission for Capital Relocation</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-656">SBN-656: Free Medicine for the Poor Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-657">SBN-657: Local Government Units (LGU) Solidarity Fund for Disaster Response and Recovery Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-658">SBN-658: Local Housing Board Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-659">SBN-659: Teaching of Intellectual Property Ownership</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-660">SBN-660: Airline Passenger Bill of Rights Act 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-661">SBN-661: Budget Impoundment Control Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-662">SBN-662: Scholarship Program for Poor But Deserving Students Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-663">SBN-663: Barangay and Sangguniang Kabataan Officials' Term of Office Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-664">SBN-664: Mariano Marcos Memorial Hospital Center (Mmmhmc)</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-665">SBN-665: Regional Housing One-Stop Shops</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-666">SBN-666: Human Organ and Tissue Donation and Transplant Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-667">SBN-667: Charter of the Aklan Airport Authority</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-668">SBN-668: National Railways Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-669">SBN-669: Traditional Property Rights of Indigenous Peoples Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-670">SBN-670: Health Maintenance Organization Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-671">SBN-671: Breastfeeding Promotion Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-672">SBN-672: Metallurgical Engineering Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-673">SBN-673: Magna Carta of Filipino Seafarers</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-674">SBN-674: Southern Palawan Special Economic Zone and Free Port Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-675">SBN-675: Billion Trees Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-676">SBN-676: Philippine Construction Industry Competitiveness Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-677">SBN-677: Laguna Lake Development Authority Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-678">SBN-678: Lpg Industry Safety Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-679">SBN-679: OWWA Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-680">SBN-680: Lake Lanao Development Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-681">SBN-681: Agriculture and Fisheries Extension Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-682">SBN-682: Inventors and Invention Incentives Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-683">SBN-683: Universally Accessible Cheaper and Quality Medicines Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-684">SBN-684: Environmental Impact Assessment Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-685">SBN-685: Street Children Crisis Center Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-686">SBN-686: Professionalization of Prison Management Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-687">SBN-687: Philippine Information Agency</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-688">SBN-688: Granting Civil Service Eligibility to Government Employees Rendered 7 Years in Service</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-689">SBN-689: Hazard Pay to Barangay Security Development Officers</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-690">SBN-690: Teaching of Human Rights in Public and Private Schools</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-691">SBN-691: Environmental Component of Loan Applications</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-692">SBN-692: Philippine Seaweed Development Authority Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-693">SBN-693: Productivity Incentives Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-694">SBN-694: Board of Claims Under the Doj for Victims of Unjust Imprisonment</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-695">SBN-695: Human Resources for Health Network Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-696">SBN-696: National Campus Press Freedom Day Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-697">SBN-697: Taal Volcano Protected Landscape Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-698">SBN-698: Philippine Pharmacy Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-699">SBN-699: Philippine Plumbing Engineering Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-700">SBN-700: Forensic Science Institute Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-701">SBN-701: Philippine Accountancy Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-702">SBN-702: Cordova Public Hospital</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-703">SBN-703: Compliance to the Writ of Habeas Corpus Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-704">SBN-704: Civil Engeering Law</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-705">SBN-705: Increasing Compensation to Php 3,000.00 for Victims of Injust Imprisonment</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-706">SBN-706: Civil Code</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-707">SBN-707: National Students' Day Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-708">SBN-708: Revised Penal Code (Amendments)</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-709">SBN-709: Education Trust Fund Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-710">SBN-710: New DepEd Retirement Age Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-711">SBN-711: Alis Tb Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-712">SBN-712: Expanded Senior Citizens Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-713">SBN-713: Teaching Supplies Allowance Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-714">SBN-714: Special Rice and Corn Insurance Program of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-715">SBN-715: National Grains Authority Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-716">SBN-716: National Internal Revenue Code (Amending Section 24(A)(2)</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-717">SBN-717: National Internal Revenue Code (Amending Section 109 (A)</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-718">SBN-718: The Taxpayer Bill of Rights Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-719">SBN-719: Motor Vehicle User's Charge Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-720">SBN-720: Motor Vehicle User's Charge Act  (Clean Energy Vehicles)</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-721">SBN-721: OWWA Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-722">SBN-722: Social Welfare and Development Agencies (Swdas) Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-723">SBN-723: Hepatitis C Epidemic Control and Prevention Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-724">SBN-724: Nanny Agency Licensure and Regulation Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-725">SBN-725: Microbicides Development Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-726">SBN-726: Anti-Injurious Animals Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-727">SBN-727: Family Resource Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-728">SBN-728: Education Initiatives Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-729">SBN-729: Consumer Disclosure and Rental Purchase Agreement Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-730">SBN-730: Prohibition Against Age Discrimination Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-731">SBN-731: Senior Citizens</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-732">SBN-732: Academic Honesty Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-733">SBN-733: Personal Private Security Guards</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-734">SBN-734: Secondary School Reform Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-735">SBN-735: Book City Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-736">SBN-736: Magna Carta for Public School Teachers</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-737">SBN-737: Lpg Industry Regulation and Safety Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-738">SBN-738: Anti-Sugar Smuggling Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-739">SBN-739: Bottom-To-Top Participatory Governance Through Non-Government Organizations</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-740">SBN-740: Farmers' and Fisherfolk Free Patent Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-741">SBN-741: Anti-Smuggling Act 0F 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-742">SBN-742: Debt Management Board Charter</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-743">SBN-743: National Transportation Safety Board Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-744">SBN-744: AFP Retirement and Disability Benefits Upgrade Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-745">SBN-745: Agriculture Technology Generation and Transfer Act of 2013</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-746">SBN-746: Labor Code (Amendments)</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-747">SBN-747: Realty Installment Buyer Protection Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-748">SBN-748: Tax Reform Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-749">SBN-749: Extended Deployment Pay Increase Act</a></li><li><a href="bill_res.aspx?congress=16&amp;q=SBN-750">SBN-750: Gang Prevention and Effective Deterrence Act of 2013</a></li></ul></p>
@@ -110,21 +110,21 @@ Legislative Documents
 
 <div class="sidepane_nav">
 	<ul>
-		<li><a href="/lis/leg_sys.aspx?congress=16&amp;type=bill">Bills</a>
+		<li><a href="leg_sys.aspx?congress=16&amp;type=bill">Bills</a>
 		</li>
-		<li><a href="/lis/leg_sys.aspx?congress=16&amp;type=resolution">Resolutions</a>
+		<li><a href="leg_sys.aspx?congress=16&amp;type=resolution">Resolutions</a>
 		</li>
-		<li><a href="/lis/leg_sys.aspx?congress=16&amp;type=journal">Journals</a>
+		<li><a href="leg_sys.aspx?congress=16&amp;type=journal">Journals</a>
 		</li>
-		<li><a href="/lis/leg_sys.aspx?congress=16&amp;type=committee_rpt">Committee Reports</a>
+		<li><a href="leg_sys.aspx?congress=16&amp;type=committee_rpt">Committee Reports</a>
 		</li>
-		<li><a href="/lis/pdf_sys.aspx?congress=16&amp;type=republic_act">Republic Acts</a>
+		<li><a href="pdf_sys.aspx?congress=16&amp;type=republic_act">Republic Acts</a>
 		</li>
-		<li><a href="/lis/pdf_sys.aspx?congress=16&amp;type=adopted_res">Adopted Resolutions</a>
+		<li><a href="pdf_sys.aspx?congress=16&amp;type=adopted_res">Adopted Resolutions</a>
 		</li>
-		<li><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a>
+		<li><a href="../18th_congress/treaties_18thcongress.asp">Treaties</a>
 		</li>
-		<li><a href="/statistical.pdf">Statistical Data</a>
+		<li><a href="../statistical.pdf">Statistical Data</a>
 		</li>
 	</ul>
 </div>
@@ -134,7 +134,7 @@ Note
 </div>
 
 <div class="sidepane_nav">
-If you prefer to use a more advanced search, please use the <a href="/lis.aspx">Legislative Information System</a>.
+If you prefer to use a more advanced search, please use the <a href="../lis.aspx">Legislative Information System</a>.
 </div>
          </td>
       </tr>
@@ -143,8 +143,8 @@ If you prefer to use a more advanced search, please use the <a href="/lis.aspx">
 	<td style="text-align: left; color: white; width: 381px;">© Senate of the Philippines. All rights reserved.</td>
 <td style="text-align: right">
 <a href="../job.pdf">Job Openings </a></a>| 
-<a href="/contact18thcongress.asp">Contact Info</a> | <a href="/rss.asp">RSS Feeds</a> <a href="/rss.asp">
-<img src="/images/feed10.png" alt="RSS icon" /></a> | <a href="/search.aspx">Search</a> | <a href="/sitemap.asp">Site Map</a></td></tr></table></div></div>
+<a href="../contact18thcongress.asp">Contact Info</a> | <a href="../rss.asp">RSS Feeds</a> <a href="../rss.asp">
+<img src="../images/feed10.png" alt="RSS icon" /></a> | <a href="../search.aspx">Search</a> | <a href="../sitemap.asp">Site Map</a></td></tr></table></div></div>
 
 
 </body>
