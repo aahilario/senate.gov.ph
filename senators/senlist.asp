@@ -4,10 +4,10 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>List of Previous Senators - Senate of the Philippines</title>
-<script type="text/javascript" language="javascript" src="/scripts_web/div.js"></script>
-<link rel="stylesheet" type="text/css" href="/scripts_web/print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="../scripts_web/xhtml.css" media="all" />
-<link rel="stylesheet" type="text/css" href="../scripts_web/xhtml_body.css" media="all" />
+<script type="text/javascript" language="javascript" src="http://senate.gov.ph/scripts_web/div.js"></script>
+<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml_body.css" media="all" />
 <style type="text/css">
 .style1 {
 	text-align: center;
@@ -17,29 +17,29 @@
 
 <body>
 
-<div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="/images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
-<table><tr><td><a href="/">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
+<div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="../images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
+<table><tr><td><a href="../index.html">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
 &nbsp;About&nbsp;</div><div id="nav_About" class="div_hidden" onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
-<div class="nav_dropdown"><p><a href="/about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="/about/history.asp">History of the Senate</a></p>
-<p><a href="/about/symbols%20of%20authority.asp">Symbols of Authority</a></p><p><a href="/about/legpro.asp">Legislative Process</a></p>
+<div class="nav_dropdown"><p><a href="../about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="../about/history.asp">History of the Senate</a></p>
+<p><a href="../about/symbols&#32;of&#32;authority.asp">Symbols of Authority</a></p><p><a href="../about/legpro.asp">Legislative Process</a></p>
 </div></div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
 &nbsp;Senators&nbsp;</div><div id="nav_Senators" class="div_hidden" onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
-<div class="nav_dropdown"><p><a href="/senators/sen18th.asp">18th Congress Senators</a></p><p><a href="/senators/senlist.asp">List of Previous Senators</a></p>
-<p><a href="/senators/roll.asp">Roll of Senate President</a></p><p><a href="/senators/composition.asp">Composition of the Senate</a></p><p><a href="/senators/terms.asp">Terms of Office and Privileges</a></p>
+<div class="nav_dropdown"><p><a href="sen18th.asp">18th Congress Senators</a></p><p><a href="senlist.asp">List of Previous Senators</a></p>
+<p><a href="roll.asp">Roll of Senate President</a></p><p><a href="composition.asp">Composition of the Senate</a></p><p><a href="terms.asp">Terms of Office and Privileges</a></p>
 </div></div></td><td>|</td><td>
 <div onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">&nbsp;Committees&nbsp;</div>
 <div id="nav_Committees" class="div_hidden" onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">
-<div class="nav_dropdown"><p><a href="/committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="/committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="/committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
-<p><a href="/committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="/committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="/notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="/committee/schedwk.asp">Committee Schedule</a></p></div>
+<div class="nav_dropdown"><p><a href="../committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="../committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="../committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
+<p><a href="../committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="../committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="../notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="../committee/schedwk.asp">Committee Schedule</a></p></div>
 </div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
 &nbsp;Secretariat&nbsp;</div><div id="nav_Secretariat" class="div_hidden" onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
-<div class="nav_dropdown"><p><a href="/secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="/secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="/secretariat/osec.asp">Office of the Secretary</a></p>
-<p><a href="/secretariat/leg.asp">Legislation</a></p><p><a href="/secretariat/admin.asp">Administration and Financial Services</a></p>
-<p><a href="/secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="/secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
+<div class="nav_dropdown"><p><a href="../secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="../secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="../secretariat/osec.asp">Office of the Secretary</a></p>
+<p><a href="../secretariat/leg.asp">Legislation</a></p><p><a href="../secretariat/admin.asp">Administration and Financial Services</a></p>
+<p><a href="../secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="../secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
 </div></div></td><td>| </td>
 
 
@@ -48,14 +48,14 @@
 &nbsp;Legislative Documents&nbsp;</div>
 <div id="nav_LegislativeDocuments" class="div_hidden" onmouseover="ShowDiv('nav_LegislativeDocuments');HideSelect();" onmouseout="HideDiv('nav_LegislativeDocuments');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="/lis/leg_sys.aspx?congress=18&type=bill">Bills</a></p>
-<p><a href="/lis/leg_sys.aspx?congress=18&type=resolution">Resolutions</a></p>
-<p><a href="/lis/leg_sys.aspx?congress=18&type=journal">Journals</a></p>
-<p><a href="/lis/leg_sys.aspx?congress=18&type=committee_rpt">Committee Reports</a></p>
-<p><a href="/lis/pdf_sys.aspx?congress=18&type=republic_act">Republic Acts</a></p>
-<p><a href="/lis/pdf_sys.aspx?congress=18&type=adopted_res">Adopted Resolutions</a></p>
-<p><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a></p>
-<p><a href="/statistical.pdf">Statistical Data</a></p>
+<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=bill">Bills</a></p>
+<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=resolution">Resolutions</a></p>
+<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=journal">Journals</a></p>
+<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=committee_rpt">Committee Reports</a></p>
+<p><a href="../lis/pdf_sys.aspx?congress=18&amp;type=republic_act">Republic Acts</a></p>
+<p><a href="../lis/pdf_sys.aspx?congress=18&amp;type=adopted_res">Adopted Resolutions</a></p>
+<p><a href="../18th_congress/treaties_18thcongress.asp">Treaties</a></p>
+<p><a href="../statistical.pdf">Statistical Data</a></p>
 </div>
 </div>
 </td>
@@ -66,13 +66,13 @@
 &nbsp;Publications&nbsp;</div>
 <div id="nav_publications" class="div_hidden" onmouseover="ShowDiv('nav_publications');HideSelect();" onmouseout="HideDiv('nav_publications');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="/publications/sepo_publications.asp">SEPO Publications</a></p>
-<p><a href="/publications/stsro_publications.asp">STSRO Publications</a></p>
-<p><a href="/publications/lbrmo_publications.asp">LBRMO Publications</a></p>
-<p><a href="/publications/ils_publications.asp">ILS Publications</a></p>
-<p><a href="/publications/lrs_publications.asp">LRS Publications</a></p>
-<p><a href="/publications/lls_publications.asp">LLS Publications</a></p>
-<p><a href="/publications/other_publications.asp">Other Publications</a></p>
+<p><a href="../publications/sepo_publications.asp">SEPO Publications</a></p>
+<p><a href="../publications/stsro_publications.asp">STSRO Publications</a></p>
+<p><a href="../publications/lbrmo_publications.asp">LBRMO Publications</a></p>
+<p><a href="../publications/ils_publications.asp">ILS Publications</a></p>
+<p><a href="../publications/lrs_publications.asp">LRS Publications</a></p>
+<p><a href="../publications/lls_publications.asp">LLS Publications</a></p>
+<p><a href="../publications/other_publications.asp">Other Publications</a></p>
 </div>
 </div>
 </td>
@@ -83,7 +83,7 @@
 &nbsp;GAD&nbsp;</div>
 <div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="/GAD/Bills&Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+<p><a href="../GAD/Bills&amp;Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
 </div>
 </div>
 </td>
@@ -96,33 +96,33 @@
 		<td id="content">
 		<p class="h1_bold">List of Previous Senators</p>
 		<div id="toc">
-			<p><a href="#fourth_leg">1916-1919 Fourth Legislature</a><br />
-			<a href="#fifth_leg">1919-1922 Fifth Legislature</a><br />
-			<a href="#sixth_leg">1922-1925 Sixth Legislature</a><br />
-			<a href="#seventh_leg">1925-1928 Seventh Legislature</a><br />
-			<a href="#eighth_leg">1928-1931 Eighth Legislature</a><br />
-			<a href="#ninth_leg">1931-1934 Ninth Legislature</a><br />
-			<a href="#tenth_leg">1934-1935 Tenth Legislature</a><br />
-			<a href="#Commonwealth">1942-1946 Commonwealth of the 
+			<p><a href="senlist.asp#fourth_leg">1916-1919 Fourth Legislature</a><br />
+			<a href="senlist.asp#fifth_leg">1919-1922 Fifth Legislature</a><br />
+			<a href="senlist.asp#sixth_leg">1922-1925 Sixth Legislature</a><br />
+			<a href="senlist.asp#seventh_leg">1925-1928 Seventh Legislature</a><br />
+			<a href="senlist.asp#eighth_leg">1928-1931 Eighth Legislature</a><br />
+			<a href="senlist.asp#ninth_leg">1931-1934 Ninth Legislature</a><br />
+			<a href="senlist.asp#tenth_leg">1934-1935 Tenth Legislature</a><br />
+			<a href="senlist.asp#Commonwealth">1942-1946 Commonwealth of the 
 			Philippines</a><br />
-			<a href="#first_congress">1946-1949 First Congress</a><br />
-			<a href="#second_congress">1950-1953 Second Congress</a><br />
-			<a href="#third_congress">1954-1957 Third Congress</a><br />
-			<a href="#fourth_congress">1958-1961 Fourth Congress</a><br />
-			<a href="#fifth_congress">1962-1965 Fifth Congress</a><br />
-			<a href="#sixth_congress">1966-1969 Sixth Congress</a><br />
-			<a href="#seventh_congress">1970-1973 Seventh Congress</a><br />
-			<a href="#eighth_congress">1987-1992 Eighth Congress</a><br />
-			<a href="#ninth_congress">1992-1995 Ninth Congress</a><br />
-			<a href="#tenth_congress">1995-1998 Tenth Congress</a><br />
-			<a href="#eleventh_congress">1998-2001 Eleventh Congress</a><br />
-			<a href="#twelfth_congress">2001-2004 Twelfth Congress</a><br />
-			<a href="#thirteenth_congress">2004-2007 Thirteenth Congress</a><br />
-			<a href="#fourteenth_congress">2007-2010 Fourteenth Congress</a><br />
-			<a href="#fifteenth_congress">2010-2013 Fifteenth Congress</a><br />
-			<a href="#sixteenth_congress">2013-2016 Sixteenth Congress</a>
+			<a href="senlist.asp#first_congress">1946-1949 First Congress</a><br />
+			<a href="senlist.asp#second_congress">1950-1953 Second Congress</a><br />
+			<a href="senlist.asp#third_congress">1954-1957 Third Congress</a><br />
+			<a href="senlist.asp#fourth_congress">1958-1961 Fourth Congress</a><br />
+			<a href="senlist.asp#fifth_congress">1962-1965 Fifth Congress</a><br />
+			<a href="senlist.asp#sixth_congress">1966-1969 Sixth Congress</a><br />
+			<a href="senlist.asp#seventh_congress">1970-1973 Seventh Congress</a><br />
+			<a href="senlist.asp#eighth_congress">1987-1992 Eighth Congress</a><br />
+			<a href="senlist.asp#ninth_congress">1992-1995 Ninth Congress</a><br />
+			<a href="senlist.asp#tenth_congress">1995-1998 Tenth Congress</a><br />
+			<a href="senlist.asp#eleventh_congress">1998-2001 Eleventh Congress</a><br />
+			<a href="senlist.asp#twelfth_congress">2001-2004 Twelfth Congress</a><br />
+			<a href="senlist.asp#thirteenth_congress">2004-2007 Thirteenth Congress</a><br />
+			<a href="senlist.asp#fourteenth_congress">2007-2010 Fourteenth Congress</a><br />
+			<a href="senlist.asp#fifteenth_congress">2010-2013 Fifteenth Congress</a><br />
+			<a href="senlist.asp#sixteenth_congress">2013-2016 Sixteenth Congress</a>
 			<br />
-			<a href="#sixteenth_congress">2016-2019 Seventeenth Congress</a>
+			<a href="senlist.asp#sixteenth_congress">2016-2019 Seventeenth Congress</a>
 			</p>
 		</div>
 		<hr />
@@ -241,8 +241,8 @@
 				<small>Seventh Senatorial District – Iloilo, Capiz 
 				and Romblon</small></td>
 			</tr>
-		</table>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+		</table>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p><hr />
 		<table width="100%">
 			<tr>
@@ -356,8 +356,8 @@
 				Antique, and Palawan</small></p>
 				</td>
 			</tr>
-		</table>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+		</table>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p><hr />
 		<table width="100%">
 			<tr>
@@ -478,8 +478,8 @@
 				commissioner to the United states in March, 1923.</em></small></p>
 				</td>
 			</tr>
-		</table>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+		</table>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p><hr />
 		<table width="100%">
 			<tr>
@@ -594,8 +594,8 @@
 				<sup>1</sup> Died Nov. 2, 1925<br /><sup>2</sup> Elected in a special 
 				election on March 23, 1926 to replace Sen. Lucero</em></small></p></td>
 			</tr>
-		</table>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+		</table>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p><hr />
 		<table width="100%">
 			<tr>
@@ -720,8 +720,8 @@
 				</small><sup>3</sup><small>
 				Francisco Zulueta was the Senator in 1929-31</em></small></p></td>
 			</tr>
-		</table>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+		</table>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p><hr />
 		<table width="100%">
 			<tr>
@@ -838,8 +838,8 @@
 				* Acting Senate President due to illness of Senate President Quezon</em></small></p>
 				</td>
 			</tr>
-		</table>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+		</table>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p><hr />
 		<table width="100%">
 			<tr>
@@ -959,8 +959,8 @@
 				Tempore due to death of Senator Clarin, 1935</em></small></p>
 				</td>
 			</tr>
-		</table>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+		</table>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p><hr />
 		<table width="100%">
 			<tr>
@@ -1026,8 +1026,8 @@
 				</sup></em>*<em><sup> </sup>Term up to November 1947, decided by lot</em></small></p>
 				</td>
 			</tr>
-		</table>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+		</table>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p><hr />
 		<table width="100%">
 			<tr>
@@ -1122,8 +1122,8 @@
 				21-December 13, 1949</em></small></p>
 				</td>
 			</tr>
-		</table>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+		</table>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p><hr />
 		<table width="100%">
 			<tr>
@@ -1230,8 +1230,8 @@
 				5 </small> </sup><small>Senate President, April 30 
 				- May 20, 1953</small></em></p></td>
 			</tr>
-		</table>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+		</table>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p><hr />
 		<table width="100%">
 			<tr>
@@ -1308,7 +1308,7 @@
 				Claro M. Recto</a><br />
 				<small>(<em>Elected in November 1955</em>)</small></p>
 				<p>
-				<a onclick="window.open(this.href,this.target,'scrollbars=yes,width=640,height=480');return false;" href="former_senators/francisco_soc_%20rodrigo.htm" target="_blank">
+				<a onclick="window.open(this.href,this.target,'scrollbars=yes,width=640,height=480');return false;" href="former_senators/francisco_soc_&#32;rodrigo.htm" target="_blank">
 				Francisco Soc Rodrigo</a><br />
 				<small>(<em>Elected in November 1955</em>)</small></p>
 				<p>
@@ -1328,8 +1328,8 @@
 				<p>Jose C. Zulueta</p>
 				</td>
 			</tr>
-		</table>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+		</table>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p><hr />
 		<table width="100%">
 			<tr>
@@ -1377,7 +1377,7 @@
 				<p><a onclick="window.open(this.href,this.target,'scrollbars=yes,width=640,height=480');return false;" href="former_senators/emmanuel_pelaez.htm" target="_blank">Emmanuel N. Pelaez</a></p>
 				<p><a onclick="window.open(this.href,this.target,'scrollbars=yes,width=640,height=480');return false;" href="former_senators/gil_puyat.htm" target="_blank">Gil J. Puyat</a></p>
 				<p><a onclick="window.open(this.href,this.target,'scrollbars=yes,width=640,height=480');return false;" href="former_senators/claro_recto.htm" target="_blank">Claro M. Recto</a></p>
-				<p><a onclick="window.open(this.href,this.target,'scrollbars=yes,width=640,height=480');return false;" href="former_senators/francisco_soc_%20rodrigo.htm" target="_blank">Francisco Soc Rodrigo</a></p>
+				<p><a onclick="window.open(this.href,this.target,'scrollbars=yes,width=640,height=480');return false;" href="former_senators/francisco_soc_&#32;rodrigo.htm" target="_blank">Francisco Soc Rodrigo</a></p>
 				<p><a onclick="window.open(this.href,this.target,'scrollbars=yes,width=640,height=480');return false;" href="former_senators/decoroso_rosales.htm" target="_blank">Decoroso Rosales</a></p>
 				<p><a onclick="window.open(this.href,this.target,'scrollbars=yes,width=640,height=480');return false;" href="former_senators/pedro_sabido.htm" target="_blank">Pedro Sabido</a></p>
 				<p><a onclick="window.open(this.href,this.target,'scrollbars=yes,width=640,height=480');return false;" href="former_senators/lorenzo_sumulong.htm" target="_blank">Lorenzo Sumulong</a></p>
@@ -1385,8 +1385,8 @@
 				<p><a onclick="window.open(this.href,this.target,'scrollbars=yes,width=640,height=480');return false;" href="former_senators/arturo_tolentino.htm" target="_blank">Arturo M. Tolentino</a></p>
 				</td>
 			</tr>
-		</table>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+		</table>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p><hr />
 		<table width="100%">
 			<tr>
@@ -1467,7 +1467,7 @@
 				<a onclick="window.open(this.href,this.target,'scrollbars=yes,width=640,height=480');return false;" href="former_senators/gil_puyat.htm" target="_blank">
 				Gil J. Puyat</a></p>
 				<p style="text-align: center">
-				<a onclick="window.open(this.href,this.target,'scrollbars=yes,width=640,height=480');return false;" href="former_senators/francisco_soc_%20rodrigo.htm" target="_blank">
+				<a onclick="window.open(this.href,this.target,'scrollbars=yes,width=640,height=480');return false;" href="former_senators/francisco_soc_&#32;rodrigo.htm" target="_blank">
 				Francisco Soc Rodrigo</a></p>
 				<p style="text-align: center">Eulogio Rodriguez<sup><em>1</em></sup></p>
 				<p style="text-align: center">
@@ -1484,8 +1484,8 @@
 				<em><sup>2 </sup>Majority Floor Leader, 1965</em></small></p>
 				</td>
 			</tr>
-		</table>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+		</table>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p><hr />
 		<table width="100%">
 			<tr>
@@ -1572,7 +1572,7 @@
 				<a onclick="window.open(this.href,this.target,'scrollbars=yes,width=640,height=480');return false;" href="former_senators/gil_puyat.htm" target="_blank">
 				Gil J. Puyat</a><sup><em>1</em></sup></p>
 				<p style="text-align: center">
-				<a onclick="window.open(this.href,this.target,'scrollbars=yes,width=640,height=480');return false;" href="former_senators/francisco_soc_%20rodrigo.htm" target="_blank">
+				<a onclick="window.open(this.href,this.target,'scrollbars=yes,width=640,height=480');return false;" href="former_senators/francisco_soc_&#32;rodrigo.htm" target="_blank">
 				Francisco Soc Rodrigo</a></p>
 				<p style="text-align: center">Gerardo M. Roxas </p>
 				<p style="text-align: center">
@@ -1584,8 +1584,8 @@
 				<p align="right"><small><em><sup>1 </sup>Senate President, 1968-69</em></small></p>
 				</td>
 			</tr>
-		</table>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+		</table>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p><hr />
 		<table width="100%">
 			<tr>
@@ -1682,8 +1682,8 @@
 				from presidential to parliamentary</em></small></p>
 				</td>
 			</tr>
-		</table>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+		</table>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p><hr />
 		<table width="100%">
 			<tr>
@@ -1820,8 +1820,8 @@
 				of Foreign Affairs in September 1987</em></small></p>
 				</td>
 			</tr>
-		</table>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+		</table>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p><hr />
 		<table width="100%">
 			<tr>
@@ -1931,8 +1931,8 @@
 				in June 1993</em></small></p>
 				</td>
 			</tr>
-		</table>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+		</table>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p><hr />
 		<table width="100%">
 			<tr>
@@ -2067,8 +2067,8 @@
 				<p><a onclick="window.open(this.href,this.target,'scrollbars=yes,width=640,height=480');return false;" href="former_senators/freddie_webb.htm" target="_blank">Freddie N. Webb</a></p>
 				</td>
 			</tr>
-		</table>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+		</table>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p><hr />
 		<table width="100%">
 			<tr>
@@ -2187,7 +2187,7 @@
 				</td>
 				<td width="50%" style="text-align: center" class="senatorlist">
 				<p><a onclick="window.open(this.href,this.target,'scrollbars=yes,width=640,height=480');return false;" href="former_senators/robert_jaworski.htm" target="_blank">Robert S. &quot;Jawo&quot; Jaworski</a></p>
-				<p><a href="sen_bio/legarda_loren_bio_old.asp">Loren Legarda</a></p>
+				<p><a href="http://senate.gov.ph/senators/sen_bio/legarda_loren_bio_old.asp">Loren Legarda</a></p>
 				<p><a href="sen_bio/magsaysay_bio.asp">Ramon B. Magsaysay, Jr.</a></p>
 				<p><a href="sen_bio/sosmena_bio.asp">Sergio R. Osmeña III</a></p>
 				<p><a onclick="window.open(this.href,this.target,'scrollbars=yes,width=640,height=480');return false;" href="former_senators/ramon_revilla.htm" target="_blank">Ramon B. Revilla</a></p>
@@ -2205,8 +2205,8 @@
 		<sup>*</sup>One seat vacated by Senator Gloria Macapagal Arroyo who was 
 		elected Vice-President in May 1998</em></small></p>
 		<p class="backtotop">
-		<img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+		<img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p>
 		<hr />
 		<table width="100%">
@@ -2248,7 +2248,7 @@
 						<table width="60%">
 							<tr>
 								<td style="text-align: center" width="50%" class="senatorlist">
-								<a href="sen_bio/legarda_loren_bio_old.asp">
+								<a href="http://senate.gov.ph/senators/sen_bio/legarda_loren_bio_old.asp">
 								Loren Legarda</a><br />
 								<small>(2001-2004)</small></td>
 								<td style="text-align: center" width="50%" class="senatorlist">
@@ -2314,8 +2314,8 @@
 				** deceased</em></small></p>
 				</td>
 			</tr>
-		</table>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+		</table>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p>
 		<hr />
 		<table width="100%">
@@ -2366,7 +2366,7 @@
 							<table width="60%">
 								<tr>
 									<td style="text-align: center; width: 100%;" width="50%" class="senatorlist">
-									<a href="sen_bio/pimenteljr_bio.asp">Aquilino Q. Pimentel, Jr.</a><br />
+									<a href="http://senate.gov.ph/senators/sen_bio/pimenteljr_bio.asp">Aquilino Q. Pimentel, Jr.</a><br />
 									<small>Minority Floor Leader</small> <br />
 									</td>
 								</tr>
@@ -2406,8 +2406,8 @@
 				</td>
 			</tr>
 		</table>						
-		<p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+		<p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p>
 		<hr />
 		<table width="100%">
@@ -2465,7 +2465,7 @@
 							<table width="60%">
 								<tr>
 									<td style="text-align: center; width: 100%;" width="50%" class="senatorlist">
-									<a href="sen_bio/pimenteljr_bio.asp">Aquilino Q. Pimentel, Jr.</a><br />
+									<a href="http://senate.gov.ph/senators/sen_bio/pimenteljr_bio.asp">Aquilino Q. Pimentel, Jr.</a><br />
 									<small>Minority Floor Leader</small> <br />
 									</td>
 								</tr>
@@ -2483,7 +2483,7 @@
 			<tr>
 				<td width="50%" style="text-align: center" class="senatorlist">
 				<p><a href="sen_bio/angara_bio.asp">Edgardo J. Angara</a></p>
-				<p><a href="sen_bio/aquino_bio.asp">Benigno S. Aquino III</a></p>
+				<p><a href="http://senate.gov.ph/senators/sen_bio/aquino_bio.asp">Benigno S. Aquino III</a></p>
 				<p><a href="sen_bio/arroyo_bio.asp">Joker P. Arroyo</a></p>
 				<p><a href="sen_bio/biazon_bio.asp">Rodolfo G. Biazon</a></p>
 				<p><a href="sen_bio/cayetano_alanpeter_resume.asp">Alan Peter Compañero S. Cayetano</a></p>
@@ -2496,15 +2496,15 @@
 				<p><a href="sen_bio/honasan_gregorio_bio.asp">Gregorio B. Honasan II</a></p>
 				<p><a href="sen_bio/lacson_bio.asp">Panfilo M. Lacson</a></p>
 				<p><a href="sen_bio/lapid_bio.asp">Manuel "Lito" M. Lapid</a></p>
-				<p><a href="sen_bio/legarda_loren_bio_old.asp">Loren B. Legarda</a></p>
+				<p><a href="http://senate.gov.ph/senators/sen_bio/legarda_loren_bio_old.asp">Loren B. Legarda</a></p>
 				<p><a href="sen_bio/madrigal_bio.asp">Jamby A.S. Madrigal</a></p>
 				<p><a href="sen_bio/revillajr_bio.asp">Ramon "Bong" Revilla, Jr.</a></p>
 				<p><a href="sen_bio/roxas_bio.asp">Mar A. Roxas</a></p>
 				<p><a href="sen_bio/trillanes_antonio_bio.asp">Antonio Fuentes Trillanes IV</a></p>
 				</td>
 			</tr>
-			</table>   <p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+			</table>   <p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p>
 			<hr />
 			<table width="100%">
@@ -2582,7 +2582,7 @@
 				
 				
 				
-				<p><a href="sen_bio/legarda_loren_bio_old.asp">Loren B. Legarda</a></p>
+				<p><a href="http://senate.gov.ph/senators/sen_bio/legarda_loren_bio_old.asp">Loren B. Legarda</a></p>
 				<p><a href="sen_bio/bmarcos_bio.asp">Ferdinand "Bongbong" R. Marcos, 
 				Jr.</a></p>
 				<p><a href="sen_bio/osmena_bio.asp">Sergio R. Osmeña III</a></p>
@@ -2603,8 +2603,8 @@
 
 
 				</td>
-				</table>   <p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+				</table>   <p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p>
 			<hr />
 
@@ -2686,7 +2686,7 @@
 				
 				
 				<p><a href="sen_bio/lapid_bio.asp">Manuel "Lito" M. Lapid</a></p>
-				<p><a href="sen_bio/legarda_loren_bio_old.asp">Loren B. Legarda</a></p>
+				<p><a href="http://senate.gov.ph/senators/sen_bio/legarda_loren_bio_old.asp">Loren B. Legarda</a></p>
 				<p><a href="sen_bio/bmarcos_bio.asp">Ferdinand "Bongbong" R. Marcos, 
 				Jr.</a></p>
 				<p><a href="sen_bio/osmena_bio.asp">Sergio R. Osmeña III</a></p>
@@ -2702,8 +2702,8 @@
 				duly-elected 12th winning senator in the 2007 elections</em></small></p>-->
 
 
-				</table>   <p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+				</table>   <p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p>
 			<hr />
 
@@ -2842,8 +2842,8 @@
 				duly-elected 12th winning senator in the 2007 elections</em></small></p>-->
 
 
-				</table>   <p class="backtotop"><img src="/images/backtotop.gif" /> 
-						<a href="#top">back to top</a>
+				</table>   <p class="backtotop"><img src="../images/backtotop.gif" /> 
+						<a href="senlist.asp#top">back to top</a>
 			      		</p>
 
 				
@@ -2854,15 +2854,15 @@ Senators
 
 <div class="sidepane_nav">
 	<ul>
-		<li><a href="/senators/sen18th.asp">18th Congress Senators</a>
+		<li><a href="sen18th.asp">18th Congress Senators</a>
 		</li>
-		<li><a href="/senators/senlist.asp">List of Previous Senators</a>
+		<li><a href="senlist.asp">List of Previous Senators</a>
 		</li>
-		<li><a href="/senators/roll.asp">Roll of Senate Presidents</a>
+		<li><a href="roll.asp">Roll of Senate Presidents</a>
 		</li>
-		<li><a href="/senators/composition.asp">Composition of the Senate</a>
+		<li><a href="composition.asp">Composition of the Senate</a>
 		</li>
-		<li><a href="/senators/terms.asp">Term of Office and Privileges</a>
+		<li><a href="terms.asp">Term of Office and Privileges</a>
 		</li>
 	</ul>
 </div>
@@ -2873,8 +2873,8 @@ Senators
 	<td style="text-align: left; color: white; width: 381px;">© Senate of the Philippines. All rights reserved.</td>
 <td style="text-align: right">
 <a href="../job.pdf">Job Openings </a></a>| 
-<a href="/contact18thcongress.asp">Contact Info</a> | <a href="/rss.asp">RSS Feeds</a> <a href="/rss.asp">
-<img src="/images/feed10.png" alt="RSS icon" /></a> | <a href="/search.aspx">Search</a> | <a href="/sitemap.asp">Site Map</a></td></tr></table></div></div>
+<a href="../contact18thcongress.asp">Contact Info</a> | <a href="../rss.asp">RSS Feeds</a> <a href="../rss.asp">
+<img src="../images/feed10.png" alt="RSS icon" /></a> | <a href="../search.aspx">Search</a> | <a href="../sitemap.asp">Site Map</a></td></tr></table></div></div>
 
 
 
