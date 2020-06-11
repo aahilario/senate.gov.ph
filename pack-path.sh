@@ -13,7 +13,7 @@ while true; do
     P=$PACKSIZE
     [ $N -lt $PACKSIZE ] && P=$N 
     head -n$P lisdata.keep > lisdata.pack.tmp
-    SIZE=$(du -c $(cat lisdata.pack.tmp) | tail -n1 | sed -r -e 's@^([0-9]{1,}).*@\1@g')
+    SIZE=$(cat lisdata.pack.tmp | tr '\n' '\0' | du -c --files0-from=- | tail -n1 | sed -r -e 's@^([0-9]{1,}).*@\1@g')
     if [ $SIZE -gt $SIZELIMIT ]; then
       break
     fi
