@@ -4,36 +4,36 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>History of the Senate - Senate of the Philippines</title>
-<script type="text/javascript" language="javascript" src="http://senate.gov.ph/scripts_web/div.js"></script>
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml.css" media="all" />
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml_body.css" media="all" />
+<script type="text/javascript" language="javascript" src="/scripts_web/div.js"></script>
+<link rel="stylesheet" type="text/css" href="/scripts_web/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="../scripts_web/xhtml.css" media="all" />
+<link rel="stylesheet" type="text/css" href="../scripts_web/xhtml_body.css" media="all" />
 </head>
 
 <body>
-   <div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="../images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
-<table><tr><td><a href="../index.html">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
+   <div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="/images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
+<table><tr><td><a href="/">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
 &nbsp;About&nbsp;</div><div id="nav_About" class="div_hidden" onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
-<div class="nav_dropdown"><p><a href="rulesmenu.asp">Rules of the Senate</a></p><p><a href="history.asp">History of the Senate</a></p>
-<p><a href="symbols&#32;of&#32;authority.asp">Symbols of Authority</a></p><p><a href="legpro.asp">Legislative Process</a></p>
+<div class="nav_dropdown"><p><a href="/about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="/about/history.asp">History of the Senate</a></p>
+<p><a href="/about/symbols%20of%20authority.asp">Symbols of Authority</a></p><p><a href="/about/legpro.asp">Legislative Process</a></p>
 </div></div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
 &nbsp;Senators&nbsp;</div><div id="nav_Senators" class="div_hidden" onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../senators/sen18th.asp">18th Congress Senators</a></p><p><a href="../senators/senlist.asp">List of Previous Senators</a></p>
-<p><a href="../senators/roll.asp">Roll of Senate President</a></p><p><a href="../senators/composition.asp">Composition of the Senate</a></p><p><a href="../senators/terms.asp">Terms of Office and Privileges</a></p>
+<div class="nav_dropdown"><p><a href="/senators/sen18th.asp">18th Congress Senators</a></p><p><a href="/senators/senlist.asp">List of Previous Senators</a></p>
+<p><a href="/senators/roll.asp">Roll of Senate President</a></p><p><a href="/senators/composition.asp">Composition of the Senate</a></p><p><a href="/senators/terms.asp">Terms of Office and Privileges</a></p>
 </div></div></td><td>|</td><td>
 <div onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">&nbsp;Committees&nbsp;</div>
 <div id="nav_Committees" class="div_hidden" onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
-<p><a href="../committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="../committee/schedwk.asp">Committee Schedule</a></p></div>
+<div class="nav_dropdown"><p><a href="/committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
+<p><a href="/committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="/committee/schedwk.asp">Committee Schedule</a></p></div>
 </div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
 &nbsp;Secretariat&nbsp;</div><div id="nav_Secretariat" class="div_hidden" onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="../secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="../secretariat/osec.asp">Office of the Secretary</a></p>
-<p><a href="../secretariat/leg.asp">Legislation</a></p><p><a href="../secretariat/admin.asp">Administration and Financial Services</a></p>
-<p><a href="../secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="../secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
+<div class="nav_dropdown"><p><a href="/secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="/secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="/secretariat/osec.asp">Office of the Secretary</a></p>
+<p><a href="/secretariat/leg.asp">Legislation</a></p><p><a href="/secretariat/admin.asp">Administration and Financial Services</a></p>
+<p><a href="/secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="/secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
 </div></div></td><td>| </td>
 
 
@@ -42,14 +42,14 @@
 &nbsp;Legislative Documents&nbsp;</div>
 <div id="nav_LegislativeDocuments" class="div_hidden" onmouseover="ShowDiv('nav_LegislativeDocuments');HideSelect();" onmouseout="HideDiv('nav_LegislativeDocuments');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=bill">Bills</a></p>
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=resolution">Resolutions</a></p>
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=journal">Journals</a></p>
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=committee_rpt">Committee Reports</a></p>
-<p><a href="../lis/pdf_sys.aspx?congress=18&amp;type=republic_act">Republic Acts</a></p>
-<p><a href="../lis/pdf_sys.aspx?congress=18&amp;type=adopted_res">Adopted Resolutions</a></p>
-<p><a href="../18th_congress/treaties_18thcongress.asp">Treaties</a></p>
-<p><a href="../statistical.pdf">Statistical Data</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=bill">Bills</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=resolution">Resolutions</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=journal">Journals</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=committee_rpt">Committee Reports</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=republic_act">Republic Acts</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=adopted_res">Adopted Resolutions</a></p>
+<p><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a></p>
+<p><a href="/statistical.pdf">Statistical Data</a></p>
 </div>
 </div>
 </td>
@@ -60,13 +60,13 @@
 &nbsp;Publications&nbsp;</div>
 <div id="nav_publications" class="div_hidden" onmouseover="ShowDiv('nav_publications');HideSelect();" onmouseout="HideDiv('nav_publications');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../publications/sepo_publications.asp">SEPO Publications</a></p>
-<p><a href="../publications/stsro_publications.asp">STSRO Publications</a></p>
-<p><a href="../publications/lbrmo_publications.asp">LBRMO Publications</a></p>
-<p><a href="../publications/ils_publications.asp">ILS Publications</a></p>
-<p><a href="../publications/lrs_publications.asp">LRS Publications</a></p>
-<p><a href="../publications/lls_publications.asp">LLS Publications</a></p>
-<p><a href="../publications/other_publications.asp">Other Publications</a></p>
+<p><a href="/publications/sepo_publications.asp">SEPO Publications</a></p>
+<p><a href="/publications/stsro_publications.asp">STSRO Publications</a></p>
+<p><a href="/publications/lbrmo_publications.asp">LBRMO Publications</a></p>
+<p><a href="/publications/ils_publications.asp">ILS Publications</a></p>
+<p><a href="/publications/lrs_publications.asp">LRS Publications</a></p>
+<p><a href="/publications/lls_publications.asp">LLS Publications</a></p>
+<p><a href="/publications/other_publications.asp">Other Publications</a></p>
 </div>
 </div>
 </td>
@@ -77,7 +77,7 @@
 &nbsp;GAD&nbsp;</div>
 <div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../GAD/Bills&amp;Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+<p><a href="/GAD/Bills&Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
 </div>
 </div>
 </td>
@@ -93,23 +93,23 @@
 							
 							<div id="toc">
 								<p>
-								<a href="history.asp#Introduction">
+								<a href="#Introduction">
 								Introduction</a><br />
-								<a href="history.asp#The_Spanish_Period_(1521-1898)">
+								<a href="#The_Spanish_Period_(1521-1898)">
 								The Spanish Period (1521-1898)</a><br />
-								<a href="history.asp#The_Malolos_Congress_(1898-1900)">
+								<a href="#The_Malolos_Congress_(1898-1900)">
 								The Malolos Congress (1898-1900)</a><br />
-								<a href="history.asp#Philippine_Commission_(1900-1916)">
+								<a href="#Philippine_Commission_(1900-1916)">
 								Philippine Commission (1900-1916)</a><br />
-								<a href="history.asp#Philippine_Assembly_(1907-1916)">
+								<a href="#Philippine_Assembly_(1907-1916)">
 								Philippine Assembly (1907-1916)</a><br />
-								<a href="history.asp#Philippine_Legislature_(1916-1935)">
+								<a href="#Philippine_Legislature_(1916-1935)">
 								Philippine Legislature (1916-1935)</a><br />
-								<a href="history.asp#Commonwealth_Congress_(1935-1946)_">
+								<a href="#Commonwealth_Congress_(1935-1946)_">
 								Commonwealth Congress (1935-1946)</a><br />
-								<a href="history.asp#Congress_of_the_Philippines_(1946-1972)">
+								<a href="#Congress_of_the_Philippines_(1946-1972)">
 								Congress of the Philippines (1946-1972)</a><br />
-								<a href="history.asp#Present_Congress_of_the_Philippines">
+								<a href="#Present_Congress_of_the_Philippines">
 								Present Congress of the Philippines</a>
 								</p>
 							</div>
@@ -158,8 +158,8 @@
 							of February 22-25, 1986, brought forth a new regime and restored the 
 							bicameral congress which is the present set-up of the Philippine 
 							Legislature.</p>
-							<u1:p>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="history.asp#top">back to top</a>
+							<u1:p>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr /><p align="justify" class="h3_uline">
 												
 												<a name="The_Spanish_Period_(1521-1898)"></a>
@@ -185,8 +185,8 @@
 									governor-general, exercising unbounded powers, also stood as 
 									president and member of other bodies which were supposed to 
 									advise him. Filipino representation was also largely absent 
-									in the legislative bodies.</p>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="history.asp#top">back to top</a>
+									in the legislative bodies.</p>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr /><p align="justify" class="h3_uline">
 												<a name="The_Malolos_Congress_(1898-1900)"></a>
 												The Malolos Congress (1898-1900)</p>
@@ -263,8 +263,8 @@
 									<p align="justify" style="text-indent: 25px">
 									With the outbreak of the Philippine-American War in 
 									February, 1899, the Assembly’s activities were hampered by 
-									the emergency situation.</p>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="history.asp#top">back to top</a>
+									the emergency situation.</p>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr /><p align="justify" class="h3_uline">
 									<a name="Philippine_Commission_(1900-1916)"></a>Philippine 
 							Commission (1900-1916)</p>
@@ -327,8 +327,8 @@
 									such as those establishing the country’s civil service 
 									system and judicial network, organizing the Philippine 
 									Constabulary and the police and creating the insular bureaus 
-									and offices, municipal and provincial governments.</p>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="history.asp#top">back to top</a>
+									and offices, municipal and provincial governments.</p>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 			      		
 			      		<p align="justify" class="h3_uline">
@@ -360,8 +360,8 @@
 									1916, consisting of the Senate and the House of 
 									Representatives was established. Thus, the history of 
 									Philippine Senate can be traced in relative term from the 
-									time the Americans colonized our country. </p>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="history.asp#top">back to top</a>
+									time the Americans colonized our country. </p>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr /><p align="justify" class="h3_uline"><a name="Philippine_Legislature_(1916-1935)"></a>
 												Philippine Legislature (1916-1935)</p>
 									<img border="0" src="images/intramuros.jpg" align="right" hspace="10" vspace="5" style="float: right" width="232" height="247" />
@@ -444,8 +444,8 @@
 									<p align="justify" style="text-indent: 25px">
 									On May 1, 1934, it accepted 
 									the Tydings-McDuffie Law, which authorized the framing of 
-									the Philippine Constitution.</p>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="history.asp#top">back to top</a>
+									the Philippine Constitution.</p>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr /><p align="justify" class="h3_uline">
 									<a name="Commonwealth_Congress_(1935-1946)_"></a>
 									Commonwealth Congress (1935-1946)</p>
@@ -490,8 +490,8 @@
 									On January 4, 1946, the Congress met again in a special 
 									session to discuss the first postwar general elections. 
 									Three months later—on April 23, 1946—that law-making body 
-									gave way to the First Congress of the Third Republic.</p>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="history.asp#top">back to top</a>
+									gave way to the First Congress of the Third Republic.</p>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr /><p align="justify" class="h3_uline">
 												<a name="Congress_of_the_Philippines_(1946-1972)"></a>
 												Congress of the Philippines (1946-1972)</p>
@@ -582,8 +582,8 @@
 									Senator Arturo Tolentino of Manila took over from Marcos in 
 									1966. In the 7th Congress, fellow NP Senator Gil J. Puyat of 
 									Pampanga and Manila assumed the Senate helm until it was 
-									abolished in early 1973.</p>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="history.asp#top">back to top</a>
+									abolished in early 1973.</p>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr /><p align="justify" class="h3_uline">
 									<a name="Present_Congress_of_the_Philippines"></a>Present 
 							Congress of the Philippines</p>
@@ -661,8 +661,8 @@
 									Villar, July 2006 to November 2008; Juan Ponce Enrile, 
 									November 2008 to June 2013; Franklin M. 
 									Drilon, July 2013 to July 2016; Aquilino "Koko" L. Pimentel IV, July 2016 to May 2018; and Vicente C. Sotto III, May 2018 to present.  </o:p>
-					</p>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="history.asp#top">back to top</a>
+					</p>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr /><p align="justify">
 												<font face="Arial" size="1"><i>Source: Pastrana 
 												and Raval, Essentials and Dynamics of the 
@@ -681,13 +681,13 @@ About
 		<!--<li><a href="/about/rulesmenu.asp">Rules of the Senate</a>
 		</li>-->
 		<li>
-		<a href="Rules&#32;of&#32;the&#32;Senate.pdf">Rules of the Senate</a>
+		<a href="/about/RULES%20OF%20THE%20SENATE-JULY%202020(EDP%20FINAL)%20.pdf">Rules of the Senate</a>
 		</li>
-		<li><a href="history.asp">History of the Senate</a>
+		<li><a href="/about/history.asp">History of the Senate</a>
 		</li>
-		<li><a href="symbols&#32;of&#32;authority.asp">Symbols of Authority</a>
+		<li><a href="/about/symbols%20of%20authority.asp">Symbols of Authority</a>
 		</li>
-		<li><a href="legpro.asp">Legislative Process</a>
+		<li><a href="/about/legpro.asp">Legislative Process</a>
 		</li>
 	</ul>
 </div>
@@ -700,8 +700,8 @@ About
 	<td style="text-align: left; color: white; width: 381px;">© Senate of the Philippines. All rights reserved.</td>
 <td style="text-align: right">
 <a href="../job.pdf">Job Openings </a></a>| 
-<a href="../contact18thcongress.asp">Contact Info</a> | <a href="../rss.asp">RSS Feeds</a> <a href="../rss.asp">
-<img src="../images/feed10.png" alt="RSS icon" /></a> | <a href="../search.aspx">Search</a> | <a href="../sitemap.asp">Site Map</a></td></tr></table></div></div>
+<a href="/contact18thcongress.asp">Contact Info</a> | <a href="/rss.asp">RSS Feeds</a> <a href="/rss.asp">
+<img src="/images/feed10.png" alt="RSS icon" /></a> | <a href="/search.aspx">Search</a> | <a href="/sitemap.asp">Site Map</a></td></tr></table></div></div>
 
 
 </body>

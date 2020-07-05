@@ -4,11 +4,11 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Request for Quotation - Senate of the Philippines</title>
-<script type="text/javascript" language="javascript" src="http://senate.gov.ph/scripts_web/div.js"></script>
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml.css" media="all" />
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml_body.css" media="all" />
-<script type="text/javascript" language="javascript" src="http://senate.gov.ph/scripts_web/expcollapse.js"></script>
+<script type="text/javascript" language="javascript" src="/scripts_web/div.js"></script>
+<link rel="stylesheet" type="text/css" href="/scripts_web/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="scripts_web/xhtml.css" media="all" />
+<link rel="stylesheet" type="text/css" href="scripts_web/xhtml_body.css" media="all" />
+<script type="text/javascript" language="javascript" src="/scripts_web/expcollapse.js"></script>
 <style type="text/css">
 .pubitem {
 	margin-left: 35px;
@@ -31,7 +31,7 @@
 	padding-bottom: 8px;
 }
 #h_PS, #h_LR, #h_EL, {
-	background-image: url('images/expand.gif');
+	background-image: url('../images/expand.gif');
 	background-repeat: no-repeat;
 	margin-left: 35px;
 	padding-left: 15px;
@@ -64,29 +64,29 @@ function SetArray()
 
 <body onload="HideAll()">
 
-<div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
-<table><tr><td><a href="index.html">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
+<div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="/images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
+<table><tr><td><a href="/">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
 &nbsp;About&nbsp;</div><div id="nav_About" class="div_hidden" onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
-<div class="nav_dropdown"><p><a href="about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="about/history.asp">History of the Senate</a></p>
-<p><a href="about/symbols&#32;of&#32;authority.asp">Symbols of Authority</a></p><p><a href="about/legpro.asp">Legislative Process</a></p>
+<div class="nav_dropdown"><p><a href="/about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="/about/history.asp">History of the Senate</a></p>
+<p><a href="/about/symbols%20of%20authority.asp">Symbols of Authority</a></p><p><a href="/about/legpro.asp">Legislative Process</a></p>
 </div></div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
 &nbsp;Senators&nbsp;</div><div id="nav_Senators" class="div_hidden" onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
-<div class="nav_dropdown"><p><a href="senators/sen18th.asp">18th Congress Senators</a></p><p><a href="senators/senlist.asp">List of Previous Senators</a></p>
-<p><a href="senators/roll.asp">Roll of Senate President</a></p><p><a href="senators/composition.asp">Composition of the Senate</a></p><p><a href="senators/terms.asp">Terms of Office and Privileges</a></p>
+<div class="nav_dropdown"><p><a href="/senators/sen18th.asp">18th Congress Senators</a></p><p><a href="/senators/senlist.asp">List of Previous Senators</a></p>
+<p><a href="/senators/roll.asp">Roll of Senate President</a></p><p><a href="/senators/composition.asp">Composition of the Senate</a></p><p><a href="/senators/terms.asp">Terms of Office and Privileges</a></p>
 </div></div></td><td>|</td><td>
 <div onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">&nbsp;Committees&nbsp;</div>
 <div id="nav_Committees" class="div_hidden" onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">
-<div class="nav_dropdown"><p><a href="committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
-<p><a href="committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="committee/schedwk.asp">Committee Schedule</a></p></div>
+<div class="nav_dropdown"><p><a href="/committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
+<p><a href="/committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="/committee/schedwk.asp">Committee Schedule</a></p></div>
 </div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
 &nbsp;Secretariat&nbsp;</div><div id="nav_Secretariat" class="div_hidden" onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
-<div class="nav_dropdown"><p><a href="secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="secretariat/osec.asp">Office of the Secretary</a></p>
-<p><a href="secretariat/leg.asp">Legislation</a></p><p><a href="secretariat/admin.asp">Administration and Financial Services</a></p>
-<p><a href="secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
+<div class="nav_dropdown"><p><a href="/secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="/secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="/secretariat/osec.asp">Office of the Secretary</a></p>
+<p><a href="/secretariat/leg.asp">Legislation</a></p><p><a href="/secretariat/admin.asp">Administration and Financial Services</a></p>
+<p><a href="/secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="/secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
 </div></div></td><td>| </td>
 
 
@@ -95,14 +95,14 @@ function SetArray()
 &nbsp;Legislative Documents&nbsp;</div>
 <div id="nav_LegislativeDocuments" class="div_hidden" onmouseover="ShowDiv('nav_LegislativeDocuments');HideSelect();" onmouseout="HideDiv('nav_LegislativeDocuments');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="lis/leg_sys.aspx?congress=18&amp;type=bill">Bills</a></p>
-<p><a href="lis/leg_sys.aspx?congress=18&amp;type=resolution">Resolutions</a></p>
-<p><a href="lis/leg_sys.aspx?congress=18&amp;type=journal">Journals</a></p>
-<p><a href="lis/leg_sys.aspx?congress=18&amp;type=committee_rpt">Committee Reports</a></p>
-<p><a href="lis/pdf_sys.aspx?congress=18&amp;type=republic_act">Republic Acts</a></p>
-<p><a href="lis/pdf_sys.aspx?congress=18&amp;type=adopted_res">Adopted Resolutions</a></p>
-<p><a href="18th_congress/treaties_18thcongress.asp">Treaties</a></p>
-<p><a href="statistical.pdf">Statistical Data</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=bill">Bills</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=resolution">Resolutions</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=journal">Journals</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=committee_rpt">Committee Reports</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=republic_act">Republic Acts</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=adopted_res">Adopted Resolutions</a></p>
+<p><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a></p>
+<p><a href="/statistical.pdf">Statistical Data</a></p>
 </div>
 </div>
 </td>
@@ -113,13 +113,13 @@ function SetArray()
 &nbsp;Publications&nbsp;</div>
 <div id="nav_publications" class="div_hidden" onmouseover="ShowDiv('nav_publications');HideSelect();" onmouseout="HideDiv('nav_publications');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="publications/sepo_publications.asp">SEPO Publications</a></p>
-<p><a href="publications/stsro_publications.asp">STSRO Publications</a></p>
-<p><a href="publications/lbrmo_publications.asp">LBRMO Publications</a></p>
-<p><a href="publications/ils_publications.asp">ILS Publications</a></p>
-<p><a href="publications/lrs_publications.asp">LRS Publications</a></p>
-<p><a href="publications/lls_publications.asp">LLS Publications</a></p>
-<p><a href="publications/other_publications.asp">Other Publications</a></p>
+<p><a href="/publications/sepo_publications.asp">SEPO Publications</a></p>
+<p><a href="/publications/stsro_publications.asp">STSRO Publications</a></p>
+<p><a href="/publications/lbrmo_publications.asp">LBRMO Publications</a></p>
+<p><a href="/publications/ils_publications.asp">ILS Publications</a></p>
+<p><a href="/publications/lrs_publications.asp">LRS Publications</a></p>
+<p><a href="/publications/lls_publications.asp">LLS Publications</a></p>
+<p><a href="/publications/other_publications.asp">Other Publications</a></p>
 </div>
 </div>
 </td>
@@ -130,7 +130,7 @@ function SetArray()
 &nbsp;GAD&nbsp;</div>
 <div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="GAD/Bills&amp;Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+<p><a href="/GAD/Bills&Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
 </div>
 </div>
 </td>
@@ -312,25 +312,36 @@ function SetArray()
 
 		
 		</div>-->
+		<p class="h3_uline">June 16, 2020</p>
+				<div class="pubitem"><div class="alight">
+				<ul>
+				<li>
+					
+					<a href="property_r4q/RFQ-20-06-001.pdf">
+					<span>PR-20-05-158 - UTP Cable CAT5E</span></a>
+				</li>
+																			
+		</div></div>
+		
 		<p class="h3_uline">December 11, 2019</p>
 				<div class="pubitem"><div class="alight">
 				<ul>
 				<li>
 					
-					<a href="property_r4q/PR-19-11-783&#32;-&#32;PABX&#32;system.pdf">
+					<a href="property_r4q/PR-19-11-783%20-%20PABX%20system.pdf">
 					<span>PR-19-11-783 - PABX system</span></a>
 				</li>
 				
 
 																							
 		</div></div>
-		
+
 		<p class="h3_uline">November 20, 2019</p>
 				<div class="pubitem"><div class="alight">
 				<ul>
 				<li>
 					
-					<a href="property_r4q/PR-19-09-681&#32;-&#32;PM&#32;of&#32;FM-200.pdf">
+					<a href="property_r4q/PR-19-09-681%20-%20PM%20of%20FM-200.pdf">
 					<span>PR-19-09-681 - preventive maintenance of FM-200 fire extinguishing system</span></a>
 				</li>
 				
@@ -343,17 +354,17 @@ function SetArray()
 				<ul>
 				<li>
 					
-					<a href="property_r4q/PR-19-10-802&#32;-&#32;refrigerant&#32;R22.pdf">
+					<a href="property_r4q/PR-19-10-802%20-%20refrigerant%20R22.pdf">
 					<span>PR-19-10-802 - refrigerant R22</span></a>
 				</li>
 				<li>
 					
-					<a href="property_r4q/PR-19-&#32;09-678-&#32;ladder.pdf">
+					<a href="property_r4q/PR-19-%2009-678-%20ladder.pdf">
 					<span>PR-19- 09-678- ladder</span></a>
 				</li>
 				<li>
 					
-					<a href="property_r4q/PR-19-10-799&#32;-&#32;refrigerator.pdf">
+					<a href="property_r4q/PR-19-10-799%20-%20refrigerator.pdf">
 					<span>PR-19-10-799 - refrigerator</span></a>
 				</li>
 
@@ -366,12 +377,12 @@ function SetArray()
 				<ul>
 				<li>
 					
-					<a href="property_r4q/PR-19-09-745&#32;-&#32;electric&#32;dryer.pdf">
+					<a href="property_r4q/PR-19-09-745%20-%20electric%20dryer.pdf">
 					<span>PR-19-09-745 - electric dryer</span></a>
 				</li>
 				<li>
 					
-					<a href="property_r4q/PR-19-09-735&#32;-&#32;document&#32;scanner.pdf">
+					<a href="property_r4q/PR-19-09-735%20-%20document%20scanner.pdf">
 					<span>PR-19-09-735 - document scanner</span></a>
 				</li>
 
@@ -382,7 +393,7 @@ function SetArray()
 				<ul>
 				<li>
 					
-					<a href="property_r4q/PR-19-09-686&#32;-&#32;automatic&#32;voltage&#32;regulator.pdf">
+					<a href="property_r4q/PR-19-09-686%20-%20automatic%20voltage%20regulator.pdf">
 					<span>PR-19-09-686 - automatic voltage regulator (AVR)</span></a>
 				</li>
 																							
@@ -393,7 +404,7 @@ function SetArray()
 				<ul>
 				<li>
 					
-					<a href="property_r4q/PR&#32;19-09-678&#32;-&#32;aluminum&#32;ladder.pdf">
+					<a href="property_r4q/PR%2019-09-678%20-%20aluminum%20ladder.pdf">
 					<span>PR-19-09-678 - aluminum ladder</span></a>
 				</li>
 																							
@@ -405,11 +416,11 @@ function SetArray()
 				<ul>
 				<li>
 					
-					<a href="property_r4q/PR-19-10-800&#32;(TONER&#32;CARTRIDGE,&#32;TN-348M&#32;&amp;&#32;TN-348BK).pdf">
+					<a href="property_r4q/PR-19-10-800%20(TONER%20CARTRIDGE,%20TN-348M%20&%20TN-348BK).pdf">
 					<span>PR-19-10-800 - toner cartridges</span></a>
 				</li>
 					<li>
-					<a href="property_r4q/PR-19-10-790&#32;(PRINTER&#32;FOR&#32;A3&#32;SIZED&#32;CAD&#32;&amp;&#32;DOCUMENTS).pdf">
+					<a href="property_r4q/PR-19-10-790%20(PRINTER%20FOR%20A3%20SIZED%20CAD%20&%20DOCUMENTS).pdf">
 					<span>PR-19-10-790 - printer for A3 sized CAD drawing and documents</span>
 					</a>
 				</li>
@@ -420,7 +431,7 @@ function SetArray()
 				<div class="pubitem"><div class="alight">
 				<ul>
 				<li>
-					<a href="property_r4q/PR-19-10-784&#32;-&#32;continuous&#32;form.pdf">
+					<a href="property_r4q/PR-19-10-784%20-%20continuous%20form.pdf">
 					<span>PR-19-10-784 - continuous form</span></a>
 				</li>
 																								
@@ -429,7 +440,7 @@ function SetArray()
 				<div class="pubitem"><div class="alight">
 				<ul>
 				<li>
-					<a href="property_r4q/PR-19-09-717&#32;-&#32;printing&#32;of&#32;visitor&#32;&amp;&#32;committee&#32;registry.pdf">
+					<a href="property_r4q/PR-19-09-717%20-%20printing%20of%20visitor%20&%20committee%20registry.pdf">
 					<span>PR-19-09-717 - printing of visitor &amp; committee registry book</span></a>
 				</li>
 																								
@@ -439,7 +450,7 @@ function SetArray()
 				<div class="pubitem"><div class="alight">
 				<ul>
 				<li>
-					<a href="property_r4q/PR-19-09-676&#32;-&#32;ink&#32;cartridge.pdf">
+					<a href="property_r4q/PR-19-09-676%20-%20ink%20cartridge.pdf">
 					<span>PR-19-09-676 - ink cartridge</span></a>
 				</li>
 																								
@@ -449,7 +460,7 @@ function SetArray()
 				<div class="pubitem"><div class="alight">
 				<ul>
 				<li>
-					<a href="property_r4q/PR-19-09-681&#32;-&#32;Preventive&#32;Maintenance&#32;of&#32;FM-200&#32;Fire&#32;Ext.&#32;System.pdf">
+					<a href="property_r4q/PR-19-09-681%20-%20Preventive%20Maintenance%20of%20FM-200%20Fire%20Ext.%20System.pdf">
 					<span>PR-19-09-681 - Preventive Maintenance of FM-200 Fire Ext. System</span></a>
 				</li>
 																								
@@ -459,15 +470,15 @@ function SetArray()
 				<div class="pubitem"><div class="alight">
 				<ul>
 				<li>
-					<a href="property_r4q/PR-19-09-644&#32;-&#32;reloading&#32;machine.pdf">
+					<a href="property_r4q/PR-19-09-644%20-%20reloading%20machine.pdf">
 					<span>PR-19-09-644 - reloading machine</span></a>
 				</li>
 				<li>
-					<a href="property_r4q/PR-19-08-547&#32;-&#32;digital&#32;clock.pdf">
+					<a href="property_r4q/PR-19-08-547%20-%20digital%20clock.pdf">
 					<span>PR-19-08-547 - digital clock</span></a>
 				</li>
 				<li>
-					<a href="property_r4q/PR&#32;19-09-676&#32;-&#32;ink&#32;cartridge.pdf">
+					<a href="property_r4q/PR%2019-09-676%20-%20ink%20cartridge.pdf">
 					<span>PR-19-09-676 - ink cartridge</span></a>
 				</li>
 																				
@@ -477,11 +488,11 @@ function SetArray()
 				<div class="pubitem"><div class="alight">
 				<ul>
 				<li>
-					<a href="property_r4q/PR-19-08-548&#32;-&#32;grinder&#32;and&#32;engine&#32;pole&#32;chain&#32;saw.pdf">
+					<a href="property_r4q/PR-19-08-548%20-%20grinder%20and%20engine%20pole%20chain%20saw.pdf">
 					<span>PR-19-08-548 - grinder and engine pole chain saw</span></a>
 				</li>
 				<li>
-					<a href="property_r4q/PR-19-09-647&#32;-&#32;various&#32;law&#32;books.pdf">
+					<a href="property_r4q/PR-19-09-647%20-%20various%20law%20books.pdf">
 					<span>PR-19-09-647 - various law books</span></a>
 				</li>
 																				
@@ -491,11 +502,11 @@ function SetArray()
 				<div class="pubitem"><div class="alight">
 				<ul>
 				<li>
-					<a href="property_r4q/PR-19-09-632&#32;-&#32;refirgerator&#32;&amp;&#32;microwave.pdf">
+					<a href="property_r4q/PR-19-09-632%20-%20refirgerator%20&%20microwave.pdf">
 					<span>PR-19-09-632 - refrigerator and microwave</span></a>
 				</li>
 				<li>
-					<a href="property_r4q/PR-19-09-614&#32;-&#32;toner&#32;cartridges.pdf">
+					<a href="property_r4q/PR-19-09-614%20-%20toner%20cartridges.pdf">
 					<span>PR-19-09-614 - toner cartridges</span></a>
 				</li>
 																
@@ -505,7 +516,7 @@ function SetArray()
 				<div class="pubitem"><div class="alight">
 				<ul>
 				<li>
-					<a href="property_r4q/PR&#32;19-08-585&#32;-&#32;ink,&#32;push&#32;pin,&#32;rj45.pdf">
+					<a href="property_r4q/PR%2019-08-585%20-%20ink,%20push%20pin,%20rj45.pdf">
 					<span>PR 19-08-585 - ink, push pin, rj45</span></a>
 				</li>
 																
@@ -515,7 +526,7 @@ function SetArray()
 				<div class="pubitem"><div class="alight">
 				<ul>
 				<li>
-					<a href="property_r4q/PR&#32;19-07-490&#32;-&#32;dental&#32;supplies.pdf">
+					<a href="property_r4q/PR%2019-07-490%20-%20dental%20supplies.pdf">
 					<span>PR 19-07-490 - dental supplies</span></a>
 				</li>
 																
@@ -525,7 +536,7 @@ function SetArray()
 				<div class="pubitem"><div class="alight">
 				<ul>
 				<li>
-					<a href="property_r4q/PR-19-08-566&#32;-&#32;reading&#32;table&#32;lampshade.pdf">
+					<a href="property_r4q/PR-19-08-566%20-%20reading%20table%20lampshade.pdf">
 					<span>PR-19-08-566 - reading table lampshade</span></a>
 				</li>
 																
@@ -535,16 +546,16 @@ function SetArray()
 				<div class="pubitem"><div class="alight">
 				<ul>
 				<li>
-					<a href="property_r4q/PR-19-08-545&#32;-&#32;brass&#32;marker.pdf">
+					<a href="property_r4q/PR-19-08-545%20-%20brass%20marker.pdf">
 					<span>PR-19-08-545 - brass marker</span></a>
 				</li>
 
 				<li>
-					<a href="property_r4q/PR-19-08-551&#32;-&#32;toner&#32;cartridge.pdf">
+					<a href="property_r4q/PR-19-08-551%20-%20toner%20cartridge.pdf">
 					<span>PR-19-08-551 - toner cartridge PR-19-08-545 - brass marker</span></a>
 				</li>
 				<li>
-					<a href="property_r4q/PR&#32;-&#32;19-08-552&#32;-&#32;sign&#32;pen.pdf">
+					<a href="property_r4q/PR%20-%2019-08-552%20-%20sign%20pen.pdf">
 					<span>PR-19-08-552 - sign pen</span></a>
 				</li>
 
@@ -556,12 +567,12 @@ function SetArray()
 				<div class="pubitem"><div class="alight">
 				<ul>
 				<li>
-					<a href="property_r4q/PR&#32;-19-08-519&#32;&#32;-&#32;ID&#32;clip.pdf">
+					<a href="property_r4q/PR%20-19-08-519%20%20-%20ID%20clip.pdf">
 					<span>PR-19-08-519  - ID clip
 </span></a>
 				</li>
 				<li>
-					<a href="property_r4q/PR-19-07-473&#32;-&#32;ballpen.pdf">
+					<a href="property_r4q/PR-19-07-473%20-%20ballpen.pdf">
 					<span>PR-19-07-473 - ballpen
 </span></a>
 				</li>
@@ -2074,9 +2085,9 @@ function SetArray()
 <div class="xhtml_nav"><div id="nav_bottom"><table><tr>
 	<td style="text-align: left; color: white; width: 381px;">© Senate of the Philippines. All rights reserved.</td>
 <td style="text-align: right">
-<a href="job.pdf">Job Openings </a></a>| 
-<a href="contact18thcongress.asp">Contact Info</a> | <a href="rss.asp">RSS Feeds</a> <a href="rss.asp">
-<img src="images/feed10.png" alt="RSS icon" /></a> | <a href="search.aspx">Search</a> | <a href="sitemap.asp">Site Map</a></td></tr></table></div></div>
+<a href="../job.pdf">Job Openings </a></a>| 
+<a href="/contact18thcongress.asp">Contact Info</a> | <a href="/rss.asp">RSS Feeds</a> <a href="/rss.asp">
+<img src="/images/feed10.png" alt="RSS icon" /></a> | <a href="/search.aspx">Search</a> | <a href="/sitemap.asp">Site Map</a></td></tr></table></div></div>
 
 
 

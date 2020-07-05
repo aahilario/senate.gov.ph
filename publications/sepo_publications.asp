@@ -4,11 +4,11 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Publications - Senate of the Philippines</title>
-<script type="text/javascript" language="javascript" src="http://senate.gov.ph/scripts_web/div.js"></script>
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml.css" media="all" />
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml_body.css" media="all" />
-<script type="text/javascript" language="javascript" src="http://senate.gov.ph/scripts_web/expcollapse.js"></script>
+<script type="text/javascript" language="javascript" src="/scripts_web/div.js"></script>
+<link rel="stylesheet" type="text/css" href="/scripts_web/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="../scripts_web/xhtml.css" media="all" />
+<link rel="stylesheet" type="text/css" href="../scripts_web/xhtml_body.css" media="all" />
+<script type="text/javascript" language="javascript" src="/scripts_web/expcollapse.js"></script>
 <style type="text/css">
 .pubitem {
 	margin-left: 35px;
@@ -31,7 +31,7 @@
 	padding-bottom: 8px;
 }
 #h_AG, #h_ER, #h_PI, #h_PB {
-	background-image: url('../images/expand.gif');
+	background-image: url('../../images/expand.gif');
 	background-repeat: no-repeat;
 	margin-left: 35px;
 	padding-left: 15px;
@@ -65,29 +65,29 @@ function SetArray()
 
 <body onload="HideAll()">
 
-<div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="../images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
-<table><tr><td><a href="../index.html">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
+<div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="/images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
+<table><tr><td><a href="/">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
 &nbsp;About&nbsp;</div><div id="nav_About" class="div_hidden" onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="../about/history.asp">History of the Senate</a></p>
-<p><a href="../about/symbols&#32;of&#32;authority.asp">Symbols of Authority</a></p><p><a href="../about/legpro.asp">Legislative Process</a></p>
+<div class="nav_dropdown"><p><a href="/about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="/about/history.asp">History of the Senate</a></p>
+<p><a href="/about/symbols%20of%20authority.asp">Symbols of Authority</a></p><p><a href="/about/legpro.asp">Legislative Process</a></p>
 </div></div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
 &nbsp;Senators&nbsp;</div><div id="nav_Senators" class="div_hidden" onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../senators/sen18th.asp">18th Congress Senators</a></p><p><a href="../senators/senlist.asp">List of Previous Senators</a></p>
-<p><a href="../senators/roll.asp">Roll of Senate President</a></p><p><a href="../senators/composition.asp">Composition of the Senate</a></p><p><a href="../senators/terms.asp">Terms of Office and Privileges</a></p>
+<div class="nav_dropdown"><p><a href="/senators/sen18th.asp">18th Congress Senators</a></p><p><a href="/senators/senlist.asp">List of Previous Senators</a></p>
+<p><a href="/senators/roll.asp">Roll of Senate President</a></p><p><a href="/senators/composition.asp">Composition of the Senate</a></p><p><a href="/senators/terms.asp">Terms of Office and Privileges</a></p>
 </div></div></td><td>|</td><td>
 <div onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">&nbsp;Committees&nbsp;</div>
 <div id="nav_Committees" class="div_hidden" onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
-<p><a href="../committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="../committee/schedwk.asp">Committee Schedule</a></p></div>
+<div class="nav_dropdown"><p><a href="/committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
+<p><a href="/committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="/committee/schedwk.asp">Committee Schedule</a></p></div>
 </div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
 &nbsp;Secretariat&nbsp;</div><div id="nav_Secretariat" class="div_hidden" onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="../secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="../secretariat/osec.asp">Office of the Secretary</a></p>
-<p><a href="../secretariat/leg.asp">Legislation</a></p><p><a href="../secretariat/admin.asp">Administration and Financial Services</a></p>
-<p><a href="../secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="../secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
+<div class="nav_dropdown"><p><a href="/secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="/secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="/secretariat/osec.asp">Office of the Secretary</a></p>
+<p><a href="/secretariat/leg.asp">Legislation</a></p><p><a href="/secretariat/admin.asp">Administration and Financial Services</a></p>
+<p><a href="/secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="/secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
 </div></div></td><td>| </td>
 
 
@@ -96,14 +96,14 @@ function SetArray()
 &nbsp;Legislative Documents&nbsp;</div>
 <div id="nav_LegislativeDocuments" class="div_hidden" onmouseover="ShowDiv('nav_LegislativeDocuments');HideSelect();" onmouseout="HideDiv('nav_LegislativeDocuments');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=bill">Bills</a></p>
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=resolution">Resolutions</a></p>
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=journal">Journals</a></p>
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=committee_rpt">Committee Reports</a></p>
-<p><a href="../lis/pdf_sys.aspx?congress=18&amp;type=republic_act">Republic Acts</a></p>
-<p><a href="../lis/pdf_sys.aspx?congress=18&amp;type=adopted_res">Adopted Resolutions</a></p>
-<p><a href="../18th_congress/treaties_18thcongress.asp">Treaties</a></p>
-<p><a href="../statistical.pdf">Statistical Data</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=bill">Bills</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=resolution">Resolutions</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=journal">Journals</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=committee_rpt">Committee Reports</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=republic_act">Republic Acts</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=adopted_res">Adopted Resolutions</a></p>
+<p><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a></p>
+<p><a href="/statistical.pdf">Statistical Data</a></p>
 </div>
 </div>
 </td>
@@ -114,13 +114,13 @@ function SetArray()
 &nbsp;Publications&nbsp;</div>
 <div id="nav_publications" class="div_hidden" onmouseover="ShowDiv('nav_publications');HideSelect();" onmouseout="HideDiv('nav_publications');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="sepo_publications.asp">SEPO Publications</a></p>
-<p><a href="stsro_publications.asp">STSRO Publications</a></p>
-<p><a href="lbrmo_publications.asp">LBRMO Publications</a></p>
-<p><a href="ils_publications.asp">ILS Publications</a></p>
-<p><a href="lrs_publications.asp">LRS Publications</a></p>
-<p><a href="lls_publications.asp">LLS Publications</a></p>
-<p><a href="other_publications.asp">Other Publications</a></p>
+<p><a href="/publications/sepo_publications.asp">SEPO Publications</a></p>
+<p><a href="/publications/stsro_publications.asp">STSRO Publications</a></p>
+<p><a href="/publications/lbrmo_publications.asp">LBRMO Publications</a></p>
+<p><a href="/publications/ils_publications.asp">ILS Publications</a></p>
+<p><a href="/publications/lrs_publications.asp">LRS Publications</a></p>
+<p><a href="/publications/lls_publications.asp">LLS Publications</a></p>
+<p><a href="/publications/other_publications.asp">Other Publications</a></p>
 </div>
 </div>
 </td>
@@ -131,7 +131,7 @@ function SetArray()
 &nbsp;GAD&nbsp;</div>
 <div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../GAD/Bills&amp;Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+<p><a href="/GAD/Bills&Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
 </div>
 </div>
 </td>
@@ -147,7 +147,7 @@ function SetArray()
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="SEPO/BN_Macroeconomic&#32;Assumptions&#32;of&#32;the&#32;&#32;Proposed&#32;2020&#32;Budget_final.pdf">
+		<a href="SEPO/BN_Macroeconomic%20Assumptions%20of%20the%20%20Proposed%202020%20Budget_final.pdf">
 		<img src="SEPO/images/bn1901_s.png" class="float" /><span>Macroeconomic Assumptions of the Proposed 2020 Budget</span>
 		</a> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
@@ -169,7 +169,7 @@ function SetArray()
 		<br />-->
 
 		<p>
-		<a href="SEPO/Macroeconomic&#32;and&#32;Fiscal&#32;Assumptions_Proposed2018Budget_Revised_Oct&#32;5,&#32;2017&#32;(1).pdf">
+		<a href="SEPO/Macroeconomic%20and%20Fiscal%20Assumptions_Proposed2018Budget_Revised_Oct%205,%202017%20(1).pdf">
 		<img src="SEPO/images/BN_1017_s.png" class="float" /><span>Macroeconomic and Fiscal Assumptions of the Proposed 2018 Budget</span>
 		</a> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
@@ -193,7 +193,7 @@ function SetArray()
 			
 			<div class="pubitem"><div class="alight">
 		<p>
-		<a href="BN&#32;2012-01&#32;-&#32;Macroeconomic&#32;assump.pdf">
+		<a href="BN%202012-01%20-%20Macroeconomic%20assump.pdf">
 		<img src="images/bn2012-01.png" class="float" /><span>The President’s 2013 Budget: The Macroeconomic and Fiscal Perspectives</span>
 		</a> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
@@ -210,7 +210,7 @@ function SetArray()
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="SEPO/PolicyMatrix_Land&#32;Use-Policy&#32;Planning&#32;and&#32;Administration_Final.pdf">
+		<a href="SEPO/PolicyMatrix_Land%20Use-Policy%20Planning%20and%20Administration_Final.pdf">
 		<img src="SEPO/images/PM_1015_s.png" class="float" /><span>Land Use: Policy, Planning, and Administration</span>
 		</a> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
@@ -227,7 +227,7 @@ function SetArray()
 		<p class="auto-style1">Policy Brief</p>
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="SEPO/PB_Addressing&#32;a&#32;National&#32;Health&#32;Threat_The&#32;Philippine&#32;HIV&#32;Edpidemic_29Aug2018.pdf">
+		<a href="SEPO/PB_Addressing%20a%20National%20Health%20Threat_The%20Philippine%20HIV%20Edpidemic_29Aug2018.pdf">
 		<img src="SEPO/images/PB2018-02_s.png" class="float" /><span>Addressing a National Health Threat: The Philippine HIV Epidemic </span>
 		</a> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
@@ -239,7 +239,7 @@ function SetArray()
 
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="SEPO/PolicyBrief_DELINEATION&#32;OF&#32;PHI&#32;FOREST&#32;&#32;LIMITS_19July2018.pdf">
+		<a href="SEPO/PolicyBrief_DELINEATION%20OF%20PHI%20FOREST%20%20LIMITS_19July2018.pdf">
 		<img src="SEPO/images/PB_18-06_s.png" class="float" /><span>Delineating the Philippines’ Specific Forest Limits</span>
 		</a> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
@@ -265,7 +265,7 @@ A public policy on rice tariffication may be necessary.<br />
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="SEPO/PB_Examining&#32;PH&#32;DRRM&#32;System_Revised_27June2017.pdf">
+		<a href="SEPO/PB_Examining%20PH%20DRRM%20System_Revised_27June2017.pdf">
 		<img src="SEPO/images/pb2017-06_s.png" class="float" /><span>Examining the Philippines’ Disaster Risk Reduction and Management System</span>
 		</a> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
@@ -278,7 +278,7 @@ A public policy on rice tariffication may be necessary.<br />
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="SEPO/Enhancing&#32;Urban&#32;Concentration_PolicyBrief_&#32;Final.pdf">
+		<a href="SEPO/Enhancing%20Urban%20Concentration_PolicyBrief_%20Final.pdf">
 		<img src="SEPO/images/PB_1501_s.png" class="float" /><span>National Land Use Policy: Enhancing Urban Concentration</span>
 		</a> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
@@ -292,7 +292,7 @@ A national land use policy of enhancing urban concentration may be the answer.<b
 
 <div class="pubitem"><div class="alight">
 		<p>
-		<a href="SEPO/PB_prime&#32;agri&#32;lands_final.pdf">
+		<a href="SEPO/PB_prime%20agri%20lands_final.pdf">
 		<img src="SEPO/images/PB_1401_s.png" class="float" /><span>National Land Use Policy: Protecting Prime Agricultural Lands</span>
 		</a> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
@@ -308,7 +308,7 @@ A national land use policy of enhancing urban concentration may be the answer.<b
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="PB&#32;2013-12&#32;-&#32;Mining_Policy&#32;Brief_final_revised_010614.pdf">
+		<a href="PB%202013-12%20-%20Mining_Policy%20Brief_final_revised_010614.pdf">
 		<img src="images/pb2013-12.png" class="float" /><span>Realizing the Philippines’ Mining Potential</span>
 		</a> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
@@ -320,7 +320,7 @@ A national land use policy of enhancing urban concentration may be the answer.<b
 			
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="PB&#32;2013-01&#32;-&#32;NaLUA.pdf">
+		<a href="PB%202013-01%20-%20NaLUA.pdf">
 		<img src="images/pb2013-01.png" class="float" /><span>Breaking New Ground: Enacting a National Land Use Policy</span>
 		</a> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
@@ -395,52 +395,52 @@ A national land use policy of enhancing urban concentration may be the answer.<b
 					<a href="publications/ ">						
 					<span>(Title)</span><br /><small>Date (Size)</small></a></li>-->
 					<li>
-					<a href="PB&#32;2012-01&#32;-&#32;ENR&#32;_final.pdf">						
+					<a href="PB%202012-01%20-%20ENR%20_final.pdf">						
 					<span>Revisiting the Devolution of ENR Functions</span><br /><small>June 2012 (213KB)</small></a></li>
 					
 					<li>
-					<a href="PB&#32;2011-12&#32;-&#32;Strengthening&#32;Banking&#32;Regulation.pdf">						
+					<a href="PB%202011-12%20-%20Strengthening%20Banking%20Regulation.pdf">						
 					<span>Strengthening Banking Regulation: Amending the BSP Charter</span><br /><small>December 2011 (253KB)</small></a></li>
 
 					<li>
-					<a href="PB&#32;2011-08&#32;-&#32;Turning&#32;the&#32;Tide.pdf">						
+					<a href="PB%202011-08%20-%20Turning%20the%20Tide.pdf">						
 					<span>Turning the Tide: Improving Water Resource Management in the Philippines</span><br /><small>August 2011 (204KB)</small></a></li>
 					
 					<li>
-					<a href="PB&#32;2011-02&#32;-&#32;K&#32;to&#32;12&#32;The&#32;Key&#32;to&#32;Quality.pdf">						
+					<a href="PB%202011-02%20-%20K%20to%2012%20The%20Key%20to%20Quality.pdf">						
 					<span>K to 12: The Key to Quality Education?</span><br /><small>June 2011 (252KB)</small></a></li>
 					
 					<li>
-					<a href="PB&#32;2011-01&#32;-&#32;Improving&#32;inclusiveness&#32;of&#32;growth&#32;through&#32;CCTs.pdf">						
+					<a href="PB%202011-01%20-%20Improving%20inclusiveness%20of%20growth%20through%20CCTs.pdf">						
 					<span>Improving inclusiveness of growth through CCTs</span><br /><small>March 2011 (312KB)</small></a></li>
 					<li>
-					<a href="PB&#32;2010-12&#32;-&#32;Subsidizing&#32;the&#32;NFA.pdf">						
+					<a href="PB%202010-12%20-%20Subsidizing%20the%20NFA.pdf">						
 					<span>Subsidizing the National Food Authority: Is It a Good Policy?</span><br /><small>December 2010 (235KB)</small></a></li>
 					<li>
-					<a href="PB&#32;2010-08&#32;-&#32;Issues&#32;and&#32;challenges.pdf">						
+					<a href="PB%202010-08%20-%20Issues%20and%20challenges.pdf">						
 					<span>Issues and Challenges with the Philippines’ Public Corporate Sector</span><br /><small>August 2010 (188KB)</small></a></li>
 					
 					<li>
-					<a href="PB-2010-02&#32;-&#32;Improving&#32;Resiliency&#32;-&#32;Ad...&#32;Threat&#32;of&#32;Climate&#32;Change.pdf">						
+					<a href="PB-2010-02%20-%20Improving%20Resiliency%20-%20Ad...%20Threat%20of%20Climate%20Change.pdf">						
 					<span>Improving Resiliency: Addressing the Threat of Climate Change</span><br /><small>May 2010 (298KB)</small></a></li>
 					
 					<li>
-					<a href="PB&#32;2010-03&#32;-&#32;Engendering&#32;a&#32;gender‐responsive&#32;budget.pdf">						
+					<a href="PB%202010-03%20-%20Engendering%20a%20gender‐responsive%20budget.pdf">						
 					<span>Engendering a gender-responsive budget: A look at the GAD Budget policy System</span><br /><small>March 2010 (299KB)</small></a></li>
 					
 					
 					
 					<li>
-					<a href="PB-2009-04-2&#32;-&#32;Powering&#32;the&#32;Future.pdf">						
+					<a href="PB-2009-04-2%20-%20Powering%20the%20Future.pdf">						
 					<span>Powering the Future: Are We Ready for Nuclear Energy?</span><br /> <small>September 2009 (563KB)</small></a></li>
 					
 					<li>
-					<a href="PB&#32;2009-04&#32;-&#32;Regulating&#32;competition.pdf">						
+					<a href="PB%202009-04%20-%20Regulating%20competition.pdf">						
 					<span>Regulating competition</span><br />
 					<small>August 2009 (372KB</small></a></li>
 					
 					<li>
-					<a href="PB&#32;2009-03&#32;-&#32;Promoting&#32;Reproductive&#32;Health.pdf">						
+					<a href="PB%202009-03%20-%20Promoting%20Reproductive%20Health.pdf">						
 					<span>Promoting Reproductive Health: A Unified Strategy to 
 					Achieve the MDGs</span><br />
 					<small>July 2009 (426KB)</small></a></li>
@@ -455,63 +455,63 @@ A national land use policy of enhancing urban concentration may be the answer.<b
 					<ul>
 					
 					<li>
-					<a href="PB&#32;2009-02&#32;-&#32;&#32;What&#32;the&#32;pre-need&#32;industry&#32;needs.pdf">						
+					<a href="PB%202009-02%20-%20%20What%20the%20pre-need%20industry%20needs.pdf">						
 					<span>What the pre-need industry needs</span><br /><small>
 					May 2009 (310KB)</small></a></li>
 					
 					<li>
-					<a href="PB&#32;2009-01&#32;-&#32;Financing&#32;Agriculture&#32;Modernization.pdf">						
+					<a href="PB%202009-01%20-%20Financing%20Agriculture%20Modernization.pdf">						
 					<span>Financing Agriculture Modernization: Risks &amp; 
 					Opportunities</span><br /> <small>February 2009 (229KB)</small></a></li>
 
 
 					<li>
-					<a href="PB&#32;2008-08&#32;-&#32;Revisiting&#32;Infrastructure&#32;Spending.pdf">						
+					<a href="PB%202008-08%20-%20Revisiting%20Infrastructure%20Spending.pdf">						
 					<span>Revisiting Infrastructure Spending</span><br />
 					December 2008 <small>(259KB)</small></a></li>
 					
 					
 					<li>
-					<a href="PB&#32;2008-07&#32;-&#32;Conquering&#32;Poverty.pdf">						
+					<a href="PB%202008-07%20-%20Conquering%20Poverty.pdf">						
 					<span>Conquering Poverty: Funding Requirements, Issues and 
 					Challenges</span><br />December 2008<small> (298KB)</small></a></li>
 					<li>
-					<a href="PB&#32;2008-05&#32;-&#32;Plugging&#32;the&#32;Loopholes.pdf">						
+					<a href="PB%202008-05%20-%20Plugging%20the%20Loopholes.pdf">						
 					<span>Plugging the Loopholes of the Philippine Procurement 
 					System</span><br /><small>August 2008 (385KB)</small></a></li>
 
 					
 					<li>
-					<a href="PB&#32;2008-06&#32;-&#32;Creation&#32;of&#32;Ecozones.pdf">						
+					<a href="PB%202008-06%20-%20Creation%20of%20Ecozones.pdf">						
 					<span>Creation of Economic Zones: <br />
 					A Need for Review</span><br />
 					<small>September 2008 (606KB)</small></a></li>
 					
 					<li>
-					<a href="PB&#32;2008-06&#32;-&#32;Creation&#32;of&#32;Ecozones.pdf">						
+					<a href="PB%202008-06%20-%20Creation%20of%20Ecozones.pdf">						
 					<span>Creation of Economic Zones: A Need for Review</span><br />
 					September 2008 <small>(606KB)</small></a></li>
 					<li>
-					<a href="PB&#32;2008-04&#32;-&#32;Broadening&#32;and&#32;Reinforcing&#32;the&#32;Benefits&#32;of.pdf">
+					<a href="PB%202008-04%20-%20Broadening%20and%20Reinforcing%20the%20Benefits%20of.pdf">
 					<span>Broadening and Reinforcing the Benefits <br />
 					of Land Reform in the Philippines</span><br />
 					<small>July 2008 (197KB)</small></a></li>
 					<li>
-					<a href="PB&#32;2008-03&#32;-&#32;Accelerating&#32;Power&#32;Sector&#32;Reforms.pdf">
+					<a href="PB%202008-03%20-%20Accelerating%20Power%20Sector%20Reforms.pdf">
 					<span>Accelerating Power Reforms:  <br />
 					Amending the EPIRA</span><br />
 					June 2008 <small>(338KB)</small></a></li>
 					<li>
-					<a href="PB&#32;2008-05&#32;-&#32;Revisiting&#32;the&#32;Cyber&#32;education&#32;Project.pdf">
+					<a href="PB%202008-05%20-%20Revisiting%20the%20Cyber%20education%20Project.pdf">
 					<span>Revisiting the Cyber Education Project</span><br />
 					May 2008 <small>(161KB)</small></a></li>
 					<li>
-					<a href="PB&#32;2008-01&#32;-&#32;Addressing&#32;the&#32;Oil&#32;Price&#32;Increase.pdf">
+					<a href="PB%202008-01%20-%20Addressing%20the%20Oil%20Price%20Increase.pdf">
 					<span>Addressing the Oil Price Increase</span><br />
 					January 
 						2008 <small>(217KB)</small></a></li>
 					<li>
-					<a href="PB&#32;2007-01&#32;-&#32;Japan-Philippines&#32;Economic&#32;Partnership&#32;Agreement&#32;(JPEPA),&#32;An&#32;assesment.pdf">
+					<a href="PB%202007-01%20-%20Japan-Philippines%20Economic%20Partnership%20Agreement%20(JPEPA),%20An%20assesment.pdf">
 					<span>Japan-Philippines Economic Partnership <br />
 							 Agreement (JPEPA): An Assessment</span><br />
 					September 2007 <small>(357KB)</small></a></li>
@@ -528,11 +528,11 @@ A national land use policy of enhancing urban concentration may be the answer.<b
 		<p class="auto-style1">Economic Report</p>
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="SEPO/2017&#32;Full-year&#32;Economic&#32;&#32;Report_Revised_Final_22Feb2018.pdf">
+		<a href="SEPO/2017%20Full-year%20Economic%20%20Report_Revised_Final_22Feb2018.pdf">
 		<img src="SEPO/images/ER_0118_s.png" class="float" /><span>2017 Full-year Economic Report</span>
 		</a>
 		<p>
-		<a href="SEPO/2017&#32;Full-year&#32;Economic&#32;&#32;Report_Revised_Final_22Feb2018.pdf">
+		<a href="SEPO/2017%20Full-year%20Economic%20%20Report_Revised_Final_22Feb2018.pdf">
 		<span>Building on Resilience</span> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" /><br />
 		<small>January 2018 (1.5 MB)</small></a><div class="minibreak"></div>
@@ -543,11 +543,11 @@ A national land use policy of enhancing urban concentration may be the answer.<b
 
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="SEPO/Midyear&#32;Econ&#32;Report&#32;&#32;2015.pdf">
+		<a href="SEPO/Midyear%20Econ%20Report%20%202015.pdf">
 		<img src="SEPO/images/ER_1509_s.png" class="float" /><span>2015 Mid-Year Report</span>
 		</a>
 		<p>
-		<a href="SEPO/Midyear&#32;Econ&#32;Report&#32;&#32;2015.pdf">
+		<a href="SEPO/Midyear%20Econ%20Report%20%202015.pdf">
 		<span>The Philippine Economy: Remaining Steadfast</span> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" /><br />
 		<small>March 2014 (948 KB)</small></a><div class="minibreak"></div>
@@ -559,11 +559,11 @@ Nonetheless, the Philippine economy remains resilient amidst uncertainties parti
 
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="SEPO/2014_Full&#32;Yr_Econ&#32;Report.pdf">
+		<a href="SEPO/2014_Full%20Yr_Econ%20Report.pdf">
 		<img src="SEPO/images/ER_1503_s.png" class="float" /><span>2014 Full-Year Report</span>
 		</a>
 		<p>
-		<a href="SEPO/2014_Full&#32;Yr_Econ&#32;Report.pdf">
+		<a href="SEPO/2014_Full%20Yr_Econ%20Report.pdf">
 		<span>Still Strong But Missing the Target</span> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" /><br />
 		<small>March 2015 (931 KB)</small></a><div class="minibreak"></div>
@@ -576,10 +576,10 @@ Increasing the tax base, ensuring fair competition and protecting property right
 
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="SEPO/2014_Mid&#32;Yr_Econ&#32;Report_final.pdf">
+		<a href="SEPO/2014_Mid%20Yr_Econ%20Report_final.pdf">
 		<img src="SEPO/images/ER_1402_s.png" class="float" /><span>2014 Mid-Year Report</span></a>
 		<p>
-		<a href="SEPO/2014_Mid&#32;Yr_Econ&#32;Report_final.pdf">
+		<a href="SEPO/2014_Mid%20Yr_Econ%20Report_final.pdf">
 		<span>Economy slows down, growth target in limbo</span> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" /><br />
 		<small>December 2014 (685 KB)</small></a><div class="minibreak"></div>
@@ -591,10 +591,10 @@ coupled with weak public sector consumption has contributed much to the decelera
 
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="ER&#32;2014-03&#32;-&#32;2013_Full&#32;Yr_Econ&#32;Report.pdf">
+		<a href="ER%202014-03%20-%202013_Full%20Yr_Econ%20Report.pdf">
 		<img src="images/er2014-03_s.png" class="float" /><span>2013 Full-Year Report</span></a>
 		<p>
-		<a href="ER&#32;2014-03&#32;-&#32;2013_Full&#32;Yr_Econ&#32;Report.pdf">
+		<a href="ER%202014-03%20-%202013_Full%20Yr_Econ%20Report.pdf">
 		<span>Philippine Economy: Defying the Odds</span> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" /><br />
 		<small>March 2014 (967 KB)</small></a><div class="minibreak"></div>
@@ -605,10 +605,10 @@ coupled with weak public sector consumption has contributed much to the decelera
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="ER&#32;2013-12&#32;MidYear&#32;Econ&#32;Report_FINAL.pdf">
+		<a href="ER%202013-12%20MidYear%20Econ%20Report_FINAL.pdf">
 		<img src="images/er2013-12.png" class="float" /><span>2013 Mid-Year Report </span></a>
 		<p>
-		<a href="ER&#32;2013-12&#32;MidYear&#32;Econ&#32;Report_FINAL.pdf">
+		<a href="ER%202013-12%20MidYear%20Econ%20Report_FINAL.pdf">
 		<span>Philippine Economy: Rising to New Heights, Better Opportunity for Reforms</span> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" /><br />
 		<small>December 2013 (812 KB)</small></a><div class="minibreak"></div>
@@ -620,7 +620,7 @@ coupled with weak public sector consumption has contributed much to the decelera
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="ER&#32;2013-01&#32;-&#32;2012&#32;Yearend&#32;Report.pdf">
+		<a href="ER%202013-01%20-%202012%20Yearend%20Report.pdf">
 		<img src="images/er2013-01.png" class="float" /><span>2012 Year-end report - On the cusp of economic resurgence</span> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" /><br />
 		<small>February 2013 (936 KB)</small></a><div class="minibreak"></div>
@@ -646,51 +646,51 @@ coupled with weak public sector consumption has contributed much to the decelera
 				<td>
 				<ul>
 							<li>
-							<a href="ER&#32;2012-01&#32;-&#32;March&#32;2012.pdf">
+							<a href="ER%202012-01%20-%20March%202012.pdf">
 							<span>Philippine Economy: Sluggish in 2011, bullish in 2012?</span><br />
 							<small>March 2012 (222KB)</small></a><br /><br /></li>
 
 							<li>
-							<a href="ER&#32;2011-01&#32;-&#32;October&#32;2011.pdf">
+							<a href="ER%202011-01%20-%20October%202011.pdf">
 							<span>Economic Report</span><br />
 							<small>October 2011 (245KB)</small></a><br /><br /></li>
 
 							<li>
-							<a href="ER&#32;2010-03&#32;-&#32;Lessons&#32;learned&#32;in&#32;2009.pdf">
+							<a href="ER%202010-03%20-%20Lessons%20learned%20in%202009.pdf">
 							<span>Lessons learned in 2009, imperatives for 2010</span><br />
 							<small>March 2010 (315KB)</small></a><br /><br /></li>
 							
 							<li>
-							<a href="ER&#32;2009-02&#32;-&#32;Midyear&#32;Economic&#32;Report.pdf">
+							<a href="ER%202009-02%20-%20Midyear%20Economic%20Report.pdf">
 							<span>MIDYEAR ECONOMIC REPORT: Is there room for optimism in 2009?</span><br />
 							<small>September 2009 (253KB)</small></a><br /><br /></li>
 							
 						
 							<li>
-							<a href="ER&#32;2009-01&#32;-&#32;Riding&#32;through&#32;the&#32;crisis&#32;in&#32;2008.pdf">
+							<a href="ER%202009-01%20-%20Riding%20through%20the%20crisis%20in%202008.pdf">
 							<span>Riding Through the Crisis in 2008 Bumpier Road Ahead in 2009</span><br />
 							<small>February 2009 (521KB)</small></a><br /><br /></li>
 							<li>
-							<a href="ER&#32;2008-03&#32;-&#32;1st&#32;Semester&#32;figures&#32;herald&#32;challenging&#32;times&#32;in&#32;2008.pdf">
+							<a href="ER%202008-03%20-%201st%20Semester%20figures%20herald%20challenging%20times%20in%202008.pdf">
 							<span>1st Semester figures herald challenging times in 2008</span><br />
 							<small>September 2008 (364KB)</small></a><br /><br /></li>
 							<li>
-							<a href="ER&#32;2008-02&#32;-&#32;The&#32;Philippine&#32;Economy&#32;in&#32;2007&#32;and&#32;Prospects&#32;for&#32;2008.pdf">
+							<a href="ER%202008-02%20-%20The%20Philippine%20Economy%20in%202007%20and%20Prospects%20for%202008.pdf">
 							<span>The Philippine Economy in 2007 and Prospects for 2008</span><br />
 							<small>February 2008 (388KB)</small></a><br /><br /></li><li>
-							<a href="ER&#32;2008-01&#32;-&#32;The&#32;Perks&#32;and&#32;Perils&#32;of&#32;a&#32;Strong&#32;Peso&#32;-&#32;amended.pdf">
+							<a href="ER%202008-01%20-%20The%20Perks%20and%20Perils%20of%20a%20Strong%20Peso%20-%20amended.pdf">
 							<span>The Perks and Perils of a Strong Peso</span><br />
 							<small>January 2008 (319KB)</small></a></li>
 							<li>
-							<a href="ER&#32;2007-03&#32;-&#32;Domestic&#32;Economy&#32;Posts&#32;an&#32;Impressive&#32;7.3&#32;percent&#32;1st&#32;Sem&#32;Growth.pdf">
+							<a href="ER%202007-03%20-%20Domestic%20Economy%20Posts%20an%20Impressive%207.3%20percent%201st%20Sem%20Growth.pdf">
 							<span>Domestic Economy Posts an Impressive 7.3 percent 1st Sem Growth</span> <br />
 							<small>September 2007 (555KB)</small></a></li>
 							<li>
-							<a href="ER&#32;2007-02&#32;-&#32;The&#32;Economy&#32;Soars.pdf">
+							<a href="ER%202007-02%20-%20The%20Economy%20Soars.pdf">
 							<span>The Economy Soars, Grows by 6.9% in First Quarter 2007</span><br />
 							<small>June 2007 (239KB)</small></a></li>
 							<li>
-							<a href="ER&#32;2007-01&#32;-&#32;2006&#32;GDP&#32;Growth&#32;Falls&#32;Short&#32;of&#32;Target&#32;Outlook&#32;for&#32;2007.pdf">
+							<a href="ER%202007-01%20-%202006%20GDP%20Growth%20Falls%20Short%20of%20Target%20Outlook%20for%202007.pdf">
 							<span>2006 GDP Growth Falls Short of Target <br />Outlook for 2007, Promising</span><br />
 							<small>February 2007 (265KB)</small></a> 
 							</li>
@@ -701,53 +701,53 @@ coupled with weak public sector consumption has contributed much to the decelera
 				<td>
 				<ul>
 							<li>
-							<a href="ER&#32;2006-05&#32;-&#32;Slower&#32;Economy&#32;in&#32;Q3&#32;2006%3B&#32;Jobless&#32;Growth&#32;Continues.pdf">
+							<a href="ER%202006-05%20-%20Slower%20Economy%20in%20Q3%202006;%20Jobless%20Growth%20Continues.pdf">
 							<span>Slower Economy in Q3 2006; <br />Jobless Growth Continues</span><br />
 							<small>December 2006 (266KB)</small></a></li>
 							
 							<li>
-							<a href="ER&#32;2006-03&#32;-&#32;Q1&#32;GDP&#32;Growth&#32;-&#32;&#32;Better&#32;But&#32;Not&#32;Enough.pdf">
+							<a href="ER%202006-03%20-%20Q1%20GDP%20Growth%20-%20%20Better%20But%20Not%20Enough.pdf">
 							<span>First Quarter GDP Growth: <br />Better But Not Enough</span><br />
 							<small>June 2006(262KB)</small></a></li>
 							<li>
-							<a href="ER&#32;2006-01&#32;-&#32;Global&#32;Economic&#32;Outlook&#32;-&#32;Challenges&#32;2006.pdf">
+							<a href="ER%202006-01%20-%20Global%20Economic%20Outlook%20-%20Challenges%202006.pdf">
 							<span>Global Economic Outlook: <br />Challenges for 2006</span><br />
 							<small>January 2006 (267KB)</small></a></li>
 							<li>
-							<a href="ER&#32;2005-09&#32;-&#32;Slower&#32;2&#32;Quarter&#32;Growth&#32;-&#32;Full&#32;year&#32;5.3-percent&#32;growth&#32;might&#32;prove&#32;harder&#32;to&#32;hit.pdf">
+							<a href="ER%202005-09%20-%20Slower%202%20Quarter%20Growth%20-%20Full%20year%205.3-percent%20growth%20might%20prove%20harder%20to%20hit.pdf">
 							<span>Slower 2 Quarter Growth</span><br />
 							<small>September 2005 (228KB)</small></a><br /><br /></li>
 							<li>
-							<a href="ER&#32;2005-02&#32;-&#32;Services&#32;sector&#32;leads&#32;2004&#32;growth.pdf">
+							<a href="ER%202005-02%20-%20Services%20sector%20leads%202004%20growth.pdf">
 							<span>Economic Report 2005: <br />Services Sector leads 2004 growth</span><br />
 							<small>February 2005 (202KB)</small></a></li><li>
-							<a href="ER&#32;2004-12&#32;-&#32;Third&#32;Quarter&#32;Economic&#32;Report&#32;Sustaining&#32;Growth&#32;in&#32;Agriculture.pdf">
+							<a href="ER%202004-12%20-%20Third%20Quarter%20Economic%20Report%20Sustaining%20Growth%20in%20Agriculture.pdf">
 							<span>Economic Performance Q3, 2004: <br />
 							Sustaining Growth in Agriculture 
 							</span><br />
 							<small>December 2004 (199KB)</small></a></li>
 							<li>
-							<a href="ER&#32;2004-07&#32;-&#32;First&#32;Quarter&#32;Economic&#32;Performance.pdf">
+							<a href="ER%202004-07%20-%20First%20Quarter%20Economic%20Performance.pdf">
 							<span>Economic Performance Q1, 2004</span><br />
 							<small>July 2004  (230KB)</small></a></li>
 							<li>							
-							<a href="ER&#32;2006-04&#32;-&#32;Q2&#32;ER&#32;-&#32;Infrastructure&#32;Spending&#32;and&#32;Philippine&#32;Development.pdf">
+							<a href="ER%202006-04%20-%20Q2%20ER%20-%20Infrastructure%20Spending%20and%20Philippine%20Development.pdf">
 							<span>Q2 Economic Report: Infrastructure <br />Spending and 
 							Philippine Development</span><br />October 2006
 							<small>(298KB)</small></a></li><li>
-							<a href="ER&#32;2006-02&#32;-&#32;2005&#32;Full-Year&#32;Economic&#32;Report&#32;-&#32;Rethinking&#32;Exports.pdf">
+							<a href="ER%202006-02%20-%202005%20Full-Year%20Economic%20Report%20-%20Rethinking%20Exports.pdf">
 							<span>2005 Full-Year Economic Report: <br />Rethinking Exports</span><br />February 2006
 							<small>(265KB)</small></a></li><li>
-							<a href="ER&#32;2005-12&#32;-&#32;Q3&#32;2005&#32;Economic&#32;Report&#32;-&#32;Can&#32;Remittances&#32;Perk&#32;up&#32;the&#32;Economy.pdf">
+							<a href="ER%202005-12%20-%20Q3%202005%20Economic%20Report%20-%20Can%20Remittances%20Perk%20up%20the%20Economy.pdf">
 							<span>Q3 2005: Economic Report: <br />Can Remittances Perk up the Economy?</span><br />December 2005
 							<small>(306KB)</small></a></li><li>
-							<a href="ER&#32;2005-06&#32;-&#32;Impact&#32;of&#32;High&#32;Oil&#32;Prices&#32;on&#32;Growth&#32;Q1&#32;Economic&#32;Report.pdf">
+							<a href="ER%202005-06%20-%20Impact%20of%20High%20Oil%20Prices%20on%20Growth%20Q1%20Economic%20Report.pdf">
 							<span>Impact of High Oil Prices on Growth <br />Q1 Economic Report</span><br />June 
 							2005
 							<small>(269KB)</small></a></li><li>
-							<a href="ER&#32;2005-01&#32;-&#32;The&#32;World&#32;Economy&#32;in&#32;2005.pdf">
+							<a href="ER%202005-01%20-%20The%20World%20Economy%20in%202005.pdf">
 							<span>Economic Report 2005: <br />The World Economy in 2005</span><br />January 2005 <small>(211KB)</small></a></li><li>
-							<a href="ER&#32;2004-09&#32;-&#32;Second&#32;Quarter&#32;Economic&#32;Performance.pdf">
+							<a href="ER%202004-09%20-%20Second%20Quarter%20Economic%20Performance.pdf">
 							<span>Economic Performance Q2, 2004</span><br />September 2004 <small>(193KB)</small></a></li></ul>
 				</td>
 			</tr>
@@ -760,7 +760,7 @@ coupled with weak public sector consumption has contributed much to the decelera
 
 		<div class="pubitem"><div class="alight" style="margin-bottom: -20px;">
 		<p>
-		<a href="PI&#32;2007-01&#32;-&#32;Removing&#32;Regional&#32;Disparity&#32;in&#32;Infrastructure&#32;Development&#32;-&#32;A&#32;Probe&#32;into&#32;the&#32;Proposed&#32;2008&#32;Budget.pdf">
+		<a href="PI%202007-01%20-%20Removing%20Regional%20Disparity%20in%20Infrastructure%20Development%20-%20A%20Probe%20into%20the%20Proposed%202008%20Budget.pdf">
 		<img src="images/feature012.png" class="float" /><span>Removing Regional Disparity in Infrastructure Development - A Probe into the Proposed 2008 Budget</span>
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" /><br />
 		<small>November 2007 (713KB)</small><div class="minibreak"></div>
@@ -777,10 +777,10 @@ coupled with weak public sector consumption has contributed much to the decelera
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="PI&#32;2006-02&#32;-&#32;The&#32;Missing&#32;Links&#32;in&#32;the&#32;Charter&#32;Change&#32;Debate.pdf">
+		<a href="PI%202006-02%20-%20The%20Missing%20Links%20in%20the%20Charter%20Change%20Debate.pdf">
 		<img src="images/pi2006-02.png" class="float" /> </a>
 		<p>
-		<a href="PI&#32;2006-02&#32;-&#32;The&#32;Missing&#32;Links&#32;in&#32;the&#32;Charter&#32;Change&#32;Debate.pdf">
+		<a href="PI%202006-02%20-%20The%20Missing%20Links%20in%20the%20Charter%20Change%20Debate.pdf">
 		<span>Electoral System, Parties and Bureaucracy: <br />The Missing Links in the Charter Change Debate</span> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" /><br />
 		<small>September 2006 (227KB)</small><div class="minibreak"></div>
@@ -802,32 +802,32 @@ coupled with weak public sector consumption has contributed much to the decelera
 						<ul>
 							<li>
 							
-							<a href="PI&#32;2006-01&#32;-&#32;Tourism&#32;as&#32;a&#32;Development&#32;Strategy.pdf">
+							<a href="PI%202006-01%20-%20Tourism%20as%20a%20Development%20Strategy.pdf">
 							<span>Tourism as a Development Strategy</span><br />August 2006
 							<small>(231KB)</small></a><br />
 							</li>
 							
 							<li>
-							<a href="PI&#32;2005-11&#32;-&#32;Extracting&#32;Growth&#32;from&#32;Mining.pdf">
+							<a href="PI%202005-11%20-%20Extracting%20Growth%20from%20Mining.pdf">
 							<span>Extracting Growth from Mining</span><br />November 2005
 							<small>(213KB)</small></a></li>
 						
 							<li>
-							<a href="PI&#32;2005-08&#32;-&#32;Fiscal&#32;Rules&#32;-&#32;The&#32;Way&#32;Forward.pdf">
+							<a href="PI%202005-08%20-%20Fiscal%20Rules%20-%20The%20Way%20Forward.pdf">
 							<span>Fiscal Rules: <br />The Way Forward</span><br />August 2005
 							<small>(192KB)</small></a></li>
 							<li>
-							<a href="PI&#32;2005-04&#32;-&#32;Reengineering&#32;the&#32;Bureaucracy&#32;-&#32;Issues&#32;and&#32;Problems.pdf">
+							<a href="PI%202005-04%20-%20Reengineering%20the%20Bureaucracy%20-%20Issues%20and%20Problems.pdf">
 							<span>Reengineering the Bureaucracy: <br />
 							Issues and Problems</span><br />
 							April 2005 <small>(151KB)</small></a></li>
 							<li>
-							<a href="PI&#32;2004-11&#32;-&#32;The&#32;Population&#32;Debate.pdf">
+							<a href="PI%202004-11%20-%20The%20Population%20Debate.pdf">
 							<span>The Population Debate</span><br />
 							November 2004 <small>(222KB - 
 							PDF)</small></a></li>
 							<li>
-							<a href="PI&#32;2004-06&#32;-&#32;An&#32;Assessment&#32;of&#32;Petroleum&#32;Prices.pdf">
+							<a href="PI%202004-06%20-%20An%20Assessment%20of%20Petroleum%20Prices.pdf">
 							<span>An Assessment of Petroleum Prices</span><br />
 							June 2004 <small>(170KB)</small></a></li>
 						</ul>
@@ -836,25 +836,25 @@ coupled with weak public sector consumption has contributed much to the decelera
 						<ul>
 							<li>
 							
-							<a href="PI&#32;2005-12&#32;-&#32;National&#32;Identification&#32;System&#32;-&#32;Do&#32;We&#32;Need&#32;One.pdf">
+							<a href="PI%202005-12%20-%20National%20Identification%20System%20-%20Do%20We%20Need%20One.pdf">
 							<span>National Identification System: <br />Do We Need One?</span><br />December 2005
 							<small>(191KB)</small></a></li><li>
 							
-							<a href="PI&#32;2005-09&#32;-&#32;Requisites&#32;of&#32;a&#32;Land&#32;Use&#32;Policy.pdf">
+							<a href="PI%202005-09%20-%20Requisites%20of%20a%20Land%20Use%20Policy.pdf">
 							<span>Requisites of a Land Use Policy</span><br />October 2005
 							<small>(203KB)</small></a></li>
 							<li>
 							
-							<a href="PI&#32;2005-05&#32;-&#32;Banking&#32;on&#32;Banking&#32;-&#32;Issues&#32;and&#32;Challenges&#32;Facing&#32;the&#32;Banking&#32;Sector.pdf">
+							<a href="PI%202005-05%20-%20Banking%20on%20Banking%20-%20Issues%20and%20Challenges%20Facing%20the%20Banking%20Sector.pdf">
 							<span>Banking on Banking: - Issues &amp; <br />Challenges Facing the Banking 
 							Sector</span><br />May 2005 <small>(205KB)</small></a></li><li>
 							
-							<a href="PI&#32;2005-03&#32;-&#32;Rationalizing&#32;the&#32;Fiscal&#32;Incentive&#32;System.pdf">
+							<a href="PI%202005-03%20-%20Rationalizing%20the%20Fiscal%20Incentive%20System.pdf">
 							<span>Rationalizing the Fiscal Incentives</span><br />March 2005 <small>(160KB)</small></a><br />
 							</li>
 							<li>
 							
-							<a href="PI&#32;2004-08&#32;-&#32;Probing&#32;the&#32;Unemployment&#32;Problem.pdf">
+							<a href="PI%202004-08%20-%20Probing%20the%20Unemployment%20Problem.pdf">
 							<span>Probing the Unemployment Problem</span><br />August 2004 <small>(192KB)</small></a></li></ul>
 						</td>
 			</tr>
@@ -867,7 +867,7 @@ coupled with weak public sector consumption has contributed much to the decelera
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="SEPO/AAG_Agri&#32;&#32;Exports_FINAL_21Jan2020.pdf">
+		<a href="SEPO/AAG_Agri%20%20Exports_FINAL_21Jan2020.pdf">
 		<img src="SEPO/images/aag2019_01_s.png" class="float" /><span>Agricultural Exports </span><img src="../images/pdf1.gif" alt="Adobe PDF Format" /><br />
 		<small>December 2019 (861 KB)</small></a><div class="minibreak"></div>		
 		Agricultural export promotion is one of the eight paradigms identified by newly confirmed Department of Agriculture (DA) Secretary William Dar in the campaign to boost the agriculture sector. <br />
@@ -877,7 +877,7 @@ coupled with weak public sector consumption has contributed much to the decelera
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="SEPO/AAG&#32;Labor&#32;and&#32;Employment_10July2018.pdf">
+		<a href="SEPO/AAG%20Labor%20and%20Employment_10July2018.pdf">
 		<img src="SEPO/images/aag2018-07_s.png" class="float" /><span>Labor and Employment Statistics</span><img src="../images/pdf1.gif" alt="Adobe PDF Format" /><br />
 		<small>July 2018 (952 KB)</small></a><div class="minibreak"></div>		
 		Providing productive employment is widely recognized as an effective means of lifting people out of
@@ -889,7 +889,7 @@ percent in 2016 to 3-5 percent by 2022.<br />
 
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="SEPO/AAG_Philippine&#32;Solid&#32;Wastes_Nov2017.pdf">
+		<a href="SEPO/AAG_Philippine%20Solid%20Wastes_Nov2017.pdf">
 		<img src="SEPO/images/aag2017-11_s.png" class="float" /><span>Philippine Solid Wastes </span><img src="../images/pdf1.gif" alt="Adobe PDF Format" /><br />
 		<small>November 2017 (1 MB)</small></a><div class="minibreak"></div>		
 		Solid waste management remains a major challenge in the 
@@ -903,7 +903,7 @@ percent in 2016 to 3-5 percent by 2022.<br />
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="SEPO/AAG&#32;on&#32;Philippine&#32;Forest_Final.pdf">
+		<a href="SEPO/AAG%20on%20Philippine%20Forest_Final.pdf">
 		<img src="SEPO/images/AG_1501_s.png" class="float" /><span>Philippine Forests </span><img src="../images/pdf1.gif" alt="Adobe PDF Format" /><br />
 		<small>June 2015 (584 KB)</small></a><div class="minibreak"></div>		
 		Forests are among the most valuable natural resources in the Philippines. They provide a range of ecosystem services, ranging from the provision of food crops, livestock and fish to providing recreational experiences. In 2013, the forestry sector contributed PhP5.26 billion (0.12%) to the national gross domestic product (GDP) (2014 Philippine Statistical Yearbook).<br />
@@ -929,108 +929,108 @@ percent in 2016 to 3-5 percent by 2022.<br />
 				<td>
 					<ul>
 					<li>
-					<a href="AAG&#32;Tourism_Final_15oct&#32;2014.pdf"><span>Tourism</span> <br />
+					<a href="AAG%20Tourism_Final_15oct%202014.pdf"><span>Tourism</span> <br />
 					<small>October 2014 (681 KB)</small></a></li>
 					
 					<li>
-					<a href="AAG&#32;on&#32;Renewable&#32;Energy_June&#32;30_FINAL.pdf"><span>Renewable Energy</span> <br />
+					<a href="AAG%20on%20Renewable%20Energy_June%2030_FINAL.pdf"><span>Renewable Energy</span> <br />
 					<small>June 2014 (608 KB)</small></a></li>
 
 					
 					<li>
-					<a href="AAG&#32;on&#32;Taxing&#32;the&#32;SEPs_FINAL_May&#32;29&#32;2014.pdf"><span>Taxing the SEPs</span> <br />
+					<a href="AAG%20on%20Taxing%20the%20SEPs_FINAL_May%2029%202014.pdf"><span>Taxing the SEPs</span> <br />
 					<small>May 2014 (677 KB)</small></a></li>
 					
 					<li>
-					<a href="AAG&#32;on&#32;cities_FINAL_nov&#32;&#32;28.pdf"><span>Cities in the Philippines</span> <br />
+					<a href="AAG%20on%20cities_FINAL_nov%20%2028.pdf"><span>Cities in the Philippines</span> <br />
 					<small>November 2013 (576 KB)</small></a></li>
 					
 					<li>
-					<a href="AAG&#32;2013-10&#32;-&#32;on&#32;poverty&#32;and&#32;inequality_final.pdf"><span>Trends in Poverty and Inequality</span> <br />
+					<a href="AAG%202013-10%20-%20on%20poverty%20and%20inequality_final.pdf"><span>Trends in Poverty and Inequality</span> <br />
 					<small>October 2013 (541 KB)</small></a></li>
 
 					
 					<li>
-					<a href="AAG&#32;2013-04&#32;-&#32;On&#32;CPR&#32;_Final.pdf"><span>Contraceptive Use in the Philippines</span> <br />
+					<a href="AAG%202013-04%20-%20On%20CPR%20_Final.pdf"><span>Contraceptive Use in the Philippines</span> <br />
 					<small>September 2013 (645KB)</small></a></li>
 					
 					<li>
-					<a href="AAG&#32;2013-05&#32;-&#32;Crime&#32;Statistics.pdf"><span>Crime Statistics</span> <br />
+					<a href="AAG%202013-05%20-%20Crime%20Statistics.pdf"><span>Crime Statistics</span> <br />
 					<small>June 2013 (463KB)</small></a></li>
 
 					<li>
-					<a href="AAG&#32;2013-04&#32;-&#32;Natural&#32;Disasters_final.pdf"><span>Natural Disasters</span> <br />
+					<a href="AAG%202013-04%20-%20Natural%20Disasters_final.pdf"><span>Natural Disasters</span> <br />
 					<small>April 2013 (451KB)</small></a></li>
 
 					<li>
 					
-					<a href="AAG&#32;2013-03&#32;GHG&#32;emission.pdf">
+					<a href="AAG%202013-03%20GHG%20emission.pdf">
 		<span>GHG Emissions</span> <br />
 		<small>March 2013 (563KB)</small></a></li>
 		
-		<li><a href="AG&#32;2012-05&#32;-&#32;Credit&#32;Rating&#32;Agencies.pdf">
+		<li><a href="AG%202012-05%20-%20Credit%20Rating%20Agencies.pdf">
 		<span>Philippine Credit Rating</span> <br />
 		<small>July 2012 (645KB)</small></a></li>
 		
-		<li><a href="AG&#32;2012-04&#32;-&#32;OFW.pdf">
+		<li><a href="AG%202012-04%20-%20OFW.pdf">
 		<span>Overseas Filipino Workers</span> <br />
 		<small>May 2012 (549KB)</small></a></li>
 		
-		<li><a href="AG&#32;2012-03&#32;-&#32;MSME.pdf">
+		<li><a href="AG%202012-03%20-%20MSME.pdf">
 		<span>The MSME Sector</span> <br />
 		<small>March 2012 (589KB)</small></a></li>
 					
 					
 					<li>
-					<a href="AG&#32;2012-02&#32;-&#32;Agricultural&#32;Exports.pdf">
+					<a href="AG%202012-02%20-%20Agricultural%20Exports.pdf">
 		<span>Philippine Agricultural Exports</span> <br />
 		<small>February 2012 (539KB)</small></a></li>
 
 					<li>
-					<a href="AG&#32;2012-01&#32;-&#32;AFP&#32;Pension&#32;System.pdf">
+					<a href="AG%202012-01%20-%20AFP%20Pension%20System.pdf">
 		<span>The AFP Pension System</span> <br />
 		<small>January 2012 (553KB)</small></a></li>
 
 					
 					<li>
-					<a href="AG&#32;2010-01&#32;-&#32;BPO&#32;Industry.pdf">
+					<a href="AG%202010-01%20-%20BPO%20Industry.pdf">
 		<span>BPO Industry</span> <br />
 		<small>January 2010 (267KB)</small></a></li>
 		
 		<li>
-					<a href="AG&#32;2009-01&#32;-&#32;PhilHealth.pdf">
+					<a href="AG%202009-01%20-%20PhilHealth.pdf">
 		<span>PhilHealth</span> <br />
 		<small>November 2009 (250KB)</small></a></li>
 		<li>
-					<a href="AG&#32;2008-01&#32;-&#32;The&#32;2009&#32;Proposed&#32;Budget&#32;(revised).pdf">
+					<a href="AG%202008-01%20-%20The%202009%20Proposed%20Budget%20(revised).pdf">
 		<span>The 2009 Proposed Budget</span> <br />
 		<small>September 2008 (217KB)</small></a></li>
 
 					<li>
-					<a href="AG&#32;2008-02&#32;-&#32;Fiscal&#32;Report&#32;2007.pdf">
+					<a href="AG%202008-02%20-%20Fiscal%20Report%202007.pdf">
 		<span>Fiscal Report 2007</span> <br />
 		<small>February 2008 (170KB)</small></a></li>
 
 					<li>
-					<a href="AG&#32;2007-10&#32;-&#32;Doing&#32;Business.pdf">
+					<a href="AG%202007-10%20-%20Doing%20Business.pdf">
 		<span>Doing Business</span> <br />
 		<small>October 2007 (158KB)</small></a></li>
 					<li>
-					<a href="AG&#32;2007-02&#32;-&#32;Fiscal&#32;Report&#32;2006.pdf">
+					<a href="AG%202007-02%20-%20Fiscal%20Report%202006.pdf">
 		<span>Fiscal Report 2006</span> <br />
 		<small>February 2007 (65KB)</small></a></li>
 					<li>
-					<a href="http://senate.gov.ph/publications/AG%202007-01%20-%25Philippine%25Stock%25Market.pdf">
+					<a href="AG%202007-01%20-%25Philippine%25Stock%25Market.pdf">
 					<span>Philippine Stock Market</span><br />January 2007 <small>(86KB)</small></a></li><li>
 
-					<a href="AG&#32;2006-12&#32;-&#32;Education&#32;Spending&#32;and&#32;Outcomes.pdf">
+					<a href="AG%202006-12%20-%20Education%20Spending%20and%20Outcomes.pdf">
 					<span>Education 
 					Spending and Outcomes</span><br />November 2006 <small>(71KB)</small></a></li><li>
 			
-					<a href="AG&#32;2006-09&#32;-&#32;Economy.pdf"><span>Economy</span><br />
+					<a href="AG%202006-09%20-%20Economy.pdf"><span>Economy</span><br />
 					July 2006 <small>(63KB)</small></a></li><li>
 			
-					<a href="AG&#32;2006-07&#32;-&#32;Housing&#32;Sector.pdf">
+					<a href="AG%202006-07%20-%20Housing%20Sector.pdf">
 					<span>Housing Sector</span><br />June 2006 <small>(87KB)</small></a></li>
 					
 					</ul>
@@ -1041,95 +1041,95 @@ percent in 2016 to 3-5 percent by 2022.<br />
 					
 					<li>
 					
-					<a href="AG&#32;2006-05&#32;-&#32;FIES.pdf"><span>Family Income 
+					<a href="AG%202006-05%20-%20FIES.pdf"><span>Family Income 
 					and Expenditure Survey</span><br />April 2006 <small>(72KB)</small></a></li>
 					<li>
-					<a href="AG&#32;2006-03&#32;-&#32;Women&#32;in&#32;Politics&#32;and&#32;Governance.pdf">
+					<a href="AG%202006-03%20-%20Women%20in%20Politics%20and%20Governance.pdf">
 					<span>Women in Politics and Governance</span><br />March 2006 <small>
 					(77KB)</small></a></li>
 					
 					<li>
 					
-					<a href="AG&#32;2006-01&#32;-&#32;The&#32;Economy.pdf">
+					<a href="AG%202006-01%20-%20The%20Economy.pdf">
 					<span>The Economy</span><br />January 2006 <small>(62KB)</small></a></li>
 					
 					<li>
-					<a href="AG&#32;2005-11&#32;-&#32;Economy.pdf"><span>Economy</span><br />
+					<a href="AG%202005-11%20-%20Economy.pdf"><span>Economy</span><br />
 					October 2005 <small>(83KB)</small></a></li>
 					
 					<li>
-					<a href="AG&#32;2005-09&#32;-&#32;Universal&#32;and&#32;Commercial&#32;Banks.pdf">
+					<a href="AG%202005-09%20-%20Universal%20and%20Commercial%20Banks.pdf">
 					<span>Universal and Commercial Banks</span><br />September 2005 <small>(83KB)</small></a>
 					
 					<li>
 					
-					<a href="AG&#32;2005-07&#32;-&#32;Electric&#32;Power.pdf">
+					<a href="AG%202005-07%20-%20Electric%20Power.pdf">
 					<span>Electric Power</span><br />July 2005 <small>(94KB)</small></a></li>
 					<li>
-					<a href="AG&#32;2005-06&#32;-&#32;Governance&#32;Indicators.pdf">
+					<a href="AG%202005-06%20-%20Governance%20Indicators.pdf">
 					<span>Governance Indicators</span><br />June 2005 <small>(82KB)</small></a></li>
 					<li>
-					<a href="AG&#32;2005-07&#32;-&#32;Electric&#32;Power.pdf">
+					<a href="AG%202005-07%20-%20Electric%20Power.pdf">
 					<span>Electric Power</span><br />July 2005 <small>(94KB)</small></a></li>
 					
 					<li>
-					<a href="AG&#32;2005-06&#32;-&#32;Governance&#32;Indicators.pdf">
+					<a href="AG%202005-06%20-%20Governance%20Indicators.pdf">
 					<span>Governance Indicators</span><br />June 2005 <small>(82KB)</small></a></li>
 				
 					
 					<li>					
-					<a href="AG&#32;2005-04&#32;-&#32;Womens&#32;Situation.pdf">
+					<a href="AG%202005-04%20-%20Womens%20Situation.pdf">
 					<span>Women&#39;s Situation</span><br />
 					April 2005 <small>(47KB)</small></a></li>
 					<li>
 					
-					<a href="AG&#32;2005-03&#32;-&#32;Agriculture.pdf">
+					<a href="AG%202005-03%20-%20Agriculture.pdf">
 					<span>Agriculture</span><br />March 2005 <small>(50KB)</small></a></li>
 					<li>
-					<a href="AG&#32;2006-11&#32;-&#32;National&#32;Government&#32;Fiscal&#32;Position.pdf">
+					<a href="AG%202006-11%20-%20National%20Government%20Fiscal%20Position.pdf">
 					<span>National Government Fiscal Position</span><br />
 					November 2006 <small>(77KB)</small></a></li>
 					<li>
-					<a href="AG&#32;2006-08&#32;-&#32;The&#32;Philippine&#32;Agrarian&#32;Reform.pdf">
+					<a href="AG%202006-08%20-%20The%20Philippine%20Agrarian%20Reform.pdf">
 					<span>The Philippine Agrarian Reform</span><br />
 					June 2006 <small>(73KB)</small></a></li>
 					<li>
-					<a href="AG&#32;2006-06&#32;-&#32;Nutritional&#32;Status&#32;of&#32;Filipino&#32;Children.pdf">
+					<a href="AG%202006-06%20-%20Nutritional%20Status%20of%20Filipino%20Children.pdf">
 					<span>Nutritional Status of Filipino Children</span><br />
 					May 2006 <small>(86KB)</small></a></li>
 					<li>
-					<a href="AG&#32;2006-04&#32;-&#32;Corruption&#32;Facts&#32;and&#32;Figures.pdf">
+					<a href="AG%202006-04%20-%20Corruption%20Facts%20and%20Figures.pdf">
 					<span>Corruption Facts and Figures</span><br />
 					April 2006 <small>(79KB - 
 					PDF)</small></a></li>
 					<li>
-					<a href="AG&#32;2006-02&#32;-&#32;Business&#32;Environment.pdf">
+					<a href="AG%202006-02%20-%20Business%20Environment.pdf">
 					<span>Business Environment</span><br />
 					February 2006 <small>(54KB)</small></a></li>
 					<li>
-					<a href="AG&#32;2005-12&#32;-&#32;Philippine&#32;Environment&#32;Quality.pdf">
+					<a href="AG%202005-12%20-%20Philippine%20Environment%20Quality.pdf">
 					<span>Philippine &#39;Brown&#39; Environment Quality</span><br />
 					November 2005 <small>(81KB)</small></a></li>
 					<li>
-					<a href="AG&#32;2005-10&#32;-&#32;Higher&#32;Education.pdf">
+					<a href="AG%202005-10%20-%20Higher%20Education.pdf">
 					<span>Higher Education</span><br />
 					October 2005 <small>(68KB)</small></a></li>
 					<li>
-					<a href="AG&#32;2005-08&#32;-&#32;Competitiveness.pdf">
+					<a href="AG%202005-08%20-%20Competitiveness.pdf">
 					<span>Competitiveness</span><br />
 					August 2005 <small>(78KB)</small></a></li>
-					<li><a href="AG&#32;2005-07&#32;-&#32;Economy.pdf">
+					<li><a href="AG%202005-07%20-%20Economy.pdf">
 					<span>Economy</span><br />
 					July 2005 <small>(44KB)</small></a></li>
 					<li>
-					<a href="AG&#32;2005-05&#32;-&#32;Philippine&#32;Poverty.pdf">
+					<a href="AG%202005-05%20-%20Philippine%20Poverty.pdf">
 					<span>Philippine Poverty</span><br />
 					May 2005 <small>(46KB)</small></a></li>
-					<li><a href="AG&#32;2005-04&#32;-&#32;Economy.pdf">
+					<li><a href="AG%202005-04%20-%20Economy.pdf">
 					<span>Economy</span><br />
 					April 2005 <small>(33KB)</small></a></li>
 					<li>
-					<a href="AG&#32;2005-02&#32;-&#32;Basic&#32;Education.pdf">
+					<a href="AG%202005-02%20-%20Basic%20Education.pdf">
 					<span>Basic Education</span><br />
 					February 2005
 					<small>(43KB)</small></a></li>
@@ -1145,18 +1145,18 @@ percent in 2016 to 3-5 percent by 2022.<br />
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="PavingTheRoadToInclusiveGrowth&amp;Development.pdf">
+		<a href="PavingTheRoadToInclusiveGrowth&Development.pdf">
 		<img src="images/paving.png" class="float" /><span>PAVING THE ROAD TO INCLUSIVE GROWTH AND DEVELOPMENT</span> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" /><br />
 		<small>A Proposed Legislative Agenda for the 15th Congress&nbsp; </small></a>
 		<br />
-		<a href="Making&#32;Growth&#32;Work&#32;for&#32;the&#32;poor.pdf">
-		<small>December  2010 (1.5MB)</small><a href="Making&#32;Growth&#32;Work&#32;for&#32;the&#32;poor.pdf"><div class="minibreak"></div>
+		<a href="Making%20Growth%20Work%20for%20the%20poor.pdf">
+		<small>December  2010 (1.5MB)</small><a href="Making%20Growth%20Work%20for%20the%20poor.pdf"><div class="minibreak"></div>
 		While the 14th Congress has made significant strides in pursing reforms and enacting laws that will further boost economic growth and improve the quality of life of Filipinos, it cannot be denied that much more needs to be done.</a></p>
 		</div></div>
 
 		<div class="pubitem"><div class="alight">
-		<p><a href="Making&#32;Growth&#32;Work&#32;for&#32;the&#32;poor.pdf">
+		<p><a href="Making%20Growth%20Work%20for%20the%20poor.pdf">
 		<img src="images/sustaining.png" class="float" /><span>Sustaining the momentum, Making Growth Work for the poor</span> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" /><br />
 		<small>December  2007 (2.2MB)</small><div class="minibreak"></div>
@@ -1166,7 +1166,7 @@ percent in 2016 to 3-5 percent by 2022.<br />
 		<div class="minibreak"></div>
 
 		<div class="pubitem"><div class="alight">
-		<p><a href="A&#32;Profile&#32;of&#32;Selected&#32;GOCCs.pdf">
+		<p><a href="A%20Profile%20of%20Selected%20GOCCs.pdf">
 		<img src="images/ag2007-02.png" class="float" /><span>A Profile of Selected Philippine <br />Government Owned and Controlled Corporations</span> 
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" /><br />
 		<small>May 2007 (1.6MB)</small><div class="minibreak"></div>
@@ -1176,7 +1176,7 @@ percent in 2016 to 3-5 percent by 2022.<br />
 		<div class="minibreak"></div>
 		
 		<div class="pubitem"><div class="alight" style="margin-bottom: -20px;">
-		<p><a href="Five&#32;Pillars&#32;of&#32;Growth.pdf">
+		<p><a href="Five%20Pillars%20of%20Growth.pdf">
 		<img src="images/fivepillars.png" class="float" /><span>Five Pillars of Growth: <br />An Economic and Social Development Framework</span>
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" /><br />
 		<small>(360KB)</small><div class="minibreak"></div>
@@ -1200,19 +1200,19 @@ Publications
 	<ul>
 		<!--<li>
 		<a href="../performance/Performance%20of%20the%20Senate%202nd%20Regular%20Session%2015th%20Congress%20July%2025,%202011%20-%20June%208,%202012.pdf">Performance of the Senate</a></li>-->
-		<li><a href="sepo_publications.asp">SEPO publications</a> 
+		<li><a href="/publications/sepo_publications.asp">SEPO publications</a> 
 		</li>
-		<li><a href="stsro_publications.asp">STSRO publications</a>
+		<li><a href="/publications/stsro_publications.asp">STSRO publications</a>
 		</li>
-		<li><a href="lbrmo_publications.asp">LBRMO publications</a>
+		<li><a href="/publications/lbrmo_publications.asp">LBRMO publications</a>
 		</li>
-		<li><a href="ils_publications.asp">ILS publications</a>
+		<li><a href="/publications/ils_publications.asp">ILS publications</a>
 		</li>
-		<li><a href="lrs_publications.asp">LRS publications</a>
+		<li><a href="/publications/lrs_publications.asp">LRS publications</a>
 		</li>
-		<li><a href="lls_publications.asp">LLS publications</a>
+		<li><a href="/publications/lls_publications.asp">LLS publications</a>
 		</li>
-		<li><a href="other_publications.asp">Other publications</a>
+		<li><a href="/publications/other_publications.asp">Other publications</a>
 		</li>
 	</ul>
 </div>
@@ -1231,8 +1231,8 @@ Publications
 	<td style="text-align: left; color: white; width: 381px;">© Senate of the Philippines. All rights reserved.</td>
 <td style="text-align: right">
 <a href="../job.pdf">Job Openings </a></a>| 
-<a href="../contact18thcongress.asp">Contact Info</a> | <a href="../rss.asp">RSS Feeds</a> <a href="../rss.asp">
-<img src="../images/feed10.png" alt="RSS icon" /></a> | <a href="../search.aspx">Search</a> | <a href="../sitemap.asp">Site Map</a></td></tr></table></div></div>
+<a href="/contact18thcongress.asp">Contact Info</a> | <a href="/rss.asp">RSS Feeds</a> <a href="/rss.asp">
+<img src="/images/feed10.png" alt="RSS icon" /></a> | <a href="/search.aspx">Search</a> | <a href="/sitemap.asp">Site Map</a></td></tr></table></div></div>
 
 
 

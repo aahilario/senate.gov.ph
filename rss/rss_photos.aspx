@@ -11,83 +11,83 @@
 <language>en-us</language>
 <copyright>Senate of the Philippines</copyright>
 <item>
-<title>Moving to digitalization</title>
-<link>http://www.senate.gov.ph/photo_release/2020/0608_02.asp</link>
-<guid>http://www.senate.gov.ph/photo_release/2020/0608_02.asp</guid>
-<description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.senate.gov.ph/photo_release/2020/0608_02_s.jpg&quot; align=&quot;left&quot; hspace=&quot;6&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-<pubDate>Mon, 08 Jun 2020 09:21:03 GMT</pubDate>
+<title>Committee hearing</title>
+<link>http://www.senate.gov.ph/photo_release/2020/0620_01.asp</link>
+<guid>http://www.senate.gov.ph/photo_release/2020/0620_01.asp</guid>
+<description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.senate.gov.ph/photo_release/2020/0620_01_s.jpg&quot; align=&quot;left&quot; hspace=&quot;6&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+<pubDate>Sat, 20 Jun 2020 03:45:36 GMT</pubDate>
 </item>
 
 <item>
-<title>Cross enrollment under the 'new normal'</title>
-<link>http://www.senate.gov.ph/photo_release/2020/0608_01.asp</link>
-<guid>http://www.senate.gov.ph/photo_release/2020/0608_01.asp</guid>
-<description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.senate.gov.ph/photo_release/2020/0608_01_s.jpg&quot; align=&quot;left&quot; hspace=&quot;6&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-<pubDate>Mon, 08 Jun 2020 09:21:03 GMT</pubDate>
+<title>Quezon City</title>
+<link>http://www.senate.gov.ph/photo_release/2020/0620_00.asp</link>
+<guid>http://www.senate.gov.ph/photo_release/2020/0620_00.asp</guid>
+<description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.senate.gov.ph/photo_release/2020/0620_00_s.jpg&quot; align=&quot;left&quot; hspace=&quot;6&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+<pubDate>Sat, 20 Jun 2020 03:45:36 GMT</pubDate>
 </item>
 
 <item>
-<title>Future of education system under the new normal</title>
-<link>http://www.senate.gov.ph/photo_release/2020/0608_00.asp</link>
-<guid>http://www.senate.gov.ph/photo_release/2020/0608_00.asp</guid>
-<description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.senate.gov.ph/photo_release/2020/0608_00_s.jpg&quot; align=&quot;left&quot; hspace=&quot;6&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-<pubDate>Mon, 08 Jun 2020 09:21:02 GMT</pubDate>
+<title>Committee on  Local Government hearing</title>
+<link>http://www.senate.gov.ph/photo_release/2020/0619_05.asp</link>
+<guid>http://www.senate.gov.ph/photo_release/2020/0619_05.asp</guid>
+<description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.senate.gov.ph/photo_release/2020/0619_05_s.jpg&quot; align=&quot;left&quot; hspace=&quot;6&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+<pubDate>Sat, 20 Jun 2020 03:45:35 GMT</pubDate>
 </item>
 
 <item>
-<title>Pasay City</title>
-<link>http://www.senate.gov.ph/photo_release/2020/0606_00.asp</link>
-<guid>http://www.senate.gov.ph/photo_release/2020/0606_00.asp</guid>
-<description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.senate.gov.ph/photo_release/2020/0606_00_s.jpg&quot; align=&quot;left&quot; hspace=&quot;6&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-<pubDate>Sat, 06 Jun 2020 00:54:27 GMT</pubDate>
+<title>PH to use blended learning</title>
+<link>http://www.senate.gov.ph/photo_release/2020/0619_04.asp</link>
+<guid>http://www.senate.gov.ph/photo_release/2020/0619_04.asp</guid>
+<description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.senate.gov.ph/photo_release/2020/0619_04_s.jpg&quot; align=&quot;left&quot; hspace=&quot;6&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+<pubDate>Sat, 20 Jun 2020 03:45:34 GMT</pubDate>
 </item>
 
 <item>
-<title>Uninterrupted public service amid a pandemic</title>
-<link>http://www.senate.gov.ph/photo_release/2020/0605_00.asp</link>
-<guid>http://www.senate.gov.ph/photo_release/2020/0605_00.asp</guid>
-<description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.senate.gov.ph/photo_release/2020/0605_00_s.jpg&quot; align=&quot;left&quot; hspace=&quot;6&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-<pubDate>Sat, 06 Jun 2020 00:31:43 GMT</pubDate>
+<title>‘Education is a shared community responsibility’</title>
+<link>http://www.senate.gov.ph/photo_release/2020/0619_03.asp</link>
+<guid>http://www.senate.gov.ph/photo_release/2020/0619_03.asp</guid>
+<description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.senate.gov.ph/photo_release/2020/0619_03_s.jpg&quot; align=&quot;left&quot; hspace=&quot;6&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+<pubDate>Sat, 20 Jun 2020 03:45:34 GMT</pubDate>
 </item>
 
 <item>
-<title>Sine die adjournment</title>
-<link>http://www.senate.gov.ph/photo_release/2020/0604_08.asp</link>
-<guid>http://www.senate.gov.ph/photo_release/2020/0604_08.asp</guid>
-<description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.senate.gov.ph/photo_release/2020/0604_08_s.jpg&quot; align=&quot;left&quot; hspace=&quot;6&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-<pubDate>Sat, 06 Jun 2020 00:31:43 GMT</pubDate>
+<title>Local Government Committee hearing</title>
+<link>http://www.senate.gov.ph/photo_release/2020/0619_02.asp</link>
+<guid>http://www.senate.gov.ph/photo_release/2020/0619_02.asp</guid>
+<description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.senate.gov.ph/photo_release/2020/0619_02_s.jpg&quot; align=&quot;left&quot; hspace=&quot;6&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+<pubDate>Sat, 20 Jun 2020 03:45:33 GMT</pubDate>
 </item>
 
 <item>
-<title>Sotto thanks colleagues</title>
-<link>http://www.senate.gov.ph/photo_release/2020/0604_07.asp</link>
-<guid>http://www.senate.gov.ph/photo_release/2020/0604_07.asp</guid>
-<description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.senate.gov.ph/photo_release/2020/0604_07_s.jpg&quot; align=&quot;left&quot; hspace=&quot;6&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-<pubDate>Sat, 06 Jun 2020 00:31:43 GMT</pubDate>
+<title>Better coordination between DepEd and LGUs</title>
+<link>http://www.senate.gov.ph/photo_release/2020/0619_01.asp</link>
+<guid>http://www.senate.gov.ph/photo_release/2020/0619_01.asp</guid>
+<description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.senate.gov.ph/photo_release/2020/0619_01_s.jpg&quot; align=&quot;left&quot; hspace=&quot;6&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+<pubDate>Fri, 19 Jun 2020 08:47:29 GMT</pubDate>
 </item>
 
 <item>
-<title>Deep conversation</title>
-<link>http://www.senate.gov.ph/photo_release/2020/0604_06.asp</link>
-<guid>http://www.senate.gov.ph/photo_release/2020/0604_06.asp</guid>
-<description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.senate.gov.ph/photo_release/2020/0604_06_s.jpg&quot; align=&quot;left&quot; hspace=&quot;6&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-<pubDate>Thu, 04 Jun 2020 09:15:59 GMT</pubDate>
+<title>Expanding the Special Education Fund coverage</title>
+<link>http://www.senate.gov.ph/photo_release/2020/0619_00.asp</link>
+<guid>http://www.senate.gov.ph/photo_release/2020/0619_00.asp</guid>
+<description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.senate.gov.ph/photo_release/2020/0619_00_s.jpg&quot; align=&quot;left&quot; hspace=&quot;6&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+<pubDate>Fri, 19 Jun 2020 08:47:29 GMT</pubDate>
 </item>
 
 <item>
-<title>Tolentino on expiration of teleconferencing</title>
-<link>http://www.senate.gov.ph/photo_release/2020/0604_05.asp</link>
-<guid>http://www.senate.gov.ph/photo_release/2020/0604_05.asp</guid>
-<description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.senate.gov.ph/photo_release/2020/0604_05_s.jpg&quot; align=&quot;left&quot; hspace=&quot;6&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-<pubDate>Thu, 04 Jun 2020 09:15:58 GMT</pubDate>
+<title>Marcos on the role of parents under the new normal</title>
+<link>http://www.senate.gov.ph/photo_release/2020/0617_02.asp</link>
+<guid>http://www.senate.gov.ph/photo_release/2020/0617_02.asp</guid>
+<description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.senate.gov.ph/photo_release/2020/0617_02_s.jpg&quot; align=&quot;left&quot; hspace=&quot;6&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+<pubDate>Wed, 17 Jun 2020 08:08:04 GMT</pubDate>
 </item>
 
 <item>
-<title>Three’s a company</title>
-<link>http://www.senate.gov.ph/photo_release/2020/0604_04.asp</link>
-<guid>http://www.senate.gov.ph/photo_release/2020/0604_04.asp</guid>
-<description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.senate.gov.ph/photo_release/2020/0604_04_s.jpg&quot; align=&quot;left&quot; hspace=&quot;6&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-<pubDate>Thu, 04 Jun 2020 09:15:57 GMT</pubDate>
+<title>PH education system’s future under COVID-19</title>
+<link>http://www.senate.gov.ph/photo_release/2020/0617_01.asp</link>
+<guid>http://www.senate.gov.ph/photo_release/2020/0617_01.asp</guid>
+<description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.senate.gov.ph/photo_release/2020/0617_01_s.jpg&quot; align=&quot;left&quot; hspace=&quot;6&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+<pubDate>Wed, 17 Jun 2020 07:18:14 GMT</pubDate>
 </item>
 
 </channel></rss>

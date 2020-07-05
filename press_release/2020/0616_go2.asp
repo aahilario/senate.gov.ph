@@ -135,16 +135,16 @@ News <a href="/rss/rss_news.aspx"><img src="/images/feed10.png" alt="Latest News
 </div>
 
 <div class="sidepane_nav">
-<div class="news_header">Tuesday, June 16</div><ul><li><a href="/press_release/2020/0616_gatchalian2.asp">Radyo Singko interview ni Senator Win Gatchalian kasama si Cheryl Cosim at Orly Mercado ukol sa employment rate ng bansa at online sellers</a></li>
-<li><a href="/press_release/2020/0616_go2.asp">Bong Go reiterates: "battle versus COVID-19 not yet over"; urges public to remain vigilant</a></li>
-<li><a href="/press_release/2020/0616_pangilinan1.asp">On International Domestic Workers' Day Remember Michelle Silvertino and bring home other workers safely: Pangilinan</a></li>
-<li><a href="/press_release/2020/0616_lacson1.asp">Lacson Rectifies IBP Misconceptions: Anti-Terrorism Bill Swift, Effective, Constitutional</a></li>
-<li><a href="/press_release/2020/0616_go1.asp">Bong Go reminds government agencies to provide support for live events workers and other non-operating industries affected by COVID-19 crisis</a></li>
-<li><a href="/press_release/2020/0616_gordon1.asp">Gordon: PRC sends consumables for RITM to continue Covid-testing operations unhampered</a></li>
-<li><a href="/press_release/2020/0616_gatchalian1.asp">Gatchalian urges telcos: build cell sites in public elementary schools</a></li>
-<li><a href="/press_release/2020/0616_hontiveros1.asp">Hontiveros seeks Senate probe on gov't plans to reintegrate displaced OFWs families</a></li>
-<li><a href="/press_release/2020/0616_revilla1.asp">Revilla seeks Senate review on government's repatriation efforts for OFWs</a></li>
-<li><a href="/press_release/2020/0616_delima1.asp">De Lima asserts innocence, moves for bail</a></li>
+<div class="news_header">Tuesday, June 23</div><ul><li><a href="/press_release/2020/0623_villanueva1.asp">Statement of Senator Joel Villanueva on the prospects of economic recovery by Q4 2020</a></li>
+<li><a href="/press_release/2020/0623_go2.asp">Bong Go urges Executive branch to review health and safety protocols for travels to provinces; protect areas, especially those with low to zero COVID-19 cases</a></li>
+<li><a href="/press_release/2020/0623_gordon2.asp">Boost RP’s capability to develop own vaccines – Gordon</a></li>
+<li><a href="/press_release/2020/0623_gordon1.asp">Gordon: PRC to put up testing centers in RP’s tourism hubs to ramp up Covid testing</a></li>
+<li><a href="/press_release/2020/0623_poe1.asp">Poe: Family backriding in motorcycles to reduce stranded passengers, get people to work faster</a></li>
+<li><a href="/press_release/2020/0623_pangilinan1.asp">Pangilinan to govt: Let jeepney, UV Express get back on the road</a></li>
+<li><a href="/press_release/2020/0623_go1.asp">Bong Go reminds public to remain vigilant; urges concerned agencies to address the people's needs as COVID-19 crisis continues</a></li>
+<li><a href="/press_release/2020/0623_gatchalian1.asp">Boost ICT competitiveness to help spur PH digital economy - Gatchalian</a></li>
+<li><a href="/press_release/2020/0623_hontiveros1.asp">Hontiveros files reso urging BIR to suspend tax memo on online sellers</a></li>
+<li><a href="/press_release/2020/0623_villar1.asp">Villar to DENR: Bacoor reclamation project threatens protected area, undermines Manila Bay rehabilitation project and will worsen flooding</a></li>
 </ul>
 	<div class="more">
 	<a href="/news.asp?year=2020">

@@ -5,37 +5,37 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Committee Duties, Power &amp; Jurisdiction - Senate of the Philippines
 </title>
-<script type="text/javascript" language="javascript" src="http://senate.gov.ph/scripts_web/div.js"></script>
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml.css" media="all" />
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml_body.css" media="all" />
+<script type="text/javascript" language="javascript" src="/scripts_web/div.js"></script>
+<link rel="stylesheet" type="text/css" href="/scripts_web/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="../scripts_web/xhtml.css" media="all" />
+<link rel="stylesheet" type="text/css" href="../scripts_web/xhtml_body.css" media="all" />
 </head>
 
 <body>
 
-<div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="../images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
-<table><tr><td><a href="../index.html">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
+<div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="/images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
+<table><tr><td><a href="/">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
 &nbsp;About&nbsp;</div><div id="nav_About" class="div_hidden" onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="../about/history.asp">History of the Senate</a></p>
-<p><a href="../about/symbols&#32;of&#32;authority.asp">Symbols of Authority</a></p><p><a href="../about/legpro.asp">Legislative Process</a></p>
+<div class="nav_dropdown"><p><a href="/about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="/about/history.asp">History of the Senate</a></p>
+<p><a href="/about/symbols%20of%20authority.asp">Symbols of Authority</a></p><p><a href="/about/legpro.asp">Legislative Process</a></p>
 </div></div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
 &nbsp;Senators&nbsp;</div><div id="nav_Senators" class="div_hidden" onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../senators/sen18th.asp">18th Congress Senators</a></p><p><a href="../senators/senlist.asp">List of Previous Senators</a></p>
-<p><a href="../senators/roll.asp">Roll of Senate President</a></p><p><a href="../senators/composition.asp">Composition of the Senate</a></p><p><a href="../senators/terms.asp">Terms of Office and Privileges</a></p>
+<div class="nav_dropdown"><p><a href="/senators/sen18th.asp">18th Congress Senators</a></p><p><a href="/senators/senlist.asp">List of Previous Senators</a></p>
+<p><a href="/senators/roll.asp">Roll of Senate President</a></p><p><a href="/senators/composition.asp">Composition of the Senate</a></p><p><a href="/senators/terms.asp">Terms of Office and Privileges</a></p>
 </div></div></td><td>|</td><td>
 <div onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">&nbsp;Committees&nbsp;</div>
 <div id="nav_Committees" class="div_hidden" onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">
-<div class="nav_dropdown"><p><a href="ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="duties.asp">Duties, Power &amp; Jurisdiction</a></p>
-<p><a href="ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="schedwk.asp">Committee Schedule</a></p></div>
+<div class="nav_dropdown"><p><a href="/committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
+<p><a href="/committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="/committee/schedwk.asp">Committee Schedule</a></p></div>
 </div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
 &nbsp;Secretariat&nbsp;</div><div id="nav_Secretariat" class="div_hidden" onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="../secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="../secretariat/osec.asp">Office of the Secretary</a></p>
-<p><a href="../secretariat/leg.asp">Legislation</a></p><p><a href="../secretariat/admin.asp">Administration and Financial Services</a></p>
-<p><a href="../secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="../secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
+<div class="nav_dropdown"><p><a href="/secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="/secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="/secretariat/osec.asp">Office of the Secretary</a></p>
+<p><a href="/secretariat/leg.asp">Legislation</a></p><p><a href="/secretariat/admin.asp">Administration and Financial Services</a></p>
+<p><a href="/secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="/secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
 </div></div></td><td>| </td>
 
 
@@ -44,14 +44,14 @@
 &nbsp;Legislative Documents&nbsp;</div>
 <div id="nav_LegislativeDocuments" class="div_hidden" onmouseover="ShowDiv('nav_LegislativeDocuments');HideSelect();" onmouseout="HideDiv('nav_LegislativeDocuments');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=bill">Bills</a></p>
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=resolution">Resolutions</a></p>
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=journal">Journals</a></p>
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=committee_rpt">Committee Reports</a></p>
-<p><a href="../lis/pdf_sys.aspx?congress=18&amp;type=republic_act">Republic Acts</a></p>
-<p><a href="../lis/pdf_sys.aspx?congress=18&amp;type=adopted_res">Adopted Resolutions</a></p>
-<p><a href="../18th_congress/treaties_18thcongress.asp">Treaties</a></p>
-<p><a href="../statistical.pdf">Statistical Data</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=bill">Bills</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=resolution">Resolutions</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=journal">Journals</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=committee_rpt">Committee Reports</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=republic_act">Republic Acts</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=adopted_res">Adopted Resolutions</a></p>
+<p><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a></p>
+<p><a href="/statistical.pdf">Statistical Data</a></p>
 </div>
 </div>
 </td>
@@ -62,13 +62,13 @@
 &nbsp;Publications&nbsp;</div>
 <div id="nav_publications" class="div_hidden" onmouseover="ShowDiv('nav_publications');HideSelect();" onmouseout="HideDiv('nav_publications');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../publications/sepo_publications.asp">SEPO Publications</a></p>
-<p><a href="../publications/stsro_publications.asp">STSRO Publications</a></p>
-<p><a href="../publications/lbrmo_publications.asp">LBRMO Publications</a></p>
-<p><a href="../publications/ils_publications.asp">ILS Publications</a></p>
-<p><a href="../publications/lrs_publications.asp">LRS Publications</a></p>
-<p><a href="../publications/lls_publications.asp">LLS Publications</a></p>
-<p><a href="../publications/other_publications.asp">Other Publications</a></p>
+<p><a href="/publications/sepo_publications.asp">SEPO Publications</a></p>
+<p><a href="/publications/stsro_publications.asp">STSRO Publications</a></p>
+<p><a href="/publications/lbrmo_publications.asp">LBRMO Publications</a></p>
+<p><a href="/publications/ils_publications.asp">ILS Publications</a></p>
+<p><a href="/publications/lrs_publications.asp">LRS Publications</a></p>
+<p><a href="/publications/lls_publications.asp">LLS Publications</a></p>
+<p><a href="/publications/other_publications.asp">Other Publications</a></p>
 </div>
 </div>
 </td>
@@ -79,7 +79,7 @@
 &nbsp;GAD&nbsp;</div>
 <div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../GAD/Bills&amp;Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+<p><a href="/GAD/Bills&Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
 </div>
 </div>
 </td>
@@ -93,52 +93,52 @@
 		<p class="h1_bold">Committee Duties, Power and Jurisdiction</p>
 		<div id="toc">
 			<p>
-			<a href="duties.asp#Accountability of public Officers and Investigations (Blue Ribbon)">
+			<a href="#Accountability of public Officers and Investigations (Blue Ribbon)">
 			Accountability of Public Officers and Investigations (Blue Ribbon)</a><br />
-			<a href="duties.asp#Accounts">Accounts</a><br />
-			<a href="duties.asp#Agrarian Reform">Agrarian Reform</a><br />
-			<a href="duties.asp#Agriculture and Food">Agriculture and Food</a><br />
-			<a href="duties.asp#Banks, Financial Institutions and Currencies">Banks, Financial 
+			<a href="#Accounts">Accounts</a><br />
+			<a href="#Agrarian Reform">Agrarian Reform</a><br />
+			<a href="#Agriculture and Food">Agriculture and Food</a><br />
+			<a href="#Banks, Financial Institutions and Currencies">Banks, Financial 
 			Institutions and Currencies</a><br />
-			<a href="duties.asp#Civil Service and Government Reorganization">Civil Service and 
+			<a href="#Civil Service and Government Reorganization">Civil Service and 
 			Government Reorganization</a><br />
-			<a href="duties.asp#Constitutional Amend-ments, Revision of Codes and Laws">Constitutional 
+			<a href="#Constitutional Amend-ments, Revision of Codes and Laws">Constitutional 
 			Amend-ments, Revision of Codes and Laws</a><br />
-			<a href="duties.asp#Cooperatives">Cooperatives</a><br />
-			<a href="duties.asp#Cultural Communities">Cultural Communities</a><br />
-			<a href="duties.asp#Economic Affairs">Economic Affairs</a><br />
-			<a href="duties.asp#Education, Arts and Culture">Education, Arts and Culture</a><br />
-			<a href="duties.asp#Energy">Energy</a><br />
-			<a href="duties.asp#Environment and Natural Resources">Environment and Natural Resources</a><br />
-			<a href="duties.asp#Ethics and Privileges">Ethics and Privileges</a><br />
-			<a href="duties.asp#Finance">Finance</a><br />
-			<a href="duties.asp#Foreign Relations">Foreign Relations</a><br />
-			<a href="duties.asp#Games, Amusement and Sports">Games, Amusement and Sports</a><br />
-			<a href="duties.asp#Government Corporations and Public Enterprises">Government Corporations 
+			<a href="#Cooperatives">Cooperatives</a><br />
+			<a href="#Cultural Communities">Cultural Communities</a><br />
+			<a href="#Economic Affairs">Economic Affairs</a><br />
+			<a href="#Education, Arts and Culture">Education, Arts and Culture</a><br />
+			<a href="#Energy">Energy</a><br />
+			<a href="#Environment and Natural Resources">Environment and Natural Resources</a><br />
+			<a href="#Ethics and Privileges">Ethics and Privileges</a><br />
+			<a href="#Finance">Finance</a><br />
+			<a href="#Foreign Relations">Foreign Relations</a><br />
+			<a href="#Games, Amusement and Sports">Games, Amusement and Sports</a><br />
+			<a href="#Government Corporations and Public Enterprises">Government Corporations 
 			and Public Enterprises</a><br />
-			<a href="duties.asp#Health and Demography">Health and Demography</a><br />
-			<a href="duties.asp#Justice and Human Rights">Justice and Human Rights</a><br />
-			<a href="duties.asp#Labor, Employment and Human Resources Development">Labor, Employment 
+			<a href="#Health and Demography">Health and Demography</a><br />
+			<a href="#Justice and Human Rights">Justice and Human Rights</a><br />
+			<a href="#Labor, Employment and Human Resources Development">Labor, Employment 
 			and Human Resources Development</a><br />
-			<a href="duties.asp#Local Government">Local Government</a><br />
-			<a href="duties.asp#National Defense and Security">National Defense and Security</a><br />
-			<a href="duties.asp#Peace, Unification and Reconciliation">Peace, Unification and 
+			<a href="#Local Government">Local Government</a><br />
+			<a href="#National Defense and Security">National Defense and Security</a><br />
+			<a href="#Peace, Unification and Reconciliation">Peace, Unification and 
 			Reconciliation</a><br />
-			<a href="duties.asp#Public Information and Mass Media">Public Information and Mass 
+			<a href="#Public Information and Mass Media">Public Information and Mass 
 			Media</a><br />
-			<a href="duties.asp#Public Order and Illegal Drugs">Public Order and Illegal Drugs</a><br />
-			<a href="duties.asp#Public Services">Public Services</a><br />
-			<a href="duties.asp#Public Works">Public Works</a><br />
-			<a href="duties.asp#Rules">Rules</a><br />
-			<a href="duties.asp#Science and Technology">Science and Technology</a><br />
-			<a href="duties.asp#Social Justice, Welfare and Rural Development">Social Justice, 
+			<a href="#Public Order and Illegal Drugs">Public Order and Illegal Drugs</a><br />
+			<a href="#Public Services">Public Services</a><br />
+			<a href="#Public Works">Public Works</a><br />
+			<a href="#Rules">Rules</a><br />
+			<a href="#Science and Technology">Science and Technology</a><br />
+			<a href="#Social Justice, Welfare and Rural Development">Social Justice, 
 			Welfare and Rural Development</a><br />
-			<a href="duties.asp#Tourism">Tourism</a><br />
-			<a href="duties.asp#Trade and Commerce">Trade and Commerce</a><br />
-			<a href="duties.asp#Urban Planning, Housing and Resettlement">Urban Planning, Housing 
+			<a href="#Tourism">Tourism</a><br />
+			<a href="#Trade and Commerce">Trade and Commerce</a><br />
+			<a href="#Urban Planning, Housing and Resettlement">Urban Planning, Housing 
 			and Resettlement</a><br />
-			<a href="duties.asp#Ways and Means">Ways and Means</a><br />
-			<a href="duties.asp#Youth, Women and Family Relations">Youth, Women and Family Relations</a><br />
+			<a href="#Ways and Means">Ways and Means</a><br />
+			<a href="#Youth, Women and Family Relations">Youth, Women and Family Relations</a><br />
 			</p>
 		</div>
 		<hr />
@@ -156,8 +156,8 @@
 				to its attention by any member of the Senate. <i>Rule X, Section 
 				13 (36)</i><o:p>
 			              &nbsp; </div>
-		<u1:p>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<u1:p>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee on
@@ -167,8 +167,8 @@
 				to the auditing and adjustment of all accounts chargeable against 
 				the funds for the expenses and activities of the Senate. <i>Rule 
 				X, Section 13 (3)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -177,8 +177,8 @@
 				to agrarian reform, landed estates, and implementation of the agrarian 
 				land reform provisions of the Constitution. <i>Rule X, Section 13 
 				(20)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -189,8 +189,8 @@
 				services; animal husbandry; livestock quarantine; agricultural support 
 				price; and fisheries and aquatic resources. <i>Rule X, Section 13 
 				(10)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -198,8 +198,8 @@
 				to banks, financial institutions, government and private currencies, 
 				capital markets, mutual funds, securitization, coinage and circulation 
 				of money. <i>Rule X, Section 13 (7)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -214,8 +214,8 @@
 				human resource development programs pertaining to the Government; 
 				and all other matters relating to the bureaucracy. <i>Rule X, Section 
 				13 (31)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -228,8 +228,8 @@
 				acts; recall of elective officials; the role and rights of people&#39;s 
 				organizations; and sectoral or party list representation. <i>Rule 
 				X, Section 13 (30)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -238,15 +238,15 @@
 				to farm credit and farm security, cooperative movements, marketing 
 				and consumers&#39; organization and the implementation of the Cooperative 
 				Code of the Philippines. <i>Rule X, Section 13 (11)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
 				on <a name="Cultural Communities"></a>Cultural Communities</div><div align="justify"><br />Jurisdiction: All matters relating 
 				to cultural communities. <i>Rule X, Section 13 (19)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -255,8 +255,8 @@
 				foreign public indebtedness; general economic development; and coordination, 
 				regulation and diversification of industry and investments. <i>Rule 
 				X, Section 13 (6)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -273,8 +273,8 @@
 				operating in the Philippines, such as the UNESCO; and special commemorative 
 				events such as the observance of the centennial of the Philippine 
 				Independence. <i>Rule X, Section 13 (22)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -286,8 +286,8 @@
 				fuel resources; geothermal resources and non-conventional, existing 
 				and potential forms of energy resources; and generation, transmission 
 				and distribution of electric power. <i>Rule X, Section 13 (25)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -302,8 +302,8 @@
 				but not limited to, forest, mineral, public land, off-shore areas 
 				and the development of industries based on these resources. <i>Rule 
 				X, Section 13 (24)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -311,8 +311,8 @@
 				to the conduct, rights, privileges, safety, dignity, integrity and 
 				reputation of the Senate and its members. <i>Rule X, Section 13 
 				(2)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				<div dir="ltr">
@@ -325,8 +325,8 @@
 				of the National Government; claims against the government; inter-governmental 
 				revenue sharing; and, in general, all matters relating to public 
 				expenditures. <i>Rule X, Section 13 (4)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -336,8 +336,8 @@
 				Nations; the United Nations Organization and its agencies; multi-lateral 
 				organizations; all international agreements, obligations and contracts; 
 				and overseas Filipinos. <i>Rule X, Section 13 (12)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -346,8 +346,8 @@
 				dog-racing, wrestling, boxing, basketball and all other sports, 
 				as well as matters relating to amateur sports development. <i>Rule 
 				X, Section 13 (35)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -355,8 +355,8 @@
 				government corporations, including all amendments to their charters; 
 				the interests of the government in the differentindustrial and 
 				commercial enterprises; privatization. <i>Rule X, Section 13 (8)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -365,8 +365,8 @@
 				population issues, concerns, policies and programs affecting individuals 
 				and their families, their effects on national, social and economic 
 				conditions. <i>Rule X, Section 13 (23)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -378,8 +378,8 @@
 				the implementation of the provisions of the Constitution on human 
 				rights; and all matters pertaining to the efficiency and reforms 
 				in the prosecution service. <i>Rule X, Section 13 (15)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -392,8 +392,8 @@
 				promotion and development of workers&#39; organizations; promotion and 
 				development of employment-intensive technology. <i>Rule X. Section 
 				13 (21)</i> </div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -401,8 +401,8 @@
 				to autonomous regions, provinces, cities, special metropolitan political 
 				subdivisions, municipalities and barangays. <i>Rule X, Section 13 
 				(17)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -413,8 +413,8 @@
 				army selective service; forts; arsenals; military camps and reservations; 
 				coast, geodetic and meteorological surveys; civil defense; and military 
 				research and development. <i>Rule X, Section 13 (13)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -424,8 +424,8 @@
 				cessation of hostilities, amnesty, rebel returnees, integration 
 				and development, national unification and reconciliation. <i>Rule 
 				X, Section 13 (14)</i> </div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -437,8 +437,8 @@
 				matters relating to the artistic standards and quality of the motion 
 				picture and television industry. <i>Rule X, Section 13 (29)</i>
 				</div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -451,8 +451,8 @@
 				other similar substances as provided for under pertinent laws, and 
 				the prosecution of offenders, rehabilitation of drug users and dependents, 
 				including the formulation of drug-related policies. <i>Rule X, Section 
-				13 (32)</i></div>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+				13 (32)</i></div>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 			<div align="justify">
 				&nbsp;</div>
@@ -465,8 +465,8 @@
 				and sea transportation including railroads, inter-island navigation, 
 				and lighthouses; and the grant or amendment of legislative franchises.
 				<i>Rule X, Section 13 (28)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -475,8 +475,8 @@
 				public buildings, highways, bridges, roads, ports, airports, harbors 
 				and parks; drainage, flood control and protection; and irrigation 
 				and water utilities. <i>Rule X, Section 13 (16)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -486,8 +486,8 @@
 				of committees. The Chairperson of the Committee shall be the Majority 
 				Leader of the Senate. The Vice-Chairpersons shall be the Assistant 
 				Majority Leaders. <i>Rule X, Section 13 (1)</i> </div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -495,8 +495,8 @@
 				to science and technology, including scientific and technological 
 				research, development and advancement. <i>Rule X, Section 13 (26)</i>
 				</div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -504,15 +504,15 @@
 				to rural development and welfare, and the implementation of the 
 				provisions of the Constitution on social justice. <i>Rule X, Section 
 				13 (27)</i> </div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
 				on <a name="Tourism"></a>Tourism</div><div align="justify"><br />Jurisdiction: All matters relating 
 				to tourism and the tourist industry. <i>Rule X, Section 13 (34)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
@@ -522,32 +522,32 @@
 				and designs; quality control; control and stabilization of prices 
 				of commodities; consumer protection; handicraft and cottage industries; 
 				and marketing of commodities. <i>Rule X, Section 13 (9)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
 				on <a name="Urban Planning, Housing and Resettlement"></a>Urban Planning, Housing and Resettlement</div><div align="justify"><br />Jurisdiction: All matters relating 
 				to urban land reform planning, housing, resettlement and urban community 
 				development. <i>Rule X, Section 13 (18)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
 				on <a name="Ways and Means"></a>Ways and Means</div><div align="justify"><br />Jurisdiction: All matters relating 
 				to revenue generally; taxes and fees; tariffs; loans and other sources 
 				and forms of revenue. <i>Rule X, Section 13 (5)</i></div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr />
 		<div align="justify" class="h3_uline">
 				Committee 
 				on <a name="Youth, Women and Family Relations"></a>Youth, Women and Family Relations</div><div align="justify"><br />Jurisdiction: All matters relating 
 				to the youth, women and family relations. <i>Rule X, Section 13 
 				(33)</i> </div>
-		<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="duties.asp#top">back to top</a>
+		<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p></font></td>
          <td id="sidepane">
          	<div id="sidepane_l2"></div><div class="header_pane">
@@ -556,19 +556,19 @@ Committees
 
 <div class="sidepane_nav">
 	<ul>
-		<li><a href="ctte_list18th.pdf">Committee Chairmanship</a><img src="../images/pdf1.gif" alt="Adobe PDF" width="12" height="12" />
+		<li><a href="/committee/ctte_list18th.pdf">Committee Chairmanship</a><img src="/images/pdf1.gif" alt="Adobe PDF" width="12" height="12" />
 		</li>
-		<li><a href="adhocctte_list18th.pdf">Oversight/Ah hoc Committee Chairmanship</a> <img src="../images/pdf1.gif" alt="Adobe PDF" width="12" height="12" />
+		<li><a href="/committee/adhocctte_list18th.pdf">Oversight/Ah hoc Committee Chairmanship</a> <img src="/images/pdf1.gif" alt="Adobe PDF" width="12" height="12" />
 		</li>
-		<li><a href="duties.asp">Duties, Power <br />and Jurisdiction</a>
+		<li><a href="/committee/duties.asp">Duties, Power <br />and Jurisdiction</a>
 		</li>
-		<li><a href="ctte_mem18th.pdf">Committee Directory</a> <img src="../images/pdf1.gif" alt="Adobe PDF" width="12" height="12" />
+		<li><a href="/committee/ctte_mem18th.pdf">Committee Directory</a> <img src="/images/pdf1.gif" alt="Adobe PDF" width="12" height="12" />
 		</li>
-		<li><a href="oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a> <img src="../images/pdf1.gif" alt="Adobe PDF" width="12" height="12" />
+		<li><a href="/committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a> <img src="/images/pdf1.gif" alt="Adobe PDF" width="12" height="12" />
 		</li>
-		<li><a href="../notice_ctte.asp">Notice of Committee Meetings</a>
+		<li><a href="/notice_ctte.asp">Notice of Committee Meetings</a>
 		</li>
-		<li><a href="schedwk.asp">Committee Schedule</a>
+		<li><a href="/committee/schedwk.asp">Committee Schedule</a>
 		</li>
 	</ul>
 </div>
@@ -579,8 +579,8 @@ Committees
 	<td style="text-align: left; color: white; width: 381px;">© Senate of the Philippines. All rights reserved.</td>
 <td style="text-align: right">
 <a href="../job.pdf">Job Openings </a></a>| 
-<a href="../contact18thcongress.asp">Contact Info</a> | <a href="../rss.asp">RSS Feeds</a> <a href="../rss.asp">
-<img src="../images/feed10.png" alt="RSS icon" /></a> | <a href="../search.aspx">Search</a> | <a href="../sitemap.asp">Site Map</a></td></tr></table></div></div>
+<a href="/contact18thcongress.asp">Contact Info</a> | <a href="/rss.asp">RSS Feeds</a> <a href="/rss.asp">
+<img src="/images/feed10.png" alt="RSS icon" /></a> | <a href="/search.aspx">Search</a> | <a href="/sitemap.asp">Site Map</a></td></tr></table></div></div>
 
 
 

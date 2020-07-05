@@ -127,16 +127,16 @@ News <a href="/rss/rss_news.aspx"><img src="/images/feed10.png" alt="Latest News
 </div>
 
 <div class="sidepane_nav">
-<div class="news_header">Monday, June 15</div><ul><li><a href="/press_release/2020/0615_villar2.asp">Senator Cynthia Villar on Call of Agriculture Stakeholders for Senate to Investigate Alleged Overpriced Fertilizer Contract of DA</a></li>
-<li><a href="/press_release/2020/0615_go2.asp">Bong Go appeals to lenders to help borrowers get through COVID-19 pandemic</a></li>
-<li><a href="/press_release/2020/0615_lacson1.asp">Lacson: On the Manila RTC's Cyberlibel Verdict and the Issue of Press Freedom</a></li>
-<li><a href="/press_release/2020/0615_villanueva1.asp">Villanueva: Gov't must empower online sellers through skills training to become successful</a></li>
-<li><a href="/press_release/2020/0615_pangilinan2.asp">Statement of Sen. Francis "Kiko" Pangilinan on taxing online sellers:</a></li>
-<li><a href="/press_release/2020/0615_gatchalian2.asp">DZBB interview ni Senator Win Gatchalian kasama si Mike Enriquez ukol sa pagbubuwis sa POGO bago online sellers</a></li>
-<li><a href="/press_release/2020/0615_delima1.asp">Sen. Leila M. de Lima's Quick Reaction to the Guilty Verdict vs. Maria Ressa and Reynaldo Santos, Jr.</a></li>
-<li><a href="/press_release/2020/0615_pangilinan1.asp">Statement of Sen. Francis "Kiko" Pangilinan on conviction of Maria Ressa and Reynaldo Santos Jr. of cyber libel</a></li>
-<li><a href="/press_release/2020/0615_gatchalian1.asp">Gatchalian: Meralco should incentivize online customers</a></li>
-<li><a href="/press_release/2020/0615_hontiveros1.asp">Statement of Senator Risa Hontiveros on the guilty verdict on Maria Ressa and  Reynaldo Santos Jr.</a></li>
+<div class="news_header">Tuesday, June 23</div><ul><li><a href="/press_release/2020/0623_villanueva1.asp">Statement of Senator Joel Villanueva on the prospects of economic recovery by Q4 2020</a></li>
+<li><a href="/press_release/2020/0623_go2.asp">Bong Go urges Executive branch to review health and safety protocols for travels to provinces; protect areas, especially those with low to zero COVID-19 cases</a></li>
+<li><a href="/press_release/2020/0623_gordon2.asp">Boost RP’s capability to develop own vaccines – Gordon</a></li>
+<li><a href="/press_release/2020/0623_gordon1.asp">Gordon: PRC to put up testing centers in RP’s tourism hubs to ramp up Covid testing</a></li>
+<li><a href="/press_release/2020/0623_poe1.asp">Poe: Family backriding in motorcycles to reduce stranded passengers, get people to work faster</a></li>
+<li><a href="/press_release/2020/0623_pangilinan1.asp">Pangilinan to govt: Let jeepney, UV Express get back on the road</a></li>
+<li><a href="/press_release/2020/0623_go1.asp">Bong Go reminds public to remain vigilant; urges concerned agencies to address the people's needs as COVID-19 crisis continues</a></li>
+<li><a href="/press_release/2020/0623_gatchalian1.asp">Boost ICT competitiveness to help spur PH digital economy - Gatchalian</a></li>
+<li><a href="/press_release/2020/0623_hontiveros1.asp">Hontiveros files reso urging BIR to suspend tax memo on online sellers</a></li>
+<li><a href="/press_release/2020/0623_villar1.asp">Villar to DENR: Bacoor reclamation project threatens protected area, undermines Manila Bay rehabilitation project and will worsen flooding</a></li>
 </ul>
 	<div class="more">
 	<a href="/news.asp?year=2020">

@@ -117,16 +117,16 @@ News <a href="/rss/rss_news.aspx"><img src="/images/feed10.png" alt="Latest News
 </div>
 
 <div class="sidepane_nav">
-<div class="news_header">Wednesday, June 17</div><ul><li><a href="/press_release/2020/0617_angara1.asp">Statement of Sen Angara on former Ambassador Danding Cojuangco's passing</a></li>
-<li><a href="/press_release/2020/0617_zubiri1.asp">Zubiri: Cojuangco was a giant</a></li>
-<li><a href="/press_release/2020/0617_go2.asp">Bong Go says whole-of-country approach needed to realize UHC vision; appeals to economic managers to raise PhilHealth annual subsidy</a></li>
-<li><a href="/press_release/2020/0617_lacson1.asp">Lacson: On the Ombudsman's Probe of Sec. Duque and DOH Execs Over COVID-19 Response Woes</a></li>
-<li><a href="/press_release/2020/0617_recto2.asp">Press Statement of Senate President Pro Tempore Ralph G. Recto On the "cyber libel" conviction of Maria Ressa</a></li>
-<li><a href="/press_release/2020/0617_gatchalian3.asp">Statement of Senator Win Gatchalian on the passing of Eduardo Cojuangco, Jr.</a></li>
-<li><a href="/press_release/2020/0617_recto1.asp">Press Statement of Senate President Pro Tempore Ralph G. Recto</a></li>
-<li><a href="/press_release/2020/0617_villar1.asp">Villars Donate Office Buildings, Agri Facilities for Associations of Senior Citizens & War Veterans' Families</a></li>
-<li><a href="/press_release/2020/0617_drilon1.asp">Drilon: Full implementation of Universal Health Care law key in fighting COVID-19</a></li>
-<li><a href="/press_release/2020/0617_gatchalian2.asp">Dobol A sa Dobol B interview ni Senator Win Gatchalian kasama si Arnold Clavio at Ali Sotto ukol sa e-commerce</a></li>
+<div class="news_header">Tuesday, June 23</div><ul><li><a href="/press_release/2020/0623_villanueva1.asp">Statement of Senator Joel Villanueva on the prospects of economic recovery by Q4 2020</a></li>
+<li><a href="/press_release/2020/0623_go2.asp">Bong Go urges Executive branch to review health and safety protocols for travels to provinces; protect areas, especially those with low to zero COVID-19 cases</a></li>
+<li><a href="/press_release/2020/0623_gordon2.asp">Boost RP’s capability to develop own vaccines – Gordon</a></li>
+<li><a href="/press_release/2020/0623_gordon1.asp">Gordon: PRC to put up testing centers in RP’s tourism hubs to ramp up Covid testing</a></li>
+<li><a href="/press_release/2020/0623_poe1.asp">Poe: Family backriding in motorcycles to reduce stranded passengers, get people to work faster</a></li>
+<li><a href="/press_release/2020/0623_pangilinan1.asp">Pangilinan to govt: Let jeepney, UV Express get back on the road</a></li>
+<li><a href="/press_release/2020/0623_go1.asp">Bong Go reminds public to remain vigilant; urges concerned agencies to address the people's needs as COVID-19 crisis continues</a></li>
+<li><a href="/press_release/2020/0623_gatchalian1.asp">Boost ICT competitiveness to help spur PH digital economy - Gatchalian</a></li>
+<li><a href="/press_release/2020/0623_hontiveros1.asp">Hontiveros files reso urging BIR to suspend tax memo on online sellers</a></li>
+<li><a href="/press_release/2020/0623_villar1.asp">Villar to DENR: Bacoor reclamation project threatens protected area, undermines Manila Bay rehabilitation project and will worsen flooding</a></li>
 </ul>
 	<div class="more">
 	<a href="/news.asp?year=2020">

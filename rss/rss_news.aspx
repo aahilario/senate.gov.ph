@@ -10,547 +10,551 @@
 <language>en-us</language>
 <copyright>Senate of the Philippines</copyright>
 <item>
-<title>Bong Go reminds public to use social media responsibly; urges DOJ and NBI to crack down on fake news and fake socmed accounts</title>
-<link>http://www.senate.gov.ph/press_release/2020/0609_go1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0609_go1.asp</guid>
-<description>June 9, 2020. Senator Christopher Lawrence &quot;Bong&quot; Go is denouncing the spate of misinformation on social media after Facebook released a statement in which the social media platform revealed it is investigating reports of suspicious activity such as the proliferation of dummy accounts.
-&quot;Mapaparusahan ang mga...
+<title>Statement of Senator Joel Villanueva on the prospects of economic recovery by Q4 2020</title>
+<link>http://www.senate.gov.ph/press_release/2020/0623_villanueva1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0623_villanueva1.asp</guid>
+<description>June 23, 2020. The path to economic recovery has two stumbling blocks at the moment: the continuing increase of COVID-19 cases, and the lack of a clear set of policies to help workers adapt to the new normal.
+Our government must arrest the increase of COVID-19 cases to boost economic activity. As long as the...
 </description>
-<pubDate>Tue, 09 Jun 2020 04:05:47 GMT</pubDate>
-<category>Go</category>
-</item>
-
-<item>
-<title>Gordon urges gov't to set a clear policy to contain COVID, conduct massive testing based on WHO recommendation</title>
-<link>http://www.senate.gov.ph/press_release/2020/0609_gordon1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0609_gordon1.asp</guid>
-<description>June 9, 2020. Four months after the Department of Health (DOH) reported the country's first case of Coronavirus disease (COVID-19) and with the continuous increase of number of positive cases, Senator Richard J. Gordon urged the government to set a clear policy on containing COVID-19 and reiterated the need for...
-</description>
-<pubDate>Tue, 09 Jun 2020 04:05:47 GMT</pubDate>
-<category>Gordon</category>
-</item>
-
-<item>
-<title>Sotto: On Tuition Payment Scheme</title>
-<link>http://www.senate.gov.ph/press_release/2020/0609_sotto1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0609_sotto1.asp</guid>
-<description>June 9, 2020. SENATE President Vicente Sotto III  called on the Department of Education (DepEd) to formulate a tuition payment scheme that will help parents whose sources of income were affected when businesses were ordered closed during the more than two months of enhanced community quarantine (ECQ) imposed due...
-</description>
-<pubDate>Tue, 09 Jun 2020 03:25:09 GMT</pubDate>
-<category>Sotto</category>
-</item>
-
-<item>
-<title>Gordon pushes for massive COVID-19 testing for healthcare workers in public and private institutions</title>
-<link>http://www.senate.gov.ph/press_release/2020/0608_gordon2.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0608_gordon2.asp</guid>
-<description>June 8, 2020. Senator Richard J. Gordon called on the government to conduct a massive Coronavirus disease (COVID-19) testing for healthcare workers, both in public and private hospitals and other healthcare institutions.
-&quot;We need to protect our healthcare workers and make sure that they are healthy and...
-</description>
-<pubDate>Mon, 08 Jun 2020 09:10:33 GMT</pubDate>
-<category>Gordon</category>
-</item>
-
-<item>
-<title>Subsequent roll outs of BP2 beneficiaries to begin soon; Bong Go reminds implementers to ensure proper coordination and health protocols are followed</title>
-<link>http://www.senate.gov.ph/press_release/2020/0608_go2.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0608_go2.asp</guid>
-<description>June 8, 2020. Senator Christopher &quot;Bong&quot; Go is reminding the Balik Probinsya, Bagong Pag-asa (BP2) Council to immediately assess and validate applicants who wish to avail of the program and ensure that health protocols are followed as well as proper coordination with receiving local government units are...
-</description>
-<pubDate>Mon, 08 Jun 2020 09:10:33 GMT</pubDate>
-<category>Go</category>
-</item>
-
-<item>
-<title>'No ride, no work; no back ride, no jeepney ride' pushing up joblessness - Recto</title>
-<link>http://www.senate.gov.ph/press_release/2020/0608_recto1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0608_recto1.asp</guid>
-<description>June 8, 2020. You want to restart the economy? Then let PUVs restart their engines.
-There are three important T's today: tests, trabaho, transportasyon. Screening for coronavirus is no longer a requisite for returning to work. But without a ride, there is no work. And no work, no pay.
-Allowing workplaces to...
-</description>
-<pubDate>Mon, 08 Jun 2020 09:06:10 GMT</pubDate>
-<category>Recto</category>
-</item>
-
-<item>
-<title>Villanueva: Economic recovery plan must prioritize plight of workers</title>
-<link>http://www.senate.gov.ph/press_release/2020/0608_villanueva1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0608_villanueva1.asp</guid>
-<description>June 8, 2020. The welfare of workers should be among the top priorities in creating a recovery plan for the country, according to Senator Joel Villanueva.
-Villanueva, chair of the Senate labor committee, lamented that in the past few months, workers' welfare was glossed over as seen in the different policies...
-</description>
-<pubDate>Mon, 08 Jun 2020 09:06:10 GMT</pubDate>
+<pubDate>Tue, 23 Jun 2020 07:20:27 GMT</pubDate>
 <category>Villanueva</category>
 </item>
 
 <item>
-<title>Gordon, glad the DoH acted on the release of P1-M assistance for families of fallen medical frontliners</title>
-<link>http://www.senate.gov.ph/press_release/2020/0608_gordon1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0608_gordon1.asp</guid>
-<description>June 8, 2020. With families of medical frontliners who have died due to COVID-19 already starting to receive the P1-million assistance from the government, Senator Richard J. Gordon was glad the Department of Health immediately acted after he exposed the delay in the release of the said assistance.
-Gordon made...
+<title>Bong Go urges Executive branch to review health and safety protocols for travels to provinces; protect areas, especially those with low to zero COVID-19 cases</title>
+<link>http://www.senate.gov.ph/press_release/2020/0623_go2.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0623_go2.asp</guid>
+<description>June 23, 2020. Senator Christopher Lawrence &quot;Bong&quot; Go urged the Executive branch to review and strengthen health and safety protocols being implemented, especially for those traveling to provinces, in order to avoid the further spread of the COVID-19 disease.
+&quot;Kahit niluwagan na ang community quarantine measures...
 </description>
-<pubDate>Mon, 08 Jun 2020 09:06:10 GMT</pubDate>
+<pubDate>Tue, 23 Jun 2020 07:16:19 GMT</pubDate>
+<category>Go</category>
+</item>
+
+<item>
+<title>Boost RP’s capability to develop own vaccines – Gordon</title>
+<link>http://www.senate.gov.ph/press_release/2020/0623_gordon2.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0623_gordon2.asp</guid>
+<description>June 23, 2020. With the UNICEF warning that at least two million Filipino children below two years old who may miss out on vaccinations this year amidst COVID-19 could be vulnerable to an outbreak of vaccine preventable diseases, Senator Richard J. Gordon stressed the need to boost the country's capability to...
+</description>
+<pubDate>Tue, 23 Jun 2020 07:01:11 GMT</pubDate>
 <category>Gordon</category>
 </item>
 
 <item>
-<title>Grace Poe on transport:</title>
-<link>http://www.senate.gov.ph/press_release/2020/0608_poe1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0608_poe1.asp</guid>
-<description>June 8, 2020. Pre-ECQ, there were around 4,600 city bus units covering 96 bus routes in Metro Manila. The LTFRB promised during the May 11 hearing of the Senate Committee on Public Services to rationalize this to just 29 bus routes. This number was later revised to 31 bus routes. So far, the DOTr has opened...
+<title>Gordon: PRC to put up testing centers in RP’s tourism hubs to ramp up Covid testing</title>
+<link>http://www.senate.gov.ph/press_release/2020/0623_gordon1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0623_gordon1.asp</guid>
+<description>June 23, 2020. With the international tourism industry facing its biggest slump due to the COVID-19 pandemic and anticipating that there would be a mad scramble to recover once travel restrictions are eased, Senator Richard J. Gordon said the Philippine Red Cross is set to put up molecular laboratories in the...
 </description>
-<pubDate>Mon, 08 Jun 2020 09:06:10 GMT</pubDate>
+<pubDate>Tue, 23 Jun 2020 06:59:25 GMT</pubDate>
+<category>Gordon</category>
+</item>
+
+<item>
+<title>Poe: Family backriding in motorcycles to reduce stranded passengers, get people to work faster</title>
+<link>http://www.senate.gov.ph/press_release/2020/0623_poe1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0623_poe1.asp</guid>
+<description>June 23, 2020. Allowing kin backriding on motorcycles will not only get people to their places of work faster but will also reduce stranded passengers amid the lack of public transportation, Sen. Grace Poe underscored.
+The chairperson of Senate committee on public services was quick to add that riders must...
+</description>
+<pubDate>Tue, 23 Jun 2020 06:56:42 GMT</pubDate>
 <category>Poe</category>
 </item>
 
 <item>
-<title>PRIB: Transcript of Interview of Senate President Vicente C. Sotto III with Mike Enriquez of DZBB</title>
-<link>http://www.senate.gov.ph/press_release/2020/0608_prib1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0608_prib1.asp</guid>
-<description>June 8, 2020. On the Anti-Terrorism Act
-Q: Alam ninyo na paigting ng paigting ang oposisyon dito sa anti-terror bill na ito. Ano ang masasabi ninyo sa mga yan?
-SP Sotto: Basahin nila muna, isa, dalawang beses kung maaari para yung sinasabi nilang pang kontra nila, makita nila wala doon. Yun ang pinakamahalaga...
+<title>Pangilinan to govt: Let jeepney, UV Express get back on the road</title>
+<link>http://www.senate.gov.ph/press_release/2020/0623_pangilinan1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0623_pangilinan1.asp</guid>
+<description>June 23, 2020. WITH THOUSANDS of commuters still bearing the brunt of lack of transport options, Sen. Francis &quot;Kiko&quot; Pangilinan on Tuesday urged the government to immediately allow jeepney and UV Express drivers get back on the road.
+&quot;Araw-araw na kalbaryo ang nangyayari. Kapag pinayagan nang bumalik sa kalye...
 </description>
-<pubDate>Mon, 08 Jun 2020 09:06:10 GMT</pubDate>
-<category>Prib</category>
+<pubDate>Tue, 23 Jun 2020 05:29:23 GMT</pubDate>
+<category>Pangilinan</category>
 </item>
 
 <item>
-<title>Bong Go lauds move reallocating P3 Fund to assist SMEs manufacturing COVID-19-related medical supplies, PPEs; pushes for more support for small businesses</title>
-<link>http://www.senate.gov.ph/press_release/2020/0608_go1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0608_go1.asp</guid>
-<description>June 8, 2020. Senator Christopher Lawrence &quot;Bong&quot; Go lauded the efforts of the Executive Department for facilitating the reallocation of the funds of the Department of Trade and Industry for its Pondo sa Pagbabago at Pag-asenso (P3) Program to provide financing assistance to small and medium enterprises...
+<title>Bong Go reminds public to remain vigilant; urges concerned agencies to address the people's needs as COVID-19 crisis continues</title>
+<link>http://www.senate.gov.ph/press_release/2020/0623_go1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0623_go1.asp</guid>
+<description>June 23, 2020. In a recent interview, Senator Christopher Lawrence &quot;Bong&quot; Go reiterated that the public must remain vigilant against coronavirus disease (COVID-19) given the lack of approved vaccine for the disease.
+&quot;'Wag po kayong magkumpiyansa sa ngayon dahil hindi natin nakikita ang ating kalaban. Until meron...
 </description>
-<pubDate>Mon, 08 Jun 2020 09:06:10 GMT</pubDate>
+<pubDate>Tue, 23 Jun 2020 05:25:51 GMT</pubDate>
 <category>Go</category>
 </item>
 
 <item>
-<title>Stop using gov't online accounts to spread falsehood - De Lima</title>
-<link>http://www.senate.gov.ph/press_release/2020/0608_delima2.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0608_delima2.asp</guid>
-<description>June 8, 2020. Opposition Senator Leila M. de Lima has urged her colleagues to investigate the reported use of government social media platforms to spread false and inaccurate information meant to mislead the public and undermine the free press.
-
-In filing Senate Resolution (SR) No. 418, De Lima underscored the...
+<title>Boost ICT competitiveness to help spur PH digital economy - Gatchalian</title>
+<link>http://www.senate.gov.ph/press_release/2020/0623_gatchalian1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0623_gatchalian1.asp</guid>
+<description>June 23, 2020. As the coronavirus 2019 (COVID-19) pandemic forced many countries to rethink their business models and adapt to the digital economy, Senator Win Gatchalian sees the urgency of passing into law key economic reforms that will attract more Information and Communication Technology (ICT)...
 </description>
-<pubDate>Mon, 08 Jun 2020 09:06:10 GMT</pubDate>
-<category>Delima</category>
-</item>
-
-<item>
-<title>Gatchalian pushes to accelerate DepEd's digital transformation</title>
-<link>http://www.senate.gov.ph/press_release/2020/0608_gatchalian1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0608_gatchalian1.asp</guid>
-<description>June 8, 2020. Senator Win Gatchalian is pushing for the acceleration of the Department of Education (DepEd)'s digital transformation as the education sector enters the 'new normal' in the time of the COVID-19 pandemic.
-
-Gatchalian said among the online services that should be expedited now are enrollment,...
-</description>
-<pubDate>Mon, 08 Jun 2020 09:06:10 GMT</pubDate>
+<pubDate>Tue, 23 Jun 2020 01:18:49 GMT</pubDate>
 <category>Gatchalian</category>
 </item>
 
 <item>
-<title>Villar: Food Self-Sufficiency Is Key Life Goal In The New Normal</title>
-<link>http://www.senate.gov.ph/press_release/2020/0608_villar1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0608_villar1.asp</guid>
-<description>June 8, 2020. Senator Cynthia Villar, chairperson of the Senate Committee on Agriculture and Food, said the ongoing Covid-19 pandemic has exposed the limitations in the country's food supply and shortcomings in distribution system. That highlighted the need to promote self-sufficiency among Filipinos,...
+<title>Hontiveros files reso urging BIR to suspend tax memo on online sellers</title>
+<link>http://www.senate.gov.ph/press_release/2020/0623_hontiveros1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0623_hontiveros1.asp</guid>
+<description>June 23, 2020. &quot;Kung hahabulin ng pamahalaan ang malalaking digital entrepreneurs, dapat siguraduhing hindi nito pahihirapan ang maliliit na online seller na dumidiskarte ngayon para kumita. Our revenue policies should be sensitive to the struggles of Filipinos trying to make ends meet in these difficult...
 </description>
-<pubDate>Mon, 08 Jun 2020 03:00:37 GMT</pubDate>
-<category>Villar</category>
-</item>
-
-<item>
-<title>De Lima commends business groups for calling out double standards in gov't</title>
-<link>http://www.senate.gov.ph/press_release/2020/0608_delima1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0608_delima1.asp</guid>
-<description>June 8, 2020. Opposition Senator Leila M. de Lima has commended eight business groups for calling out the Duterte administration's double standards in implementing quarantine laws and rules amid the COVID-19 pandemic.
-
-De Lima, a known social justice and human rights champion, said she shares their disgust in...
-</description>
-<pubDate>Mon, 08 Jun 2020 02:59:28 GMT</pubDate>
-<category>Delima</category>
-</item>
-
-<item>
-<title>Opening Statement of Senator Risa Hontiveros on #AtinAngPinas webinar</title>
-<link>http://www.senate.gov.ph/press_release/2020/0608_hontiveros1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0608_hontiveros1.asp</guid>
-<description>June 8, 2020. Isang maganda, masigla at ligtas na umaga sa ating lahat! Welcome to today's Atin ang Pinas webinar, where we will discuss how Filipinos can stand together to uphold our national sovereignty amid the COVID-19 pandemic and China's unlawful acts in our territory.
-Our speakers today are known for...
-</description>
-<pubDate>Mon, 08 Jun 2020 02:59:28 GMT</pubDate>
+<pubDate>Tue, 23 Jun 2020 01:17:57 GMT</pubDate>
 <category>Hontiveros</category>
 </item>
 
 <item>
-<title>Recto: PNP must be a Malasakit Center that is kind to hungry protesters</title>
-<link>http://www.senate.gov.ph/press_release/2020/0607_recto1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0607_recto1.asp</guid>
-<description>June 7, 2020. Policemen, in general, have acted as officers and gentlemen who serve and protect the people during this pandemic. These frontliners deserve the nation's thanks.
-It is, however, hard to find gallantry or valor in the acts of the few who arrested hungry drivers demanding work, dispersed students...
+<title>Villar to DENR: Bacoor reclamation project threatens protected area, undermines Manila Bay rehabilitation project and will worsen flooding</title>
+<link>http://www.senate.gov.ph/press_release/2020/0623_villar1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0623_villar1.asp</guid>
+<description>June 23, 2020. Sen. Cynthia Villar today asked the Department of Environment and Natural Resources to recall the issuance of the environment compliance certificate (ECC) to the 320-hectare Bacoor reclamation project initiated by Bacoor City government together with the owner of Erabelle Fishing Corporation as it...
 </description>
-<pubDate>Sun, 07 Jun 2020 10:41:34 GMT</pubDate>
-<category>Recto</category>
+<pubDate>Tue, 23 Jun 2020 01:11:07 GMT</pubDate>
+<category>Villar</category>
 </item>
 
 <item>
-<title>Pangilinan to govt: Help 7.3M jobless get jobs</title>
-<link>http://www.senate.gov.ph/press_release/2020/0607_pangilinan2.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0607_pangilinan2.asp</guid>
-<description>June 7, 2020. With Philippine unemployment rate posting a record-high 17.7% in April, Sen. Francis &quot;Kiko&quot; Pangilinan on Sunday called on the government to focus on helping the millions of jobless Filipinos.
-&quot;Tulungang mabigyan ng trabaho ang mga kababayan natin. Ito ang dapat pagtuunan ng pansin ng gobyerno at...
+<title>Lack of consistent, continuous public health planning due to short tenure of health secretaries-Gordon</title>
+<link>http://www.senate.gov.ph/press_release/2020/0622_gordon1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0622_gordon1.asp</guid>
+<description>June 22, 2020. Senator Richard J. Gordon today noted that the short tenure of secretaries has contributed largely to the lack of consistent and continuous planning in the Department of Health.
+In an interview, Gordon, who chairs the Committee on Accountability of Public Officers and Investigations or the Blue...
 </description>
-<pubDate>Sun, 07 Jun 2020 10:40:35 GMT</pubDate>
+<pubDate>Mon, 22 Jun 2020 12:09:38 GMT</pubDate>
+<category>Gordon</category>
+</item>
+
+<item>
+<title>Pangilinan: On media queries about Sonny Alcos and offensive, possibly criminal social media posts on Frankie</title>
+<link>http://www.senate.gov.ph/press_release/2020/0622_pangilinan2.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0622_pangilinan2.asp</guid>
+<description>June 22, 2020. &quot;As any regular father, I am worried for her, her safety and her well-being. Nakakagalit at nakakalungkot din na merong mga ganyang tao, merong mga ganyang tatay pa naman. Rape is never, never a joke.
+In her various interviews, Frankie also revealed that she has received so many private messages...
+</description>
+<pubDate>Mon, 22 Jun 2020 07:22:18 GMT</pubDate>
 <category>Pangilinan</category>
 </item>
 
 <item>
-<title>Pangilinan to Facebook: Act on reported creation of multiple fake FB accounts, online threats</title>
-<link>http://www.senate.gov.ph/press_release/2020/0607_pangilinan1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0607_pangilinan1.asp</guid>
-<description>June 7, 2020. &quot;This morning, a scheme to create multiple fake Facebook accounts targeting those who oppose the anti-terror bill, especially college students, was discovered.
-Five new fake &quot;Kiko Pangilinan&quot; accounts have been created, although they appear to be incomplete as yet. (See attached)
-Similarly, the...
+<title>Grace poe on transport:</title>
+<link>http://www.senate.gov.ph/press_release/2020/0622_poe1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0622_poe1.asp</guid>
+<description>June 22, 2020. Safety and well-being should be a top-of-mind matter as more transit options become available.
+Our commuters, drivers and enforcers should not forsake social distancing, wearing face mask, regular disinfection and other protocols against COVID-19.
+Gawin nating ligtas ang bawat biyahe at tiyakin...
 </description>
-<pubDate>Sun, 07 Jun 2020 10:38:22 GMT</pubDate>
-<category>Pangilinan</category>
+<pubDate>Mon, 22 Jun 2020 06:47:15 GMT</pubDate>
+<category>Poe</category>
 </item>
 
 <item>
-<title>Imee: Launch Tropa Work Brigades now!</title>
-<link>http://www.senate.gov.ph/press_release/2020/0607_marcosi1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0607_marcosi1.asp</guid>
-<description>June 7, 2020. The alarming rate of 7.3 million job losses in April cannot wait for both Houses of Congress to resume business in July and must be contained immediately, Senator Imee Marcos said.
-Marcos, who chairs the Senate committee on economic affairs, plans to file a quick-response measure called TROPA or...
+<title>Villar SIPAG Farm School Reopens with East-West Seeds Foundation for urban agriculture</title>
+<link>http://www.senate.gov.ph/press_release/2020/0622_villar1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0622_villar1.asp</guid>
+<description>June 22, 2020. Sen. Cynthia Villar, advocate of urban gardening, re-opened the Villar SIPAG Farm School Bacoor and resumed training for agricrops production. It was stopped last March because of the quarantine measures.
+Villar, chairperson of the Committee on Agriculture and Food and director of the Villar...
 </description>
-<pubDate>Sun, 07 Jun 2020 10:35:49 GMT</pubDate>
+<pubDate>Mon, 22 Jun 2020 06:22:25 GMT</pubDate>
+<category>Villar</category>
+</item>
+
+<item>
+<title>AMHOP President: Sen. Revilla's S. No. 446 an 'answered prayer' for PH rural health officers, doctors</title>
+<link>http://www.senate.gov.ph/press_release/2020/0622_revilla1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0622_revilla1.asp</guid>
+<description>June 22, 2020. The Association of Municipal Health Officers of the Philippines (AMHOP) expressed their unwavering support for S. No. 446, &quot;An Act Granting Incentives and Other Benefits to Rural Health Unit Doctors and for other Purposes&quot; filed by Senator Ramon Bong Revilla, Jr., calling it an &quot;answered prayer&quot;...
+</description>
+<pubDate>Mon, 22 Jun 2020 06:22:25 GMT</pubDate>
+<category>Revilla</category>
+</item>
+
+<item>
+<title>Statement of Senator Risa Hontiveros on COVID-19 cases surging past 30,000</title>
+<link>http://www.senate.gov.ph/press_release/2020/0622_hontiveros1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0622_hontiveros1.asp</guid>
+<description>June 22, 2020. Nasa mahigit 30,000 na ang COVID-19 cases sa bansa. Realtalk: hindi ito dahil pasaway ang mga Pinoy. Given the proper safeguards and correct measures, Filipinos will cooperate for our health and safety.
+What we need are effective and intensified health measures that we have been pushing for since...
+</description>
+<pubDate>Mon, 22 Jun 2020 06:22:25 GMT</pubDate>
+<category>Hontiveros</category>
+</item>
+
+<item>
+<title>Imee: Investigate call centers exploiting Filipino workers during pandemic</title>
+<link>http://www.senate.gov.ph/press_release/2020/0622_marcosi1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0622_marcosi1.asp</guid>
+<description>June 22, 2020. Senator Imee Marcos has called on the Department of Labor and Employment (DOLE) to investigate cases of worker abuse arising from flexible work arrangements amid the COVID-19 pandemic.
+Labor advisories issued in March and May require employee consultation before flexible work arrangements can be...
+</description>
+<pubDate>Mon, 22 Jun 2020 06:22:25 GMT</pubDate>
 <category>Marcosi</category>
 </item>
 
 <item>
-<title>Hontiveros appeals for allowing jeeps, buses to operate again under social distancing rules</title>
-<link>http://www.senate.gov.ph/press_release/2020/0607_hontiveros1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0607_hontiveros1.asp</guid>
-<description>June 7, 2020. &quot;Hindi lang dapat para sa mga may sasakyan ang kalsada natin. Kung may social distancing naman, bakit hindi  payagan na ang mga jeep at bus?&quot;
-This was the remark of Senator Risa Hontiveros, who today urged government to immediately allow jeeps and buses to operate in Metro Manila as it enters its...
+<title>Statement of Sen. Francis &quot;Kiko&quot; Pangilinan, president of the Liberal Party of the Liberal Party of the Philippines, on centennial birthday of Jovito Salonga</title>
+<link>http://www.senate.gov.ph/press_release/2020/0622_pangilinan1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0622_pangilinan1.asp</guid>
+<description>June 22, 2020. Ka Jovy represents the enduring LP tradition of service and love of country: Pangilinan
+&quot;A century ago today, the true patriot and statesman Ka Jovy Salonga was born.
+We are blessed to have lived in his time -- including the years he served as leader of the Liberal Party -- guided by his wisdom,...
 </description>
-<pubDate>Sun, 07 Jun 2020 10:34:28 GMT</pubDate>
-<category>Hontiveros</category>
-</item>
-
-<item>
-<title>Gordon pushes bicycle use to help address unemployment problem</title>
-<link>http://www.senate.gov.ph/press_release/2020/0607_gordon1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0607_gordon1.asp</guid>
-<description>June 7, 2020. Concerned about the 7.3 million Filipinos who lost their jobs amid the coronavirus disease 2019 or COVID-19 pandemic, Senator Richard J. Gordon reiterated that promoting the use of bicycles would help create jobs.
-&quot;That's why I am pushing for bicycles. Sinabi ko they must be accompanied by...
-</description>
-<pubDate>Sun, 07 Jun 2020 10:31:42 GMT</pubDate>
-<category>Gordon</category>
-</item>
-
-<item>
-<title>Gordon lauds Australian Gov't for its contributions to PRC's COVID response, other disasters</title>
-<link>http://www.senate.gov.ph/press_release/2020/0607_gordon2.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0607_gordon2.asp</guid>
-<description>June 7, 2020. Senator Richard J. Gordon, chairman and CEO of the Philippine Red Cross, lauded the Australian government for its large contribution to the humanitarian organization's COVID response operations.
-&quot;We thank the Australian government for partnering with the Philippine Red Cross in our operations...
-</description>
-<pubDate>Sun, 07 Jun 2020 10:31:42 GMT</pubDate>
-<category>Gordon</category>
-</item>
-
-<item>
-<title>Bong Go commends PhilHealth in cutting down the cost of COVID-19 test; reiterates need to ensure adequate and accessible healthcare services for all Filipinos</title>
-<link>http://www.senate.gov.ph/press_release/2020/0607_go1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0607_go1.asp</guid>
-<description>June 7, 2020. Senator Christopher Lawrence &quot;Bong&quot; Go, chair of the Senate Committee on Health and Demography, commended the Philippine Health Insurance Corporation (PhilHealth) for the swift response in lowering the COVID-19 testing cost.  Earlier, Go was calling upon the state health insurer to revisit its...
-</description>
-<pubDate>Sun, 07 Jun 2020 10:29:23 GMT</pubDate>
-<category>Go</category>
-</item>
-
-<item>
-<title>Gatchalian pushes for subsidies to private schools</title>
-<link>http://www.senate.gov.ph/press_release/2020/0607_gatchalian1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0607_gatchalian1.asp</guid>
-<description>June 7, 2020. Senator Win Gatchalian is urging the national government to give subsidies that would keep private schools afloat amid the COVID-19 pandemic, warning that neglecting these institutions would lead to drastic effects such as overly-crowded public schools and unemployment among teachers and staff.
-To...
-</description>
-<pubDate>Sun, 07 Jun 2020 10:27:38 GMT</pubDate>
-<category>Gatchalian</category>
-</item>
-
-<item>
-<title>Transcript of Interview with Senate Minority Leader Franklin Drilon DZBB's Balita  sa Senado hosted by Ms. Nimfa Ravelo</title>
-<link>http://www.senate.gov.ph/press_release/2020/0607_drilon2.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0607_drilon2.asp</guid>
-<description>June 7, 2020. Q: Yung sa Bayanihan law, anon a ang mangyayari kung ito ay expired na? Kasi ang sabi ng DSWD ay hihintayin muna yung Bayanihan 2 para ibigay yung second tranche ng SAP? Tama po ba ito?
-SFMD: Hindi po. Dahilan kung may pera ang pamahalaan kaya nilang magbigay ng pangalawang tranche ng SAP, dahilan...
-</description>
-<pubDate>Sun, 07 Jun 2020 10:26:36 GMT</pubDate>
-<category>Drilon</category>
-</item>
-
-<item>
-<title>Drilon: Tap P13-B contingent fund, P4.5-B intel fund to compensate health workers, provide relief to poor</title>
-<link>http://www.senate.gov.ph/press_release/2020/0607_drilon1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0607_drilon1.asp</guid>
-<description>June 7, 2020. Senate Minority Leader Franklin M. Drilon said the government can tap the P13-billion contingent fund and the President's P4.5 billion confidential and intelligence to continuously provide compensation to frontline health workers who are affected by the COVID-19 and augment funding for relief...
-</description>
-<pubDate>Sun, 07 Jun 2020 10:25:10 GMT</pubDate>
-<category>Drilon</category>
-</item>
-
-<item>
-<title>De Lima welcomes move by Senate Health Committee to address mental health concerns</title>
-<link>http://www.senate.gov.ph/press_release/2020/0607_delima1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0607_delima1.asp</guid>
-<description>June 7, 2020. Opposition Senator Leila M. de Lima is joining the Senate Health Committee in its call to address mental health concerns as the fears and anxieties brought about by COVID-19 continue to take an emotional toll on many Filipinos.
-De Lima said that it is correct to give due importance to the mental...
-</description>
-<pubDate>Sun, 07 Jun 2020 10:23:23 GMT</pubDate>
-<category>Delima</category>
-</item>
-
-<item>
-<title>Statement of Senator Joel Villanueva on the latest unemployment data released by the Philippine Statistics Authority</title>
-<link>http://www.senate.gov.ph/press_release/2020/0606_villanueva1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0606_villanueva1.asp</guid>
-<description>June 6, 2020. Nababahala po tayo sa datos na inilabas ng PSA na may 7.3 milyong Pilipinong nawalan ng trabaho ngayong panahon ng pandemya. Matapos magsikap ang Senado na ipasa agad ang Bayanihan 2 bill, nakakalungkot na hindi ito sinertipikahan bilang isang urgent measure. Dahil dito, ang kakapiranggot na P32...
-</description>
-<pubDate>Sun, 07 Jun 2020 11:40:04 GMT</pubDate>
-<category>Villanueva</category>
-</item>
-
-<item>
-<title>De Lima hits admin's failure of leadership amid transportation crisis during NCR GCQ</title>
-<link>http://www.senate.gov.ph/press_release/2020/0606_delima2.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0606_delima2.asp</guid>
-<description>June 6, 2020. Opposition Senator Leila M. de Lima has chided the Duterte administration for failing to provide proper public transportation after it downgraded the alert level modified enhanced community quarantine (MECQ) to a more relaxed general community quarantine (GCQ) in Metro Manila.
-De Lima, a known...
-</description>
-<pubDate>Sun, 07 Jun 2020 11:34:04 GMT</pubDate>
-<category>Delima</category>
-</item>
-
-<item>
-<title>Sen. Leila M. de Lima's Statement on Her Continued Incommunicado Detention</title>
-<link>http://www.senate.gov.ph/press_release/2020/0606_delima3.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0606_delima3.asp</guid>
-<description>June 6, 2020. It is now Day 6 of GCQ in NCR. Still, there is no change in the no visitors policy here at the PNP Custodial Center. For one (1) month and 11 days already, I remain inaccessible to anyone, save for the custodial personnel.
-Yesterday morning, my Chief-of-Staff, Atty. Fhillip Sawali, Atty. Chel...
-</description>
-<pubDate>Sun, 07 Jun 2020 11:34:04 GMT</pubDate>
-<category>Delima</category>
-</item>
-
-<item>
-<title>Gordon welcomes Chinese Embassy's donation for COVID food relief packs for the NCR</title>
-<link>http://www.senate.gov.ph/press_release/2020/0606_gordon1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0606_gordon1.asp</guid>
-<description>June 6, 2020. With a number of Metro Manila's residents reeling from the economic impact of the two-month long quarantine due to the COVID-19 pandemic, Senator Richard J. Gordon, chairman and CEO of the Philippine Red Cross, welcomed the Chinese Embassy in Manila's donation for food relief packs to be...
-</description>
-<pubDate>Sun, 07 Jun 2020 11:25:15 GMT</pubDate>
-<category>Gordon</category>
-</item>
-
-<item>
-<title>Recto: Give OFWs red carpet, not sidewalk treatment; help OCWs-Out-of-job Construction Workers-too</title>
-<link>http://www.senate.gov.ph/press_release/2020/0606_recto1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0606_recto1.asp</guid>
-<description>June 6, 2020. Senate President Pro Tempore Ralph Recto today welcomed the government's &quot;gone in five days&quot; policy for returning OFWs transiting through Manila on their way home &quot;as one that is painfully overdue.&quot;
-But as more airports reopen to receive flights from abroad, Recto said this &quot;deadline should apply...
-</description>
-<pubDate>Sun, 07 Jun 2020 11:15:46 GMT</pubDate>
-<category>Recto</category>
-</item>
-
-<item>
-<title>Bong Go urges DOLE and DTI to collaborate efforts to assist workers losing their jobs; cites plans under BP2 program may be utilized</title>
-<link>http://www.senate.gov.ph/press_release/2020/0606_go1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0606_go1.asp</guid>
-<description>June 6, 2020. Senator Christopher Lawrence &quot;Bong&quot; Go urged the Department of Labor and Employment to collaborate with the Department of Trade Industry and other concerned agencies in order to work on strategies and lay down necessary measures to mitigate the adverse effects of the coronavirus disease (COVID-19)...
-</description>
-<pubDate>Sun, 07 Jun 2020 11:13:12 GMT</pubDate>
-<category>Go</category>
-</item>
-
-<item>
-<title>Sans certification on Bayanihan-2 passage puts poor Pinoys out of orbit --Sen Binay</title>
-<link>http://www.senate.gov.ph/press_release/2020/0606_binay1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0606_binay1.asp</guid>
-<description>June 6, 2020. &quot;We still have a long road ahead. We have to go on and keep moving, keep fighting for survival--not to give up on those who need our help.&quot;
-With over 7.3 million Filipinos now jobless, and millions more still awaiting government support, Sen Nancy Binay today echoed her frustration over the...
-</description>
-<pubDate>Sun, 07 Jun 2020 11:10:46 GMT</pubDate>
-<category>Binay</category>
-</item>
-
-<item>
-<title>Drilon appeals for more gov't interventions to unemployed workers, OFWs</title>
-<link>http://www.senate.gov.ph/press_release/2020/0606_drilon1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0606_drilon1.asp</guid>
-<description>June 6, 2020. Senate Minority Leader Franklin M. Drilon called on the government to act swiftly to mitigate the impact of unemployment on 7.3 million jobless Filipinos and their families, including thousands of returning overseas Filipino workers (OFWs) who lost their jobs as a result of the coronavirus...
-</description>
-<pubDate>Sun, 07 Jun 2020 11:07:47 GMT</pubDate>
-<category>Drilon</category>
-</item>
-
-<item>
-<title>De Lima chides Duterte over hint to help China monopolize production of vaccine vs COVID-19</title>
-<link>http://www.senate.gov.ph/press_release/2020/0606_delima1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0606_delima1.asp</guid>
-<description>June 6, 2020. Opposition Senator Leila M. de Lima has chided Mr. Duterte for attempting to condition the Filipino public to pin their hopes of survival on a still non-existent vaccine against COVID-19 that will be China-made without regard for its quality, efficacy or costs.
-
-De Lima, chairperson of the Senate...
-</description>
-<pubDate>Sat, 06 Jun 2020 00:59:55 GMT</pubDate>
-<category>Delima</category>
-</item>
-
-<item>
-<title>Gatchalian urges DOE to ensure reliable electricity to all households as schools prepare for distance learning</title>
-<link>http://www.senate.gov.ph/press_release/2020/0606_gatchalian1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0606_gatchalian1.asp</guid>
-<description>June 6, 2020. Senator Win Gatchalian has pressed the Department of Energy (DOE) into ensuring continuous delivery of electricity services in every household for students to utilize alternative learning modalities while schools prepare for the &quot;new normal&quot; in the education system.
-
-Gatchalian said that aside...
-</description>
-<pubDate>Sat, 06 Jun 2020 00:47:00 GMT</pubDate>
-<category>Gatchalian</category>
-</item>
-
-<item>
-<title>Sen. Leila M. de Lima's statement on SolGen Calida's Flaunting of his Legal Victories during a recent House Hearing, re: ABS-CBN</title>
-<link>http://www.senate.gov.ph/press_release/2020/0605_delima1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0605_delima1.asp</guid>
-<description>June 5, 2020. SOLGEN Calida thinks he is a crusader, a knight in shining armor, when he professes to be fighting for a just cause in jailing me, ousting former Chief Justice Sereno, and shutting down ABS-CBN. He is proud of this record and his shameless prostitution of the law and rape of justice in accordance...
-</description>
-<pubDate>Sun, 07 Jun 2020 11:28:37 GMT</pubDate>
-<category>Delima</category>
-</item>
-
-<item>
-<title>Zubiri: Statement on Senate Bill 1357 or CREATE</title>
-<link>http://www.senate.gov.ph/press_release/2020/0605_zubiri2.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0605_zubiri2.asp</guid>
-<description>June 5, 2020. &lt;p style=&quot;text-align: justify; text-indent: 25px&quot;&gt;The Senate of the Philippines expresses its full support for the passage of the enhanced and repackaged Corporate Recovery and Tax Incentives for Enterprises Act (CREATE), previously known as the Corporate Income Tax and Incentives Reform Act or...
-</description>
-<pubDate>Sat, 06 Jun 2020 01:06:13 GMT</pubDate>
-<category>Zubiri</category>
-</item>
-
-<item>
-<title>Lacson: On Sec. Duque's Pattern of Failures</title>
-<link>http://www.senate.gov.ph/press_release/2020/0605_lacson1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0605_lacson1.asp</guid>
-<description>June 5, 2020. More at: 
-	&lt;a href=&quot;https://pinglacson.net/2020/06/05/on-sec-duques-pattern-of-failures/&quot;&gt;https://pinglacson.net/2020/06/05/on-sec-duques-pattern-of-failures/&lt;/a&gt;
-	Many of us are starting to wonder what &quot;amulet&quot; DOH Secretary Francisco Duque III has to deserve such a special treatment.
-While I...
-</description>
-<pubDate>Sat, 06 Jun 2020 00:25:46 GMT</pubDate>
-<category>Lacson</category>
-</item>
-
-<item>
-<title>Statement of Minority Senators Franklin Drilon, Risa Hontiveros, and Francis Pangilinan on condition of Senator Leila De Lima</title>
-<link>http://www.senate.gov.ph/press_release/2020/0605_pangilinan1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0605_pangilinan1.asp</guid>
-<description>June 5, 2020. &quot;We view with grave concern the continued detention of Senator Leila de Lima, who is not only being incarcerated under dubious charges, but also inhumanely being held incommunicado for close to two months now.
-After weeks of constant negotiations and pleas with the PNP Custodial Center, we were...
-</description>
-<pubDate>Sat, 06 Jun 2020 00:25:46 GMT</pubDate>
+<pubDate>Mon, 22 Jun 2020 06:22:25 GMT</pubDate>
 <category>Pangilinan</category>
 </item>
 
 <item>
-<title>Protesting is not a crime, release arrested UP Cebu students, charge arresting cops: Pangilinan</title>
-<link>http://www.senate.gov.ph/press_release/2020/0605_pangilinan2.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0605_pangilinan2.asp</guid>
-<description>June 5, 2020. Every citizen of the Republic has the duty to criticize those who are running the government. Tungkulin ito, hindi lang karapatan. Ang mga mamamayan ang pinakamabisang check sa kapalpakan, pangungurakot, pang-aabuso, at panggigipit ng mga taong-gobyerno.
-
-Yan ang ginagawa ng mga UP Cebu students...
+<title>Bong Go proposes easier and streamlined process of upgrading public health  facilities through filed bill</title>
+<link>http://www.senate.gov.ph/press_release/2020/0622_go1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0622_go1.asp</guid>
+<description>June 22, 2020. Senator and Senate Committee on Health Chair Christopher Lawrence &quot;Bong&quot; Go lauded President Rodrigo Duterte's recent signing of his sponsored bills seeking to upgrade three local hospitals.
+Signed into law were House Bill 1477 which will increase the bed capacity of the Caraga Regional Hospital...
 </description>
-<pubDate>Sat, 06 Jun 2020 00:25:46 GMT</pubDate>
-<category>Pangilinan</category>
+<pubDate>Mon, 22 Jun 2020 06:22:25 GMT</pubDate>
+<category>Go</category>
 </item>
 
 <item>
-<title>Villar highlights importance of protection of wildlife habitats to mark World Environment Day</title>
-<link>http://www.senate.gov.ph/press_release/2020/0605_villar1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0605_villar1.asp</guid>
-<description>June 5, 2020. Sen. Cynthia Villar today said the celebration of World Environment Day takes on a new meaning amid the coronavirus pandemic which highlights the interdependence of humans and the webs of life.
-Since 1974, World Environment Day is celebrated in over 100 countries around the world every June 5...
-</description>
-<pubDate>Sat, 06 Jun 2020 00:25:46 GMT</pubDate>
-<category>Villar</category>
-</item>
+<title>Incentives not taxes for online entrepreneurs - Gatchalian</title>
+<link>http://www.senate.gov.ph/press_release/2020/0622_gatchalian1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0622_gatchalian1.asp</guid>
+<description>June 22, 2020. Senator Win Gatchalian has prodded the government to extend fresh capital and other financial assistance to budding online entrepreneurs, instead of slapping them with untimely new taxes.
 
-<item>
-<title>Zubiri Reports High Senate Productivity Despite Pandemic</title>
-<link>http://www.senate.gov.ph/press_release/2020/0605_zubiri1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0605_zubiri1.asp</guid>
-<description>June 5, 2020. As the Senate goes into sine die adjournment, Majority Leader Juan Miguel F. Zubiri reports that, under the leadership of Senate President Vicente C. Sotto III, the First Regular Session of the Eighteenth Congress has been remarkably productive, even amidst the complications brought about by the...
+Gatchalian said online sellers should be covered by the microfinancing program of the Small Business...
 </description>
-<pubDate>Sat, 06 Jun 2020 00:25:46 GMT</pubDate>
-<category>Zubiri</category>
-</item>
-
-<item>
-<title>Even without Bayanihan law, Drilon says Duterte can realign funds for COVID-19 response</title>
-<link>http://www.senate.gov.ph/press_release/2020/0605_drilon1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0605_drilon1.asp</guid>
-<description>June 5, 2020. Senate Minority Leader Franklin M. Drilon said that the President can exercise his power to realign the executive's budget to augment funds for the government's COVID-19 activities and continue to provide relief to the poor, displaced local workers and returning overseas Filipino workers, who lost...
-</description>
-<pubDate>Sat, 06 Jun 2020 00:25:46 GMT</pubDate>
-<category>Drilon</category>
-</item>
-
-<item>
-<title>Gatchalian bill to strengthen local governments' role in education amid pandemic</title>
-<link>http://www.senate.gov.ph/press_release/2020/0605_gatchalian1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0605_gatchalian1.asp</guid>
-<description>June 5, 2020. Senator Win Gatchalian has filed a bill that will strengthen the involvement of local government units (LGUs) in providing inclusive and quality education, a move that is seen boosting the education sector's efforts to 'build back better' from the COVID-19 pandemic.
-
-Senate Bill No. 1579 or the...
-</description>
-<pubDate>Sat, 06 Jun 2020 00:25:46 GMT</pubDate>
+<pubDate>Mon, 22 Jun 2020 01:38:21 GMT</pubDate>
 <category>Gatchalian</category>
 </item>
 
 <item>
-<title>PRIB: Senate adjourns sine die; Passes vital measures</title>
-<link>http://www.senate.gov.ph/press_release/2020/0604_prib1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0604_prib1.asp</guid>
-<description>June 4, 2020. The Senate on Thursday, June 4, 2020, adjourned sine die the first regular session of the 18th Congress with the passage of several important legislation, including measures that will enable the country and the Filipino people cope with the impact of the coronavirus (COVID-19) pandemic.
-Senate...
+<title>Poe: Connectivity a must</title>
+<link>http://www.senate.gov.ph/press_release/2020/0621_poe1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0621_poe1.asp</guid>
+<description>June 21, 2020. Remiss government officials must be brought to account for any further delay in setting up crucial infrastructures across the country to digitally connect the citizenry amid the pandemic, Sen. Grace Poe said (Dapat panagutin ang mga opisyal na nagiging sanhi ng pagkaantala sa pagtatayo ng mga...
 </description>
-<pubDate>Sat, 06 Jun 2020 00:25:46 GMT</pubDate>
+<pubDate>Sun, 21 Jun 2020 12:31:21 GMT</pubDate>
+<category>Poe</category>
+</item>
+
+<item>
+<title>PRIB: Revilla: Waive shipping fees of emergency relief goods</title>
+<link>http://www.senate.gov.ph/press_release/2020/0621_prib1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0621_prib1.asp</guid>
+<description>June 21, 2020. To ensure adequate and immediate delivery of relief goods to calamity-stricken areas, Sen. Ramon Bong Revilla Jr. has proposed the lifting of shipping fees of transport service providers engaged in relief operations.
+
+Revilla, in filing Senate Bill No. 1560, also known as the Relief Goods Free...
+</description>
+<pubDate>Sun, 21 Jun 2020 12:31:21 GMT</pubDate>
 <category>Prib</category>
 </item>
 
 <item>
-<title>Gordon sponsors Senate Resolution honoring PH Coast Guard's contribution to country's fight against COVID-19</title>
-<link>http://www.senate.gov.ph/press_release/2020/0604_gordon1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0604_gordon1.asp</guid>
-<description>June 4, 2020. Senator Richard J. Gordon sponsored on Wednesday Senate Resolution No. 436 that recognizes the significant contributions of the Philippine Coast Guard (PCG) in the country's fight against Coronavirus disease (COVID-19) under the leadership of Admiral Joel S. Garcia who retired from service...
+<title>Gordon presses for opening of Subic airport to accommodate OFW flights amid COVID pandemic</title>
+<link>http://www.senate.gov.ph/press_release/2020/0621_gordon1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0621_gordon1.asp</guid>
+<description>June 21, 2020. With more than 300,000 overseas Filipino workers expected to arrive in the next three to four months, Senator Richard J. Gordon reiterated his call for the Department of Transportation to open up the Subic Bay International Airport and divert OFW flights there to facilitate their testing so they...
 </description>
-<pubDate>Thu, 04 Jun 2020 06:52:48 GMT</pubDate>
+<pubDate>Sun, 21 Jun 2020 12:31:21 GMT</pubDate>
 <category>Gordon</category>
 </item>
 
 <item>
-<title>Drilon says the country needs 130,000 contact tracers, not 130,000 trolls or political supporters</title>
-<link>http://www.senate.gov.ph/press_release/2020/0604_drilon1.asp</link>
-<guid>http://www.senate.gov.ph/press_release/2020/0604_drilon1.asp</guid>
-<description>June 4, 2020. The Department of Health (DOH) can tap into a P18-billion fund to hire contact tracers from existing network of barangay health workers, parent-leaders from the Pantawid Pamilyang Pilipino Program (4Ps) and Civil Society Organizations (CSOs), according to Senate Minority Leader Franklin M...
+<title>Help fathers rendered jobless by pandemic, lockdown get jobs: Pangilinan</title>
+<link>http://www.senate.gov.ph/press_release/2020/0621_pangilinan1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0621_pangilinan1.asp</guid>
+<description>June 21, 2020. AMID the COVID-19 pandemic and the resulting joblessness among many padres de pamilya, Sen. Francis &quot;Kiko&quot; Pangilinan on Father's Day called on the government to urgently address the problems of hunger and insecurity by jump-starting the economy.
+&quot;Dapat sana ay masaya ang Father's Day, pero sa...
 </description>
-<pubDate>Thu, 04 Jun 2020 05:09:46 GMT</pubDate>
-<category>Drilon</category>
+<pubDate>Sun, 21 Jun 2020 12:31:21 GMT</pubDate>
+<category>Pangilinan</category>
+</item>
+
+<item>
+<title>Go urges health officials to remain focused on addressing the health crisis and ensure full implementation of the UHC Law; reiterates zero-tolerance policy against corruption</title>
+<link>http://www.senate.gov.ph/press_release/2020/0621_go3.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0621_go3.asp</guid>
+<description>June 21, 2020. Senator and chair of the Senate Committee on Health Christopher Lawrence &quot;Bong&quot; Go encouraged the Department of Health, PhilHealth, and other concerned agencies to remain focused on fulfilling their mandates especially in the fight against the COVID-19 pandemic despite public criticisms.
+He made...
+</description>
+<pubDate>Sun, 21 Jun 2020 12:31:21 GMT</pubDate>
+<category>Go</category>
+</item>
+
+<item>
+<title>Angara calls for more government support for MSMEs to go online</title>
+<link>http://www.senate.gov.ph/press_release/2020/0621_angara1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0621_angara1.asp</guid>
+<description>June 21, 2020. Senator Sonny Angara called on the Department of Trade and Industry (DTI) to step up its efforts to provide assistance to the micro, small and medium enterprises (MSME) in finding markets to sell their wares during this COVID-19 pandemic.
+As a result of the community quarantines imposed across the...
+</description>
+<pubDate>Sun, 21 Jun 2020 12:31:21 GMT</pubDate>
+<category>Angara</category>
+</item>
+
+<item>
+<title>Gatchalian warns of surge in child labor; calls for strict enforcement of children protection laws</title>
+<link>http://www.senate.gov.ph/press_release/2020/0621_gatchalian1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0621_gatchalian1.asp</guid>
+<description>June 21, 2020. Senator Win Gatchalian is urging the National Council Against Child Labor (NCLC) to intensify its crackdown on child labor as the COVID-19 pandemic threatens to put millions of children and their families in poverty.
+
+Gatchalian made this call after the United Nations Children's Fund (UNICEF) and...
+</description>
+<pubDate>Sun, 21 Jun 2020 12:31:21 GMT</pubDate>
+<category>Gatchalian</category>
+</item>
+
+<item>
+<title>Bong Go urges government to thoroughly study proposals to allow backriding; appeals to commuters to abide by safety protocols if allowed</title>
+<link>http://www.senate.gov.ph/press_release/2020/0621_go1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0621_go1.asp</guid>
+<description>June 21, 2020. Senator Christopher Lawrence &quot;Bong&quot; Go urged the Inter-Agency Task Force (IATF) for the Management of Emerging Diseases, to thoroughly study the proposed guidelines and determine the necessary health and safety protocols needed to be in place in permitting motorcycle back-riders. He also appealed...
+</description>
+<pubDate>Sun, 21 Jun 2020 12:31:21 GMT</pubDate>
+<category>Go</category>
+</item>
+
+<item>
+<title>Bong Go expresses gratitude to Bahrain King and his government for giving pardoned OFW a second chance at life as Aguinaldo spends Father's Day with his family</title>
+<link>http://www.senate.gov.ph/press_release/2020/0621_go2.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0621_go2.asp</guid>
+<description>June 21, 2020. In an interview, Senator Christopher Lawrence &quot;Bong&quot; Go sent a Father's Day message to overseas Filipino worker Roderick Aguinaldo who has just returned to the country after being detained in Bahrain for four years. Aguinaldo was convicted for the death of a Pakistani national in the Gulf...
+</description>
+<pubDate>Sun, 21 Jun 2020 12:31:21 GMT</pubDate>
+<category>Go</category>
+</item>
+
+<item>
+<title>Ramping up testing would enable citizens to get back to their jobs faster - Gordon</title>
+<link>http://www.senate.gov.ph/press_release/2020/0620_gordon1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0620_gordon1.asp</guid>
+<description>June 20, 2020. With 17.7 percent unemployment rate recorded in the country due to the COVID-19 pandemic - the highest ever, surpassing the 10.3% unemployment rate in the 1998 recession in the Philippines, Senator Richard J. Gordon, chairman and CEO of the Philippine Red Cross on Friday pointed out that ramping up...
+</description>
+<pubDate>Sun, 21 Jun 2020 12:31:21 GMT</pubDate>
+<category>Gordon</category>
+</item>
+
+<item>
+<title>De Lima on slow distribution of SAP: There should be synergy between DSWD, LGUs</title>
+<link>http://www.senate.gov.ph/press_release/2020/0620_delima2.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0620_delima2.asp</guid>
+<description>June 20, 2020. Opposition Senator Leila M. de Lima has underscored the need to investigate the delays and other logistical problems concerning the distribution of the cash assistance for families that were greatly affected by the COVID-19 pandemic.
+
+De Lima, chairperson of the Senate Committee on Social...
+</description>
+<pubDate>Sun, 21 Jun 2020 12:31:21 GMT</pubDate>
+<category>Delima</category>
+</item>
+
+<item>
+<title>Gatchalian: adequate WASH facilities needed before physical classes resume</title>
+<link>http://www.senate.gov.ph/press_release/2020/0620_gatchalian1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0620_gatchalian1.asp</guid>
+<description>June 20, 2020. Though the Department of Education (DepEd) is postponing face-to-face classes until a COVID-19 vaccine becomes available, Senator Win Gatchalian is urging the department to fast-track the installation of water, sanitation, and hygiene facilities (WASH) in public elementary and secondary schools...
+</description>
+<pubDate>Sat, 20 Jun 2020 03:37:20 GMT</pubDate>
+<category>Gatchalian</category>
+</item>
+
+<item>
+<title>Tolentino wants to expedite accreditation process for local hotels</title>
+<link>http://www.senate.gov.ph/press_release/2020/0620_tolentino1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0620_tolentino1.asp</guid>
+<description>June 20, 2020. Administration Senator Francis &quot;Tol&quot; Tolentino called on concerned government agencies to expedite the accreditation process for local hotels to help jumpstart the local tourism industry.
+Tolentino stressed this during the hearing of the Senate Committee on Local Government regarding preparations...
+</description>
+<pubDate>Sat, 20 Jun 2020 03:37:20 GMT</pubDate>
+<category>Tolentino</category>
+</item>
+
+<item>
+<title>Sen. Leila M. de Lima's reaction to the Justice Secretary's quip on her bail application</title>
+<link>http://www.senate.gov.ph/press_release/2020/0620_delima1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0620_delima1.asp</guid>
+<description>June 20, 2020. 6/20/20
+
+SOJ Guevarra condescendingly asks why it is only now that I applied for bail. A feigned ignorance of what my drug cases are all about, or what they truly are, is what I sense from him.
+
+We know that these are not ordinary cases. These are cases of political persecution with the whole...
+</description>
+<pubDate>Sat, 20 Jun 2020 03:37:20 GMT</pubDate>
+<category>Delima</category>
+</item>
+
+<item>
+<title>Sen. Leila M. de Lima on the PDEA Facebook Page for Reporting Illegal Drug Activities</title>
+<link>http://www.senate.gov.ph/press_release/2020/0619_delima3.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0619_delima3.asp</guid>
+<description>June 19, 2020. 6/19/20
+
+While the rest of the country is busy dealing with the pandemic, the infamous Drug War hardly missed a beat as at least 50 drug-related killings have been recorded since March 15.
+
+To compound the problem, PDEA Director Wilkins Villanueva recently announced that they had now created a...
+</description>
+<pubDate>Sat, 20 Jun 2020 03:37:20 GMT</pubDate>
+<category>Delima</category>
+</item>
+
+<item>
+<title>Bong Go urges executive department to push through with implementation of  Universal Health Care Law</title>
+<link>http://www.senate.gov.ph/press_release/2020/0619_go2.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0619_go2.asp</guid>
+<description>June 19, 2020. Senator and Chair of the Senate Committee on Health and Demography Christopher Lawrence &quot;Bong&quot; Go urged the executive department to ensure the timely implementation of the Universal Health Care Law following the Philippine Health Insurance Corporation's recommendation to delay its implementation...
+</description>
+<pubDate>Fri, 19 Jun 2020 08:34:32 GMT</pubDate>
+<category>Go</category>
+</item>
+
+<item>
+<title>Lapid pushes to provide broadband internet connection in unserved, underserved areas in the country</title>
+<link>http://www.senate.gov.ph/press_release/2020/0619_lapid1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0619_lapid1.asp</guid>
+<description>June 19, 2020. Senator Manuel &quot;Lito&quot; M. Lapid has filed a bill aiming to establish broadband internet connection in all unserved and underserved cities, municipalities and barangays in the country. Senator Lapid recognizes the vital role that internet is playing in our modern world, especially in terms of...
+</description>
+<pubDate>Fri, 19 Jun 2020 06:26:07 GMT</pubDate>
+<category>Lapid</category>
+</item>
+
+<item>
+<title>'Visa center na, pera padala force pa,' Recto on unburdening PNP of travel pass job</title>
+<link>http://www.senate.gov.ph/press_release/2020/0619_recto1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0619_recto1.asp</guid>
+<description>June 19, 2020. The police should be &quot;unburdened&quot; of the duty to issue travel passes, &quot;a clerical job which draws them away from their far more important responsibilities,&quot; Senate President Pro Tempore Ralph Recto said.
+&quot;The most important requirement is the medical certificate issued by a public health doctor...
+</description>
+<pubDate>Fri, 19 Jun 2020 06:26:07 GMT</pubDate>
+<category>Recto</category>
+</item>
+
+<item>
+<title>Villanueva asks gov't to restore TESDA's scholarship fund to train workers for in-demand jobs, sustain economic recovery</title>
+<link>http://www.senate.gov.ph/press_release/2020/0619_villanueva1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0619_villanueva1.asp</guid>
+<description>June 19, 2020. Senator Joel Villanueva has urged the government to restore the funding of the Technical Education and Skills Development Authority's (TESDA) scholarship programs to help displaced workers become more employable despite the economic downturn caused by the COVID-19 pandemic.
+In a statement,...
+</description>
+<pubDate>Fri, 19 Jun 2020 06:26:07 GMT</pubDate>
+<category>Villanueva</category>
+</item>
+
+<item>
+<title>Nancy to DOTr: Have you already tried, tested your unsafe road experiments?</title>
+<link>http://www.senate.gov.ph/press_release/2020/0619_binay1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0619_binay1.asp</guid>
+<description>June 19, 2020. Senator Nancy Binay again asked government transport executives if they have tried and tested the transport guidelines they have put in place under General Community Quarantine (GCQ).
+Binay expressed concern over the seemingly unsafe and poorly planned measures being implemented by the Department...
+</description>
+<pubDate>Fri, 19 Jun 2020 06:26:07 GMT</pubDate>
+<category>Binay</category>
+</item>
+
+<item>
+<title>Sen. Leila M. de Lima on Duterte's apathy towards jeepney drivers</title>
+<link>http://www.senate.gov.ph/press_release/2020/0619_delima1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0619_delima1.asp</guid>
+<description>June 19, 2020. &quot;Gutom ang papatay sa amin, hindi COVID.&quot;
+Ito po ang hinaing ng marami nating jeepney drivers ngayon dahil sa  kawalang plano at malasakit sa kanila ng gobyerno.
+Ginawa pang dahilan ang pandemya hindi lang para pansamantalang ipatigil ang kanilang pamamasada, kundi para tuluyan nang ipagbawal ang...
+</description>
+<pubDate>Fri, 19 Jun 2020 06:26:07 GMT</pubDate>
+<category>Delima</category>
+</item>
+
+<item>
+<title>De Lima dismayed over court's denial of her motion to join Senate online sessions</title>
+<link>http://www.senate.gov.ph/press_release/2020/0619_delima2.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0619_delima2.asp</guid>
+<description>June 19, 2020. Opposition Senator Leila M. de Lima has expressed dismay over the rejection by the Muntinlupa City Regional Trial Court (RTC) Branch 205 of her omnibus motion seeking to allow her to participate in Senate sessions via teleconferencing from within her place of detention at the PNP Custodial Center...
+</description>
+<pubDate>Fri, 19 Jun 2020 06:26:07 GMT</pubDate>
+<category>Delima</category>
+</item>
+
+<item>
+<title>Be like Rizal, treat pandemic as medical issue, implement Universal Health Care law: Pangilinan</title>
+<link>http://www.senate.gov.ph/press_release/2020/0619_pangilinan1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0619_pangilinan1.asp</guid>
+<description>June 19, 2020. ON Jose Rizal's 159th birthday, Sen. Francis &quot;Kiko&quot; Pangilinan said the country should approach the COVID-19 pandemic as a medical issue and fully implement the Universal Health Care law.
+&quot;The pandemic is principally a health problem and the solutions must be health-centric. Kung buhay pa si Dr...
+</description>
+<pubDate>Fri, 19 Jun 2020 03:39:38 GMT</pubDate>
+<category>Pangilinan</category>
+</item>
+
+<item>
+<title>Gordon: Red Cross COVID testing capacity ascents as molecular lab in Clark opens</title>
+<link>http://www.senate.gov.ph/press_release/2020/0619_gordon1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0619_gordon1.asp</guid>
+<description>June 19, 2020. As the Philippine Red Cross' (PRC) bio-molecular laboratory in Clark formally opens today, the PRC's testing capacity for Coronavirus disease (COVID-19) is expected to increase. According to PRC Chairman and Chief Executive Officer (CEO) Senator Richard J. Gordon, the laboratory in Clark, which was...
+</description>
+<pubDate>Fri, 19 Jun 2020 03:38:05 GMT</pubDate>
+<category>Gordon</category>
+</item>
+
+<item>
+<title>Villar, BFAR Establish Urban Aquaponics Facility in Las Pi&#241;as</title>
+<link>http://www.senate.gov.ph/press_release/2020/0619_villar1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0619_villar1.asp</guid>
+<description>June 19, 2020. Senator Cynthia Villar, chairperson of the Senate Committee on Agriculture and Food, together with the Bureau of Fisheries and Aquatic Resources (BFAR), has set up an aquaponics facility to benefit a community in Las Pi&#241;as, where the senator has also put up a vegetable garden.
+Urban...
+</description>
+<pubDate>Fri, 19 Jun 2020 01:37:33 GMT</pubDate>
+<category>Villar</category>
+</item>
+
+<item>
+<title>Bong Go pushes for expanded use of Special Education Fund to give LGUs more flexibility in improving public education system amid COVID-19 crisis</title>
+<link>http://www.senate.gov.ph/press_release/2020/0619_go1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0619_go1.asp</guid>
+<description>June 19, 2020. Senator Christopher Lawrence &quot;Bong&quot; Go is pushing for the passage of a measure seeking to expand the application of the Special Education Fund (SEF) to other needs of the public education system.
+Go recognized the need for local government units to maximize resources in order to prepare their...
+</description>
+<pubDate>Fri, 19 Jun 2020 01:37:33 GMT</pubDate>
+<category>Go</category>
+</item>
+
+<item>
+<title>As MinDA prepares BP2 template communities, Bong Go stresses importance of providing economic opportunities to Filipinos who wish to relocate to provinces after COVID-19 crisis</title>
+<link>http://www.senate.gov.ph/press_release/2020/0618_go2.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0618_go2.asp</guid>
+<description>June 18, 2020. Senator Christopher &quot;Bong&quot; Go expressed his support for the ongoing preparations of various local government units in Mindanao for the beneficiaries of the Balik Probinsya, Bagong Pag-asa (BP2) Program.
+Go said that ensuring the availability of economic opportunities in local communities will...
+</description>
+<pubDate>Fri, 19 Jun 2020 01:37:33 GMT</pubDate>
+<category>Go</category>
+</item>
+
+<item>
+<title>Pangilinan to DILG: Focus on contact tracing, not promoting anti-terror bill</title>
+<link>http://www.senate.gov.ph/press_release/2020/0618_pangilinan1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0618_pangilinan1.asp</guid>
+<description>June 18, 2020. &quot;Sa panahon ng pandemya, kung ano-ano ang inuuna. Ganyan ba ang palakad ng gobyernong nagseserbisyo sa masa?
+Kesa bigyang pokus ng DILG ang mas maigting at malawakang contact tracing at pagtulong sa mga locally stranded individuals, kasama pa rin sa pinagtuunan ng pansin ng DILG at ni DILG...
+</description>
+<pubDate>Thu, 18 Jun 2020 07:00:28 GMT</pubDate>
+<category>Pangilinan</category>
+</item>
+
+<item>
+<title>Textbooks more urgent than transistor radios in blended learning--Recto</title>
+<link>http://www.senate.gov.ph/press_release/2020/0618_recto1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0618_recto1.asp</guid>
+<description>June 18, 2020. Senate President Pro Tempore Ralph Recto today called for a &quot;1 book to 1 student&quot; ratio in public schools, saying that a complete set of textbooks at home is needed by children to cope with online classes.
+&quot;Broadband learning does not cancel the need for books. On the contrary-- it makes it...
+</description>
+<pubDate>Thu, 18 Jun 2020 04:29:07 GMT</pubDate>
+<category>Recto</category>
+</item>
+
+<item>
+<title>Lacson: On Justice Carpio's Interpretation of the Anti-Terrorism Bill</title>
+<link>http://www.senate.gov.ph/press_release/2020/0618_lacson1.asp</link>
+<guid>http://www.senate.gov.ph/press_release/2020/0618_lacson1.asp</guid>
+<description>June 18, 2020. More at: 
+	&lt;a href=&quot;https://pinglacson.net/2020/06/18/on-justice-carpios-interpretation-of-the-anti-terrorism-bill/&quot;&gt;https://pinglacson.net/2020/06/18/on-justice-carpios-interpretation-of-the-anti-terrorism-bill/&lt;/a&gt;
+	With all due respect to former Justice Antonio Carpio, who I continue to admire...
+</description>
+<pubDate>Thu, 18 Jun 2020 03:41:39 GMT</pubDate>
+<category>Lacson</category>
 </item>
 
 </channel></rss>

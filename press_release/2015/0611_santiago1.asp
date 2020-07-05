@@ -4,11 +4,11 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Press Release - Santiago: 13 senators decry being left out of edca</title>
-<link rel="alternate" type="application/rss+xml" title="Latest News Feed - Senate of the Philippines" href="../../rss/rss_news.aspx" />
-<script type="text/javascript" language="javascript" src="http://senate.gov.ph/scripts_web/div.js"></script>
-<link type="text/css" rel="stylesheet" href="http://senate.gov.ph/scripts_web/print.css" media="print" />
-<link type="text/css" rel="stylesheet" href="http://senate.gov.ph/scripts_web/xhtml.css" media="all" />
-<link type="text/css" rel="stylesheet" href="http://senate.gov.ph/scripts_web/xhtml_body.css" media="all" />
+<link rel="alternate" type="application/rss+xml" title="Latest News Feed - Senate of the Philippines" href="/rss/rss_news.aspx" />
+<script type="text/javascript" language="javascript" src="/scripts_web/div.js"></script>
+<link type="text/css" rel="stylesheet" href="/scripts_web/print.css" media="print" />
+<link type="text/css" rel="stylesheet" href="../../scripts_web/xhtml.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../scripts_web/xhtml_body.css" media="all" />
 <style type="text/css">
 .auto-style1 {
 	font-size: xx-small;
@@ -17,29 +17,29 @@
 </head>
 
 <body>
-<div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="../../images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
-<table><tr><td><a href="../../index.html">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
+<div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="/images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
+<table><tr><td><a href="/">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
 &nbsp;About&nbsp;</div><div id="nav_About" class="div_hidden" onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../../about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="../../about/history.asp">History of the Senate</a></p>
-<p><a href="../../about/symbols&#32;of&#32;authority.asp">Symbols of Authority</a></p><p><a href="../../about/legpro.asp">Legislative Process</a></p>
+<div class="nav_dropdown"><p><a href="/about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="/about/history.asp">History of the Senate</a></p>
+<p><a href="/about/symbols%20of%20authority.asp">Symbols of Authority</a></p><p><a href="/about/legpro.asp">Legislative Process</a></p>
 </div></div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
 &nbsp;Senators&nbsp;</div><div id="nav_Senators" class="div_hidden" onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../../senators/sen18th.asp">18th Congress Senators</a></p><p><a href="../../senators/senlist.asp">List of Previous Senators</a></p>
-<p><a href="../../senators/roll.asp">Roll of Senate President</a></p><p><a href="../../senators/composition.asp">Composition of the Senate</a></p><p><a href="../../senators/terms.asp">Terms of Office and Privileges</a></p>
+<div class="nav_dropdown"><p><a href="/senators/sen18th.asp">18th Congress Senators</a></p><p><a href="/senators/senlist.asp">List of Previous Senators</a></p>
+<p><a href="/senators/roll.asp">Roll of Senate President</a></p><p><a href="/senators/composition.asp">Composition of the Senate</a></p><p><a href="/senators/terms.asp">Terms of Office and Privileges</a></p>
 </div></div></td><td>|</td><td>
 <div onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">&nbsp;Committees&nbsp;</div>
 <div id="nav_Committees" class="div_hidden" onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../../committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="../../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../../committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="../../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../../committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
-<p><a href="../../committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="../../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../../committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="../../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../../notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="../../committee/schedwk.asp">Committee Schedule</a></p></div>
+<div class="nav_dropdown"><p><a href="/committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
+<p><a href="/committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="/committee/schedwk.asp">Committee Schedule</a></p></div>
 </div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
 &nbsp;Secretariat&nbsp;</div><div id="nav_Secretariat" class="div_hidden" onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../../secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="../../secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="../../secretariat/osec.asp">Office of the Secretary</a></p>
-<p><a href="../../secretariat/leg.asp">Legislation</a></p><p><a href="../../secretariat/admin.asp">Administration and Financial Services</a></p>
-<p><a href="../../secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="../../secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
+<div class="nav_dropdown"><p><a href="/secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="/secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="/secretariat/osec.asp">Office of the Secretary</a></p>
+<p><a href="/secretariat/leg.asp">Legislation</a></p><p><a href="/secretariat/admin.asp">Administration and Financial Services</a></p>
+<p><a href="/secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="/secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
 </div></div></td><td>| </td>
 
 
@@ -48,14 +48,14 @@
 &nbsp;Legislative Documents&nbsp;</div>
 <div id="nav_LegislativeDocuments" class="div_hidden" onmouseover="ShowDiv('nav_LegislativeDocuments');HideSelect();" onmouseout="HideDiv('nav_LegislativeDocuments');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../../lis/leg_sys.aspx?congress=18&amp;type=bill">Bills</a></p>
-<p><a href="../../lis/leg_sys.aspx?congress=18&amp;type=resolution">Resolutions</a></p>
-<p><a href="../../lis/leg_sys.aspx?congress=18&amp;type=journal">Journals</a></p>
-<p><a href="../../lis/leg_sys.aspx?congress=18&amp;type=committee_rpt">Committee Reports</a></p>
-<p><a href="../../lis/pdf_sys.aspx?congress=18&amp;type=republic_act">Republic Acts</a></p>
-<p><a href="../../lis/pdf_sys.aspx?congress=18&amp;type=adopted_res">Adopted Resolutions</a></p>
-<p><a href="../../18th_congress/treaties_18thcongress.asp">Treaties</a></p>
-<p><a href="../../statistical.pdf">Statistical Data</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=bill">Bills</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=resolution">Resolutions</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=journal">Journals</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=committee_rpt">Committee Reports</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=republic_act">Republic Acts</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=adopted_res">Adopted Resolutions</a></p>
+<p><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a></p>
+<p><a href="/statistical.pdf">Statistical Data</a></p>
 </div>
 </div>
 </td>
@@ -66,13 +66,13 @@
 &nbsp;Publications&nbsp;</div>
 <div id="nav_publications" class="div_hidden" onmouseover="ShowDiv('nav_publications');HideSelect();" onmouseout="HideDiv('nav_publications');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../../publications/sepo_publications.asp">SEPO Publications</a></p>
-<p><a href="../../publications/stsro_publications.asp">STSRO Publications</a></p>
-<p><a href="../../publications/lbrmo_publications.asp">LBRMO Publications</a></p>
-<p><a href="../../publications/ils_publications.asp">ILS Publications</a></p>
-<p><a href="../../publications/lrs_publications.asp">LRS Publications</a></p>
-<p><a href="../../publications/lls_publications.asp">LLS Publications</a></p>
-<p><a href="../../publications/other_publications.asp">Other Publications</a></p>
+<p><a href="/publications/sepo_publications.asp">SEPO Publications</a></p>
+<p><a href="/publications/stsro_publications.asp">STSRO Publications</a></p>
+<p><a href="/publications/lbrmo_publications.asp">LBRMO Publications</a></p>
+<p><a href="/publications/ils_publications.asp">ILS Publications</a></p>
+<p><a href="/publications/lrs_publications.asp">LRS Publications</a></p>
+<p><a href="/publications/lls_publications.asp">LLS Publications</a></p>
+<p><a href="/publications/other_publications.asp">Other Publications</a></p>
 </div>
 </div>
 </td>
@@ -83,7 +83,7 @@
 &nbsp;GAD&nbsp;</div>
 <div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../../GAD/Bills&amp;Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+<p><a href="/GAD/Bills&Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
 </div>
 </div>
 </td>
@@ -111,27 +111,27 @@ Press Release<br />
 <span class="PRTitle"><!-- NewsTitle.start -->13 SENATORS DECRY BEING LEFT OUT OF EDCA<!-- NewsTitle.end --></span>
 </p>
 <!-- NewsBody.start --><p style="text-align: justify; text-indent: 25px"><p style="text-align: justify; text-indent: 25px">	A majority of senators are asserting that the power to enter into treaties or international agreements, such as the Enhanced Defense Cooperation Agreement (EDCA) between the Philippines and the U.S., does not rest solely on the President but is shared with the Senate.</p> <p style="text-align: justify; text-indent: 25px">	Sen. Miriam Defensor Santiago, chair of the committee on foreign relations, will lead 12 other senators in filing a resolution expressing the strong sense of the Senate that unless concurred in by the upper legislative chamber, a treaty ratified by the President is not valid and effective.</p> <p style="text-align: justify; text-indent: 25px">	The resolution also comes at the heels of President Aquino's announcement that the Philippines will initiate negotiations for a visiting forces agreement with Japan, a treaty the Palace claims will bolster both countries' stand in separate maritime disputes with China.</p> <p style="text-align: justify; text-indent: 25px">	"Behold the Senate break its silence. The fact that we have not made a hue and cry about the EDCA has apparently been misconstrued as acquiescence. In this resolution, we are saying that we will not allow the power of the Senate to be eroded," Santiago said.</p> <p style="text-align: justify; text-indent: 25px">	Aside from Santiago, those who signed as co-authors were Senators Sonny Angara, Pia Cayetano, JV Ejercito, Jinggoy Estrada, TG Guingona, Lito Lapid, Bongbong Marcos, Serge Osme&ntilde;a, Koko Pimentel, Ralph Recto, Bong Revilla, and Cynthia Villar.</p> <p style="text-align: justify; text-indent: 25px">	If adopted, the resolution will be sent to the Supreme Court as the Senate's position on the pending question on the validity of the EDCA. Malaca&ntilde;ang argues that the EDCA is not a treaty but an executive agreement that does not require Senate concurrence.</p> <p style="text-align: justify; text-indent: 25px">	"The only constitutional ground for the position taken by the Executive is the mere inclusion of the term 'executive agreement' as one of items included in the list of cases which the Supreme Court has power to decide," the senators noted.</p> <p style="text-align: justify; text-indent: 25px">	They were referring to the Constitution, Article 8, Section 4, which says: "All cases involving the constitutionality of a treaty, international or executive agreement, or law, which shall be heard by the Supreme Court en banc..."</p> <p style="text-align: justify; text-indent: 25px">	"'Executive agreement' is a term wandering alone in the Constitution, bereft of provenance and an unidentified constitutional mystery," the senators added. They claimed that no provision defined the term, set requirements for it, or established protocol.</p> <p style="text-align: justify; text-indent: 25px">	Santiago further assailed the view that the EDCA is an implementing agreement to the Visiting Forces Agreement (VFA), forged between the Philippines and the U.S. in 2009. Santiago is also chair of the joint legislative oversight committee on the VFA.</p> <p style="text-align: justify; text-indent: 25px">	"It is absurd to claim that the EDCA is an implementing agreement to the VFA, which, in the first place, is alleged to be the implementing agreement to the ancient Mutual Defense Treaty. Moreover, the U.S. does not even recognize the VFA as a treaty," she said.</p> <p style="text-align: justify; text-indent: 25px">	The Senate in 2009 adopted Santiago's resolution urging the Department of Foreign Affairs to either renegotiate or terminate the VFA. A panel headed by the executive secretary has been created to review the VFA, but the treaty was never renegotiated.</p> <p style="text-align: justify; text-indent: 25px">	"The Constitution is clear and categorical that Senate concurrence is absolutely necessary for the validity and effectivity of any treaty, particularly any treaty that promotes for foreign military bases, troops, and facilities, such as the EDCA," the senators said.</p> <p style="text-align: justify; text-indent: 25px">	They cited the following constitutional provisions:</p> <p style="text-align: justify; text-indent: 25px">	a. "No treaty or international agreement shall be valid and effective unless concurred in by at least two-thirds of all the Members of the Senate." (Article 7, Section 21)</p> <p style="text-align: justify; text-indent: 25px">	b. "After the expiration in 1991 of the Agreement between the Republic of the Philippines and the United States of America concerning Military Bases, foreign military bases, troops, or facilities shall not be allowed in the Philippines except under a treaty duly concurred in by the Senate and, when the Congress so requires, ratified by a majority of the votes cast by the people in a national referendum held for that purpose, and recognized as a treaty by the other contracting State." (Article 18, Section 25)</p> <p style="text-align: justify; text-indent: 25px">	Santiago, considered the foremost constitutional expert in the Senate, said that the two constitutional provisions on Senate concurrence are specific provisions while the lone provision mentioning an "executive agreement" is a general provision.</p> <p style="text-align: justify; text-indent: 25px">	"Therefore, the specific provisions on Senate concurrence prevail over the general provision on 'executive agreement'," Santiago added.</p> <p style="text-align: justify; text-indent: 25px">	The senators clarified in the resolution, however, that they are not forcing the President to submit the EDCA for concurrence, an act the Supreme Court has denounced in its ruling in the 2005 case of Pimentel v. Office of the Executive Secretary.</p> <p style="text-align: justify; text-indent: 25px">	"By this resolution, the Senate merely takes a definitive stand on the non-negotiable power of the Senate to decide whether a treaty will be valid and effective, depending on Senate concurrence," the senators said.</p>
-	<p class="auto-style1"><a href="EDCA&#32;resolution.pdf">EDCA Resolutions.pdf</a></p>
+	<p class="auto-style1"><a href="EDCA%20resolution.pdf">EDCA Resolutions.pdf</a></p>
 <!-- NewsBody.end -->
 </td><td id="sidepane">
 <div id="sidepane_l2"></div><div class="header_pane">
-News <a href="../../rss/rss_news.aspx"><img src="../../images/feed10.png" alt="Latest News Feed" /></a>
+News <a href="/rss/rss_news.aspx"><img src="/images/feed10.png" alt="Latest News Feed" /></a>
 </div>
 
 <div class="sidepane_nav">
-<div class="news_header">Tuesday, June 9</div><ul><li><a href="../2020/0609_sotto1.asp">Sotto: On Tuition Payment Scheme</a></li>
-<li><a href="../2020/0609_pangilinan1.asp">Pangilinan seeks Senate probe of fake Facebook accounts</a></li>
-<li><a href="../2020/0609_go1.asp">Bong Go reminds public to use social media responsibly; urges DOJ and NBI to crack down on fake news and fake socmed accounts</a></li>
-<li><a href="../2020/0609_gordon1.asp">Gordon urges gov't to set a clear policy to contain COVID, conduct massive testing based on WHO recommendation</a></li>
-</ul><div class="news_header">Monday, June 8</div><ul><li><a href="../2020/0608_gordon2.asp">Gordon pushes for massive COVID-19 testing for healthcare workers in public and private institutions</a></li>
-<li><a href="../2020/0608_go2.asp">Subsequent roll outs of BP2 beneficiaries to begin soon; Bong Go reminds implementers to ensure proper coordination and health protocols are followed</a></li>
-<li><a href="../2020/0608_recto1.asp">'No ride, no work; no back ride, no jeepney ride' pushing up joblessness - Recto</a></li>
-<li><a href="../2020/0608_villanueva1.asp">Villanueva: Economic recovery plan must prioritize plight of workers</a></li>
-<li><a href="../2020/0608_gordon1.asp">Gordon, glad the DoH acted on the release of P1-M assistance for families of fallen medical frontliners</a></li>
-<li><a href="../2020/0608_poe1.asp">Grace Poe on transport:</a></li>
+<div class="news_header">Tuesday, June 23</div><ul><li><a href="/press_release/2020/0623_villanueva1.asp">Statement of Senator Joel Villanueva on the prospects of economic recovery by Q4 2020</a></li>
+<li><a href="/press_release/2020/0623_go2.asp">Bong Go urges Executive branch to review health and safety protocols for travels to provinces; protect areas, especially those with low to zero COVID-19 cases</a></li>
+<li><a href="/press_release/2020/0623_gordon2.asp">Boost RP’s capability to develop own vaccines – Gordon</a></li>
+<li><a href="/press_release/2020/0623_gordon1.asp">Gordon: PRC to put up testing centers in RP’s tourism hubs to ramp up Covid testing</a></li>
+<li><a href="/press_release/2020/0623_poe1.asp">Poe: Family backriding in motorcycles to reduce stranded passengers, get people to work faster</a></li>
+<li><a href="/press_release/2020/0623_pangilinan1.asp">Pangilinan to govt: Let jeepney, UV Express get back on the road</a></li>
+<li><a href="/press_release/2020/0623_go1.asp">Bong Go reminds public to remain vigilant; urges concerned agencies to address the people's needs as COVID-19 crisis continues</a></li>
+<li><a href="/press_release/2020/0623_gatchalian1.asp">Boost ICT competitiveness to help spur PH digital economy - Gatchalian</a></li>
+<li><a href="/press_release/2020/0623_hontiveros1.asp">Hontiveros files reso urging BIR to suspend tax memo on online sellers</a></li>
+<li><a href="/press_release/2020/0623_villar1.asp">Villar to DENR: Bacoor reclamation project threatens protected area, undermines Manila Bay rehabilitation project and will worsen flooding</a></li>
 </ul>
 	<div class="more">
-	<a href="../../news.asp?year=2020">
+	<a href="/news.asp?year=2020">
 	news archives...</a></div>
 </div>
 
@@ -139,9 +139,9 @@ News <a href="../../rss/rss_news.aspx"><img src="../../images/feed10.png" alt="L
 <div class="xhtml_nav"><div id="nav_bottom"><table><tr>
 	<td style="text-align: left; color: white; width: 381px;">© Senate of the Philippines. All rights reserved.</td>
 <td style="text-align: right">
-<a href="http://senate.gov.ph/press_release/job.pdf">Job Openings </a></a>| 
-<a href="../../contact18thcongress.asp">Contact Info</a> | <a href="../../rss.asp">RSS Feeds</a> <a href="../../rss.asp">
-<img src="../../images/feed10.png" alt="RSS icon" /></a> | <a href="../../search.aspx">Search</a> | <a href="../../sitemap.asp">Site Map</a></td></tr></table></div></div>
+<a href="../job.pdf">Job Openings </a></a>| 
+<a href="/contact18thcongress.asp">Contact Info</a> | <a href="/rss.asp">RSS Feeds</a> <a href="/rss.asp">
+<img src="/images/feed10.png" alt="RSS icon" /></a> | <a href="/search.aspx">Search</a> | <a href="/sitemap.asp">Site Map</a></td></tr></table></div></div>
 
 
 </body>

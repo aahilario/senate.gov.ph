@@ -4,11 +4,11 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Publications - Senate of the Philippines</title>
-<script type="text/javascript" language="javascript" src="http://senate.gov.ph/scripts_web/div.js"></script>
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml.css" media="all" />
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml_body.css" media="all" />
-<script type="text/javascript" language="javascript" src="http://senate.gov.ph/scripts_web/expcollapse.js"></script>
+<script type="text/javascript" language="javascript" src="/scripts_web/div.js"></script>
+<link rel="stylesheet" type="text/css" href="/scripts_web/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="../scripts_web/xhtml.css" media="all" />
+<link rel="stylesheet" type="text/css" href="../scripts_web/xhtml_body.css" media="all" />
+<script type="text/javascript" language="javascript" src="/scripts_web/expcollapse.js"></script>
 <style type="text/css">
 .pubitem {
 	margin-left: 35px;
@@ -31,7 +31,7 @@
 	padding-bottom: 8px;
 }
 #h_BF {
-	background-image: url('../images/expand.gif');
+	background-image: url('../../images/expand.gif');
 	background-repeat: no-repeat;
 	margin-left: 35px;
 	padding-left: 15px;
@@ -61,29 +61,29 @@ function SetArray()
 
 <body onload="HideAll()">
 
-<div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="../images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
-<table><tr><td><a href="../index.html">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
+<div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="/images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
+<table><tr><td><a href="/">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
 &nbsp;About&nbsp;</div><div id="nav_About" class="div_hidden" onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="../about/history.asp">History of the Senate</a></p>
-<p><a href="../about/symbols&#32;of&#32;authority.asp">Symbols of Authority</a></p><p><a href="../about/legpro.asp">Legislative Process</a></p>
+<div class="nav_dropdown"><p><a href="/about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="/about/history.asp">History of the Senate</a></p>
+<p><a href="/about/symbols%20of%20authority.asp">Symbols of Authority</a></p><p><a href="/about/legpro.asp">Legislative Process</a></p>
 </div></div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
 &nbsp;Senators&nbsp;</div><div id="nav_Senators" class="div_hidden" onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../senators/sen18th.asp">18th Congress Senators</a></p><p><a href="../senators/senlist.asp">List of Previous Senators</a></p>
-<p><a href="../senators/roll.asp">Roll of Senate President</a></p><p><a href="../senators/composition.asp">Composition of the Senate</a></p><p><a href="../senators/terms.asp">Terms of Office and Privileges</a></p>
+<div class="nav_dropdown"><p><a href="/senators/sen18th.asp">18th Congress Senators</a></p><p><a href="/senators/senlist.asp">List of Previous Senators</a></p>
+<p><a href="/senators/roll.asp">Roll of Senate President</a></p><p><a href="/senators/composition.asp">Composition of the Senate</a></p><p><a href="/senators/terms.asp">Terms of Office and Privileges</a></p>
 </div></div></td><td>|</td><td>
 <div onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">&nbsp;Committees&nbsp;</div>
 <div id="nav_Committees" class="div_hidden" onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
-<p><a href="../committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="../committee/schedwk.asp">Committee Schedule</a></p></div>
+<div class="nav_dropdown"><p><a href="/committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
+<p><a href="/committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="/committee/schedwk.asp">Committee Schedule</a></p></div>
 </div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
 &nbsp;Secretariat&nbsp;</div><div id="nav_Secretariat" class="div_hidden" onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="../secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="../secretariat/osec.asp">Office of the Secretary</a></p>
-<p><a href="../secretariat/leg.asp">Legislation</a></p><p><a href="../secretariat/admin.asp">Administration and Financial Services</a></p>
-<p><a href="../secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="../secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
+<div class="nav_dropdown"><p><a href="/secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="/secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="/secretariat/osec.asp">Office of the Secretary</a></p>
+<p><a href="/secretariat/leg.asp">Legislation</a></p><p><a href="/secretariat/admin.asp">Administration and Financial Services</a></p>
+<p><a href="/secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="/secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
 </div></div></td><td>| </td>
 
 
@@ -92,14 +92,14 @@ function SetArray()
 &nbsp;Legislative Documents&nbsp;</div>
 <div id="nav_LegislativeDocuments" class="div_hidden" onmouseover="ShowDiv('nav_LegislativeDocuments');HideSelect();" onmouseout="HideDiv('nav_LegislativeDocuments');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=bill">Bills</a></p>
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=resolution">Resolutions</a></p>
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=journal">Journals</a></p>
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=committee_rpt">Committee Reports</a></p>
-<p><a href="../lis/pdf_sys.aspx?congress=18&amp;type=republic_act">Republic Acts</a></p>
-<p><a href="../lis/pdf_sys.aspx?congress=18&amp;type=adopted_res">Adopted Resolutions</a></p>
-<p><a href="../18th_congress/treaties_18thcongress.asp">Treaties</a></p>
-<p><a href="../statistical.pdf">Statistical Data</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=bill">Bills</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=resolution">Resolutions</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=journal">Journals</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=committee_rpt">Committee Reports</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=republic_act">Republic Acts</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=adopted_res">Adopted Resolutions</a></p>
+<p><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a></p>
+<p><a href="/statistical.pdf">Statistical Data</a></p>
 </div>
 </div>
 </td>
@@ -110,13 +110,13 @@ function SetArray()
 &nbsp;Publications&nbsp;</div>
 <div id="nav_publications" class="div_hidden" onmouseover="ShowDiv('nav_publications');HideSelect();" onmouseout="HideDiv('nav_publications');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="sepo_publications.asp">SEPO Publications</a></p>
-<p><a href="stsro_publications.asp">STSRO Publications</a></p>
-<p><a href="lbrmo_publications.asp">LBRMO Publications</a></p>
-<p><a href="ils_publications.asp">ILS Publications</a></p>
-<p><a href="lrs_publications.asp">LRS Publications</a></p>
-<p><a href="lls_publications.asp">LLS Publications</a></p>
-<p><a href="other_publications.asp">Other Publications</a></p>
+<p><a href="/publications/sepo_publications.asp">SEPO Publications</a></p>
+<p><a href="/publications/stsro_publications.asp">STSRO Publications</a></p>
+<p><a href="/publications/lbrmo_publications.asp">LBRMO Publications</a></p>
+<p><a href="/publications/ils_publications.asp">ILS Publications</a></p>
+<p><a href="/publications/lrs_publications.asp">LRS Publications</a></p>
+<p><a href="/publications/lls_publications.asp">LLS Publications</a></p>
+<p><a href="/publications/other_publications.asp">Other Publications</a></p>
 </div>
 </div>
 </td>
@@ -127,7 +127,7 @@ function SetArray()
 &nbsp;GAD&nbsp;</div>
 <div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../GAD/Bills&amp;Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+<p><a href="/GAD/Bills&Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
 </div>
 </div>
 </td>
@@ -144,7 +144,7 @@ function SetArray()
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="LBRMO/FY&#32;2017&#32;DBCC&#32;Consolidated.pdf">
+		<a href="LBRMO/FY%202017%20DBCC%20Consolidated.pdf">
 		<img src="images/lbrmo_2017NEP_s.png" class="float" /><span>THE PROPOSED FY 2017 NATIONAL EXPENDITURE PROGRAM:
 ITS COMPOSITION, DISTRIBUTION, AND FINANCING
 </span>  
@@ -162,7 +162,7 @@ Senate Finance Committee &nbsp;
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="LBRMO&#32;July&#32;2014&#32;-&#32;25&#32;YEARS_CARP(final)&#32;PDF.pdf">
+		<a href="LBRMO%20July%202014%20-%2025%20YEARS_CARP(final)%20PDF.pdf">
 		<img src="images/lbrmo_042014_s.png" class="float" /><span>25 Years of CARP25 Years of CARP
 </span>  
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
@@ -181,7 +181,7 @@ Land reform policies have been in the political agenda in the country since the 
 
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="LBRMO&#32;DTI&#32;and&#32;SUCs&#32;FY&#32;2014&#32;Budget(final).pdf">
+		<a href="LBRMO%20DTI%20and%20SUCs%20FY%202014%20Budget(final).pdf">
 		<img src="images/lbrmo_012014_s.png" class="float" /><span>FY 2014 BUDGET OF THE DEPARTMENT OF TRADE AND INDUSTRY
 </span>  
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
@@ -199,7 +199,7 @@ The Philippine Department of Trade and Industry (DTI) is the executive departmen
 
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="DENR&#32;FY&#32;2014&#32;Budget.pdf">
+		<a href="DENR%20FY%202014%20Budget.pdf">
 		<img src="images/lbrmo_1219_s.png" class="float" /><span>LBRMO Budget Facts &amp; Figures: FY 2014 BUDGET OF THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES
 </span>  
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
@@ -218,7 +218,7 @@ For FY 2014, the proposed expenditure program for the Department of Environment 
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="LBRMO&#32;0913&#32;Budget&#32;Facts.pdf">
+		<a href="LBRMO%200913%20Budget%20Facts.pdf">
 		<img src="images/lbrmo_0913_s.png" class="float" /><span>THE PROPOSED FY 2014 NATIONAL EXPENDITURE PROGRAM: ITS COMPOSITION, DISTRIBUTION, AND FINANCING
 </span>  
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
@@ -238,7 +238,7 @@ For FY 2014, the proposed expenditure program for the Department of Environment 
 
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="LBRMO&#32;2013-02&#32;Budget&#32;Facts.pdf">
+		<a href="LBRMO%202013-02%20Budget%20Facts.pdf">
 		<img src="images/lbrmo_0702_s.png" class="float" /><span>Health Sector Budget: An Analysis</span>  
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
 		<small>April-June 2013 (1.11 MB)</small></a><div class="minibreak"></div>
@@ -251,7 +251,7 @@ For FY 2014, the proposed expenditure program for the Department of Environment 
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="LBRMO&#32;2013-01&#32;Budget&#32;Facts.pdf">
+		<a href="LBRMO%202013-01%20Budget%20Facts.pdf">
 		<img src="images/lbrmo_0113_s.png" class="float" /><span>The 2013 Empowerment Budget</span>  
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
 		<small>January-March 2013 (1.5 MB)</small></a><div class="minibreak"></div>
@@ -391,19 +391,19 @@ Publications
 	<ul>
 		<!--<li>
 		<a href="../performance/Performance%20of%20the%20Senate%202nd%20Regular%20Session%2015th%20Congress%20July%2025,%202011%20-%20June%208,%202012.pdf">Performance of the Senate</a></li>-->
-		<li><a href="sepo_publications.asp">SEPO publications</a> 
+		<li><a href="/publications/sepo_publications.asp">SEPO publications</a> 
 		</li>
-		<li><a href="stsro_publications.asp">STSRO publications</a>
+		<li><a href="/publications/stsro_publications.asp">STSRO publications</a>
 		</li>
-		<li><a href="lbrmo_publications.asp">LBRMO publications</a>
+		<li><a href="/publications/lbrmo_publications.asp">LBRMO publications</a>
 		</li>
-		<li><a href="ils_publications.asp">ILS publications</a>
+		<li><a href="/publications/ils_publications.asp">ILS publications</a>
 		</li>
-		<li><a href="lrs_publications.asp">LRS publications</a>
+		<li><a href="/publications/lrs_publications.asp">LRS publications</a>
 		</li>
-		<li><a href="lls_publications.asp">LLS publications</a>
+		<li><a href="/publications/lls_publications.asp">LLS publications</a>
 		</li>
-		<li><a href="other_publications.asp">Other publications</a>
+		<li><a href="/publications/other_publications.asp">Other publications</a>
 		</li>
 	</ul>
 </div>
@@ -421,8 +421,8 @@ Publications
 	<td style="text-align: left; color: white; width: 381px;">© Senate of the Philippines. All rights reserved.</td>
 <td style="text-align: right">
 <a href="../job.pdf">Job Openings </a></a>| 
-<a href="../contact18thcongress.asp">Contact Info</a> | <a href="../rss.asp">RSS Feeds</a> <a href="../rss.asp">
-<img src="../images/feed10.png" alt="RSS icon" /></a> | <a href="../search.aspx">Search</a> | <a href="../sitemap.asp">Site Map</a></td></tr></table></div></div>
+<a href="/contact18thcongress.asp">Contact Info</a> | <a href="/rss.asp">RSS Feeds</a> <a href="/rss.asp">
+<img src="/images/feed10.png" alt="RSS icon" /></a> | <a href="/search.aspx">Search</a> | <a href="/sitemap.asp">Site Map</a></td></tr></table></div></div>
 
 
 

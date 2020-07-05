@@ -107,59 +107,54 @@
 								</table>
 								<br />
 			
-<div align="center"><table width="80%"><tr><td align="center">COMMITTEE HEARINGS/MEETINGS<br />JUNE 15 -  19, 2020<br />18th CONGRESS (First Regular Session)</td><td align="center" width="30%">AS OF 4:45 P.M.<BR />JUNE 14, 2020</td></tr></table></div><br /><div align="center"><div align="center"><table width="98%" cellpadding="6" class="grayborder" style="border-collapse: collapse"><tr><td style="text-align: left; font-weight: bold; width: 170px;"  bgcolor="#cccccc" class="#cccccc">
-Monday, June 15</td><td width="162" style="text-align: center;" bgcolor="#cccccc" class="#999999"></td><td width="254" style="text-align: center;" bgcolor="#cccccc" class="#999999"></td></tr>
-<tr><td width="170" style="text-align: left;" bgcolor="#cccccc" class="grayborder">Committee/Sub-Committee</td><td width="162" style="text-align: center;" bgcolor="#cccccc" class="grayborder">Time &amp; Venue</td><td width="254" style="text-align: center;" bgcolor="#cccccc" class="grayborder">Agenda</td></tr>
-<tr><td class="grayborder" style="width: 170px;">
-- No Committee Hearing/Meeting -</td><td width="162" class="grayborder" style="text-align: center">
-<br /></td><td width="254" class="grayborder">
-</td></tr></table>
-</div><br /><div align="center"><table width="98%" cellpadding="6" class="grayborder" style="border-collapse: collapse"><tr><td style="text-align: left; font-weight: bold; width: 170px;"  bgcolor="#cccccc" class="#cccccc">
-Tuesday, June 16</td><td width="162" style="text-align: center;" bgcolor="#cccccc" class="#999999"></td><td width="254" style="text-align: center;" bgcolor="#cccccc" class="#999999"></td></tr>
+<div align="center"><table width="80%"><tr><td align="center">COMMITTEE HEARINGS/MEETINGS<br />JUNE 23 -  26, 2020<br />18th CONGRESS (First Regular Session)</td><td align="center" width="30%">AS OF 3:35 P.M.<BR />JUNE 23, 2020</td></tr></table></div><br /><div align="center"><div align="center"><table width="98%" cellpadding="6" class="grayborder" style="border-collapse: collapse"><tr><td style="text-align: left; font-weight: bold; width: 170px;"  bgcolor="#cccccc" class="#cccccc">
+Tuesday, June 23</td><td width="162" style="text-align: center;" bgcolor="#cccccc" class="#999999"></td><td width="254" style="text-align: center;" bgcolor="#cccccc" class="#999999"></td></tr>
 <tr><td width="170" style="text-align: left;" bgcolor="#cccccc" class="grayborder">Committee/Sub-Committee</td><td width="162" style="text-align: center;" bgcolor="#cccccc" class="grayborder">Time &amp; Venue</td><td width="254" style="text-align: center;" bgcolor="#cccccc" class="grayborder">Agenda</td></tr>
 <tr><td class="grayborder" style="width: 170px;">
 Energy joint with Environment, Natural Resources and Climate Change; and Ways and Means (TWG)</td><td width="162" class="grayborder" style="text-align: center">
 9:00 A.M.<br />via Cisco Webex (Videoconference)</td><td width="254" class="grayborder">
 S. No. 363 - Establishing a national energy policy and regulatory framework for facilities utilizing waste-to-energy technologies
 				<br /><br />
-				S. No. 401 - Allowing the use of waste to energy technology in electricity, fuel and heat generation</td></tr><tr><td class="grayborder" style="width: 170px;">
-Joint Congressional Oversight Committee on Universal Health Care</td><td width="162" class="grayborder" style="text-align: center">
-1:00 P.M.<br />via Cisco Webex (Videoconference)</td><td width="254" class="grayborder">
-<img src="/images/bullet000b.gif">&nbsp;Updates and plans on the implementation of RA 11223, the” Universal Health Care Act”
-				<br /><br />
-				<img src="/images/bullet000b.gif">&nbsp;The new premium contribution schedule under the UHC – i.e. the increased premium rates for Overseas Filipino Workers (OFWs)</td></tr></table>
+				S. No. 401 - Allowing the use of waste to energy technology in electricity, fuel and heat generation</td></tr></table>
 </div><br /><div align="center"><table width="98%" cellpadding="6" class="grayborder" style="border-collapse: collapse"><tr><td style="text-align: left; font-weight: bold; width: 170px;"  bgcolor="#cccccc" class="#cccccc">
-Wednesday, June 17</td><td width="162" style="text-align: center;" bgcolor="#cccccc" class="#999999"></td><td width="254" style="text-align: center;" bgcolor="#cccccc" class="#999999"></td></tr>
+Wednesday, June 24</td><td width="162" style="text-align: center;" bgcolor="#cccccc" class="#999999"></td><td width="254" style="text-align: center;" bgcolor="#cccccc" class="#999999"></td></tr>
 <tr><td width="170" style="text-align: left;" bgcolor="#cccccc" class="grayborder">Committee/Sub-Committee</td><td width="162" style="text-align: center;" bgcolor="#cccccc" class="grayborder">Time &amp; Venue</td><td width="254" style="text-align: center;" bgcolor="#cccccc" class="grayborder">Agenda</td></tr>
 <tr><td class="grayborder" style="width: 170px;">
-Local Government 
-joint with Basic Education, Arts and Culture; Tourism; Health and 
-Demography; Women, Children, Family Relations and Gender Equality; and Finance</td><td width="162" class="grayborder" style="text-align: center">
-9:30 A.M.<br />via Cisco Webex (Videoconference)</td><td width="254" class="grayborder">
-S. No. 1579 - Strengthening the involvement of local communities and Local Government Units in Basic Education Governance
-				<br /><br />
-				S. No. 396 - Expanding the purposes and application of the Special Education Fund
-				<br /><br />
-				S. No. 1124 - Amending Sections 443, 454, and 463 of R.A. No. 7160 (Local Government Code of 1991)
-				<br /><br />
-				S. No. 844 – Enhancing Inter-LGU Cooperation by amending certain provisions in Book I of R.A. No. 7160 (Local Government Code of 1991)
-				<br /><br />
-				S. No. 446 - Granting incentives and other benefits to rural health unit doctors
-				<br /><br />
-				S. No. 1094 - Requiring All Heads of Local Government Units to establish ‘OFW Family Help Desks’ in their offices</td></tr><tr><td class="grayborder" style="width: 170px;">
-Sustainable Development Goals, Innovation and Futures Thinking joint with Basic Education, Arts and Culture</td><td width="162" class="grayborder" style="text-align: center">
-1:30 P.M.<br />via Cisco Webex
+Labor, Employment and Human Resources Development</td><td width="162" class="grayborder" style="text-align: center">
+10:00 A.M.<br />via Cisco Webex
 (Videoconference)</td><td width="254" class="grayborder">
-P.S. Res. Nos. 393 and 413 – Hearing on the effects of the COVID-19 pandemic on various sectors and on the future of the education system of the country</td></tr></table>
+S. No. 317 – Establishing a Credit Assistance Program for Overseas Filipino Workers
+				<br /><br />
+				S No. 566 – Providing benefits and incentives to Overseas Filipino Workers investing in business in the Philippines
+				<br /><br />
+				S. No. 1456 – Providing for a Wage Employment Assistance Program for displaced and/or vulnerable workers, institutionalizing for the purpose the Tulong Panghanapbuhay sa Ating Disadvantage/Displaced Workers (TUPAD) Program of the Department of Labor and Employment 
+				<br /><br />
+				S. No. 1469 – Supporting the growth and development of digital careers in the Philippines
+				<br /><br />
+				S. No. 801 - Establishing a Credit Assistance Program for Overseas Filipino Workers
+				<br /><br />
+				P.S. Res. No. 234 – Inquire and review the extension of credit to Overseas Filipinos and Overseas Filipino Workers, including the operations of the Overseas Filipino Bank
+				<br /><br />
+				P.S. Res. No. 338 – Inquiry on the series of business shutdowns that are happening in the country, including the impact of the 2019 Novel Coronavirus Disease (COVID-19) on employment, and the economy as a whole
+				<br /><br />
+				P.S. Res. Nos. 384 And 397 – Inquiry on the adequacy of on-site assistance and program for Overseas Filipino Workers in light of the Coronavirus Disease (COVID-19) pandemic and the consequent overseas employment displacements worldwide
+				<br /><br />
+				P.S. Res. No. 417 – Inquiry on the adequateness and sufficiency of the Overseas Workers Welfare Administration's assistance to Overseas Filipinos affected by the COVID-19 pandemic
+				<br /><br />
+				P.S. Res. No. 420 – Inquiry on the government's policy requiring OFWs to undergo mandatory quarantine and test for COVID-19 
+				<br /><br />
+				P.S. Res. No. 426 – Inquiry into the reported issues and delays in the release of Overseas Filipino Workers (OFWs) from designated quarantine facilities</td></tr></table>
 </div><br /><div align="center"><table width="98%" cellpadding="6" class="grayborder" style="border-collapse: collapse"><tr><td style="text-align: left; font-weight: bold; width: 170px;"  bgcolor="#cccccc" class="#cccccc">
-Thursday, June 18</td><td width="162" style="text-align: center;" bgcolor="#cccccc" class="#999999"></td><td width="254" style="text-align: center;" bgcolor="#cccccc" class="#999999"></td></tr>
+Thursday, June 25</td><td width="162" style="text-align: center;" bgcolor="#cccccc" class="#999999"></td><td width="254" style="text-align: center;" bgcolor="#cccccc" class="#999999"></td></tr>
 <tr><td width="170" style="text-align: left;" bgcolor="#cccccc" class="grayborder">Committee/Sub-Committee</td><td width="162" style="text-align: center;" bgcolor="#cccccc" class="grayborder">Time &amp; Venue</td><td width="254" style="text-align: center;" bgcolor="#cccccc" class="grayborder">Agenda</td></tr>
 <tr><td class="grayborder" style="width: 170px;">
-- No Committee Hearing/Meeting -</td><td width="162" class="grayborder" style="text-align: center">
-<br /></td><td width="254" class="grayborder">
-</td></tr></table>
+Basic Education, Arts and Culture joint with Higher, Technical and Vocational Education; Health and Demography; Ways and Means; and Finance</td><td width="162" class="grayborder" style="text-align: center">
+9:00 A.M.<br />via Hybrid/Cisco Webex (Videoconference)</td><td width="254" class="grayborder">
+S. No. 1565 – Establishing policies for education and learning in the new normal, prescribing for the purpose standards for the reopening of safe schools, and creating the Safe Schools Reopening Task Force 
+				<br /><br />
+				S. No. 1460 - Expanding the Basic Education Curriculum, increasing the functions of the Bureau of Learning Delivery under the Department of Education to include Distance Education and Online Learning, thereby amending R.A. No. 10533 (Enhanced Basic Education Act of 2013)</td></tr></table>
 </div><br /><div align="center"><table width="98%" cellpadding="6" class="grayborder" style="border-collapse: collapse"><tr><td style="text-align: left; font-weight: bold; width: 170px;"  bgcolor="#cccccc" class="#cccccc">
-Friday, June 19</td><td width="162" style="text-align: center;" bgcolor="#cccccc" class="#999999"></td><td width="254" style="text-align: center;" bgcolor="#cccccc" class="#999999"></td></tr>
+Friday, June 26</td><td width="162" style="text-align: center;" bgcolor="#cccccc" class="#999999"></td><td width="254" style="text-align: center;" bgcolor="#cccccc" class="#999999"></td></tr>
 <tr><td width="170" style="text-align: left;" bgcolor="#cccccc" class="grayborder">Committee/Sub-Committee</td><td width="162" style="text-align: center;" bgcolor="#cccccc" class="grayborder">Time &amp; Venue</td><td width="254" style="text-align: center;" bgcolor="#cccccc" class="grayborder">Agenda</td></tr>
 <tr><td class="grayborder" style="width: 170px;">
 - No Committee Hearing/Meeting -</td><td width="162" class="grayborder" style="text-align: center">

@@ -4,11 +4,11 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Publications - Senate of the Philippines</title>
-<script type="text/javascript" language="javascript" src="http://senate.gov.ph/scripts_web/div.js"></script>
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml.css" media="all" />
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml_body.css" media="all" />
-<script type="text/javascript" language="javascript" src="http://senate.gov.ph/scripts_web/expcollapse.js"></script>
+<script type="text/javascript" language="javascript" src="/scripts_web/div.js"></script>
+<link rel="stylesheet" type="text/css" href="/scripts_web/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="../scripts_web/xhtml.css" media="all" />
+<link rel="stylesheet" type="text/css" href="../scripts_web/xhtml_body.css" media="all" />
+<script type="text/javascript" language="javascript" src="/scripts_web/expcollapse.js"></script>
 <style type="text/css">
 .pubitem {
 	margin-left: 35px;
@@ -31,7 +31,7 @@
 	padding-bottom: 8px;
 }
 #h_TB {
-	background-image: url('../images/expand.gif');
+	background-image: url('../../images/expand.gif');
 	background-repeat: no-repeat;
 	margin-left: 35px;
 	padding-left: 15px;
@@ -62,29 +62,29 @@ function SetArray()
 
 <body onload="HideAll()">
 
-<div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="../images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
-<table><tr><td><a href="../index.html">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
+<div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="/images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
+<table><tr><td><a href="/">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
 &nbsp;About&nbsp;</div><div id="nav_About" class="div_hidden" onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="../about/history.asp">History of the Senate</a></p>
-<p><a href="../about/symbols&#32;of&#32;authority.asp">Symbols of Authority</a></p><p><a href="../about/legpro.asp">Legislative Process</a></p>
+<div class="nav_dropdown"><p><a href="/about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="/about/history.asp">History of the Senate</a></p>
+<p><a href="/about/symbols%20of%20authority.asp">Symbols of Authority</a></p><p><a href="/about/legpro.asp">Legislative Process</a></p>
 </div></div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
 &nbsp;Senators&nbsp;</div><div id="nav_Senators" class="div_hidden" onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../senators/sen18th.asp">18th Congress Senators</a></p><p><a href="../senators/senlist.asp">List of Previous Senators</a></p>
-<p><a href="../senators/roll.asp">Roll of Senate President</a></p><p><a href="../senators/composition.asp">Composition of the Senate</a></p><p><a href="../senators/terms.asp">Terms of Office and Privileges</a></p>
+<div class="nav_dropdown"><p><a href="/senators/sen18th.asp">18th Congress Senators</a></p><p><a href="/senators/senlist.asp">List of Previous Senators</a></p>
+<p><a href="/senators/roll.asp">Roll of Senate President</a></p><p><a href="/senators/composition.asp">Composition of the Senate</a></p><p><a href="/senators/terms.asp">Terms of Office and Privileges</a></p>
 </div></div></td><td>|</td><td>
 <div onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">&nbsp;Committees&nbsp;</div>
 <div id="nav_Committees" class="div_hidden" onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
-<p><a href="../committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="../committee/schedwk.asp">Committee Schedule</a></p></div>
+<div class="nav_dropdown"><p><a href="/committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
+<p><a href="/committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="/committee/schedwk.asp">Committee Schedule</a></p></div>
 </div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
 &nbsp;Secretariat&nbsp;</div><div id="nav_Secretariat" class="div_hidden" onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="../secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="../secretariat/osec.asp">Office of the Secretary</a></p>
-<p><a href="../secretariat/leg.asp">Legislation</a></p><p><a href="../secretariat/admin.asp">Administration and Financial Services</a></p>
-<p><a href="../secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="../secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
+<div class="nav_dropdown"><p><a href="/secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="/secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="/secretariat/osec.asp">Office of the Secretary</a></p>
+<p><a href="/secretariat/leg.asp">Legislation</a></p><p><a href="/secretariat/admin.asp">Administration and Financial Services</a></p>
+<p><a href="/secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="/secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
 </div></div></td><td>| </td>
 
 
@@ -93,14 +93,14 @@ function SetArray()
 &nbsp;Legislative Documents&nbsp;</div>
 <div id="nav_LegislativeDocuments" class="div_hidden" onmouseover="ShowDiv('nav_LegislativeDocuments');HideSelect();" onmouseout="HideDiv('nav_LegislativeDocuments');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=bill">Bills</a></p>
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=resolution">Resolutions</a></p>
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=journal">Journals</a></p>
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=committee_rpt">Committee Reports</a></p>
-<p><a href="../lis/pdf_sys.aspx?congress=18&amp;type=republic_act">Republic Acts</a></p>
-<p><a href="../lis/pdf_sys.aspx?congress=18&amp;type=adopted_res">Adopted Resolutions</a></p>
-<p><a href="../18th_congress/treaties_18thcongress.asp">Treaties</a></p>
-<p><a href="../statistical.pdf">Statistical Data</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=bill">Bills</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=resolution">Resolutions</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=journal">Journals</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=committee_rpt">Committee Reports</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=republic_act">Republic Acts</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=adopted_res">Adopted Resolutions</a></p>
+<p><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a></p>
+<p><a href="/statistical.pdf">Statistical Data</a></p>
 </div>
 </div>
 </td>
@@ -111,13 +111,13 @@ function SetArray()
 &nbsp;Publications&nbsp;</div>
 <div id="nav_publications" class="div_hidden" onmouseover="ShowDiv('nav_publications');HideSelect();" onmouseout="HideDiv('nav_publications');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="sepo_publications.asp">SEPO Publications</a></p>
-<p><a href="stsro_publications.asp">STSRO Publications</a></p>
-<p><a href="lbrmo_publications.asp">LBRMO Publications</a></p>
-<p><a href="ils_publications.asp">ILS Publications</a></p>
-<p><a href="lrs_publications.asp">LRS Publications</a></p>
-<p><a href="lls_publications.asp">LLS Publications</a></p>
-<p><a href="other_publications.asp">Other Publications</a></p>
+<p><a href="/publications/sepo_publications.asp">SEPO Publications</a></p>
+<p><a href="/publications/stsro_publications.asp">STSRO Publications</a></p>
+<p><a href="/publications/lbrmo_publications.asp">LBRMO Publications</a></p>
+<p><a href="/publications/ils_publications.asp">ILS Publications</a></p>
+<p><a href="/publications/lrs_publications.asp">LRS Publications</a></p>
+<p><a href="/publications/lls_publications.asp">LLS Publications</a></p>
+<p><a href="/publications/other_publications.asp">Other Publications</a></p>
 </div>
 </div>
 </td>
@@ -128,7 +128,7 @@ function SetArray()
 &nbsp;GAD&nbsp;</div>
 <div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../GAD/Bills&amp;Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+<p><a href="/GAD/Bills&Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
 </div>
 </div>
 </td>
@@ -141,7 +141,7 @@ function SetArray()
 		<td id="content" style="width: 623px">
 		<p class="h1_bold">Senate Tax Study-Research Office (STSRO) Publications</p>
 		
-		<p class="auto-style1"><a href="STSRO/primer&#32;on&#32;TRAIN&#32;LAW&#32;2018&#32;as&#32;of&#32;march&#32;13.pdf">[Updated] Primer on Republic Act No. 10963 - TRAIN Law</a></p>
+		<p class="auto-style1"><a href="STSRO/primer%20on%20TRAIN%20LAW%202018%20as%20of%20march%2013.pdf">[Updated] Primer on Republic Act No. 10963 - TRAIN Law</a></p>
 		<div class="pubitem">
 			<div class="alight">
 		
@@ -155,40 +155,40 @@ function SetArray()
 		
 		
 		
-		<p class="auto-style1"><a href="STSRO/primer&#32;fi.pdf">Primer on Fiscal Incentives in relation to Bills Rationalizing the Fiscal incentives</a></p>
+		<p class="auto-style1"><a href="STSRO/primer%20fi.pdf">Primer on Fiscal Incentives in relation to Bills Rationalizing the Fiscal incentives</a></p>
 		
 		<div class="pubitem"><div class="alight">
 		<p>
 		Fiscal incentives are subsidies, tax reliefs and preferential tax treatment that are usually given to registered enterprises and priority sectors to promote and encourage investments and development. 
-		<a href="STSRO/primer&#32;fi.pdf">(download)</a><br />
+		<a href="STSRO/primer%20fi.pdf">(download)</a><br />
 		<br />
 		</div></div>
 		<hr />
 		
-		<p class="auto-style1"><a href="STSRO/Primer&#32;personal&#32;and&#32;corporate&#32;income&#32;tax.pdf">Primer on Reforms 
+		<p class="auto-style1"><a href="STSRO/Primer%20personal%20and%20corporate%20income%20tax.pdf">Primer on Reforms 
 				in Personal and Corporate Income Tax</a></p>
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		Instituting Progressive Tax Reform and More Effective Tax Collection, Indexing Taxes to Inflation<a href="STSRO/Primer&#32;personal&#32;and&#32;corporate&#32;income&#32;tax.pdf"> (download)</a><br />
+		Instituting Progressive Tax Reform and More Effective Tax Collection, Indexing Taxes to Inflation<a href="STSRO/Primer%20personal%20and%20corporate%20income%20tax.pdf"> (download)</a><br />
 		<br />
 		</div></div>
 		<hr />
 		
-		<p class="auto-style1"><a href="STSRO/taxation&#32;101.pdf">Taxation 101</a></p>
+		<p class="auto-style1"><a href="STSRO/taxation%20101.pdf">Taxation 101</a></p>
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		The power of taxation is an inherent and plenary prerogative of the State, its exercise being only limited by the Bill of Rights enshrined in the 1987 Philippine Constitution<a href="STSRO/taxation&#32;101.pdf"> (download)</a><br />
+		The power of taxation is an inherent and plenary prerogative of the State, its exercise being only limited by the Bill of Rights enshrined in the 1987 Philippine Constitution<a href="STSRO/taxation%20101.pdf"> (download)</a><br />
 		<br />
 		</div></div>
 		<hr />
 		
-		<p class="auto-style1"><a href="STSRO/primer&#32;digest&#32;2012-2014&#32;POSTING.pdf">A compilation of selected Supreme Court cases in taxation 2012-2014</a></p>
+		<p class="auto-style1"><a href="STSRO/primer%20digest%202012-2014%20POSTING.pdf">A compilation of selected Supreme Court cases in taxation 2012-2014</a></p>
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		Commemorating Senate Tax Study and Research Office's 26th Founding Anniversary<a href="STSRO/primer&#32;digest&#32;2012-2014&#32;POSTING.pdf"> (download)</a><br />
+		Commemorating Senate Tax Study and Research Office's 26th Founding Anniversary<a href="STSRO/primer%20digest%202012-2014%20POSTING.pdf"> (download)</a><br />
 		<br />
 		</div></div>
 		<hr />
@@ -217,7 +217,7 @@ function SetArray()
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="STSRO/54&#32;-&#32;Taxbits&#32;52nd&#32;September&#32;-&#32;October&#32;2018.pdf">
+		<a href="STSRO/54%20-%20Taxbits%2052nd%20September%20-%20October%202018.pdf">
 		<img src="images/stsro_0918_s.png" class="float" /><span>If We Can't Race to the 
 		Bottom - Let's Just Swim Along</span>  
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /></a><br />
@@ -231,7 +231,7 @@ function SetArray()
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="STSRO/53&#32;-&#32;Taxbits&#32;51st&#32;July&#32;-&#32;August&#32;2018.pdf">
+		<a href="STSRO/53%20-%20Taxbits%2051st%20July%20-%20August%202018.pdf">
 		<img src="images/stsro_0818_s.png" class="float" /><span>The Proposed Amendments to the Local Government Code of 1991 on Local Taxations and Fiscal Matters</span>  
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /></a><br />
 		<small>July - August 2018 (4.8 MB)</small><p>
@@ -242,7 +242,7 @@ function SetArray()
 
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="STSRO/52&#32;-&#32;Taxbits&#32;50th&#32;May&#32;-&#32;June&#32;2018.pdf">
+		<a href="STSRO/52%20-%20Taxbits%2050th%20May%20-%20June%202018.pdf">
 		<img src="images/stsro_0711_s.png" class="float" /><span>Breaching the Mark: TRAIN Law and Surging Inflation</span>  
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /></a><br />
 		<small>May - June 2018 (5.26 MB)</small><p>
@@ -253,7 +253,7 @@ function SetArray()
 
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="STSRO/51&#32;-&#32;Taxbits&#32;49th&#32;March&#32;-&#32;April&#32;2018.pdf">
+		<a href="STSRO/51%20-%20Taxbits%2049th%20March%20-%20April%202018.pdf">
 		<img src="images/stsro_0318_s.png" class="float" /><span>Here's the TRAIN where's the GAIN?</span>  
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /></a><br />
 		<small>March - April 2018 (6.7MB)</small><p>
@@ -265,7 +265,7 @@ function SetArray()
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="STSRO/50&#32;-&#32;Taxbits&#32;48th&#32;January&#32;-&#32;February&#32;2018.pdf">
+		<a href="STSRO/50%20-%20Taxbits%2048th%20January%20-%20February%202018.pdf">
 		<img src="images/stsro_218_s.png" class="float" /><span>Tax Reform for Acceleration and Inclusion (TRAIN) Law</span>  
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /></a><br />
 		<small>January - February 2018 (7.8MB)</small><p>
@@ -278,7 +278,7 @@ function SetArray()
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="STSRO/taxbits&#32;47th&#32;November&#32;-&#32;December&#32;2017.pdf">
+		<a href="STSRO/taxbits%2047th%20November%20-%20December%202017.pdf">
 		<img src="images/stsro_1217_s.png" class="float" /><span>TRAIN's Monumental Journey</span>  
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /></a><br />
 		<small>November - December 2017 (5MB)</small><p>
@@ -293,7 +293,7 @@ function SetArray()
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="STSRO/Taxbits&#32;46th&#32;September&#32;-&#32;October2017.pdf">
+		<a href="STSRO/Taxbits%2046th%20September%20-%20October2017.pdf">
 		<img src="images/stsro_0917_s.png" class="float" /><span>No TRAIN, No Gain</span>  
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
 		<small>September - October 2017 (3.5MB)</small></a><p>
@@ -304,7 +304,7 @@ function SetArray()
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="STSRO/Taxbits&#32;45th&#32;July&#32;-&#32;August&#32;2017.pdf">
+		<a href="STSRO/Taxbits%2045th%20July%20-%20August%202017.pdf">
 		<img src="images/stsro_0817_s.png" class="float" /><span>Tax administration reforms: Enhancing the revenue efforts of the government</span>  
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
 		<small>July - August 2017 (4.7MB)</small></a><p>
@@ -315,7 +315,7 @@ function SetArray()
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="STSRO/Taxbits&#32;44th&#32;May&#32;-&#32;June&#32;2017bb.pdf">
+		<a href="STSRO/Taxbits%2044th%20May%20-%20June%202017bb.pdf">
 		<img src="images/stsro_0617_s.png" class="float" /><span>Taxation and Federalism</span>  
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
 		<small>May - June 2017 (11.6MB)</small></a><p>
@@ -329,7 +329,7 @@ the tax implications of such a move.
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="STSRO/Taxbits&#32;43rd&#32;Mar-April&#32;2017.pdf">
+		<a href="STSRO/Taxbits%2043rd%20Mar-April%202017.pdf">
 		<img src="images/stsro_0317_s.png" class="float" /><span>Taxpayers Bill of Rights: Protecting the Lifeblood of the Nation</span>  
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
 		<small>March - April 2017 (2.8MB)</small></a><p>
@@ -341,7 +341,7 @@ the tax implications of such a move.
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="STSRO/Taxbits&#32;42nd&#32;Jan&#32;-&#32;Feb&#32;2017.pdf">
+		<a href="STSRO/Taxbits%2042nd%20Jan%20-%20Feb%202017.pdf">
 		<img src="images/stsro_0117_s.png" class="float" /><span>Tax Treaty - A backgrounder</span>  
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
 		<small>January-February 2017 (2.3MB)</small></a><p>
@@ -369,113 +369,113 @@ the tax implications of such a move.
 					
 					
 					<li>
-					<a href="STSRO/Taxbits&#32;41st&#32;Nov&#32;-&#32;Dec&#32;2016.pdf">
+					<a href="STSRO/Taxbits%2041st%20Nov%20-%20Dec%202016.pdf">
 					<span>Expanding of Privileges for Persons with Disabilities, Value-Added Tax Exemptions of Sugar</span><br />
 					<small>November-December 2016 (4MB)</small></a></li>
 
 					<li>
-					<a href="STSRO/Taxbits&#32;40th&#32;Sept&#32;-&#32;October&#32;2016.pdf">
+					<a href="STSRO/Taxbits%2040th%20Sept%20-%20October%202016.pdf">
 					<span>Tax Forum Series 1: DOF Unveils Tax Reform Package</span><br />
 					<small>September-October 2016 (6.8MB)</small></a></li>
 					
 					<li>
-					<a href="STSRO/Taxbits&#32;39th&#32;July&#32;-&#32;August&#32;2016x.pdf">
+					<a href="STSRO/Taxbits%2039th%20July%20-%20August%202016x.pdf">
 					<span>"Real Change" Coming at the BIR?</span><br />
 					<small>July-August 2016 (2.7MB)</small></a></li>
 					
 					<li>
-					<a href="STSRO/Taxbits&#32;38th&#32;May&#32;-&#32;June&#32;2016.pdf">
+					<a href="STSRO/Taxbits%2038th%20May%20-%20June%202016.pdf">
 					<span>The Committee on Ways and Means in the 16th Congress: A Breather from Burdensome Taxes! </span><br />
 					<small>May-June 2016 (4.9MB)</small></a></li>
 					
 					<li>
-					<a href="STSRO/Taxbits&#32;37th&#32;March&#32;-&#32;April&#32;2016.pdf">
+					<a href="STSRO/Taxbits%2037th%20March%20-%20April%202016.pdf">
 					<span>TIMTA: Transparency in the Grant of Incentives for the Country's Development</span><br />
 					<small>January-February 2016 (2.8MB)</small></a></li>
 
 					
 				    <li>
-					<a href="http://senate.gov.ph/publications/STSRO/Taxbits%2036th%20January%20-%20February%202016.pd">
+					<a href="STSRO/Taxbits%2036th%20January%20-%20February%202016.pd">
 					<span>TIMTA: Transparency in the Grant of Incentives for the Country's Development</span><br />
 					<small>March-April 2016 (4.5MB)</small></a></li>
 
 					
 					
 					<li>
-					<a href="STSRO/Taxbits&#32;35th&#32;November&#32;-&#32;December&#32;2015.pdf">
+					<a href="STSRO/Taxbits%2035th%20November%20-%20December%202015.pdf">
 					<span>Sugar sweetened beverages: To drink or not to drink</span><br />
 					<small>November-December 2015 (6.01MB)</small></a></li>
 					
 					<li>
-					<a href="STSRO/taxbits&#32;34th&#32;vol6&#32;October&#32;Anniversary&#32;2015.pdf">
+					<a href="STSRO/taxbits%2034th%20vol6%20October%20Anniversary%202015.pdf">
 					<span>STSRO collaborates with Navarro Amper for 2015 edition of National Internal Revenue Code of 1997, as amended</span><br />
 					<small>October 2015 (5MB)</small></a></li>
 					
 					<li>
-					<a href="STSRO/taxbits&#32;33rd&#32;vol6&#32;September&#32;-&#32;October&#32;2015.pdf">
+					<a href="STSRO/taxbits%2033rd%20vol6%20September%20-%20October%202015.pdf">
 					<span>Changing the Tax Base for Optional Standard Deduction</span><br />
 					<small>September-October 2015 (1.4MB)</small></a></li>
 					
 
 
 					<li>
-					<a href="STSRO/taxbits&#32;32nd&#32;vol6&#32;July&#32;-&#32;August&#32;2015.pdf">
+					<a href="STSRO/taxbits%2032nd%20vol6%20July%20-%20August%202015.pdf">
 					<span>Harmonizing Globalization and Protectionism</span><br />
 					<small>July-August 2015 (3MB)</small></a></li>
 					
 					<li>
-					<a href="STSRO/taxbits&#32;31st&#32;vol6&#32;May-June&#32;2015.pdf">
+					<a href="STSRO/taxbits%2031st%20vol6%20May-June%202015.pdf">
 					<span>PWDs and the VAT</span><br />
 					<small>May-June 2015 (4MB)</small></a></li>
 					
 					<li>
-					<a href="STSRO/taxbits&#32;30th&#32;vol6&#32;Mar&#32;-&#32;Apr&#32;2015.pdf">
+					<a href="STSRO/taxbits%2030th%20vol6%20Mar%20-%20Apr%202015.pdf">
 					<span>RA 10653 Towards a take home pay that could take me home</span><br />
 					<small>March-April 2015 (3.2MB)</small></a></li>
 					
 					<li>
-					<a href="STSRO/taxbits&#32;29th&#32;vol6&#32;Jan&#32;-&#32;Feb&#32;2015.pdf">
+					<a href="STSRO/taxbits%2029th%20vol6%20Jan%20-%20Feb%202015.pdf">
 					<span>The Stinking Rose Jerk Customs (Does a garlic cartel exists?)</span><br />
 					<small>January-February 2015 (4MB)</small></a></li>
 
 					
 					<li>
-					<a href="STSRO/taxbits&#32;28th&#32;vol5&#32;Nov&#32;-&#32;Dec&#32;2014.pdf">
+					<a href="STSRO/taxbits%2028th%20vol5%20Nov%20-%20Dec%202014.pdf">
 					<span>An analysis of tax and fiscal policy provisions of the proposed Bangsamoro Basic Law (BBL) as contained under Senate Bill No. (SBN) 2408</span><br />
 					<small>November-December 2014 (5.7MB)</small></a></li>
 					
 					<li>
-					<a href="taxbits&#32;27th&#32;vol5&#32;Sep&#32;-&#32;Oct&#32;2014&#32;Anniversary&#32;Issue.pdf">
+					<a href="taxbits%2027th%20vol5%20Sep%20-%20Oct%202014%20Anniversary%20Issue.pdf">
 					<span>Adjustment Delayed is Justice Denied?</span><br />
 					<small>September-October 2014 (4.5MB)</small></a></li>
 					
 					<li>
-					<a href="taxbits&#32;26th&#32;vol5&#32;July&#32;-&#32;Aug&#32;2014.pdf">
+					<a href="taxbits%2026th%20vol5%20July%20-%20Aug%202014.pdf">
 					<span>Where to Customs Brokers?</span><br />
 					<small>July-August 2014 (2.6MB)</small></a></li>
 					
 					<li>
-					<a href="taxbits&#32;25th&#32;vol5&#32;May&#32;-&#32;June&#32;2014.pdf">
+					<a href="taxbits%2025th%20vol5%20May%20-%20June%202014.pdf">
 					<span>Why is Rice Smuggling on the Rise?</span><br />
 					<small>May-June 2014 (2.94MB)</small></a></li>
 					
 					<li>
-					<a href="taxbits&#32;24th&#32;vol5&#32;Mar-April&#32;2014.pdf">
+					<a href="taxbits%2024th%20vol5%20Mar-April%202014.pdf">
 					<span>Race to the Bottom</span><br />
 					<small>March-April 2014 (1.2 MB)</small></a></li>
 					
 					<li>
-					<a href="taxbits&#32;23rd&#32;vo5&#32;Jan-Feb&#32;2014.pdf">
+					<a href="taxbits%2023rd%20vo5%20Jan-Feb%202014.pdf">
 					<span>The ASEAN Single Window</span><br />
 					<small>January-February 2014 (3.6 MB)</small></a></li>
 					
 					<li>
-					<a href="taxbits&#32;22nd&#32;vol4&#32;Nov&#32;-&#32;Dec&#32;2013.pdf">
+					<a href="taxbits%2022nd%20vol4%20Nov%20-%20Dec%202013.pdf">
 					<span>Competition in a globalized Environment</span><br />
 					<small>November-December 2013 (4.1 MB)</small></a></li>
 		
 					<li>
-					<a href="taxbits&#32;21&#32;vol4&#32;Sept&#32;-&#32;Oct&#32;2013.pdf">
+					<a href="taxbits%2021%20vol4%20Sept%20-%20Oct%202013.pdf">
 					<span>Why Exempt the BIR and BOC from SSL?</span><br />
 					<small>September-October 2013 (2.6 MB)</small></a></li>
 					
@@ -489,79 +489,79 @@ the tax implications of such a move.
 					<ul>
 					
 					<li>
-					<a href="taxbits&#32;20&#32;vol5&#32;July&#32;-&#32;August&#32;2013.pdf">
+					<a href="taxbits%2020%20vol5%20July%20-%20August%202013.pdf">
 					<span>Philippine Tax Academy in Limbo</span><br />  
 					<small>July-August 2013 (2.4 MB)</small></a></li>
 
 					<li>
-					<a href="taxbits&#32;19&#32;vol5&#32;May&#32;-&#32;June&#32;2013.pdf">
+					<a href="taxbits%2019%20vol5%20May%20-%20June%202013.pdf">
 					<span>Rice Smuggling: Have we learned yet?</span><br />
 					<small>May-June 2013 (2.15 MB)</small></a></li>
 
 					<li>
-					<a href="taxbits&#32;18&#32;vol5&#32;MARCH&#32;-&#32;APRIL&#32;2013.pdf">
+					<a href="taxbits%2018%20vol5%20MARCH%20-%20APRIL%202013.pdf">
 					<span>Gold Smuggling</span><br />
 					<small>March-April 2013 (2.06 MB)</small></a></li>
 					
 					<li>
-					<a href="taxbits&#32;17&#32;vol4&#32;January&#32;-&#32;February&#32;2013.pdf">
+					<a href="taxbits%2017%20vol4%20January%20-%20February%202013.pdf">
 					<span>BOTCHA</span><br />
 					<small>January-February 2013 (1.85 MB)</small></a></li>
 					
 					<li>
-					<a href="taxbits&#32;16&#32;vol3&#32;November&#32;-&#32;December&#32;&#32;2012.pdf">
+					<a href="taxbits%2016%20vol3%20November%20-%20December%20%202012.pdf">
 					<span>Quo Vadis Anti-Smuggling Bill?</span><br />
 					<small>November-December 2012 (791 KB)</small></a></li>
 					
 										
 					<li>
-					<a href="taxbits&#32;15&#32;vol3&#32;September&#32;-&#32;October&#32;&#32;2012.pdf">
+					<a href="taxbits%2015%20vol3%20September%20-%20October%20%202012.pdf">
 					<span>Issues Affecting the Mining Industry, (Last Part)</span><br />
 					<small>September-October 2012 (591 KB)</small></a></li>
 					
 					<li>
-					<a href="taxbits&#32;14&#32;vol3&#32;July-August&#32;2012.pdf">
+					<a href="taxbits%2014%20vol3%20July-August%202012.pdf">
 					<span>Issues Affecting the Mining Industry, (First of Two Parts)</span><br />
 					<small>July-August 2012 (649 KB)</small></a></li>
 					
 					<li>
-					<a href="taxbits&#32;13&#32;vol3&#32;May-Jun&#32;2012.pdf">
+					<a href="taxbits%2013%20vol3%20May-Jun%202012.pdf">
 					<span>Reviewing the Philippines-Japan Economic Partnership Agreement, (JPEPA)</span><br />
 					<small>May-June 2012 (636 KB)</small></a></li>
 					
 					<li>
-					<a href="taxbits&#32;12&#32;vol3&#32;mar-apr&#32;2012.pdf">
+					<a href="taxbits%2012%20vol3%20mar-apr%202012.pdf">
 					<span>SALN-101</span><br />
 					<small>March-April 2012 (2.3 MB)</small></a></li>
 					
 					<li>
-					<a href="taxbits&#32;1&#32;vol2&#32;jan-feb&#32;2012.pdf">
+					<a href="taxbits%201%20vol2%20jan-feb%202012.pdf">
 					<span>Adapting to the Demands of International Competition</span><br />
 					<small>Jan.-Feb. 2012 (843 KB)</small></a></li>
 
 					<li>
-					<a href="taxbits&#32;nov-dec&#32;2011.pdf">
+					<a href="taxbits%20nov-dec%202011.pdf">
 					<span>Expanding the Philippine Oil Pipelines</span><br />
 					<small>Nov.-Dec. 2011 (1.9 MB)</small></a></li>
 					
 					<li>
-					<a href="taxbits&#32;oct&#32;2011&#32;anniversary&#32;issue.pdf">						
+					<a href="taxbits%20oct%202011%20anniversary%20issue.pdf">						
 					<span>Understanding Transshipment</span><br />
 					<small>Oct. 2011 (634 KB)</small></a></li>
 
 
 					<li>
-					<a href="taxbits&#32;sept&#32;-&#32;oct&#32;2011.pdf">						
+					<a href="taxbits%20sept%20-%20oct%202011.pdf">						
 					<span>Revisiting the Agriculture Sector: Countdown to 2012</span><br />
 					<small>Sept. - Oct. 2011 (799 KB)</small></a></li>
 
 					<li>
-					<a href="taxbits&#32;july-august&#32;2011.pdf">						
+					<a href="taxbits%20july-august%202011.pdf">						
 					<span>MAKIALAM! TORTURE! Is the concept of Human Rights compatible with Trade Liberalization</span><br />
 					<small>July - August 2011 (2.0 MB)</small></a></li>
 
 					<li>
-					<a href="taxbits&#32;may-june&#32;2011.pdf">						
+					<a href="taxbits%20may-june%202011.pdf">						
 					<span>A Second Look at the OPSF, Anyone?</span><br />
 					<small>May - June 2011 (1.1 MB)</small></a></li>
 					<li>
@@ -574,7 +574,7 @@ the tax implications of such a move.
 					<small>January - February 2011 (747 KB)</small></a></li>
 
 					<li>
-					<a href="taxbits&#32;nov-dec.pdf">						
+					<a href="taxbits%20nov-dec.pdf">						
 					<span>OECD Report: Philippines, Tax-haven blacklisted no more...</span><br />
 					<small>November - December 2010 (9.2MB)</small></a></li>
 					<li>
@@ -617,19 +617,19 @@ Publications
 	<ul>
 		<!--<li>
 		<a href="../performance/Performance%20of%20the%20Senate%202nd%20Regular%20Session%2015th%20Congress%20July%2025,%202011%20-%20June%208,%202012.pdf">Performance of the Senate</a></li>-->
-		<li><a href="sepo_publications.asp">SEPO publications</a> 
+		<li><a href="/publications/sepo_publications.asp">SEPO publications</a> 
 		</li>
-		<li><a href="stsro_publications.asp">STSRO publications</a>
+		<li><a href="/publications/stsro_publications.asp">STSRO publications</a>
 		</li>
-		<li><a href="lbrmo_publications.asp">LBRMO publications</a>
+		<li><a href="/publications/lbrmo_publications.asp">LBRMO publications</a>
 		</li>
-		<li><a href="ils_publications.asp">ILS publications</a>
+		<li><a href="/publications/ils_publications.asp">ILS publications</a>
 		</li>
-		<li><a href="lrs_publications.asp">LRS publications</a>
+		<li><a href="/publications/lrs_publications.asp">LRS publications</a>
 		</li>
-		<li><a href="lls_publications.asp">LLS publications</a>
+		<li><a href="/publications/lls_publications.asp">LLS publications</a>
 		</li>
-		<li><a href="other_publications.asp">Other publications</a>
+		<li><a href="/publications/other_publications.asp">Other publications</a>
 		</li>
 	</ul>
 </div>
@@ -647,8 +647,8 @@ Publications
 	<td style="text-align: left; color: white; width: 381px;">© Senate of the Philippines. All rights reserved.</td>
 <td style="text-align: right">
 <a href="../job.pdf">Job Openings </a></a>| 
-<a href="../contact18thcongress.asp">Contact Info</a> | <a href="../rss.asp">RSS Feeds</a> <a href="../rss.asp">
-<img src="../images/feed10.png" alt="RSS icon" /></a> | <a href="../search.aspx">Search</a> | <a href="../sitemap.asp">Site Map</a></td></tr></table></div></div>
+<a href="/contact18thcongress.asp">Contact Info</a> | <a href="/rss.asp">RSS Feeds</a> <a href="/rss.asp">
+<img src="/images/feed10.png" alt="RSS icon" /></a> | <a href="/search.aspx">Search</a> | <a href="/sitemap.asp">Site Map</a></td></tr></table></div></div>
 
 
 

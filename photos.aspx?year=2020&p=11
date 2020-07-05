@@ -7,36 +7,36 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Photo archives - Senate of the Philippines</title>
 <meta name="keywords" content="SENATE OF THE PHILIPPINES, PHILIPPINE SENATE, SENATE, PHILIPPINES, SENATOR, PHOTO, PHOTO RELEASE, PICTURE, IMAGE" />
-<script type="text/javascript" language="javascript" src="http://senate.gov.ph/scripts_web/div.js"></script>
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml.css" media="all" />
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml_body.css" media="all" />
+<script type="text/javascript" language="javascript" src="/scripts_web/div.js"></script>
+<link rel="stylesheet" type="text/css" href="/scripts_web/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="scripts_web/xhtml.css" media="all" />
+<link rel="stylesheet" type="text/css" href="scripts_web/xhtml_body.css" media="all" />
 </head>
 
 <body>
-   <div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
-<table><tr><td><a href="index.html">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
+   <div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="/images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
+<table><tr><td><a href="/">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
 &nbsp;About&nbsp;</div><div id="nav_About" class="div_hidden" onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
-<div class="nav_dropdown"><p><a href="about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="about/history.asp">History of the Senate</a></p>
-<p><a href="about/symbols&#32;of&#32;authority.asp">Symbols of Authority</a></p><p><a href="about/legpro.asp">Legislative Process</a></p>
+<div class="nav_dropdown"><p><a href="/about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="/about/history.asp">History of the Senate</a></p>
+<p><a href="/about/symbols%20of%20authority.asp">Symbols of Authority</a></p><p><a href="/about/legpro.asp">Legislative Process</a></p>
 </div></div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
 &nbsp;Senators&nbsp;</div><div id="nav_Senators" class="div_hidden" onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
-<div class="nav_dropdown"><p><a href="senators/sen18th.asp">18th Congress Senators</a></p><p><a href="senators/senlist.asp">List of Previous Senators</a></p>
-<p><a href="senators/roll.asp">Roll of Senate President</a></p><p><a href="senators/composition.asp">Composition of the Senate</a></p><p><a href="senators/terms.asp">Terms of Office and Privileges</a></p>
+<div class="nav_dropdown"><p><a href="/senators/sen18th.asp">18th Congress Senators</a></p><p><a href="/senators/senlist.asp">List of Previous Senators</a></p>
+<p><a href="/senators/roll.asp">Roll of Senate President</a></p><p><a href="/senators/composition.asp">Composition of the Senate</a></p><p><a href="/senators/terms.asp">Terms of Office and Privileges</a></p>
 </div></div></td><td>|</td><td>
 <div onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">&nbsp;Committees&nbsp;</div>
 <div id="nav_Committees" class="div_hidden" onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">
-<div class="nav_dropdown"><p><a href="committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
-<p><a href="committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="committee/schedwk.asp">Committee Schedule</a></p></div>
+<div class="nav_dropdown"><p><a href="/committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
+<p><a href="/committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="/committee/schedwk.asp">Committee Schedule</a></p></div>
 </div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
 &nbsp;Secretariat&nbsp;</div><div id="nav_Secretariat" class="div_hidden" onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
-<div class="nav_dropdown"><p><a href="secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="secretariat/osec.asp">Office of the Secretary</a></p>
-<p><a href="secretariat/leg.asp">Legislation</a></p><p><a href="secretariat/admin.asp">Administration and Financial Services</a></p>
-<p><a href="secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
+<div class="nav_dropdown"><p><a href="/secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="/secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="/secretariat/osec.asp">Office of the Secretary</a></p>
+<p><a href="/secretariat/leg.asp">Legislation</a></p><p><a href="/secretariat/admin.asp">Administration and Financial Services</a></p>
+<p><a href="/secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="/secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
 </div></div></td><td>| </td>
 
 
@@ -45,14 +45,14 @@
 &nbsp;Legislative Documents&nbsp;</div>
 <div id="nav_LegislativeDocuments" class="div_hidden" onmouseover="ShowDiv('nav_LegislativeDocuments');HideSelect();" onmouseout="HideDiv('nav_LegislativeDocuments');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="lis/leg_sys.aspx?congress=18&amp;type=bill">Bills</a></p>
-<p><a href="lis/leg_sys.aspx?congress=18&amp;type=resolution">Resolutions</a></p>
-<p><a href="lis/leg_sys.aspx?congress=18&amp;type=journal">Journals</a></p>
-<p><a href="lis/leg_sys.aspx?congress=18&amp;type=committee_rpt">Committee Reports</a></p>
-<p><a href="lis/pdf_sys.aspx?congress=18&amp;type=republic_act">Republic Acts</a></p>
-<p><a href="lis/pdf_sys.aspx?congress=18&amp;type=adopted_res">Adopted Resolutions</a></p>
-<p><a href="18th_congress/treaties_18thcongress.asp">Treaties</a></p>
-<p><a href="statistical.pdf">Statistical Data</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=bill">Bills</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=resolution">Resolutions</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=journal">Journals</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=committee_rpt">Committee Reports</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=republic_act">Republic Acts</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=adopted_res">Adopted Resolutions</a></p>
+<p><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a></p>
+<p><a href="/statistical.pdf">Statistical Data</a></p>
 </div>
 </div>
 </td>
@@ -63,13 +63,13 @@
 &nbsp;Publications&nbsp;</div>
 <div id="nav_publications" class="div_hidden" onmouseover="ShowDiv('nav_publications');HideSelect();" onmouseout="HideDiv('nav_publications');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="publications/sepo_publications.asp">SEPO Publications</a></p>
-<p><a href="publications/stsro_publications.asp">STSRO Publications</a></p>
-<p><a href="publications/lbrmo_publications.asp">LBRMO Publications</a></p>
-<p><a href="publications/ils_publications.asp">ILS Publications</a></p>
-<p><a href="publications/lrs_publications.asp">LRS Publications</a></p>
-<p><a href="publications/lls_publications.asp">LLS Publications</a></p>
-<p><a href="publications/other_publications.asp">Other Publications</a></p>
+<p><a href="/publications/sepo_publications.asp">SEPO Publications</a></p>
+<p><a href="/publications/stsro_publications.asp">STSRO Publications</a></p>
+<p><a href="/publications/lbrmo_publications.asp">LBRMO Publications</a></p>
+<p><a href="/publications/ils_publications.asp">ILS Publications</a></p>
+<p><a href="/publications/lrs_publications.asp">LRS Publications</a></p>
+<p><a href="/publications/lls_publications.asp">LLS Publications</a></p>
+<p><a href="/publications/other_publications.asp">Other Publications</a></p>
 </div>
 </div>
 </td>
@@ -80,7 +80,7 @@
 &nbsp;GAD&nbsp;</div>
 <div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="GAD/Bills&amp;Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+<p><a href="/GAD/Bills&Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
 </div>
 </div>
 </td>
@@ -98,75 +98,75 @@
    
 			<table width="100%" cellspacing="8" cellpadding="4">
 <tr>
-<td width="25%"><a href="photo_release/2020/0519_07.asp">
-<img src="photo_release/2020/0519_07_s.jpg"><br /><span>Drilon on testing rate of coronavirus
+<td width="25%"><a href="/photo_release/2020/0521_07.asp">
+<img src=/photo_release/2020/0521_07_s.jpg><br /><span>Duque’s remarks on asymptomatic COVID-19 cases a cause of concern
 </span></a></td>
-<td width="25%"><a href="photo_release/2020/0519_06.asp">
-<img src="photo_release/2020/0519_06_s.jpg"><br /><span>Lapid studies IATF position paper
+<td width="25%"><a href="/photo_release/2020/0521_06.asp">
+<img src=/photo_release/2020/0521_06_s.jpg><br /><span>Dar on status of food amid COVID-19 pandemic
 </span></a></td>
-<td width="25%"><a href="photo_release/2020/0519_05.asp">
-<img src="photo_release/2020/0519_05_s.jpg"><br /><span>Enrile on ABS-CBN Franchise
+<td width="25%"><a href="/photo_release/2020/0521_05.asp">
+<img src=/photo_release/2020/0521_05_s.jpg><br /><span>Unintended consequences
 </span></a></td>
-<td width="25%"><a href="photo_release/2020/0519_04.asp">
-<img src="photo_release/2020/0519_04_s.jpg"><br /><span>Hontiveros on pro-worker franchise
-</span></a></td>
-</tr>
-<tr>
-<td width="25%"><a href="photo_release/2020/0519_03.asp">
-<img src="photo_release/2020/0519_03_s.jpg"><br /><span>Settling the issue
-</span></a></td>
-<td width="25%"><a href="photo_release/2020/0519_02.asp">
-<img src="photo_release/2020/0519_02_s.jpg"><br /><span>Nothing illegal in taking up ABS-CBN issue
-</span></a></td>
-<td width="25%"><a href="photo_release/2020/0519_01.asp">
-<img src="photo_release/2020/0519_01_s.jpg"><br /><span>Sotto, Lacson before start of hearing
-</span></a></td>
-<td width="25%"><a href="photo_release/2020/0519_00.asp">
-<img src="photo_release/2020/0519_00_s.jpg"><br /><span>ABS-CBN franchise on the table
+<td width="25%"><a href="/photo_release/2020/0521_04.asp">
+<img src=/photo_release/2020/0521_04_s.jpg><br /><span>Three-gives measure
 </span></a></td>
 </tr>
 <tr>
-<td width="25%"><a href="photo_release/2020/0518_03.asp">
-<img src="photo_release/2020/0518_03_s.jpg"><br /><span>With very strong reservations
+<td width="25%"><a href="/photo_release/2020/0521_03.asp">
+<img src=/photo_release/2020/0521_03_s.jpg><br /><span>Include MSMEs in ‘Three-Gives Law’
 </span></a></td>
-<td width="25%"><a href="photo_release/2020/0518_02.asp">
-<img src="photo_release/2020/0518_02_s.jpg"><br /><span>Prayers to former Sen. Oreta and family
+<td width="25%"><a href="/photo_release/2020/0521_02.asp">
+<img src=/photo_release/2020/0521_02_s.jpg><br /><span>Tolentino on Three-Gives Law bill
 </span></a></td>
-<td width="25%"><a href="photo_release/2020/0518_01.asp">
-<img src="photo_release/2020/0518_01_s.jpg"><br /><span>A life well-lived
+<td width="25%"><a href="/photo_release/2020/0521_01.asp">
+<img src=/photo_release/2020/0521_01_s.jpg><br /><span>Sen. Pia Cayetano
 </span></a></td>
-<td width="25%"><a href="photo_release/2020/0518_00.asp">
-<img src="photo_release/2020/0518_00_s.jpg"><br /><span>‘T.A.O: Her legacies as a public servant.’
+<td width="25%"><a href="/photo_release/2020/0521_00.asp">
+<img src=/photo_release/2020/0521_00_s.jpg><br /><span>Sen. Pia Cayetano to DOT
 </span></a></td>
 </tr>
 <tr>
-<td width="25%"><a href="photo_release/2020/0517_00.asp">
-<img src="photo_release/2020/0517_00_s.jpg"><br /><span>Tanauan City, Batangas
+<td width="25%"><a href="/photo_release/2020/0520_13.asp">
+<img src=/photo_release/2020/0520_13_s.jpg><br /><span>Senator Pia Cayetano
 </span></a></td>
-<td width="25%"><a href="photo_release/2020/0515_01.asp">
-<img src="photo_release/2020/0515_01_s.jpg"><br /><span>Senator Pia S. Cayetano
+<td width="25%"><a href="/photo_release/2020/0520_12.asp">
+<img src=/photo_release/2020/0520_12_s.jpg><br /><span>Pia on the prospects of the country’s tourism industry
 </span></a></td>
-<td width="25%"><a href="photo_release/2020/0515_00.asp">
-<img src="photo_release/2020/0515_00_s.jpg"><br /><span>PE classes
+<td width="25%"><a href="/photo_release/2020/0520_11.asp">
+<img src=/photo_release/2020/0520_11_s.jpg><br /><span>On DOH’s claim that PH is now on the second wave
 </span></a></td>
-<td width="25%"><a href="photo_release/2020/0514_07.asp">
-<img src="photo_release/2020/0514_07_s.jpg"><br /><span>Tolentino on SDG
+<td width="25%"><a href="/photo_release/2020/0520_10.asp">
+<img src=/photo_release/2020/0520_10_s.jpg><br /><span>Gordon recommends opening of other airports for homebound OFWs
+</span></a></td>
+</tr>
+<tr>
+<td width="25%"><a href="/photo_release/2020/0520_09.asp">
+<img src=/photo_release/2020/0520_09_s.jpg><br /><span>Sen. Hontiveros on “flattening the curve”
+</span></a></td>
+<td width="25%"><a href="/photo_release/2020/0520_08.asp">
+<img src=/photo_release/2020/0520_08_s.jpg><br /><span>Fund cash aid
+</span></a></td>
+<td width="25%"><a href="/photo_release/2020/0520_07.asp">
+<img src=/photo_release/2020/0520_07_s.jpg><br /><span>Go commends IATF
+</span></a></td>
+<td width="25%"><a href="/photo_release/2020/0520_06.asp">
+<img src=/photo_release/2020/0520_06_s.jpg><br /><span>Transportation marshals
 </span></a></td>
 </tr>
 </table>
 <hr /><div align="center">
-Page: <a href="photos.aspx?year=2020&amp;p=10">Previous</a>
-<a href="photos.aspx?year=2020&amp;p=7">7</a> 
-<a href="photos.aspx?year=2020&amp;p=8">8</a> 
-<a href="photos.aspx?year=2020&amp;p=9">9</a> 
-<a href="photos.aspx?year=2020&amp;p=10">10</a> 
+Page: <a href="/photos.aspx?year=2020&amp;p=10">Previous</a>
+<a href="/photos.aspx?year=2020&amp;p=7">7</a> 
+<a href="/photos.aspx?year=2020&amp;p=8">8</a> 
+<a href="/photos.aspx?year=2020&amp;p=9">9</a> 
+<a href="/photos.aspx?year=2020&amp;p=10">10</a> 
 11 
-<a href="photos.aspx?year=2020&amp;p=12">12</a> 
-<a href="photos.aspx?year=2020&amp;p=13">13</a> 
-<a href="photos.aspx?year=2020&amp;p=14">14</a> 
-<a href="photos.aspx?year=2020&amp;p=15">15</a> 
-<a href="photos.aspx?year=2020&amp;p=16">16</a> 
-<a href="photos.aspx?year=2020&amp;p=12">Next
+<a href="/photos.aspx?year=2020&amp;p=12">12</a> 
+<a href="/photos.aspx?year=2020&amp;p=13">13</a> 
+<a href="/photos.aspx?year=2020&amp;p=14">14</a> 
+<a href="/photos.aspx?year=2020&amp;p=15">15</a> 
+<a href="/photos.aspx?year=2020&amp;p=16">16</a> 
+<a href="/photos.aspx?year=2020&amp;p=12">Next
 </a></div>
 
 			
@@ -177,22 +177,22 @@ Page: <a href="photos.aspx?year=2020&amp;p=10">Previous</a>
             Photo archives
             </div>
             <div class="sidepane_nav">
-               <ul><li><a href="photos.aspx?year=2020&amp;p=1">2020</a></li>
-<li><a href="photos.aspx?year=2019&amp;p=1">2019</a></li>
-<li><a href="photos.aspx?year=2018&amp;p=1">2018</a></li>
-<li><a href="photos.aspx?year=2017&amp;p=1">2017</a></li>
-<li><a href="photos.aspx?year=2016&amp;p=1">2016</a></li>
-<li><a href="photos.aspx?year=2015&amp;p=1">2015</a></li>
-<li><a href="photos.aspx?year=2014&amp;p=1">2014</a></li>
-<li><a href="photos.aspx?year=2013&amp;p=1">2013</a></li>
-<li><a href="photos.aspx?year=2012&amp;p=1">2012</a></li>
-<li><a href="photos.aspx?year=2011&amp;p=1">2011</a></li>
-<li><a href="photos.aspx?year=2010&amp;p=1">2010</a></li>
-<li><a href="photos.aspx?year=2009&amp;p=1">2009</a></li>
-<li><a href="photos.aspx?year=2008&amp;p=1">2008</a></li>
-<li><a href="photos.aspx?year=2007&amp;p=1">2007</a></li>
-<li><a href="photos.aspx?year=2006&amp;p=1">2006</a></li>
-<li><a href="photos.aspx?year=2005&amp;p=1">2005</a></li>
+               <ul><li><a href=photos.aspx?year=2020&amp;p=1>2020</a></li>
+<li><a href=photos.aspx?year=2019&amp;p=1>2019</a></li>
+<li><a href=photos.aspx?year=2018&amp;p=1>2018</a></li>
+<li><a href=photos.aspx?year=2017&amp;p=1>2017</a></li>
+<li><a href=photos.aspx?year=2016&amp;p=1>2016</a></li>
+<li><a href=photos.aspx?year=2015&amp;p=1>2015</a></li>
+<li><a href=photos.aspx?year=2014&amp;p=1>2014</a></li>
+<li><a href=photos.aspx?year=2013&amp;p=1>2013</a></li>
+<li><a href=photos.aspx?year=2012&amp;p=1>2012</a></li>
+<li><a href=photos.aspx?year=2011&amp;p=1>2011</a></li>
+<li><a href=photos.aspx?year=2010&amp;p=1>2010</a></li>
+<li><a href=photos.aspx?year=2009&amp;p=1>2009</a></li>
+<li><a href=photos.aspx?year=2008&amp;p=1>2008</a></li>
+<li><a href=photos.aspx?year=2007&amp;p=1>2007</a></li>
+<li><a href=photos.aspx?year=2006&amp;p=1>2006</a></li>
+<li><a href=photos.aspx?year=2005&amp;p=1>2005</a></li>
 </ul>
             </div>
          </td>
@@ -201,9 +201,9 @@ Page: <a href="photos.aspx?year=2020&amp;p=10">Previous</a>
    <div class="xhtml_nav"><div id="nav_bottom"><table><tr>
 	<td style="text-align: left; color: white; width: 381px;">© Senate of the Philippines. All rights reserved.</td>
 <td style="text-align: right">
-<a href="job.pdf">Job Openings </a></a>| 
-<a href="contact18thcongress.asp">Contact Info</a> | <a href="rss.asp">RSS Feeds</a> <a href="rss.asp">
-<img src="images/feed10.png" alt="RSS icon" /></a> | <a href="search.aspx">Search</a> | <a href="sitemap.asp">Site Map</a></td></tr></table></div></div>
+<a href="../job.pdf">Job Openings </a></a>| 
+<a href="/contact18thcongress.asp">Contact Info</a> | <a href="/rss.asp">RSS Feeds</a> <a href="/rss.asp">
+<img src="/images/feed10.png" alt="RSS icon" /></a> | <a href="/search.aspx">Search</a> | <a href="/sitemap.asp">Site Map</a></td></tr></table></div></div>
 
 
 </body>

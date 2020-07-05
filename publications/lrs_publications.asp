@@ -4,11 +4,11 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Publications - Senate of the Philippines</title>
-<script type="text/javascript" language="javascript" src="http://senate.gov.ph/scripts_web/div.js"></script>
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml.css" media="all" />
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml_body.css" media="all" />
-<script type="text/javascript" language="javascript" src="http://senate.gov.ph/scripts_web/expcollapse.js"></script>
+<script type="text/javascript" language="javascript" src="/scripts_web/div.js"></script>
+<link rel="stylesheet" type="text/css" href="/scripts_web/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="../scripts_web/xhtml.css" media="all" />
+<link rel="stylesheet" type="text/css" href="../scripts_web/xhtml_body.css" media="all" />
+<script type="text/javascript" language="javascript" src="/scripts_web/expcollapse.js"></script>
 <style type="text/css">
 .pubitem {
 	margin-left: 35px;
@@ -31,7 +31,7 @@
 	padding-bottom: 8px;
 }
 #h_BF {
-	background-image: url('../images/expand.gif');
+	background-image: url('../../images/expand.gif');
 	background-repeat: no-repeat;
 	margin-left: 35px;
 	padding-left: 15px;
@@ -61,29 +61,29 @@ function SetArray()
 
 <body onload="HideAll()">
 
-<div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="../images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
-<table><tr><td><a href="../index.html">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
+<div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="/images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
+<table><tr><td><a href="/">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
 &nbsp;About&nbsp;</div><div id="nav_About" class="div_hidden" onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="../about/history.asp">History of the Senate</a></p>
-<p><a href="../about/symbols&#32;of&#32;authority.asp">Symbols of Authority</a></p><p><a href="../about/legpro.asp">Legislative Process</a></p>
+<div class="nav_dropdown"><p><a href="/about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="/about/history.asp">History of the Senate</a></p>
+<p><a href="/about/symbols%20of%20authority.asp">Symbols of Authority</a></p><p><a href="/about/legpro.asp">Legislative Process</a></p>
 </div></div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
 &nbsp;Senators&nbsp;</div><div id="nav_Senators" class="div_hidden" onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../senators/sen18th.asp">18th Congress Senators</a></p><p><a href="../senators/senlist.asp">List of Previous Senators</a></p>
-<p><a href="../senators/roll.asp">Roll of Senate President</a></p><p><a href="../senators/composition.asp">Composition of the Senate</a></p><p><a href="../senators/terms.asp">Terms of Office and Privileges</a></p>
+<div class="nav_dropdown"><p><a href="/senators/sen18th.asp">18th Congress Senators</a></p><p><a href="/senators/senlist.asp">List of Previous Senators</a></p>
+<p><a href="/senators/roll.asp">Roll of Senate President</a></p><p><a href="/senators/composition.asp">Composition of the Senate</a></p><p><a href="/senators/terms.asp">Terms of Office and Privileges</a></p>
 </div></div></td><td>|</td><td>
 <div onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">&nbsp;Committees&nbsp;</div>
 <div id="nav_Committees" class="div_hidden" onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
-<p><a href="../committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="../committee/schedwk.asp">Committee Schedule</a></p></div>
+<div class="nav_dropdown"><p><a href="/committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
+<p><a href="/committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="/committee/schedwk.asp">Committee Schedule</a></p></div>
 </div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
 &nbsp;Secretariat&nbsp;</div><div id="nav_Secretariat" class="div_hidden" onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="../secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="../secretariat/osec.asp">Office of the Secretary</a></p>
-<p><a href="../secretariat/leg.asp">Legislation</a></p><p><a href="../secretariat/admin.asp">Administration and Financial Services</a></p>
-<p><a href="../secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="../secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
+<div class="nav_dropdown"><p><a href="/secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="/secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="/secretariat/osec.asp">Office of the Secretary</a></p>
+<p><a href="/secretariat/leg.asp">Legislation</a></p><p><a href="/secretariat/admin.asp">Administration and Financial Services</a></p>
+<p><a href="/secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="/secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
 </div></div></td><td>| </td>
 
 
@@ -92,14 +92,14 @@ function SetArray()
 &nbsp;Legislative Documents&nbsp;</div>
 <div id="nav_LegislativeDocuments" class="div_hidden" onmouseover="ShowDiv('nav_LegislativeDocuments');HideSelect();" onmouseout="HideDiv('nav_LegislativeDocuments');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=bill">Bills</a></p>
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=resolution">Resolutions</a></p>
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=journal">Journals</a></p>
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=committee_rpt">Committee Reports</a></p>
-<p><a href="../lis/pdf_sys.aspx?congress=18&amp;type=republic_act">Republic Acts</a></p>
-<p><a href="../lis/pdf_sys.aspx?congress=18&amp;type=adopted_res">Adopted Resolutions</a></p>
-<p><a href="../18th_congress/treaties_18thcongress.asp">Treaties</a></p>
-<p><a href="../statistical.pdf">Statistical Data</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=bill">Bills</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=resolution">Resolutions</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=journal">Journals</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=committee_rpt">Committee Reports</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=republic_act">Republic Acts</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=adopted_res">Adopted Resolutions</a></p>
+<p><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a></p>
+<p><a href="/statistical.pdf">Statistical Data</a></p>
 </div>
 </div>
 </td>
@@ -110,13 +110,13 @@ function SetArray()
 &nbsp;Publications&nbsp;</div>
 <div id="nav_publications" class="div_hidden" onmouseover="ShowDiv('nav_publications');HideSelect();" onmouseout="HideDiv('nav_publications');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="sepo_publications.asp">SEPO Publications</a></p>
-<p><a href="stsro_publications.asp">STSRO Publications</a></p>
-<p><a href="lbrmo_publications.asp">LBRMO Publications</a></p>
-<p><a href="ils_publications.asp">ILS Publications</a></p>
-<p><a href="lrs_publications.asp">LRS Publications</a></p>
-<p><a href="lls_publications.asp">LLS Publications</a></p>
-<p><a href="other_publications.asp">Other Publications</a></p>
+<p><a href="/publications/sepo_publications.asp">SEPO Publications</a></p>
+<p><a href="/publications/stsro_publications.asp">STSRO Publications</a></p>
+<p><a href="/publications/lbrmo_publications.asp">LBRMO Publications</a></p>
+<p><a href="/publications/ils_publications.asp">ILS Publications</a></p>
+<p><a href="/publications/lrs_publications.asp">LRS Publications</a></p>
+<p><a href="/publications/lls_publications.asp">LLS Publications</a></p>
+<p><a href="/publications/other_publications.asp">Other Publications</a></p>
 </div>
 </div>
 </td>
@@ -127,7 +127,7 @@ function SetArray()
 &nbsp;GAD&nbsp;</div>
 <div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../GAD/Bills&amp;Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+<p><a href="/GAD/Bills&Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
 </div>
 </div>
 </td>
@@ -144,9 +144,27 @@ function SetArray()
 		
 		
 		
+		
+		
+				<div class="pubitem"><div class="alight">
+		<p>
+		<a href="LRS/LRS%20Reports%20-%20SB%20448.pdf">
+		<img src="LRS/images/LRS_Report_SB448_s.png" class="float" /><span>SUMMARY OF 
+SENATE BILL ON SECOND READING*
+First Regular Session, Eighteenth Congress
+</span>  
+		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
+		<small>June 2020 (216 KB)</small></a><p>
+		<br />
+				
+
+		S. NO. 448	AN ACT PROHIBITING THE USE OF WORDS THAT WOULD DENOTE RELIGIOUS, REGIONAL OR ETHNIC AFFILIATION IN PRINT, RADIO, TELEVISION INCLUDING CABLE TELEVISION AND OTHER FORMS OF BROADCAST MEDIA TO REFER TO OR DESCRIBE ANY PERSON SUSPECTED OR CONVICTED OF A CRIME OR UNLAWFUL ACT AND PROVIDING PENALTIES THEREFOR		<p>
+		<br />
+		</div></div>
+
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="LRS/LRS&#32;Report&#32;S&#32;No.&#32;1520.pdf">
+		<a href="LRS/LRS%20Report%20S%20No.%201520.pdf">
 		<img src="LRS/images/LRS_Report_SB1520_s.png" class="float" /><span>SUMMARY OF 
 SENATE BILL ON SECOND READING*
 First Regular Session, Eighteenth Congress
@@ -164,7 +182,7 @@ First Regular Session, Eighteenth Congress
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="LRS/Sb.&#32;1174&#32;final.pdf">
+		<a href="LRS/Sb.%201174%20final.pdf">
 		<img src="LRS/images/LRS_Report_SB1174_s.png" class="float" /><span>SUMMARY OF 
 SENATE BILL ON SECOND READING*
 First Regular Session, Eighteenth Congress
@@ -183,7 +201,7 @@ First Regular Session, Eighteenth Congress
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="LRS/FINAL&#32;SB&#32;1240&#32;BAMBOO.pdf">
+		<a href="LRS/FINAL%20SB%201240%20BAMBOO.pdf">
 		<img src="LRS/images/LRS_Report_SB1240_s.png" class="float" /><span>SUMMARY OF 
 SENATE BILL ON SECOND READING*
 First Regular Session, Eighteenth Congress
@@ -202,7 +220,7 @@ First Regular Session, Eighteenth Congress
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="LRS/LRS&#32;Report&#32;S.&#32;No.&#32;810&#32;A.pdf">
+		<a href="LRS/LRS%20Report%20S.%20No.%20810%20A.pdf">
 		<img src="LRS/images/LRS_Report_1216_s.png" class="float" /><span>SUMMARY OF 
 SENATE BILL ON SECOND READING*
 First Regular Session, Eighteenth Congress
@@ -218,7 +236,7 @@ First Regular Session, Eighteenth Congress
 
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="LRS/LRS&#32;Report&#32;S&#32;No.&#32;1092.pdf">
+		<a href="LRS/LRS%20Report%20S%20No.%201092.pdf">
 		<img src="LRS/images/LRS_Report_1211_s.png" class="float" /><span>SUMMARY OF 
 SENATE BILL ON SECOND READING*
 First Regular Session, Eighteenth Congress
@@ -236,7 +254,7 @@ First Regular Session, Eighteenth Congress
 
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="LRS/LRS&#32;Reports&#32;S.&#32;No.&#32;1055.pdf">
+		<a href="LRS/LRS%20Reports%20S.%20No.%201055.pdf">
 		<img src="LRS/images/LRS_Report_1209_s.png" class="float" /><span>SUMMARY OF 
 SENATE BILL ON SECOND READING*
 First Regular Session, Eighteenth Congress
@@ -253,7 +271,7 @@ First Regular Session, Eighteenth Congress
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="LRS/LRS&#32;Reports&#32;S&#32;NO&#32;1155.pdf">
+		<a href="LRS/LRS%20Reports%20S%20NO%201155.pdf">
 		<img src="LRS/images/LRS_Report_1209_s.png" class="float" /><span>SUMMARY OF 
 SENATE BILL ON SECOND READING*
 First Regular Session, Eighteenth Congress
@@ -271,7 +289,7 @@ First Regular Session, Eighteenth Congress
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="LRS/LRS&#32;SUMMARY&#32;REPS&#32;SECOND&#32;READING.pdf">
+		<a href="LRS/LRS%20SUMMARY%20REPS%20SECOND%20READING.pdf">
 		<img src="LRS/images/LRS_Report_1127_s.png" class="float" /><span>SUMMARY OF 
 SENATE BILL ON SECOND READING*
 First Regular Session, Eighteenth Congress
@@ -288,7 +306,7 @@ First Regular Session, Eighteenth Congress
 		
 		<div class="pubitem"><div class="alight">
 		<p>
-		<a href="LRS/PIONEERING&#32;WOMEN&#32;OF&#32;THE&#32;SENATE.pdf">
+		<a href="LRS/PIONEERING%20WOMEN%20OF%20THE%20SENATE.pdf">
 		<img src="LRS/images/LRS_Report_0325_s.png" class="float" /><span>Pioneering Women of the Senate
 </span>  
 		<img src="../images/pdf1.gif" alt="Adobe PDF Format" style="height: 12px" /><br />
@@ -433,19 +451,19 @@ Publications
 	<ul>
 		<!--<li>
 		<a href="../performance/Performance%20of%20the%20Senate%202nd%20Regular%20Session%2015th%20Congress%20July%2025,%202011%20-%20June%208,%202012.pdf">Performance of the Senate</a></li>-->
-		<li><a href="sepo_publications.asp">SEPO publications</a> 
+		<li><a href="/publications/sepo_publications.asp">SEPO publications</a> 
 		</li>
-		<li><a href="stsro_publications.asp">STSRO publications</a>
+		<li><a href="/publications/stsro_publications.asp">STSRO publications</a>
 		</li>
-		<li><a href="lbrmo_publications.asp">LBRMO publications</a>
+		<li><a href="/publications/lbrmo_publications.asp">LBRMO publications</a>
 		</li>
-		<li><a href="ils_publications.asp">ILS publications</a>
+		<li><a href="/publications/ils_publications.asp">ILS publications</a>
 		</li>
-		<li><a href="lrs_publications.asp">LRS publications</a>
+		<li><a href="/publications/lrs_publications.asp">LRS publications</a>
 		</li>
-		<li><a href="lls_publications.asp">LLS publications</a>
+		<li><a href="/publications/lls_publications.asp">LLS publications</a>
 		</li>
-		<li><a href="other_publications.asp">Other publications</a>
+		<li><a href="/publications/other_publications.asp">Other publications</a>
 		</li>
 	</ul>
 </div>
@@ -463,8 +481,8 @@ Publications
 	<td style="text-align: left; color: white; width: 381px;">© Senate of the Philippines. All rights reserved.</td>
 <td style="text-align: right">
 <a href="../job.pdf">Job Openings </a></a>| 
-<a href="../contact18thcongress.asp">Contact Info</a> | <a href="../rss.asp">RSS Feeds</a> <a href="../rss.asp">
-<img src="../images/feed10.png" alt="RSS icon" /></a> | <a href="../search.aspx">Search</a> | <a href="../sitemap.asp">Site Map</a></td></tr></table></div></div>
+<a href="/contact18thcongress.asp">Contact Info</a> | <a href="/rss.asp">RSS Feeds</a> <a href="/rss.asp">
+<img src="/images/feed10.png" alt="RSS icon" /></a> | <a href="/search.aspx">Search</a> | <a href="/sitemap.asp">Site Map</a></td></tr></table></div></div>
 
 
 

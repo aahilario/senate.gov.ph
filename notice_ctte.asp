@@ -4,10 +4,10 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Notice of Committee Meetings - Senate of the Philippines</title>
-<script type="text/javascript" language="javascript" src="http://senate.gov.ph/scripts_web/div.js"></script>
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml.css" media="all" />
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml_body.css" media="all" />
+<script type="text/javascript" language="javascript" src="/scripts_web/div.js"></script>
+<link rel="stylesheet" type="text/css" href="/scripts_web/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="scripts_web/xhtml.css" media="all" />
+<link rel="stylesheet" type="text/css" href="scripts_web/xhtml_body.css" media="all" />
 <style type="text/css">
 .style1 {
 	font-size: 13px;
@@ -23,29 +23,29 @@
 </head>
 
 <body>
-   <div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
-<table><tr><td><a href="index.html">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
+   <div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="/images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
+<table><tr><td><a href="/">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
 &nbsp;About&nbsp;</div><div id="nav_About" class="div_hidden" onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
-<div class="nav_dropdown"><p><a href="about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="about/history.asp">History of the Senate</a></p>
-<p><a href="about/symbols&#32;of&#32;authority.asp">Symbols of Authority</a></p><p><a href="about/legpro.asp">Legislative Process</a></p>
+<div class="nav_dropdown"><p><a href="/about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="/about/history.asp">History of the Senate</a></p>
+<p><a href="/about/symbols%20of%20authority.asp">Symbols of Authority</a></p><p><a href="/about/legpro.asp">Legislative Process</a></p>
 </div></div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
 &nbsp;Senators&nbsp;</div><div id="nav_Senators" class="div_hidden" onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
-<div class="nav_dropdown"><p><a href="senators/sen18th.asp">18th Congress Senators</a></p><p><a href="senators/senlist.asp">List of Previous Senators</a></p>
-<p><a href="senators/roll.asp">Roll of Senate President</a></p><p><a href="senators/composition.asp">Composition of the Senate</a></p><p><a href="senators/terms.asp">Terms of Office and Privileges</a></p>
+<div class="nav_dropdown"><p><a href="/senators/sen18th.asp">18th Congress Senators</a></p><p><a href="/senators/senlist.asp">List of Previous Senators</a></p>
+<p><a href="/senators/roll.asp">Roll of Senate President</a></p><p><a href="/senators/composition.asp">Composition of the Senate</a></p><p><a href="/senators/terms.asp">Terms of Office and Privileges</a></p>
 </div></div></td><td>|</td><td>
 <div onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">&nbsp;Committees&nbsp;</div>
 <div id="nav_Committees" class="div_hidden" onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">
-<div class="nav_dropdown"><p><a href="committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
-<p><a href="committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="committee/schedwk.asp">Committee Schedule</a></p></div>
+<div class="nav_dropdown"><p><a href="/committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
+<p><a href="/committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="/committee/schedwk.asp">Committee Schedule</a></p></div>
 </div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
 &nbsp;Secretariat&nbsp;</div><div id="nav_Secretariat" class="div_hidden" onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
-<div class="nav_dropdown"><p><a href="secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="secretariat/osec.asp">Office of the Secretary</a></p>
-<p><a href="secretariat/leg.asp">Legislation</a></p><p><a href="secretariat/admin.asp">Administration and Financial Services</a></p>
-<p><a href="secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
+<div class="nav_dropdown"><p><a href="/secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="/secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="/secretariat/osec.asp">Office of the Secretary</a></p>
+<p><a href="/secretariat/leg.asp">Legislation</a></p><p><a href="/secretariat/admin.asp">Administration and Financial Services</a></p>
+<p><a href="/secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="/secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
 </div></div></td><td>| </td>
 
 
@@ -54,14 +54,14 @@
 &nbsp;Legislative Documents&nbsp;</div>
 <div id="nav_LegislativeDocuments" class="div_hidden" onmouseover="ShowDiv('nav_LegislativeDocuments');HideSelect();" onmouseout="HideDiv('nav_LegislativeDocuments');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="lis/leg_sys.aspx?congress=18&amp;type=bill">Bills</a></p>
-<p><a href="lis/leg_sys.aspx?congress=18&amp;type=resolution">Resolutions</a></p>
-<p><a href="lis/leg_sys.aspx?congress=18&amp;type=journal">Journals</a></p>
-<p><a href="lis/leg_sys.aspx?congress=18&amp;type=committee_rpt">Committee Reports</a></p>
-<p><a href="lis/pdf_sys.aspx?congress=18&amp;type=republic_act">Republic Acts</a></p>
-<p><a href="lis/pdf_sys.aspx?congress=18&amp;type=adopted_res">Adopted Resolutions</a></p>
-<p><a href="18th_congress/treaties_18thcongress.asp">Treaties</a></p>
-<p><a href="statistical.pdf">Statistical Data</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=bill">Bills</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=resolution">Resolutions</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=journal">Journals</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=committee_rpt">Committee Reports</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=republic_act">Republic Acts</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=adopted_res">Adopted Resolutions</a></p>
+<p><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a></p>
+<p><a href="/statistical.pdf">Statistical Data</a></p>
 </div>
 </div>
 </td>
@@ -72,13 +72,13 @@
 &nbsp;Publications&nbsp;</div>
 <div id="nav_publications" class="div_hidden" onmouseover="ShowDiv('nav_publications');HideSelect();" onmouseout="HideDiv('nav_publications');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="publications/sepo_publications.asp">SEPO Publications</a></p>
-<p><a href="publications/stsro_publications.asp">STSRO Publications</a></p>
-<p><a href="publications/lbrmo_publications.asp">LBRMO Publications</a></p>
-<p><a href="publications/ils_publications.asp">ILS Publications</a></p>
-<p><a href="publications/lrs_publications.asp">LRS Publications</a></p>
-<p><a href="publications/lls_publications.asp">LLS Publications</a></p>
-<p><a href="publications/other_publications.asp">Other Publications</a></p>
+<p><a href="/publications/sepo_publications.asp">SEPO Publications</a></p>
+<p><a href="/publications/stsro_publications.asp">STSRO Publications</a></p>
+<p><a href="/publications/lbrmo_publications.asp">LBRMO Publications</a></p>
+<p><a href="/publications/ils_publications.asp">ILS Publications</a></p>
+<p><a href="/publications/lrs_publications.asp">LRS Publications</a></p>
+<p><a href="/publications/lls_publications.asp">LLS Publications</a></p>
+<p><a href="/publications/other_publications.asp">Other Publications</a></p>
 </div>
 </div>
 </td>
@@ -89,7 +89,7 @@
 &nbsp;GAD&nbsp;</div>
 <div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="GAD/Bills&amp;Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+<p><a href="/GAD/Bills&Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
 </div>
 </div>
 </td>
@@ -121,6 +121,121 @@
 									Date</td>
 									<td style="text-align: center; border-color: #000000; width: 285px; height: 30px;" bgcolor="#8CADE6">
 									Agenda</td>
+									</tr>
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Basic Education, Arts and Culture joint with the Committees on 
+									Committees on Higher, Technical and 
+									Vocational Education; Health and Demography; 
+									Ways and Means; and Finance</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									June 19, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of 
+									Public Hearing<br />
+									via Cisco/Webex (Video/Teleconference)<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/educ_0619.pdf">(Download PDF)</a></font></td>
+
+									</tr>
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Labor, Employment and Human 
+									Resources Development joint with the 
+									Committees on Trade, Commerce and Entrepreneurship; Economic Affairs; Ways and Means; Science and Technology; Banks, Financial Institutions and Currencies; and Finance</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									June 18, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of 
+									Joint Public Hearing<br />
+									via Cisco/Webex (Video/Teleconference)<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/labor_0618.pdf">(Download PDF)</a></font></td>
+
+									</tr>
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Energy joint with Committees on Environment, Natural Resources 
+									and Climate Change; and Ways and Means</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									June 17, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice for Technical Working Group (TWG) 
+									Meeting<br />
+									via Cisco/Webex (Video/Teleconference)<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/Energy(TWG)_June17.pdf">(Download PDF)</a></font></td>
+
+									</tr>
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Local Government joint with the Committees on Basic Education, Arts and Culture; Tourism; Health and Demography; Women, Children, Family Relations and Gender Equality; and Finance </td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									June 16, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of Postponement of Meeting <br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/local%20Govt_06162020.pdf">(Download PDF)</a></font></td>
+
+									</tr>
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Joint Congressional Oversight Committee on 
+									Universal Health Care</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									June 15, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of Meeting <br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/health_06152020.pdf">(Download PDF)</a></font></td>
+
+									</tr>	
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Sustainable Development Goals, Innovation and Futures Thinking joint with Committee on Basic Education, Arts, and Culture
+</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									June 12, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of Addendum<br />
+									via Cisco/Webex (Video/Teleconference)<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/sustainable_0612.pdf">(Download PDF)</a></font></td>
+
+									</tr>
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Local Government joint with the Committees on Basic Education, Arts and Culture; Tourism; Health and Demography; Women, Children, Family Relations and Gender Equality; and Finance </td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									June 10, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of Public Hearing <br />
+									<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/local%20Govt_06102020.pdf">(Download PDF)</a></font></td>
+
+									</tr>
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Energy joint with Committees on Environment, Natural Resources 
+									and Climate Change; and Ways and Means</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									June 9, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice for Technical Working Group (TWG) 
+									Meeting<br />
+									via Cisco/Webex (Video/Teleconference)<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/Energy((TWG)_June9.pdf">(Download PDF)</a></font></td>
+
 									</tr>
 								<tr>
 									<td style="border-color: #000000; width: 247px; height: 57px;">
@@ -220,7 +335,7 @@
 									via Cisco/Webex (Video/Teleconference)<br />
 									<br />
 									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/Sustainable&#32;Devt_05262020.pdf">(Download PDF)</a></font></td>
+										<a href="18th_congress/ctte_notices/Sustainable%20Devt_05262020.pdf">(Download PDF)</a></font></td>
 
 									</tr>
 								<tr>
@@ -292,7 +407,7 @@
 									via Cisco/Webex (Video/Teleconference)<br />
 									<br />
 									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/Sustainable&#32;Devt_05212020.pdf">(Download PDF)</a></font></td>
+										<a href="18th_congress/ctte_notices/Sustainable%20Devt_05212020.pdf">(Download PDF)</a></font></td>
 
 									</tr>
 								<tr>
@@ -362,8 +477,8 @@
 										<a href="15th_congress/ctte_notice/tourism%20sep17.pdf">(Download PDF)</a></font><br />
 									</td>
 									</tr>-->
-									</table>						<p class="backtotop"><img src="images/backtotop.gif" /> 
-						<a href="notice_ctte.asp#top">back to top</a>
+									</table>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			    <!--  </p><table border="1" width="98%" cellpadding="6" style="border-color: #000000; border-collapse:collapse" cellspacing="0">
 								<tr>
 									<td width="185" style="text-align: center; border-color: #000000;" bgcolor="#8CADE6"><a name="05Aug"></a>Committee/td>
@@ -1901,19 +2016,19 @@ Committees
 
 <div class="sidepane_nav">
 	<ul>
-		<li><a href="committee/ctte_list18th.pdf">Committee Chairmanship</a><img src="images/pdf1.gif" alt="Adobe PDF" width="12" height="12" />
+		<li><a href="/committee/ctte_list18th.pdf">Committee Chairmanship</a><img src="/images/pdf1.gif" alt="Adobe PDF" width="12" height="12" />
 		</li>
-		<li><a href="committee/adhocctte_list18th.pdf">Oversight/Ah hoc Committee Chairmanship</a> <img src="images/pdf1.gif" alt="Adobe PDF" width="12" height="12" />
+		<li><a href="/committee/adhocctte_list18th.pdf">Oversight/Ah hoc Committee Chairmanship</a> <img src="/images/pdf1.gif" alt="Adobe PDF" width="12" height="12" />
 		</li>
-		<li><a href="committee/duties.asp">Duties, Power <br />and Jurisdiction</a>
+		<li><a href="/committee/duties.asp">Duties, Power <br />and Jurisdiction</a>
 		</li>
-		<li><a href="committee/ctte_mem18th.pdf">Committee Directory</a> <img src="images/pdf1.gif" alt="Adobe PDF" width="12" height="12" />
+		<li><a href="/committee/ctte_mem18th.pdf">Committee Directory</a> <img src="/images/pdf1.gif" alt="Adobe PDF" width="12" height="12" />
 		</li>
-		<li><a href="committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a> <img src="images/pdf1.gif" alt="Adobe PDF" width="12" height="12" />
+		<li><a href="/committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a> <img src="/images/pdf1.gif" alt="Adobe PDF" width="12" height="12" />
 		</li>
-		<li><a href="notice_ctte.asp">Notice of Committee Meetings</a>
+		<li><a href="/notice_ctte.asp">Notice of Committee Meetings</a>
 		</li>
-		<li><a href="committee/schedwk.asp">Committee Schedule</a>
+		<li><a href="/committee/schedwk.asp">Committee Schedule</a>
 		</li>
 	</ul>
 </div>
@@ -1924,9 +2039,9 @@ Committees
    <div class="xhtml_nav"><div id="nav_bottom"><table><tr>
 	<td style="text-align: left; color: white; width: 381px;">© Senate of the Philippines. All rights reserved.</td>
 <td style="text-align: right">
-<a href="job.pdf">Job Openings </a></a>| 
-<a href="contact18thcongress.asp">Contact Info</a> | <a href="rss.asp">RSS Feeds</a> <a href="rss.asp">
-<img src="images/feed10.png" alt="RSS icon" /></a> | <a href="search.aspx">Search</a> | <a href="sitemap.asp">Site Map</a></td></tr></table></div></div>
+<a href="../job.pdf">Job Openings </a></a>| 
+<a href="/contact18thcongress.asp">Contact Info</a> | <a href="/rss.asp">RSS Feeds</a> <a href="/rss.asp">
+<img src="/images/feed10.png" alt="RSS icon" /></a> | <a href="/search.aspx">Search</a> | <a href="/sitemap.asp">Site Map</a></td></tr></table></div></div>
 
 
 </body>

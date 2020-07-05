@@ -4,36 +4,36 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Term of Office and Privileges - Senate of the Philippines</title>
-<script type="text/javascript" language="javascript" src="http://senate.gov.ph/scripts_web/div.js"></script>
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml.css" media="all" />
-<link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml_body.css" media="all" />
+<script type="text/javascript" language="javascript" src="/scripts_web/div.js"></script>
+<link rel="stylesheet" type="text/css" href="/scripts_web/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="../scripts_web/xhtml.css" media="all" />
+<link rel="stylesheet" type="text/css" href="../scripts_web/xhtml_body.css" media="all" />
 </head>
 
 <body>
-   <div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="../images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
-<table><tr><td><a href="../index.html">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
+   <div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="/images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
+<table><tr><td><a href="/">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
 &nbsp;About&nbsp;</div><div id="nav_About" class="div_hidden" onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="../about/history.asp">History of the Senate</a></p>
-<p><a href="../about/symbols&#32;of&#32;authority.asp">Symbols of Authority</a></p><p><a href="../about/legpro.asp">Legislative Process</a></p>
+<div class="nav_dropdown"><p><a href="/about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="/about/history.asp">History of the Senate</a></p>
+<p><a href="/about/symbols%20of%20authority.asp">Symbols of Authority</a></p><p><a href="/about/legpro.asp">Legislative Process</a></p>
 </div></div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
 &nbsp;Senators&nbsp;</div><div id="nav_Senators" class="div_hidden" onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
-<div class="nav_dropdown"><p><a href="sen18th.asp">18th Congress Senators</a></p><p><a href="senlist.asp">List of Previous Senators</a></p>
-<p><a href="roll.asp">Roll of Senate President</a></p><p><a href="composition.asp">Composition of the Senate</a></p><p><a href="terms.asp">Terms of Office and Privileges</a></p>
+<div class="nav_dropdown"><p><a href="/senators/sen18th.asp">18th Congress Senators</a></p><p><a href="/senators/senlist.asp">List of Previous Senators</a></p>
+<p><a href="/senators/roll.asp">Roll of Senate President</a></p><p><a href="/senators/composition.asp">Composition of the Senate</a></p><p><a href="/senators/terms.asp">Terms of Office and Privileges</a></p>
 </div></div></td><td>|</td><td>
 <div onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">&nbsp;Committees&nbsp;</div>
 <div id="nav_Committees" class="div_hidden" onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
-<p><a href="../committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="../committee/schedwk.asp">Committee Schedule</a></p></div>
+<div class="nav_dropdown"><p><a href="/committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
+<p><a href="/committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="/committee/schedwk.asp">Committee Schedule</a></p></div>
 </div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
 &nbsp;Secretariat&nbsp;</div><div id="nav_Secretariat" class="div_hidden" onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="../secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="../secretariat/osec.asp">Office of the Secretary</a></p>
-<p><a href="../secretariat/leg.asp">Legislation</a></p><p><a href="../secretariat/admin.asp">Administration and Financial Services</a></p>
-<p><a href="../secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="../secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
+<div class="nav_dropdown"><p><a href="/secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="/secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="/secretariat/osec.asp">Office of the Secretary</a></p>
+<p><a href="/secretariat/leg.asp">Legislation</a></p><p><a href="/secretariat/admin.asp">Administration and Financial Services</a></p>
+<p><a href="/secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="/secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
 </div></div></td><td>| </td>
 
 
@@ -42,14 +42,14 @@
 &nbsp;Legislative Documents&nbsp;</div>
 <div id="nav_LegislativeDocuments" class="div_hidden" onmouseover="ShowDiv('nav_LegislativeDocuments');HideSelect();" onmouseout="HideDiv('nav_LegislativeDocuments');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=bill">Bills</a></p>
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=resolution">Resolutions</a></p>
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=journal">Journals</a></p>
-<p><a href="../lis/leg_sys.aspx?congress=18&amp;type=committee_rpt">Committee Reports</a></p>
-<p><a href="../lis/pdf_sys.aspx?congress=18&amp;type=republic_act">Republic Acts</a></p>
-<p><a href="../lis/pdf_sys.aspx?congress=18&amp;type=adopted_res">Adopted Resolutions</a></p>
-<p><a href="../18th_congress/treaties_18thcongress.asp">Treaties</a></p>
-<p><a href="../statistical.pdf">Statistical Data</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=bill">Bills</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=resolution">Resolutions</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=journal">Journals</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=committee_rpt">Committee Reports</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=republic_act">Republic Acts</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=adopted_res">Adopted Resolutions</a></p>
+<p><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a></p>
+<p><a href="/statistical.pdf">Statistical Data</a></p>
 </div>
 </div>
 </td>
@@ -60,13 +60,13 @@
 &nbsp;Publications&nbsp;</div>
 <div id="nav_publications" class="div_hidden" onmouseover="ShowDiv('nav_publications');HideSelect();" onmouseout="HideDiv('nav_publications');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../publications/sepo_publications.asp">SEPO Publications</a></p>
-<p><a href="../publications/stsro_publications.asp">STSRO Publications</a></p>
-<p><a href="../publications/lbrmo_publications.asp">LBRMO Publications</a></p>
-<p><a href="../publications/ils_publications.asp">ILS Publications</a></p>
-<p><a href="../publications/lrs_publications.asp">LRS Publications</a></p>
-<p><a href="../publications/lls_publications.asp">LLS Publications</a></p>
-<p><a href="../publications/other_publications.asp">Other Publications</a></p>
+<p><a href="/publications/sepo_publications.asp">SEPO Publications</a></p>
+<p><a href="/publications/stsro_publications.asp">STSRO Publications</a></p>
+<p><a href="/publications/lbrmo_publications.asp">LBRMO Publications</a></p>
+<p><a href="/publications/ils_publications.asp">ILS Publications</a></p>
+<p><a href="/publications/lrs_publications.asp">LRS Publications</a></p>
+<p><a href="/publications/lls_publications.asp">LLS Publications</a></p>
+<p><a href="/publications/other_publications.asp">Other Publications</a></p>
 </div>
 </div>
 </td>
@@ -77,7 +77,7 @@
 &nbsp;GAD&nbsp;</div>
 <div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../GAD/Bills&amp;Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+<p><a href="/GAD/Bills&Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
 </div>
 </div>
 </td>
@@ -92,36 +92,36 @@
 						Term of Office and Privileges</p>
 						<div id="toc">
 							<p>
-								<a href="terms.asp#Term_of_Office_of_Senators">
-								Term of Office of Senators</a><br /><a href="terms.asp#Privileges_of_Senators">
+								<a href="#Term_of_Office_of_Senators">
+								Term of Office of Senators</a><br /><a href="#Privileges_of_Senators">
 								Privileges of Senators</a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-								<a href="terms.asp#Salaries">
+								<a href="#Salaries">
 								Salaries</a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-								<a href="terms.asp#Parliamentary_Immunities_">
+								<a href="#Parliamentary_Immunities_">
 								Parliamentary Immunities</a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-								<a href="terms.asp#A._Privilege_from_Arrest_">
+								<a href="#A._Privilege_from_Arrest_">
 								Privilege from Arrest</a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-								<a href="terms.asp#B._Privilege_of_Speech_and_Debate_">
+								<a href="#B._Privilege_of_Speech_and_Debate_">
 								Privilege of Speech and Debate</a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-								<a href="terms.asp#1._Bases_of_the_Privilege_">
+								<a href="#1._Bases_of_the_Privilege_">
 								Bases of the Privilege</a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-								<a href="terms.asp#2._Purpose_of_the_Privilege_">
+								<a href="#2._Purpose_of_the_Privilege_">
 								Purpose of the Privilege</a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-								<a href="terms.asp#3._Precedents_and_Practices_">
+								<a href="#3._Precedents_and_Practices_">
 								Precedents and Practices</a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-								<a href="terms.asp#4._Relevance_">
+								<a href="#4._Relevance_">
 								Relevance</a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-								<a href="terms.asp#5._Scope_of_Privilege_Speech:_">
+								<a href="#5._Scope_of_Privilege_Speech:_">
 								Scope of Privilege Speech</a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-								<a href="terms.asp#Suspension_and_Disqualification_">
+								<a href="#Suspension_and_Disqualification_">
 								Suspension and Disqualification</a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-								<a href="terms.asp#Manner_of_Imposing_Discipline_">
+								<a href="#Manner_of_Imposing_Discipline_">
 								Manner of Imposing Discipline</a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-								<a href="terms.asp#Inhibitions_and_Disqualifications_">
+								<a href="#Inhibitions_and_Disqualifications_">
 								Inhibitions and Disqualifications</a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-								<a href="terms.asp#Conflict_of_Interests_">
+								<a href="#Conflict_of_Interests_">
 								Conflict of Interests</a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-								<a href="terms.asp#Incompatible_and_Forbidden_Offices_">
+								<a href="#Incompatible_and_Forbidden_Offices_">
 								Incompatible and Forbidden Offices</a></p>
 							</div>
 								<hr /><p align="justify" class="h3_uline">
@@ -180,8 +180,8 @@
 							continuity of his service for the full term for 
 							which he was elected.</i></p>
 						</blockquote>
-								<o:p>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="terms.asp#top">back to top</a>
+								<o:p>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr /><p align="justify" class="h3_uline">
 						<a name="Privileges_of_Senators"></a>Privileges of 
 						Senators</p>
@@ -248,8 +248,8 @@
 							rate of P35,000.00. The Senate President, on the 
 							other hand, is raised to salary grade 34 with a 
 							monthly basic salary of P40,000.00.</p>
-						</blockquote>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="terms.asp#top">back to top</a>
+						</blockquote>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr /><blockquote>
 							<p align="justify" class="h3_uline">
 							<a name="Parliamentary_Immunities_"></a>Parliamentary Immunities</p>
@@ -321,8 +321,8 @@
 									silenced.</i></p>
 								</blockquote>
 							</blockquote>
-						</blockquote>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="terms.asp#top">back to top</a>
+						</blockquote>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr /><blockquote>
 							<blockquote>
 								<p align="justify" class="h3_uline">
@@ -381,8 +381,8 @@
 									</blockquote>
 								</blockquote>
 							</blockquote>
-						</blockquote>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="terms.asp#top">back to top</a>
+						</blockquote>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr /><blockquote>
 							<blockquote>
 								<blockquote>
@@ -445,8 +445,8 @@
 									</blockquote>
 								</blockquote>
 							</blockquote>
-						</blockquote>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="terms.asp#top">back to top</a>
+						</blockquote>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr /><blockquote>
 							<blockquote>
 								<blockquote>
@@ -651,8 +651,8 @@
 									</blockquote>
 								</blockquote>
 							</blockquote>
-						</blockquote>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="terms.asp#top">back to top</a>
+						</blockquote>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr /><blockquote>
 							<blockquote>
 								<blockquote>
@@ -728,8 +728,8 @@
 									</blockquote>
 								</blockquote>
 							</blockquote>
-						</blockquote>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="terms.asp#top">back to top</a>
+						</blockquote>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr /><blockquote>
 							<blockquote>
 								<blockquote>
@@ -814,8 +814,8 @@
 									</blockquote>
 								</blockquote>
 							</blockquote>
-						</blockquote>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="terms.asp#top">back to top</a>
+						</blockquote>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr /><blockquote>
 							<p align="justify" class="h3_uline">
 							<a name="Suspension_and_Disqualification_"></a>Suspension and Disqualification</p>
@@ -880,8 +880,8 @@
 								record, fine, imprisonment and censure, 
 								sometimes called &quot;soft impeachment.&quot;</p>
 							</blockquote>
-						</blockquote>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="terms.asp#top">back to top</a>
+						</blockquote>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr /><blockquote>
 							<blockquote>
 								<p align="justify" class="h3_uline">
@@ -1010,8 +1010,8 @@
 								serving as legislative consultant for a private 
 								bank.</p>
 							</blockquote>
-						</blockquote>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="terms.asp#top">back to top</a>
+						</blockquote>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr /><blockquote>
 							<blockquote>
 								<p align="justify" class="h3_uline">
@@ -1037,8 +1037,8 @@
 								lead to suspicion of chicanery or impropriety in 
 								the discharge of their duties in the government.</p>
 							</blockquote>
-						</blockquote>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="terms.asp#top">back to top</a>
+						</blockquote>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p><hr /><blockquote>
 							<blockquote>
 								<p align="justify" class="h3_uline">
@@ -1207,8 +1207,8 @@
 								therefore be appointed to the office. </p>
 							</blockquote>
 						</blockquote>
-								<o:p>						<p class="backtotop"><img src="../images/backtotop.gif" /> 
-						<a href="terms.asp#top">back to top</a>
+								<o:p>						<p class="backtotop"><img src="/images/backtotop.gif" /> 
+						<a href="#top">back to top</a>
 			      		</p></td>
          <td id="sidepane">
          	<div id="sidepane_l2"></div><div class="header_pane">
@@ -1217,15 +1217,15 @@ Senators
 
 <div class="sidepane_nav">
 	<ul>
-		<li><a href="sen18th.asp">18th Congress Senators</a>
+		<li><a href="/senators/sen18th.asp">18th Congress Senators</a>
 		</li>
-		<li><a href="senlist.asp">List of Previous Senators</a>
+		<li><a href="/senators/senlist.asp">List of Previous Senators</a>
 		</li>
-		<li><a href="roll.asp">Roll of Senate Presidents</a>
+		<li><a href="/senators/roll.asp">Roll of Senate Presidents</a>
 		</li>
-		<li><a href="composition.asp">Composition of the Senate</a>
+		<li><a href="/senators/composition.asp">Composition of the Senate</a>
 		</li>
-		<li><a href="terms.asp">Term of Office and Privileges</a>
+		<li><a href="/senators/terms.asp">Term of Office and Privileges</a>
 		</li>
 	</ul>
 </div>
@@ -1237,8 +1237,8 @@ Senators
 	<td style="text-align: left; color: white; width: 381px;">© Senate of the Philippines. All rights reserved.</td>
 <td style="text-align: right">
 <a href="../job.pdf">Job Openings </a></a>| 
-<a href="../contact18thcongress.asp">Contact Info</a> | <a href="../rss.asp">RSS Feeds</a> <a href="../rss.asp">
-<img src="../images/feed10.png" alt="RSS icon" /></a> | <a href="../search.aspx">Search</a> | <a href="../sitemap.asp">Site Map</a></td></tr></table></div></div>
+<a href="/contact18thcongress.asp">Contact Info</a> | <a href="/rss.asp">RSS Feeds</a> <a href="/rss.asp">
+<img src="/images/feed10.png" alt="RSS icon" /></a> | <a href="/search.aspx">Search</a> | <a href="/sitemap.asp">Site Map</a></td></tr></table></div></div>
 
 
 </body>
