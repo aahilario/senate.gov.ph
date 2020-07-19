@@ -1,27 +1,18 @@
 
 
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Senate SharePoint Site</title>
+<title>Page Unavailable - Senate of the Philippines</title>
 <script type="text/javascript" language="javascript" src="/scripts_web/div.js"></script>
 <link rel="stylesheet" type="text/css" href="/scripts_web/print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="scripts_web/xhtml.css" media="all" />
-<link rel="stylesheet" type="text/css" href="scripts_web/xhtml_body.css" media="all" />
-<script type="text/javascript">
-function MaxWin() 
-	{
-	   self.moveTo(0,0);
-	   self.resizeTo(screen.width,screen.availHeight);
-	 }
-</script>
-<meta http-equiv="Refresh" content="0; URL=https://janus.senate.gov.ph/portal/senate" />
+<link rel="stylesheet" type="text/css" href="/scripts_web/xhtml.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/scripts_web/xhtml_body.css" media="all" />
 </head>
 
-<body onload="MaxWin()">
+<body>
    <div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="/images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
 <table><tr><td><a href="/">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
 &nbsp;About&nbsp;</div><div id="nav_About" class="div_hidden" onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
@@ -88,7 +79,7 @@ function MaxWin()
 &nbsp;GAD&nbsp;</div>
 <div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../GAD/EDP%2018th%20GAD%20Bills4.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+<p><a href="../GAD/Bills&Resolutions_GAD18th1st07022020.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
 </div>
 </div>
 </td>
@@ -99,9 +90,17 @@ function MaxWin()
    <table id="container">
       <tr>
          <td id="content">
-         	<!-- <p class="h1_bold">Legislative Information System</p> -->
-			<p>Please wait, now redirecting. If you are not redirected within 5 seconds, 
-			click <a href="https://janus.senate.gov.ph/portal/senate">here</a>.</p>
+           <p class="h1_bold">Page Unavailable</p>
+			<br />
+            <p>
+                We&#39;re sorry but the page you requested could not be 
+				found.<br />The page might have been removed, had its 
+				name changed,
+                or is temporarily unavailable.</p>
+            <p>
+                To look for the page, you may <a href="/search.aspx">
+				Search</a> our site
+                or browse the <a href="/sitemap.asp">Site Map</a>.</p>
          </td>
          <td id="sidepane">
          	<div id="sidepane_l2"></div></td>

@@ -89,7 +89,7 @@
 &nbsp;GAD&nbsp;</div>
 <div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="/GAD/Bills&Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+<p><a href="../GAD/EDP%2018th%20GAD%20Bills4.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
 </div>
 </div>
 </td>
@@ -124,117 +124,264 @@
 									</tr>
 								<tr>
 									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Committee on Basic Education, Arts and Culture joint with the Committees on 
-									Committees on Higher, Technical and 
-									Vocational Education; Health and Demography; 
-									Ways and Means; and Finance</td>
+									Committee on Electoral Reforms And People’s Participation joint with the Committee on Finance</td>
 									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									June 19, 2020</td>
+									July 17, 2020</td>
 									<td width="285" style="border-color: #000000; height: 57px;">										
-									Notice of 
-									Public Hearing<br />
-									via Cisco/Webex (Video/Teleconference)<br />
-									<br />
-									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/educ_0619.pdf">(Download PDF)</a></font></td>
-
-									</tr>
-								<tr>
-									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Committee on Labor, Employment and Human 
-									Resources Development joint with the 
-									Committees on Trade, Commerce and Entrepreneurship; Economic Affairs; Ways and Means; Science and Technology; Banks, Financial Institutions and Currencies; and Finance</td>
-									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									June 18, 2020</td>
-									<td width="285" style="border-color: #000000; height: 57px;">										
-									Notice of 
-									Joint Public Hearing<br />
-									via Cisco/Webex (Video/Teleconference)<br />
-									<br />
-									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/labor_0618.pdf">(Download PDF)</a></font></td>
-
-									</tr>
-								<tr>
-									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Committee on Energy joint with Committees on Environment, Natural Resources 
-									and Climate Change; and Ways and Means</td>
-									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									June 17, 2020</td>
-									<td width="285" style="border-color: #000000; height: 57px;">										
-									Notice for Technical Working Group (TWG) 
+									Notice of Technical Working Group (TWG) 
 									Meeting<br />
-									via Cisco/Webex (Video/Teleconference)<br />
 									<br />
 									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/Energy(TWG)_June17.pdf">(Download PDF)</a></font></td>
+										<a href="18th_congress/ctte_notices/elec_071720.pdf">(Download PDF)</a></font><br />
+									<a href="18th_congress/ctte_notices/basic071720.pdf">&nbsp;</a></td>
 
 									</tr>
 								<tr>
 									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Committee on Local Government joint with the Committees on Basic Education, Arts and Culture; Tourism; Health and Demography; Women, Children, Family Relations and Gender Equality; and Finance </td>
+									Committee on&nbsp; Local Government joint 
+									with the Subcommittees on Cooperative Officer Bills</td>
 									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									June 16, 2020</td>
+									July 17, 2020</td>
 									<td width="285" style="border-color: #000000; height: 57px;">										
-									Notice of Postponement of Meeting <br />
+									Notice of Public Hearing <br />
+									(Video/Teleconference)<br />
 									<br />
 									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/local%20Govt_06162020.pdf">(Download PDF)</a></font></td>
+										<a href="18th_congress/ctte_notices/local_071720.pdf">(Download PDF)</a></font></td>
 
 									</tr>
 								<tr>
 									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Joint Congressional Oversight Committee on 
-									Universal Health Care</td>
+									Committee on&nbsp; Basic Education, Arts and 
+									Culture </td>
 									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									June 15, 2020</td>
+									July 17, 2020</td>
 									<td width="285" style="border-color: #000000; height: 57px;">										
-									Notice of Meeting <br />
+									Notice of Public Hearing <br />
+									(Video/Teleconference)<br />
 									<br />
 									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/health_06152020.pdf">(Download PDF)</a></font></td>
-
-									</tr>	
-								<tr>
-									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Committee on Sustainable Development Goals, Innovation and Futures Thinking joint with Committee on Basic Education, Arts, and Culture
-</td>
-									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									June 12, 2020</td>
-									<td width="285" style="border-color: #000000; height: 57px;">										
-									Notice of Addendum<br />
-									via Cisco/Webex (Video/Teleconference)<br />
-									<br />
-									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/sustainable_0612.pdf">(Download PDF)</a></font></td>
+										<a href="18th_congress/ctte_notices/basic1_071720.pdf">(Download PDF)</a></font></td>
 
 									</tr>
 								<tr>
 									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Committee on Local Government joint with the Committees on Basic Education, Arts and Culture; Tourism; Health and Demography; Women, Children, Family Relations and Gender Equality; and Finance </td>
+									Committee on Sustainable Development Goals, Innovation and Futures Thinking joint with Committees on Environment, Natural Resources and Climate Change; and Finance</td>
 									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									June 10, 2020</td>
+									July 17, 2020</td>
 									<td width="285" style="border-color: #000000; height: 57px;">										
 									Notice of Public Hearing <br />
 									<br />
 									<br />
 									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/local%20Govt_06102020.pdf">(Download PDF)</a></font></td>
+										<a href="18th_congress/ctte_notices/sustainable_071720.pdf">(Download PDF)</a></font></td>
+
+									</tr>
+
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Electoral Reforms and People’s Participation joint with the Committee on Finance</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									July 17, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of Technical Working Group (TWG) Meetings<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/electoral_twg_071920.pdf">
+									(Download PDF)</a></font></td>
+
+									</tr>
+
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Trade, Commerce & Entrepreneurship Joint with the Committees on Ways and Means; Social Justice, Welfare and Rural Development; and Finance </td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									July 17, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of Cancellation<br />
+									<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/trade_twg_071720(cancellation)_.pdf">(Download PDF)</a></font></td>
+
+									</tr>
+
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Energy joint with the Committee on Trade, Commerce and Entrepreneurship </td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									July 14, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of Technical Working Group (TWG) Meeting<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/energy071420.pdf">(Download PDF)</a></font></td>
+
+									</tr>
+
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Local Government joint with 
+									the Committees on Health & Demography; and 
+									Women, Children, Family Relations &amp; Gender 
+									Equality</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									July 14, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of Technical Working Group (TWG) 
+									Meetings<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/local_gov_07142020.pdf">(Download PDF)</a></font></td>
+
+									</tr>
+
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Foreign Relations joint with the Committee on Public Services
+									</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									July 13, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of Amendment to Technical Working Group (TWG) 
+									Meeting Agenda<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/foreign_07132020.pdf">(Download PDF)</a></font></td>
 
 									</tr>
 								<tr>
 									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Committee on Energy joint with Committees on Environment, Natural Resources 
-									and Climate Change; and Ways and Means</td>
+									Committee on Basic Education, Arts and Culture joint with the Committees on 
+									Ways and Means; Finance; and Women, Children, Family Relations, and Gender Equality</td>
 									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									June 9, 2020</td>
+									July 13, 2020</td>
 									<td width="285" style="border-color: #000000; height: 57px;">										
-									Notice for Technical Working Group (TWG) 
+									Notice of Technical Working Group (TWG) 
 									Meeting<br />
+									(Video/Teleconference)<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/basic_ed_07132020.pdf">(Download PDF)</a></font><br />
+&nbsp;</td>
+
+									</tr>
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Electoral Reforms and People’s Participation Joint with the Committee on Finance</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									July 10, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of Hearing<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/electoral_071020.pdf">(Download PDF)</a></font></td>
+
+									</tr>
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Local Government joint with The Committees on Basic Education, Arts & Culture; Tourism; Health & Demography; Women, Children, Family Relations & Gender Equality; and Finance</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									July 10, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of Technical Working Group (TWG)<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/local_gov_071020.pdf">(Download PDF)</a></font></td>
+
+									</tr>
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Foreign Relations joint with the Committee on Public Services
+									</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									July 10, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of Technical Working Group (TWG)<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/foreign_071020.pdf">(Download PDF)</a></font></td>
+
+									</tr>
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Trade, Commerce &amp; Entrepreneurship joint with Committees 
+									on Economic Affairs; and Finance									
+									</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									July 10, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of Technical Working Group (TWG)<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/trade_071020.pdf">(Download PDF)</a></font></td>
+
+									</tr>
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Basic Education, Arts and Culture joint with the Committees on 
+									Ways and Means; Finance; and Women, Children, Family Relations, and Gender Equality</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									July 6, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of Technical Working Group (TWG)<br />
+									(Video/Teleconference)<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/basiceduc_0706.pdf">(Download PDF)</a></font><br />
+&nbsp;</td>
+
+									</tr>
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Local Government Subcommittee on Cooperative Officer Bills</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									July 6, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of cancellation of Public Hearing<br />
 									via Cisco/Webex (Video/Teleconference)<br />
 									<br />
 									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/Energy((TWG)_June9.pdf">(Download PDF)</a></font></td>
+										<a href="18th_congress/ctte_notices/local_0706.pdf">(Download PDF)</a></font></td>
+
+									</tr>
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Cooperatives</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									July 4, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of cancellation of meeting<br />
+									via Cisco/Webex (Video/Teleconference)<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/coop_0704.pdf">(Download PDF)</a></font></td>
+
+									</tr>
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Cooperatives</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									July 2, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of meeting<br />
+									via Cisco/Webex (Video/Teleconference)<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/coop_0702.pdf">(Download PDF)</a></font></td>
+
+									</tr>
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Local Government Subcommittee on Cooperative Officer Bills</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									July 2, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of Public Hearing<br />
+									via Cisco/Webex (Video/Teleconference)<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/localgovt070220.pdf">(Download PDF)</a></font></td>
 
 									</tr>
 								<tr>
@@ -242,214 +389,139 @@
 									Committee on Trade, Commerce and Entrepreneurship 
 									joint with the Committee on Economic Affairs </td>
 									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									June 3, 2020</td>
-									<td width="285" style="border-color: #000000; height: 57px;">										
-									Notice of cancellation<br />
-									<br />
-									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/trade060420.pdf">(Download PDF)</a></font></td>
-
-									</tr>
-								<tr>
-									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Committee on Energy joint with the 
-									Committees on Environment, Natural Resources 
-									and Climate Change; and Ways and Means</td>
-									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									June 3, 2020</td>
-									<td width="285" style="border-color: #000000; height: 57px;">										
-									Notice for Technical Working Group (TWG) 
-									Meeting<br />
-									via Cisco/Webex (Video/Teleconference)<br />
-									<br />
-									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/energy060320.pdf">(Download PDF)</a></font></td>
-
-									</tr>
-								<tr>
-									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Committee on Finance joint with the 
-									Committee on Economic Affairs 
-</td>
-									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									May 28, 2020</td>
-									<td width="285" style="border-color: #000000; height: 57px;">										
-									Notice for additional agenda<br />
-									via Cisco/Webex (Video/Teleconference)<br />
-									<br />
-									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/finance052820.pdf">(Download PDF)</a></font></td>
-
-									</tr>
-								<tr>
-									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Committee on Electoral Reforms and People’s Participation joint with the Committees on Science and Technology; Finance; and Constitutional Amendments and Revision of Codes
-</td>
-									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									May 27, 2020</td>
-									<td width="285" style="border-color: #000000; height: 57px;">										
-									Notice of Hearing<br />
-									via Cisco/Webex (Video/Teleconference)<br />
-									<br />
-									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/electoral_27may.pdf">(Download PDF)</a></font></td>
-
-									</tr>
-								<tr>
-									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Committee on Sustainable Development Goals, Innovation and Futures Thinking joint with Committee on Basic Education, Arts, and Culture
-</td>
-									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									May 27, 2020</td>
-									<td width="285" style="border-color: #000000; height: 57px;">										
-									Notice of Addendum<br />
-									via Cisco/Webex (Video/Teleconference)<br />
-									<br />
-									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/sustainable_27May.pdf">(Download PDF)</a></font></td>
-
-									</tr>
-								<tr>
-									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Committee on Basic Education, Arts, and Culture 
-									joint with Committee on Finance</td>
-									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									May 27, 2020</td>
-									<td width="285" style="border-color: #000000; height: 57px;">										
-									Notice of Addendum<br />
-									via 
-									Cisco Webex (Video/Teleconference)<br />
-									<br />
-									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/basic_0527.pdf">(Download PDF)</a></font></td>
-
-									</tr>
-								<tr>
-									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Committee on Sustainable Development Goals, Innovation and Futures Thinking joint with Committee on Basic Education, Arts, and Culture
-</td>
-									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									May 26, 2020</td>
-									<td width="285" style="border-color: #000000; height: 57px;">										
-									Notice of Addendum<br />
-									via Cisco/Webex (Video/Teleconference)<br />
-									<br />
-									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/Sustainable%20Devt_05262020.pdf">(Download PDF)</a></font></td>
-
-									</tr>
-								<tr>
-									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Committee on Basic Education, Arts, and Culture 
-									joint with Committee on Finance</td>
-									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									May 25, 2020</td>
-									<td width="285" style="border-color: #000000; height: 57px;">										
-									Notice of Hearing <br />
-									via 
-									Cisco Webex (Video/Teleconference)<br />
-									<br />
-									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/basic_ed_05262020.pdf">(Download PDF)</a></font></td>
-
-									</tr>
-								<tr>
-									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Committee on Trade, Commerce and Entrepreneurship</td>
-									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									May 25, 2020</td>
-									<td width="285" style="border-color: #000000; height: 57px;">										
-									Notice of Hearing <br />
-									via Cisco Webex (Video/Teleconference)<br />
-									<br />
-									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/trade_0525.pdf">(Download PDF)</a></font></td>
-
-									</tr>
-								<tr>
-									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Committee on Finance joint with the 
-									Committee on Economic Affairs 
-</td>
-									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									May 24, 2020</td>
+									July 2, 2020</td>
 									<td width="285" style="border-color: #000000; height: 57px;">										
 									Notice of 
-									Joint Public Hearing<br />
+									Technical Working Group (TWG) Meeting<br />
 									via Cisco/Webex (Video/Teleconference)<br />
 									<br />
 									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/finance052620.pdf">(Download PDF)</a></font></td>
+										<a href="18th_congress/ctte_notices/Trade%20070720.pdf">(Download PDF)</a></font></td>
 
 									</tr>
 								<tr>
 									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Committee on Sustainable Development Goals, Innovation and Futures Thinking 
-</td>
+									Committee on Energy</td>
 									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									May 23, 2020</td>
+									July 1, 2020</td>
 									<td width="285" style="border-color: #000000; height: 57px;">										
 									Notice of Public Hearing<br />
-									via Cisco/Webex (Video/Teleconference)<br />
 									<br />
 									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/sustainable_0525.pdf">(Download PDF)</a></font></td>
+										<a href="18th_congress/ctte_notices/energy070120a.pdf">(Download PDF)</a></font><br />
+&nbsp;</td>
 
 									</tr>
 								<tr>
 									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Committee on Sustainable Development Goals, Innovation and Futures Thinking 
-</td>
+									Committee on Energy joint with Committees on Environment, Natural Resources 
+									and Climate Change; and Ways and Means</td>
 									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									May 21, 2020</td>
+									July 1, 2020</td>
 									<td width="285" style="border-color: #000000; height: 57px;">										
-									Notice of Public Hearing<br />
-									via Cisco/Webex (Video/Teleconference)<br />
+									Notice of 
+									Technical Working Group (TWG) Meeting<br />
 									<br />
 									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/Sustainable%20Devt_05212020.pdf">(Download PDF)</a></font></td>
+										<a href="18th_congress/ctte_notices/energy070120b.pdf">(Download PDF)</a></font><br />
+&nbsp;</td>
 
 									</tr>
 								<tr>
 									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Committee on Constitutional Amendments and Revision of Codes joint with the Committee on Public Services 
-</td>
+									Committee on Labor, Employment and Human Resources Development</td>
 									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									May 20, 2020</td>
+									July 1, 2020</td>
 									<td width="285" style="border-color: #000000; height: 57px;">										
-									Notice of Public Hearing<br />
-									via Cisco/Webex (Video/Teleconference)<br />
+									Notice of 
+									Joint Technical Working Group (TWG) Meeting<br />
 									<br />
 									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/consti05212020.pdf">(Download PDF)</a></font></td>
+										<a href="18th_congress/ctte_notices/labor07012020.pdf">(Download PDF)</a></font><br />
+&nbsp;</td>
+
+									</tr>		
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Basic Education, Arts and Culture joint with the Committees on 
+									Ways and Means; Finance; and Women, Children, Family Relations, and Gender Equality</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									June 29, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of Converting the Technical Working 
+									Group (TWG) Meeting to Public Hearing and 
+									Changing the Date and Time Thereof <br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/basic_ed_06292020.pdf">(Download PDF)</a></font><br />
+&nbsp;</td>
 
 									</tr>	
 								<tr>
 									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Committee on Health and Demography joint with the Committees on Justice and Human Rights; Local Government; Public Works; Ways and Means; and Finance
-</td>
+									Committee on Urban Planning, Housing &amp; Resettlement joint with the Committees on Basic Education, Arts &amp; Culture; Sustainable Development Goals, Innovation &amp; Futures Thinking; Public Works; Ways &amp; Means; and Finance</td>
 									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									May 20, 2020</td>
+									June 29, 2020</td>
 									<td width="285" style="border-color: #000000; height: 57px;">										
-									Notice of Addendum<br />
-									via Cisco/Webex (Video/Teleconference)<br />
+									Notice of Change of&nbsp; Time<br />
 									<br />
 									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/health_ad2.pdf">(Download PDF)</a></font></td>
+										<a href="18th_congress/ctte_notices/urban_planning_(change%20of%20time)%20062920.pdf">(Download PDF)</a></font><br />
+&nbsp;</td>
 
 									</tr>
 								<tr>
 									<td style="border-color: #000000; width: 247px; height: 57px;">
-									Committee on Health and Demography joint with the Committees on Public Works; and Finance
-</td>
+									Committee on Urban Planning, Housing &amp; Resettlement joint with the Committees on Basic Education, Arts &amp; Culture; Sustainable Development Goals, Innovation &amp; Futures Thinking; Public Works; Ways &amp; Means; and Finance</td>
 									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
-									May 20, 2020</td>
+									June 29, 2020</td>
 									<td width="285" style="border-color: #000000; height: 57px;">										
-									Notice of Public Hearing<br />
+									Notice of Change of Schedule<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/Urban_Planning_(resched)_062920.pdf">(Download PDF)</a></font><br />
+&nbsp;</td>
+
+									</tr>
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Public Services</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									June 25, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of Hearing<br />
+&nbsp;via Cisco/Webex (Video/Teleconference)<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/pubservice063020.pdf">(Download PDF)</a></font></td>
+
+									</tr>
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Labor, Employment and Human Resources Development joint with the Committees on Science and Technology; and Finance</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									June 25, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of 
+									Joint Technical Working Group (TWG)
 									via Cisco/Webex (Video/Teleconference)<br />
 									<br />
 									<font face="Tahoma" size="1">
-										<a href="18th_congress/ctte_notices/health_05202020.pdf">(Download PDF)</a></font></td>
+										<a href="18th_congress/ctte_notices/labor_0625.pdf">(Download PDF)</a></font></td>
+
+									</tr>	
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Urban Planning, Housing &amp; Resettlement joint with the Committees on Basic Education, Arts &amp; Culture; Sustainable Development Goals, Innovation &amp; Futures Thinking; Public Works; Ways &amp; Means; and Finance</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									June 25, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of 
+									Public Hearing<br />
+									via Cisco/Webex (Video/Teleconference)<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/urban_0625.pdf">(Download PDF)</a></font></td>
 
 									</tr>
 											<!--<tr>
