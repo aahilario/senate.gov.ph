@@ -150,13 +150,7 @@ EOF
     echo "Iterations: $Q"
     ;;
   *)
-    for F in $(git status | grep -A10000 'Untracked files' | tr '\t' '#' | grep '^##' | sed -r -e 's@^##@@g' | sed -r -e 's@"@@g' -e 's@\\([0-9]{1,3})@?@g'); do
-      [ -e $F ] && {
-      git add "$F" && basename $F
-    } || {
-      echo "? $F"
-    }
-    done | sort -u
+    git status | grep -A10000 'Untracked files' | tr '\t' '#' | grep '^##' | sed -r -e 's@^##@@g' | sed -r -e 's@"@@g' -e 's@\\([0-9]{1,3})@?@g' -e 's@^(.*)$@git add "\1";@g' | bash
     ;;
 esac
 
