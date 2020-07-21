@@ -312,6 +312,23 @@ function SetArray()
 
 		
 		</div>-->
+		<p class="h3_uline">July 20, 2020</p>
+				<div class="pubitem"><div class="alight">
+				<ul>
+				<li>
+					
+					<a href="property_r4q/PR-20-06-201%20REFRIGERANT%20410A,%203210.pdf">
+					<span>PR-20-06-201 - Refrigerant</span></a>
+				</li>
+				<li>
+					
+					<a href="property_r4q/PR-20-06-199%20EXTERNAL%20HDD.pdf">
+					<span>PR-20-06-199 - External HHD</span></a>
+				</li>
+
+																			
+		</div></div>
+		
 		<p class="h3_uline">June 16, 2020</p>
 				<div class="pubitem"><div class="alight">
 				<ul>
