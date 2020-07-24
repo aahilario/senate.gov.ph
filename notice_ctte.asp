@@ -124,6 +124,33 @@
 									</tr>
 								<tr>
 									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Energy joint with the Committee on Trade, Commerce and Entrepreneurship </td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									July 22, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of Technical Working Group (TWG) Meeting<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/energy072320.pdf">(Download PDF)</a></font></td>
+
+									</tr>
+
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Higher, Technical and Vocational Education joint with the Committee on Science and Technology</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									July 21, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of Public 
+									Meeting<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/higheduc07222020.pdf">(Download PDF)</a></font><br />
+									<a href="18th_congress/ctte_notices/basic071720.pdf">&nbsp;</a></td>
+
+									</tr>
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
 									Committee on Electoral Reforms And People’s Participation joint with the Committee on Finance</td>
 									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
 									July 17, 2020</td>
