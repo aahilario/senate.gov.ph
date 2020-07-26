@@ -74,7 +74,7 @@
 &nbsp;GAD&nbsp;</div>
 <div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="/GAD/Bills&Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+<p><a href="../GAD/EDP%2018th%20GAD%20Bills4.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
 </div>
 </div>
 </td>
@@ -137,7 +137,7 @@
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTc4NjQyOTc0Mw9kFgICAQ9kFgZmD2QWAgICDw8WBB4FV2lkdGgbAAAAAAAAcUABAAAAHgRfIVNCAoACZGQCAQ9kFgJmDw8WAh4EVGV4dAUGUkEgTm8uZGQCAg9kFgJmDw8WAh8CBQZSQSBOby5kZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUFaW1nR2/sGAVjM1Smc1uSle6YcoGAhu4CVQ==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTc4NjQyOTc0Mw9kFgICAQ9kFgZmD2QWAgICDw8WBB4FV2lkdGgbAAAAAAAAcUABAAAAHgRfIVNCAoACZGQCAQ9kFgJmDw8WAh4EVGV4dAUGUkEgTm8uZGQCAg9kFgJmDw8WAh8CBQZSQSBOby5kZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUFaW1nR29vh9hSQfkeJscgNiN6ODTc//82OQ==" />
 </div>
 
 <script type="text/javascript">
@@ -160,7 +160,7 @@ function __doPostBack(eventTarget, eventArgument) {
 <div>
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="055069E4" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCALsmJ6oCQLa9PCNDgK+sdPcCAKryeHrBgKw0qjyDgKx0azcAwKq5MfjBQLqheqoCRZfi7f8BmYZJP39XMpCZeJ09Ib5" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCALvivvRAgLa9PCNDgK+sdPcCAKryeHrBgKw0qjyDgKx0azcAwKq5MfjBQLqheqoCWXPW/yx0oXt8kAqH8MwM2bkXGw/" />
 </div>
                <div id="pnl_Searchbox">
 	
@@ -183,6 +183,8 @@ function __doPostBack(eventTarget, eventArgument) {
                         Page: <a href="pdf_sys.aspx?congress=18&amp;type=republic_act&amp;p=1">Previous</a>
 <a href="pdf_sys.aspx?congress=18&amp;type=republic_act&amp;p=1">1</a> 
 2 
+<a href="pdf_sys.aspx?congress=18&amp;type=republic_act&amp;p=3">3</a> 
+<a href="pdf_sys.aspx?congress=18&amp;type=republic_act&amp;p=3">Next
 </a></div>
                      Sort by:
                      <a id="lbType" href="javascript:__doPostBack('lbType','')">RA No.</a>
@@ -191,7 +193,17 @@ function __doPostBack(eventTarget, eventArgument) {
                   </div>
                
 </div>
-               <div class="alight"><p><a href="/republic_acts/ra%2011462.pdf"><span>Republic Act No. 11462</span><br /> 9340 , Republic Act No. 10632, Republic Act No. 10656, Republic Act No. 10923, and Republic Act No. 10952, and for Other Purposes</a> Approved by the President on December 3, 2019  <img src="/images/pdf1.gif" alt="PDF icon" /> <small>888KB</small></p>
+               <div class="alight"><p><span>Republic Act No. 11471</span><br /> An Act Creating a Barangay to Be Known as Barangay H-2 in the City of Dasmarinas, Province of Cavite Approved by the President on June 19, 2020 </p>
+<p><span>Republic Act No. 11470</span><br /> An Act Creating and Establishing the National Academy of Sports and Providing Funds Therefor Approved by the President on June 9, 2020 </p>
+<p><span>Republic Act No. 11469</span><br /> An Act  Declaring the Existence of a National Emergency Arising From the Coronavirus Disease 2019 (Covid-19) Situation and a National Policy in Connection Therewith, and Authorizing the...
+ Approved by the President on March 24, 2020 </p>
+<p><a href="/republic_acts/ra%2011468.pdf"><span>Republic Act No. 11468</span><br /> An Act Designating the Third Sunday of November Every Year as the National Day of Remembrance for Road Crash Victims, Survivors, and Their Families</a> Approved by the President on January 23, 2020  <img src="/images/pdf1.gif" alt="PDF icon" /> <small>1.4MB</small></p>
+<p><a href="/republic_acts/ra%2011465.pdf"><span>Republic Act No. 11465</span><br /> An Act Appropriating Funds for the Operation of the Government of the Republic of the Philippines From January One to December Thirty-One Two Thousand and Twenty, and for Other Purposes</a> Approved by the President on January 6, 2020  <img src="/images/pdf1.gif" alt="PDF icon" /> <small>285.4KB</small></p>
+<p><a href="/republic_acts/ra%2011467.pdf"><span>Republic Act No. 11467</span><br /> An Act Amending Sections 141, 142, 143, 144, 147, 150, 152, 263, 265, and 288-A, and Adding a New Section 290-A to Republic Act No. 8424, as Amended, Otherwise Known as the National...
+</a> Approved by the President on January 22, 2020  <img src="/images/pdf1.gif" alt="PDF icon" /> <small>5.8MB</small></p>
+<p><a href="/republic_acts/ra%2011466.pdf"><span>Republic Act No. 11466</span><br /> An Act Modifying the Salary Schedule for Civilian Government Personnel and Authorizing the Grant of Additional Benefits, and for Other Purposes</a> Approved by the President on January 8, 2020  <img src="/images/pdf1.gif" alt="PDF icon" /> <small>3.8MB</small></p>
+<p><a href="/republic_acts/ra%2011464.pdf"><span>Republic Act No. 11464</span><br /> An Act Extending the Availability of the 2019 Appropriations to December 31, 2020, Amending for the Purpose Section 65 of the General Provisions of Republic Act No. 11260, the General...
+</a> Approved by the President on December 20, 2019  <img src="/images/pdf1.gif" alt="PDF icon" /> <small>599.4KB</small></p>
 </div>
                <div id="pnl_NavBottom">
 	
@@ -201,6 +213,8 @@ function __doPostBack(eventTarget, eventArgument) {
                         Page: <a href="pdf_sys.aspx?congress=18&amp;type=republic_act&amp;p=1">Previous</a>
 <a href="pdf_sys.aspx?congress=18&amp;type=republic_act&amp;p=1">1</a> 
 2 
+<a href="pdf_sys.aspx?congress=18&amp;type=republic_act&amp;p=3">3</a> 
+<a href="pdf_sys.aspx?congress=18&amp;type=republic_act&amp;p=3">Next
 </a></div>
                      Sort by:
                      <a id="lbType_bottom" href="javascript:__doPostBack('lbType_bottom','')">RA No.</a>

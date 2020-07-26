@@ -124,6 +124,18 @@
 									</tr>
 								<tr>
 									<td style="border-color: #000000; width: 247px; height: 57px;">
+									Committee on Basic Education, Arts and Culture joint with the Committees on Ways and Means; Finance; Women, Children, Family Relations and Gender Equality</td>
+									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
+									July 25, 2020</td>
+									<td width="285" style="border-color: #000000; height: 57px;">										
+									Notice of Technical Working Group (TWG) Meeting<br />
+									<br />
+									<font face="Tahoma" size="1">
+										<a href="18th_congress/ctte_notices/4TH%20TWG%20NOTICE%20JULY%2030%202020_IE%20SPED.pdf">(Download PDF)</a></font></td>
+
+									</tr>
+								<tr>
+									<td style="border-color: #000000; width: 247px; height: 57px;">
 									Committee on Energy joint with the Committee on Trade, Commerce and Entrepreneurship </td>
 									<td style="text-align: center; border-color: #000000; width: 187px; height: 57px;">
 									July 22, 2020</td>

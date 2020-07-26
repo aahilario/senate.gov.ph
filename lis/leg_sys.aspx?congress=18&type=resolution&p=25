@@ -6,8 +6,8 @@
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
 	Resolutions - Senate of the Philippines
 </title><meta name="description" content="Browse or search Senate bills, resolutions and committee reports." />
-   <script type="text/javascript" language="javascript" src="http://senate.gov.ph/scripts_web/div.js"></script>
-   <link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/print.css" media="print" /><link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/lis.css" media="all" /><link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml.css" media="all" /><link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml_body.css" media="all" />
+   <script type="text/javascript" language="javascript" src="/scripts_web/div.js"></script>
+   <link rel="stylesheet" type="text/css" href="/scripts_web/print.css" media="print" /><link rel="stylesheet" type="text/css" href="../scripts_web/lis.css" media="all" /><link rel="stylesheet" type="text/css" href="../scripts_web/xhtml.css" media="all" /><link rel="stylesheet" type="text/css" href="../scripts_web/xhtml_body.css" media="all" />
    <script type="text/javascript">
    <!--
       function showDesc(DivName) {
@@ -27,29 +27,29 @@
 </head>
 
 <body>
-   <div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="../images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
-<table><tr><td><a href="../index.html">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
+   <div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="/images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
+<table><tr><td><a href="/">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
 &nbsp;About&nbsp;</div><div id="nav_About" class="div_hidden" onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="../about/history.asp">History of the Senate</a></p>
-<p><a href="../about/symbols&#32;of&#32;authority.asp">Symbols of Authority</a></p><p><a href="../about/legpro.asp">Legislative Process</a></p>
+<div class="nav_dropdown"><p><a href="/about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="/about/history.asp">History of the Senate</a></p>
+<p><a href="/about/symbols%20of%20authority.asp">Symbols of Authority</a></p><p><a href="/about/legpro.asp">Legislative Process</a></p>
 </div></div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
 &nbsp;Senators&nbsp;</div><div id="nav_Senators" class="div_hidden" onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../senators/sen18th.asp">18th Congress Senators</a></p><p><a href="../senators/senlist.asp">List of Previous Senators</a></p>
-<p><a href="../senators/roll.asp">Roll of Senate President</a></p><p><a href="../senators/composition.asp">Composition of the Senate</a></p><p><a href="../senators/terms.asp">Terms of Office and Privileges</a></p>
+<div class="nav_dropdown"><p><a href="/senators/sen18th.asp">18th Congress Senators</a></p><p><a href="/senators/senlist.asp">List of Previous Senators</a></p>
+<p><a href="/senators/roll.asp">Roll of Senate President</a></p><p><a href="/senators/composition.asp">Composition of the Senate</a></p><p><a href="/senators/terms.asp">Terms of Office and Privileges</a></p>
 </div></div></td><td>|</td><td>
 <div onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">&nbsp;Committees&nbsp;</div>
 <div id="nav_Committees" class="div_hidden" onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
-<p><a href="../committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="../committee/schedwk.asp">Committee Schedule</a></p></div>
+<div class="nav_dropdown"><p><a href="/committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
+<p><a href="/committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="/committee/schedwk.asp">Committee Schedule</a></p></div>
 </div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
 &nbsp;Secretariat&nbsp;</div><div id="nav_Secretariat" class="div_hidden" onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="../secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="../secretariat/osec.asp">Office of the Secretary</a></p>
-<p><a href="../secretariat/leg.asp">Legislation</a></p><p><a href="../secretariat/admin.asp">Administration and Financial Services</a></p>
-<p><a href="../secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="../secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
+<div class="nav_dropdown"><p><a href="/secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="/secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="/secretariat/osec.asp">Office of the Secretary</a></p>
+<p><a href="/secretariat/leg.asp">Legislation</a></p><p><a href="/secretariat/admin.asp">Administration and Financial Services</a></p>
+<p><a href="/secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="/secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
 </div></div></td><td>| </td>
 
 
@@ -58,14 +58,14 @@
 &nbsp;Legislative Documents&nbsp;</div>
 <div id="nav_LegislativeDocuments" class="div_hidden" onmouseover="ShowDiv('nav_LegislativeDocuments');HideSelect();" onmouseout="HideDiv('nav_LegislativeDocuments');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="leg_sys.aspx?congress=18&amp;type=bill">Bills</a></p>
-<p><a href="leg_sys.aspx?congress=18&amp;type=resolution">Resolutions</a></p>
-<p><a href="leg_sys.aspx?congress=18&amp;type=journal">Journals</a></p>
-<p><a href="leg_sys.aspx?congress=18&amp;type=committee_rpt">Committee Reports</a></p>
-<p><a href="pdf_sys.aspx?congress=18&amp;type=republic_act">Republic Acts</a></p>
-<p><a href="pdf_sys.aspx?congress=18&amp;type=adopted_res">Adopted Resolutions</a></p>
-<p><a href="../18th_congress/treaties_18thcongress.asp">Treaties</a></p>
-<p><a href="../statistical.pdf">Statistical Data</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=bill">Bills</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=resolution">Resolutions</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=journal">Journals</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=committee_rpt">Committee Reports</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=republic_act">Republic Acts</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=adopted_res">Adopted Resolutions</a></p>
+<p><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a></p>
+<p><a href="/statistical.pdf">Statistical Data</a></p>
 </div>
 </div>
 </td>
@@ -76,13 +76,13 @@
 &nbsp;Publications&nbsp;</div>
 <div id="nav_publications" class="div_hidden" onmouseover="ShowDiv('nav_publications');HideSelect();" onmouseout="HideDiv('nav_publications');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../publications/sepo_publications.asp">SEPO Publications</a></p>
-<p><a href="../publications/stsro_publications.asp">STSRO Publications</a></p>
-<p><a href="../publications/lbrmo_publications.asp">LBRMO Publications</a></p>
-<p><a href="../publications/ils_publications.asp">ILS Publications</a></p>
-<p><a href="../publications/lrs_publications.asp">LRS Publications</a></p>
-<p><a href="../publications/lls_publications.asp">LLS Publications</a></p>
-<p><a href="../publications/other_publications.asp">Other Publications</a></p>
+<p><a href="/publications/sepo_publications.asp">SEPO Publications</a></p>
+<p><a href="/publications/stsro_publications.asp">STSRO Publications</a></p>
+<p><a href="/publications/lbrmo_publications.asp">LBRMO Publications</a></p>
+<p><a href="/publications/ils_publications.asp">ILS Publications</a></p>
+<p><a href="/publications/lrs_publications.asp">LRS Publications</a></p>
+<p><a href="/publications/lls_publications.asp">LLS Publications</a></p>
+<p><a href="/publications/other_publications.asp">Other Publications</a></p>
 </div>
 </div>
 </td>
@@ -93,7 +93,7 @@
 &nbsp;GAD&nbsp;</div>
 <div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../GAD/Bills&amp;Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+<p><a href="../GAD/EDP%2018th%20GAD%20Bills4.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
 </div>
 </div>
 </td>
@@ -105,7 +105,7 @@
       <tr>
          <td id="content">
             <div id="lis_changecongress">
-            <a href="leg_sys.aspx?congress=18&amp;type=resolution&amp;p=25#" onclick="ShowDiv('div_ChangeCongress');HideDiv('div_Filter');HideSelect();">Change Congress</a> | <a href="leg_sys.aspx?congress=18&amp;type=resolution&amp;p=25#" onclick="ShowDiv('div_Help');HideDiv('div_Filter');HideSelect();">Help</a>
+            <a href="#" onclick="ShowDiv('div_ChangeCongress');HideDiv('div_Filter');HideSelect();">Change Congress</a> | <a href="#" onclick="ShowDiv('div_Help');HideDiv('div_Filter');HideSelect();">Help</a>
             </div>
             
             <div id="div_ChangeCongress">
@@ -116,17 +116,17 @@
 
              <hr />
              <ul>
-             	<li><a href="leg_sys.aspx?congress=18&amp;type=resolution">Eighteenth (July 2019 - 2022)</a>
+             	<li><a href="leg_sys.aspx?congress=18&type=resolution">Eighteenth (July 2019 - 2022)</a>
                 </li>
-             	<li><a href="leg_sys.aspx?congress=17&amp;type=resolution">Seventeenth (July 2016 - 2019)</a>
+             	<li><a href="leg_sys.aspx?congress=17&type=resolution">Seventeenth (July 2016 - 2019)</a>
                 </li>
-                <li><a href="leg_sys.aspx?congress=16&amp;type=resolution">Sixteenth (July 2013 - 2016)</a>
+                <li><a href="leg_sys.aspx?congress=16&type=resolution">Sixteenth (July 2013 - 2016)</a>
                 </li>
-                <li><a href="leg_sys.aspx?congress=15&amp;type=resolution">Fifteenth (July 2010 - 2013)</a>
+                <li><a href="leg_sys.aspx?congress=15&type=resolution">Fifteenth (July 2010 - 2013)</a>
                 </li>
-                <li><a href="leg_sys.aspx?congress=14&amp;type=resolution">Fourteenth (July 2007 - 2010)</a>
+                <li><a href="leg_sys.aspx?congress=14&type=resolution">Fourteenth (July 2007 - 2010)</a>
                 </li>
-                <li><a href="leg_sys.aspx?congress=13&amp;type=resolution">Thirteenth (July 2004 - 2007)</a>
+                <li><a href="leg_sys.aspx?congress=13&type=resolution">Thirteenth (July 2004 - 2007)</a>
                 </li>
              </ul>       
             </div>
@@ -150,12 +150,12 @@
              <p class="p15_bottom">Example: <em>"ARMM election" -amendment</em></p>
             </small></blockquote>
             
-            <p class="p15_bottom">To limit your result, use <a href="leg_sys.aspx?congress=18&amp;type=resolution&amp;p=25#" onclick="ShowDiv('div_Filter');HideDiv('div_Help');HideSelect();">filters</a>.</p>
+            <p class="p15_bottom">To limit your result, use <a href="#" onclick="ShowDiv('div_Filter');HideDiv('div_Help');HideSelect();">filters</a>.</p>
            
              
             <p class="p15_bottom">To reset your query and browse all documents, click <a href="leg_sys.aspx?congress=18&amp;type=resolution">clear</a>.</p>
              
-             <p class="p15_bottom">Note: If you prefer to use a more advanced search, please use the <a href="../lis.aspx">Legislative Information System</a>.</p>
+             <p class="p15_bottom">Note: If you prefer to use a more advanced search, please use the <a href="/lis.aspx">Legislative Information System</a>.</p>
           </div>
 
             <p class="h1_bold">Resolutions <span class="h1_sub">(18th Congress)</span></p><br />
@@ -174,7 +174,7 @@
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="imgGo" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
 <input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIwNjQzNjgxMjYPZBYCAgEPZBYMZg9kFgICAQ8QZA8WGAIBAgICAwIEAgUCBgIHAggCCQIKAgsCDAINAg4CDwIQAhECEgITAhQCFQIWAhcCGBYYEAUNQW5nYXJhLCBTb25ueQUFQVNPTk5nEAUdQmluYXksIE1hcmlhIExvdXJkZXMgTmFuY3kgUy4FBUJNQVJJZxAFEENheWV0YW5vLCBQaWEgUy4FBUNQSUFTZxAFEURlIExpbWEsIExlaWxhIE0uBQVETEVJTGcQBRhEZWxhIFJvc2EsIFJvbmFsZCAiQmF0byIFBURST05BZxAFE0RyaWxvbiwgRnJhbmtsaW4gTS4FBURGUkFOZxAFD0dhdGNoYWxpYW4sIFdpbgUFR1NIRVJnEAUbR28sIENocmlzdG9waGVyIExhd3JlbmNlIFQuBQVHQ0hSSWcQBRJHb3Jkb24sIFJpY2hhcmQgSi4FBUdSSUNIZxAFEEhvbnRpdmVyb3MsIFJpc2EFBUhBTkFUZxAFGUxhY3NvbiwgUGFuZmlsbyAiUGluZyIgTS4FBUxQQU5GZxAFF0xhcGlkLCBNYW51ZWwgIkxpdG8iIE0uBQVMTUFOVWcQBQ9NYXJjb3MsIEltZWUgUi4FBU1JTUVFZxAFHVBhY3F1aWFvLCBFbW1hbnVlbCAiTWFubnkiIEQuBQVQRU1NQWcQBR1QYW5naWxpbmFuLCBGcmFuY2lzICJLaWtvIiBOLgUFUEZSQU5nEAUdUGltZW50ZWwsIEFxdWlsaW5vICJLb2tvIiBJSUkFBVBBUVVJZxAFClBvZSwgR3JhY2UFBVBHUkFDZxAFD1JlY3RvLCBSYWxwaCBHLgUFUlJBTFBnEAUXUmV2aWxsYSBKci4sIFJhbW9uIEJvbmcFBVJSQU1PZxAFFVNvdHRvIElJSSwgVmljZW50ZSBDLgUFU1ZJQ0VnEAUbVG9sZW50aW5vLCBGcmFuY2lzICJUb2wiIE4uBQVURlJBTmcQBRBWaWxsYW51ZXZhLCBKb2VsBQVWRU1NQWcQBRJWaWxsYXIsIEN5bnRoaWEgQS4FBVZDWU5UZxAFHVp1YmlyaSwgSnVhbiBNaWd1ZWwgIk1pZ3oiIEYuBQVaSk1JR2cWAWZkAgEPZBYCAgEPEGQPFnECAQICAgMCBAIFAgYCBwIIAgkCCgILAgwCDQIOAg8CEAIRAhICEwIUAhUCFgIXAhgCGQIaAhsCHAIdAh4CHwIgAiECIgIjAiQCJQImAicCKAIpAioCKwIsAi0CLgIvAjACMQIyAjMCNAI1AjYCNwI4AjkCOgI7AjwCPQI+Aj8CQAJBAkICQwJEAkUCRgJHAkgCSQJKAksCTAJNAk4CTwJQAlECUgJTAlQCVQJWAlcCWAJZAloCWwJcAl0CXgJfAmACYQJiAmMCZAJlAmYCZwJoAmkCagJrAmwCbQJuAm8CcAJxFnEQBTRBY2NvdW50YWJpbGl0eSBvZiBQdWJsaWMgT2ZmaWNlcnMgYW5kIEludmVzdGlnYXRpb25zBQVBUE9BSWcQBQhBY2NvdW50cwUFQUNDT1VnEAUPQWdyYXJpYW4gUmVmb3JtBQVBR1JBUmcQBRRBZ3JpY3VsdHVyZSBhbmQgRm9vZAUFQUdSSUZnEAUlQWdyaWN1bHR1cmUsIEZvb2QgYW5kIEFncmFyaWFuIFJlZm9ybQUFQUZBQVJnEAUeQW1hdGV1ciBTcG9ydHMgQ29tcGV0aXRpdmVuZXNzBQVBU0NPTWcQBTJCYW5rcywgRmluYW5jaWFsIEluc3RpdHV0aW9ucyBhbmQgQ3VycmVuY2llcyAgICAgIAUFQkFOS1NnEAUhQmFzaWMgRWR1Y2F0aW9uLCBBcnRzIGFuZCBDdWx0dXJlBQVCRUFBQ2cQBURDaXZpbCBTZXJ2aWNlLCBHb3Zlcm5tZW50IFJlb3JnYW5pemF0aW9uIGFuZCBQcm9mZXNzaW9uYWwgUmVndWxhdGlvbgUFQ0lWSUxnEAUOQ2xpbWF0ZSBDaGFuZ2UFBUNMSU1DZxAFFkNvbW1pdHRlZSBvZiB0aGUgV2hvbGUFBVdIT0xFZxAFQ0NvbmdyZXNzaW9uYWwgQ29tbWlzc2lvbiBvbiBTY2llbmNlIGFuZCBUZWNobm9sb2d5LCBhbmQgRW5naW5lZXJpbmcFBUNPQ1NUZxAFJUNvbmcuIE92ZXJzaWdodCBvbiBvbiBBZ3JhcmlhbiBSZWZvcm0FBUNPQ0FSZxAFPkNvbmcuIE92ZXJzaWdodCBvbiBvbiBBZ3JpY3VsdHVyYWwgYW5kIEZpc2hlcmllcyBNb2Rlcm5pemF0aW9uBQVDT0FHTWcQBR5Db25nLiBPdmVyc2lnaHQgb24gb24gQmlvZnVlbHMFBUNPQ0JJZxAFQUNvbmcuIE92ZXJzaWdodCBvbiBvbiBDaXZpbCBBdmlhdGlvbiBBdXRob3JpdHkgb2YgdGhlIFBoaWxpcHBpbmVzBQVDT0NDQWcQBTZDb25nLiBPdmVyc2lnaHQgb24gb24gQ29tcHJlaGVuc2l2ZSBUYXggUmVmb3JtIFByb2dyYW0FBUNPQ1RSZxAFKUNvbmcuIE92ZXJzaWdodCBvbiBvbiBDdXN0b21zIGFuZCBUYXJpZmZzBQVDT0NDVGcQBSVDb25nLiBPdmVyc2lnaHQgb24gb24gRGFuZ2Vyb3VzIERydWdzBQVDT0RSR2cQBSNDb25nLiBPdmVyc2lnaHQgb24gb24gRS1Db21tZXJjZSAgIAUFQ09FQ0FnEAUqQ29uZy4gT3ZlcnNpZ2h0IG9uIG9uIExhYm9yIGFuZCBFbXBsb3ltZW50BQVDTEFCUmcQBS9Db25nLiBPdmVyc2lnaHQgb24gb24gTmF0aW9uYWwgSGVhbHRoIEluc3VyYW5jZQUFQ09DTkhnEAUyQ29uZy4gT3ZlcnNpZ2h0IG9uIG9uIFF1YWxpdHkgQWZmb3JkYWJsZSBNZWRpY2luZXMFBUNPQ1FBZxAFNUNvbmcuIE92ZXJzaWdodCBvbiBvbiBUYXggSW5jZW50aXZlcyBhbmQgVHJhbnNwYXJlbmN5BQVDT0NUSWcQBTNDb25nLiBPdmVyc2lnaHQgb24gb24gdGhlIEFudGktTW9uZXkgTGF1bmRlcmluZyBMYXcFBUNPQU1MZxAFP0NvbmcuIE92ZXJzaWdodCBvbiBvbiB0aGUgRWNvbG9naWNhbCBTb2xpZCBXYXN0ZSBNYW5hZ2VtZW50IEFjdAUFQ0VDT1dnEAVDQ29uZy4gT3ZlcnNpZ2h0IG9uIG9uIHRoZSBPZmZpY2lhbCBEZXZlbG9wbWVudCBBc3Npc3RhbmNlIChPREEpIExhdwUFQ09DT0RnEAVSQ29uZy4gT3ZlcnNpZ2h0IG9uIG9uIHRoZSBQaGlsLiBEaXNhc3RlciBSaXNrIFJlZHVjdGlvbiBhbmQgTWFuYWdlbWVudCBBY3Qgb2YgMjAxMAUFQ09DUERnEAVUQ29uZy4gT3ZlcnNpZ2h0IG9uIG9uIHRoZSBQcm9wZXIgSW1wbGVtZW50YXRpb24gb2YgdGhlIE5hdGlvbmFsIEludGVybmFsIFJldmlldyBDb2RlBQVDT0NQSWcQBTVDb25nLiBPdmVyc2lnaHQgb24gb24gdGhlIFNwZWNpYWwgUHVycG9zZSBWZWhpY2xlIEFjdAUFQ09DU1BnEAUuQ29uZy4gT3ZlcnNpZ2h0IG9uIE92ZXJzZWFzIFZvdGluZyBBY3Qgb2YgMjAwMwUFQ09DT1ZnEAUvQ29uc3RpdHV0aW9uYWwgQW1lbmRtZW50cyBhbmQgUmV2aXNpb24gb2YgQ29kZXMFBUNPTlNUZxAFDENvb3BlcmF0aXZlcwUFQ09PUEVnEAUUQ3VsdHVyYWwgQ29tbXVuaXRpZXMFBUNVTFRVZxAFEEVjb25vbWljIEFmZmFpcnMFBUVDT05PZxAFG0VkdWNhdGlvbiwgQXJ0cyBhbmQgQ3VsdHVyZQUFRURVQ0FnEAUsRWxlY3RvcmFsIFJlZm9ybXMgIGFuZCBQZW9wbGVzIFBhcnRpY2lwYXRpb24FBUVMUlBQZxAFBkVuZXJneQUFRU5FUkdnEAUhRW52aXJvbm1lbnQgYW5kIE5hdHVyYWwgUmVzb3VyY2VzBQVFTlZJUmcQBTFFbnZpcm9ubWVudCwgTmF0dXJhbCBSZXNvdXJjZXMgYW5kIENsaW1hdGUgQ2hhbmdlBQVFTlJDQ2cQBRVFdGhpY3MgYW5kIFByaXZpbGVnZXMFBUVUSElDZxAFB0ZpbmFuY2UFBUZJTkFOZxAFGUZpbmFuY2UgU3ViLUNvbW1pdHRlZSAiQSIFBUZJTkFBZxAFGUZpbmFuY2UgU3ViLUNvbW1pdHRlZSAiQiIFBUZJTkFCZxAFGUZpbmFuY2UgU3ViLUNvbW1pdHRlZSAiQyIFBUZJTkFDZxAFGUZpbmFuY2UgU3ViLUNvbW1pdHRlZSAiRCIFBUZJTkFEZxAFGUZpbmFuY2UgU3ViLUNvbW1pdHRlZSAiRSIFBUZJTkFFZxAFGUZpbmFuY2UgU3ViLUNvbW1pdHRlZSAiRiIFBUZJTkFGZxAFGUZpbmFuY2UgU3ViLUNvbW1pdHRlZSAiRyIFBUZJTkFHZxAFEUZvcmVpZ24gUmVsYXRpb25zBQVGT1JFSWcQBRpHYW1lcyBBbXVzZW1lbnQgYW5kIFNwb3J0cwUFR0FBU1BnEAUTR2FtZXMgYW5kIEFtdXNlbWVudAUFR0FNRVNnEAUuR292ZXJubWVudCBDb3Jwb3JhdGlvbnMgYW5kIFB1YmxpYyBFbnRlcnByaXNlcwUFR09WQ09nEAUySGVhbHRoIGFuZCBEZW1vZ3JhcGh5ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAFBUhFQUxUZxAFKkhpZ2hlciwgVGVjaG5pY2FsIGFuZCBWb2NhdGlvbmFsIEVkdWNhdGlvbgUFSFRBVkVnEAU1SnQuIENvbmcuIE92ZXJzaWdodCBDb21taXR0ZWUgIG9uIHRoZSBDbGVhbiBXYXRlciBBY3QFBUpDTFdBZxAFSkp0LiBDb25nLiBPdmVyc2lnaHQgQ29tbWl0dGVlIE9tIHRoZSBFY29sb2dpY2FsIFNvbGlkIFdhc3RlIE1hbmFnZW1lbnQgQWN0BQVKQ09DRWcQBUdKdC4gQ29uZy4gT3ZlcnNpZ2h0IENvbW1pdHRlZSBvbiB0aGUgQWx0ZXJuYXRpdmUgRGlzcHV0ZSBSZXNvbHV0aW9uIEFjdAUFSkNPUkFnEAU6SnQuIENvbmcuIE92ZXJzaWdodCBDb21taXR0ZWUgb24gQXV0b21hdGVkIEVsZWN0aW9uIFN5c3RlbQUFSkNPQUVnEAUtSnQuIENvbmcuIE92ZXJzaWdodCBDb21taXR0ZWUgb24gQ29vcGVyYXRpdmVzBQVKQ09DQ2cQBTlKdC4gQ29uZy4gT3ZlcnNpZ2h0IENvbW1pdHRlZSBvbiBPdmVyc2VhcyBXb3JrZXJzIEFmZmFpcnMFBUpDT0NPZxAFMkp0LiBDb25nLiBPdmVyc2lnaHQgQ29tbWl0dGVlIG9uIHRoZSBDaGFpbiBTYXcgQWN0BQVKQ09DU2cQBTJKdC4gQ29uZy4gT3ZlcnNpZ2h0IENvbW1pdHRlZSBvbiB0aGUgQ2xlYW4gQWlyIEFjdAUFSkNPQ0FnEAU/SnQuIENvbmcuIE92ZXJzaWdodCBDb21taXR0ZWUgb24gdGhlIEdvdmVybm1lbnQgUHJvY3VyZW1lbnQgQWN0BQVKT0NHUGcQBShKdC4gQ29uZy4gT3ZlcnNpZ2h0IENvbW1pdHRlZSBvbiBUb3VyaXNtBQVKQ09DVGcQBTlKdC4gQ29uZy4gT3ZlcnNpZ2h0IENvbW1pdHRlZSBPdmVyc2VhcyBWb3RpbmcgQWN0IG9mIDIwMDMFBUpDT1ZBZxAFG0p0LiBDb25nLiBQb3dlciBDb21taXNzaW9uIAUFSkNQQ01nEAUzSm9pbnQgT3ZlcnNpZ2h0IENvbW1pdHRlZSBvbiB0aGUgSHVtYW4gU2VjdXJpdHkgQWN0BQVKT0NIU2cQBRhKdXN0aWNlIGFuZCBIdW1hbiBSaWdodHMFBUhVTUFOZxAFMUxhYm9yLCBFbXBsb3ltZW50IGFuZCBIdW1hbiBSZXNvdXJjZXMgRGV2ZWxvcG1lbnQFBUxBQk9SZxAFQExlZ2lzbGF0aXZlIE92ZXJzaWdodCBDb21taXR0ZWUgb24gdGhlIFZpc2l0aW5nIEZvcmNlcyBBZ3JlZW1lbnQFBUxPVkZBZxAFEExvY2FsIEdvdmVybm1lbnQFBUxPQ0FMZxAFHU5hdGlvbmFsIERlZmVuc2UgYW5kIFNlY3VyaXR5BQVERUZFTmcQBUROYXRpb25hbCBEZWZlbnNlIGFuZCBTZWN1cml0eSwgUGVhY2UsIFVuaWZpY2F0aW9uIGFuZCBSZWNvbmNpbGlhdGlvbgUFTkRTUFVnEAUnT3ZlcnNpZ2h0IENvbW1pdHRlZSBvbiBBUk1NIE9yZ2FuaWMgQWN0BQVPQ0FPQWcQBSdPdmVyc2lnaHQgQ29tbWl0dGVlIG9uIEJhc2VzIENvbnZlcnNpb24FBU9DQkNPZxAFJU92ZXJzaWdodCBDb21taXR0ZWUgb24gQ2xpbWF0ZSBDaGFuZ2UFBU9DQ0xDZxAFOk92ZXJzaWdodCBDb21taXR0ZWUgb24gSW50ZWxsaWdlbmNlIGFuZCBDb25maWRlbnRpYWwgRnVuZHMFBUlOVEVMZxAFKk92ZXJzaWdodCBDb21taXR0ZWUgb24gUHVibGljIEV4cGVuZGl0dXJlcwUFT0NQRVhnEAU7T3ZlcnNpZ2h0IENvbW1pdHRlZSBvbiB0aGUgQ29tcHJlaGVuc2l2ZSBUYXggUmVmb3JtIFByb2dyYW0FBUNDVFJQZxAFRE92ZXJzaWdodCBDb21taXR0ZWUgb24gdGhlIE9mZmljaWFsIERldmVsb3BtZW50IEFzc2lzdGFuY2UgKE9EQSkgTGF3BQVDT09EQWcQBTxPdmVyc2lnaHQgQ29tbWl0dGVlIG9uIHRoZSBQcm9wZXIgSW1wbGVtZW50YXRpb24gb2YgdGhlIE5JUkMFBUNPTklSZxAFJVBlYWNlLCBVbmlmaWNhdGlvbiBhbmQgUmVjb25jaWxpYXRpb24FBVBFQUNFZxAFIVB1YmxpYyBJbmZvcm1hdGlvbiBhbmQgTWFzcyBNZWRpYQUFSU5GT1JnEAUgUHVibGljIE9yZGVyIGFuZCBEYW5nZXJvdXMgRHJ1Z3MFBUlMTEVHZxAFD1B1YmxpYyBTZXJ2aWNlcwUFU0VSVklnEAUMUHVibGljIFdvcmtzBQVXT1JLU2cQBQVSdWxlcwUFUlVMRVNnEAUWU2NpZW5jZSBhbmQgVGVjaG5vbG9neQUFU0NJRU5nEAU0U2VsZWN0IE92ZXJzaWdodCBDb21taXR0ZWUgb24gR292ZXJubWVudCBQcm9jdXJlbWVudAUFU09DR1BnEAVJU2VsZWN0IE92ZXJzaWdodCBDb21taXR0ZWUgb24gSW50ZWxsaWdlbmNlIEZ1bmRzLCBQcm9ncmFtcyBhbmQgQWN0aXZpdGllcwUFU09DSUZnEAUmU2VsZWN0IE92ZXJzaWdodCBDb21taXR0ZWUgb24gU3VmZnJhZ2UFBVNPQ09TZxAFP1NlbGVjdCBPdmVyc2lnaHQgQ29tbWl0dGVlIG9uIHRoZSBMb2NhbCBHb3Zlcm5tZW50IENvZGUgb2YgMTk5MQUFU09DTEdnEAU2U2VuYXRlIFNwZWNpYWwgQ29tbWl0dGVlIG9uIE1hcmF3aSBDaXR5IFJlaGFiaWxpdGF0aW9uBQVTU0NNUmcQBS1Tb2NpYWwgSnVzdGljZSwgV2VsZmFyZSBhbmQgUnVyYWwgRGV2ZWxvcG1lbnQFBUpVU1RJZxAFL1NwZWNpYWwgT3ZlcnNpZ2h0IENvbW1pdHRlZSBvbiBFY29ub21pYyBBZmZhaXJzBQVTT0NFQWcQBQZTcG9ydHMFBVNQT1JUZxAFJlN1YmNvbW1pdHRlZSBvbiBBbnRpLUh1bWFuIFRyYWZmaWNraW5nBQVTQ0FIVGcQBTRTdWJjb21taXR0ZWUgb24gQW50aS1Nb25leSBMYXVuZGVyaW5nIExhdyBBbWVuZG1lbnRzBQVTQ0FNTGcQBSpTdWJjb21taXR0ZWUgb24gQ2hpbGRyZW4gaW4gQXJtZWQgQ29uZmxpY3QFBVNDQ0FDZxAFLlN1YmNvbW1pdHRlZSBvbiBGaXhlZCBJbmNvbWUgU2VjdXJpdGllcyBNYXJrZXQFBVNDRklTZxAFJVN1YmNvbW1pdHRlZSBvbiBQb2xpdGljYWwgUGFydHkgQmlsbHMFBVNDUFBCZxAFQFN1YmNvbW1pdHRlZSBvbiBSb21lIFN0YXR1dGUgb2YgdGhlIEludGVybmF0aW9uYWwgQ3JpbWluYWwgQ291cnQFBVNDUlNJZxAFFlN1YmNvbW1pdHRlZSBvbiBTcG9ydHMFBVNDU1BPZxAFFlN1YmNvbW1pdHRlZSBvbiBXYXRlcnMFBVNDV0FUZxAFPlN1c3RhaW5hYmxlIERldmVsb3BtZW50IEdvYWxzLCBJbm5vdmF0aW9uIGFuZCBGdXR1cmVzIFRoaW5raW5nBQVTREdJRmcQBQdUb3VyaXNtBQVUT1VSSWcQBSRUcmFkZSwgQ29tbWVyY2UgYW5kIEVudHJlcHJlbmV1cnNoaXAFBVRSQURFZxAFMlVyYmFuIFBsYW5uaW5nLCBIb3VzaW5nIGFuZCBSZXNldHRsZW1lbnQgICAgICAgICAgBQVVUkJBTmcQBQ5XYXlzIGFuZCBNZWFucwUFTUVBTlNnEAU1V29tZW4sIENoaWxkcmVuLCBGYW1pbHkgUmVsYXRpb25zIGFuZCBHZW5kZXIgRXF1YWxpdHkFBVdPTUVOZxAFBVlvdXRoBQVZT1VUSGcQBSFZb3V0aCwgV29tZW4gYW5kIEZhbWlseSBSZWxhdGlvbnMFBVlXRlJFZxYBZmQCAg9kFgICAQ8QZA8WOAIBAgICAwIEAgUCBgIHAggCCQIKAgsCDAINAg4CDwIQAhECEgITAhQCFQIWAhcCGAIZAhoCGwIcAh0CHgIfAiACIQIiAiMCJAIlAiYCJwIoAikCKgIrAiwCLQIuAi8CMAIxAjICMwI0AjUCNgI3AjgWOBAFB0Fkb3B0ZWQFBTktMjAwZxAFLEFwcHJvdmVkIGJ5IHRoZSBQcmVzaWRlbnQgb2YgdGhlIFBoaWxpcHBpbmVzBQU2LTIwMGcQBUBBcHByb3ZlZCBieSB0aGUgUHJlc2lkZW50IG9mIHRoZSBQaGlsaXBwaW5lcywgVmV0b2VkIE90aGVyIFBhcnRzBQU2LTIxMGcQBSxBcHByb3ZlZCBvbiAgU2Vjb25kIFJlYWRpbmcsIHdpdGggQW1lbmRtZW50cwUFMi01MDBnEAUtQXBwcm92ZWQgb24gU2Vjb25kIFJlYWRpbmcsIFdpdGhvdXQgQW1lbmRtZW50BQUyLTQwMGcQBTlBcHByb3ZlZCBvbiBUaGlyZCBSZWFkaW5nIGJ5IHRoZSBIb3VzZSBvZiBSZXByZXNlbnRhdGl2ZXMFBTMtNDEwZxAFJ0FwcHJvdmVkIG9uIFRoaXJkIFJlYWRpbmcgYnkgdGhlIFNlbmF0ZQUFMy00MDBnEAUZQ29tbWl0dGVlIFJlcG9ydCBBcHByb3ZlZAUFMS0yMDBnEAUlQ29tbWl0dGVlIFJlcG9ydCBTZW50IHRvIHRoZSBBcmNoaXZlcwUFOS04MDBnEAUuQ29uZmVyZW5jZSBDb21taXR0ZWUgUmVwb3J0IEFwcHJvdmVkIGJ5IFNlbmF0ZQUFNC0yMDBnEAU6Q29uZmVyZW5jZSBDb21taXR0ZWUgUmVwb3J0IEFwcHJvdmVkIGJ5IHRoZSBIb3VzZSBvZiBSZXBzLgUFNC0xMTBnEAUdQ29uc29saWRhdGVkIHdpdGggQWRvcHRlZCBIQ1IFBTktMjAyZxAFJENvbnNvbGlkYXRlZCB3aXRoIEFkb3B0ZWQgUmVzb2x1dGlvbgUFOC0yMDBnEAUdQ29uc29saWRhdGVkIHdpdGggQWRvcHRlZCBTQ1IFBTktMjAxZxAFPkNvbnNvbGlkYXRlZCB3aXRoIEFkb3B0ZWQgU2VuYXRlIEN0LiBSZXNvbHV0aW9uLCBhcyBSZWNvbmNpbGVkBQU4LTMwMGcQBR9Db25zb2xpZGF0ZWQgd2l0aCBBcHByb3ZlZCBCaWxsBQU2LTMwMGcQBSJDb25zb2xpZGF0ZWQgd2l0aCBBcHByb3ZlZCBKdC5SZXMuBQU2LTMxMGcQBTBDb25zb2xpZGF0ZWQvU3Vic3RpdHV0ZWQgaW4gdGhlIENvbW1pdHRlZSBSZXBvcnQFBTUtMzAwZxAFIENvbnZlcnRlZCBJbnRvICBKb2ludCBSZXNvbHV0aW9uBQU4LTExMGcQBR5Db252ZXJ0ZWQgSW50byBhIFNpbXBsZSBNb3Rpb24FBTQtMjEwZxAFJENvbnZlcnRlZCBJbnRvIENvbmN1cnJlbnQgUmVzb2x1dGlvbgUFOC0xMDBnEAUZQ29udmVydGVkIEludG8gUmVzb2x1dGlvbgUFOS05MzBnEAUXQ29weSBvZiBSZXNvbHV0aW9uIFJlYWQFBTEtMTEwZxAFNkVucm9sbGVkIENvcHkgUHJlcGFyZWQgYnkgdGhlIEhvdXNlIG9mIFJlcHJlc2VudGF0aXZlcwUFNC01MDBnEAUkRW5yb2xsZWQgQ29weSBQcmVwYXJlZCBieSB0aGUgU2VuYXRlBQU0LTQwMGcQBTdFbnJvbGxlZCBDb3B5IFNlbnQgQmFjayB0byB0aGUgSG91c2Ugb2YgUmVwcmVzZW50YXRpdmVzBQU0LTU1MGcQBSVFbnJvbGxlZCBDb3B5IFNlbnQgQmFjayB0byB0aGUgU2VuYXRlBQU0LTU3MGcQBSBFbnJvbGxlZCBDb3B5IFNlbnQgdG8gTWFsYWNhbmFuZwUFNC01OTBnEAUPTGFwc2VkIEludG8gTGF3BQU2LTIyMGcQBRVQYXNzZWQgYnkgQm90aCBIb3VzZXMFBTQtMzEwZxAFEFBlbmRpbmcgQWRvcHRpb24FBTktNzAwZxAFHFBlbmRpbmcgQ29uZmVyZW5jZSBDb21taXR0ZWUFBTQtMTAwZxAFFVBlbmRpbmcgRmlyc3QgUmVhZGluZwUFMS0xMDBnEAUYUGVuZGluZyBpbiB0aGUgQ29tbWl0dGVlBQUxLTEyMGcQBSdQZW5kaW5nIGluIHRoZSBIb3VzZSBvZiBSZXByZXNlbnRhdGl2ZXMFBTctMTAwZxAFNVBlbmRpbmcgaW4gdGhlIEhvdXNlIHdpdGggRGVzaWduYXRlZCBTZW5hdGUgQ29uZmVyZWVzBQU5LTUwMGcQBSlQZW5kaW5nIFNlY29uZCBSZWFkaW5nLCBPcmRpbmFyeSBCdXNpbmVzcwUFMi0yMDBnEAUlUGVuZGluZyBTZWNvbmQgUmVhZGluZywgU3BlY2lhbCBPcmRlcgUFMi0zMDBnEAUOUGVuZGluZyBTZW5hdGUFBTEtMDAwZxAFFVJlY2FsbGVkIGJ5IHRoZSBIb3VzZQUFOS05MTBnEAUWUmVjYWxsZWQgYnkgdGhlIFNlbmF0ZQUFOS05MjBnEAUbUmVjZWl2ZWQgQ29tbXVuaWNhdGlvbiBPbmx5BQU5LTkxMWcQBRxSZWNvbW1pdHRlZCB0byB0aGUgQ29tbWl0dGVlBQU0LTUyMGcQBS1SZWNvbnNpZGVyYXRpb24gb2YgQXBwcm92YWwgb24gU2Vjb25kIFJlYWRpbmcFBTItNjAwZxAFLFJlY29uc2lkZXJhdGlvbiBvZiBBcHByb3ZhbCBvbiBUaGlyZCBSZWFkaW5nBQUzLTMwMGcQBT1SZXBvcnRlZCBPdXQvTm90IFJlZmVycmVkIHRvIENhbGVuZGFyZWQgZm9yIE9yZGluYXJ5IEJ1c2luZXNzBQU5LTYwMGcQBSpSZXBvcnRlZCBPdXQvUmVmZXJyZWQgdG8gQW5vdGhlciBDb21taXR0ZWUFBTktNDAwZxAFDlNlZSBSZXNvbHV0aW9uBQU5LTkwMGcQBRZTZWUgUmVzb2x1dGlvbiBBZG9wdGVkBQU5LTkwNWcQBSlTZW50IEJhY2sgdG8gdGhlIEhvdXNlIG9mIFJlcHJlc2VudGF0aXZlcwUFNy01MDBnEAUUU2VudCB0byB0aGUgQXJjaGl2ZXMFBTQtMzAwZxAFGFN1cGVyc2VkZSBieSBBZG9wdGVkIEhDUgUFOS0yMjBnEAUIVHJlYXRpZXMFBTktMTAwZxAFKlZldG9lZCBieSB0aGUgUHJlc2lkZW50IG9mIHRoZSBQaGlsaXBwaW5lcwUFNi0xMDBnEAUgV2l0aCBTZW5hdGUgRGVzaWduYXRlZCBDb25mZXJlZXMFBTItMTAxZxAFCVdpdGhkcmF3bgUFOS0zMDBnFgFmZAIDD2QWDAIBDxAPFgQeBVdpZHRoGwAAAAAAYGNAAQAAAB4EXyFTQgKAAmQPFglmAgECAgIDAgQCBQIGAgcCCBYJEAURU2VuYXRlIFJlc29sdXRpb24FA1NSTmcQBSJSZXNvbHV0aW9uIG9mIEJvdGggSG91c2VzIC0gU2VuYXRlBQNTUkJnEAUXU2VuYXRlIEpvaW50IFJlc29sdXRpb24FA1NKUmcQBRxTZW5hdGUgQ29uY3VycmVudCBSZXNvbHV0aW9uBQNTQ1JnEAUZUmVzb2x1dGlvbiBvZiBCb3RoIEhvdXNlcwUDUkJIZxAFEEhvdXNlIFJlc29sdXRpb24FA0hSTmcQBSFSZXNvbHV0aW9uIG9mIEJvdGggSG91c2VzIC0gSG91c2UFA0hSQmcQBRZIb3VzZSBKb2ludCBSZXNvbHV0aW9uBQNISlJnEAUbSG91c2UgQ29uY3VycmVudCBSZXNvbHV0aW9uBQNIQ1JnFgFmZAIDDw8WAh4EVGV4dAUOVGl0bGUvc3ViamVjdDpkZAIEDw8WBB8AGwAAAAAAQFpAAQAAAB8BAoACZGQCBg8WAh4FVmFsdWVlZAIHDxYCHwNlZAIIDxYCHwNlZAIED2QWBAIBDw8WAh8CBQpEYXRlIGZpbGVkZGQCAw8PFgIfAgUOUmVzb2x1dGlvbiBOby5kZAIFD2QWBAIBDw8WAh8CBQpEYXRlIGZpbGVkZGQCAw8PFgIfAgUOUmVzb2x1dGlvbiBOby5kZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUFaW1nR2/QUxeHWMaU98jtQVdrLGXL3c+DcA==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIwNjQzNjgxMjYPZBYCAgEPZBYMZg9kFgICAQ8QZA8WGAIBAgICAwIEAgUCBgIHAggCCQIKAgsCDAINAg4CDwIQAhECEgITAhQCFQIWAhcCGBYYEAUNQW5nYXJhLCBTb25ueQUFQVNPTk5nEAUdQmluYXksIE1hcmlhIExvdXJkZXMgTmFuY3kgUy4FBUJNQVJJZxAFEENheWV0YW5vLCBQaWEgUy4FBUNQSUFTZxAFEURlIExpbWEsIExlaWxhIE0uBQVETEVJTGcQBRhEZWxhIFJvc2EsIFJvbmFsZCAiQmF0byIFBURST05BZxAFE0RyaWxvbiwgRnJhbmtsaW4gTS4FBURGUkFOZxAFD0dhdGNoYWxpYW4sIFdpbgUFR1NIRVJnEAUbR28sIENocmlzdG9waGVyIExhd3JlbmNlIFQuBQVHQ0hSSWcQBRJHb3Jkb24sIFJpY2hhcmQgSi4FBUdSSUNIZxAFEEhvbnRpdmVyb3MsIFJpc2EFBUhBTkFUZxAFGUxhY3NvbiwgUGFuZmlsbyAiUGluZyIgTS4FBUxQQU5GZxAFF0xhcGlkLCBNYW51ZWwgIkxpdG8iIE0uBQVMTUFOVWcQBQ9NYXJjb3MsIEltZWUgUi4FBU1JTUVFZxAFHVBhY3F1aWFvLCBFbW1hbnVlbCAiTWFubnkiIEQuBQVQRU1NQWcQBR1QYW5naWxpbmFuLCBGcmFuY2lzICJLaWtvIiBOLgUFUEZSQU5nEAUdUGltZW50ZWwsIEFxdWlsaW5vICJLb2tvIiBJSUkFBVBBUVVJZxAFClBvZSwgR3JhY2UFBVBHUkFDZxAFD1JlY3RvLCBSYWxwaCBHLgUFUlJBTFBnEAUXUmV2aWxsYSBKci4sIFJhbW9uIEJvbmcFBVJSQU1PZxAFFVNvdHRvIElJSSwgVmljZW50ZSBDLgUFU1ZJQ0VnEAUbVG9sZW50aW5vLCBGcmFuY2lzICJUb2wiIE4uBQVURlJBTmcQBRBWaWxsYW51ZXZhLCBKb2VsBQVWRU1NQWcQBRJWaWxsYXIsIEN5bnRoaWEgQS4FBVZDWU5UZxAFHVp1YmlyaSwgSnVhbiBNaWd1ZWwgIk1pZ3oiIEYuBQVaSk1JR2cWAWZkAgEPZBYCAgEPEGQPFnICAQICAgMCBAIFAgYCBwIIAgkCCgILAgwCDQIOAg8CEAIRAhICEwIUAhUCFgIXAhgCGQIaAhsCHAIdAh4CHwIgAiECIgIjAiQCJQImAicCKAIpAioCKwIsAi0CLgIvAjACMQIyAjMCNAI1AjYCNwI4AjkCOgI7AjwCPQI+Aj8CQAJBAkICQwJEAkUCRgJHAkgCSQJKAksCTAJNAk4CTwJQAlECUgJTAlQCVQJWAlcCWAJZAloCWwJcAl0CXgJfAmACYQJiAmMCZAJlAmYCZwJoAmkCagJrAmwCbQJuAm8CcAJxAnIWchAFNEFjY291bnRhYmlsaXR5IG9mIFB1YmxpYyBPZmZpY2VycyBhbmQgSW52ZXN0aWdhdGlvbnMFBUFQT0FJZxAFCEFjY291bnRzBQVBQ0NPVWcQBQ9BZ3JhcmlhbiBSZWZvcm0FBUFHUkFSZxAFFEFncmljdWx0dXJlIGFuZCBGb29kBQVBR1JJRmcQBSVBZ3JpY3VsdHVyZSwgRm9vZCBhbmQgQWdyYXJpYW4gUmVmb3JtBQVBRkFBUmcQBR5BbWF0ZXVyIFNwb3J0cyBDb21wZXRpdGl2ZW5lc3MFBUFTQ09NZxAFMkJhbmtzLCBGaW5hbmNpYWwgSW5zdGl0dXRpb25zIGFuZCBDdXJyZW5jaWVzICAgICAgBQVCQU5LU2cQBSFCYXNpYyBFZHVjYXRpb24sIEFydHMgYW5kIEN1bHR1cmUFBUJFQUFDZxAFRENpdmlsIFNlcnZpY2UsIEdvdmVybm1lbnQgUmVvcmdhbml6YXRpb24gYW5kIFByb2Zlc3Npb25hbCBSZWd1bGF0aW9uBQVDSVZJTGcQBQ5DbGltYXRlIENoYW5nZQUFQ0xJTUNnEAUWQ29tbWl0dGVlIG9mIHRoZSBXaG9sZQUFV0hPTEVnEAVDQ29uZ3Jlc3Npb25hbCBDb21taXNzaW9uIG9uIFNjaWVuY2UgYW5kIFRlY2hub2xvZ3ksIGFuZCBFbmdpbmVlcmluZwUFQ09DU1RnEAUlQ29uZy4gT3ZlcnNpZ2h0IG9uIG9uIEFncmFyaWFuIFJlZm9ybQUFQ09DQVJnEAU+Q29uZy4gT3ZlcnNpZ2h0IG9uIG9uIEFncmljdWx0dXJhbCBhbmQgRmlzaGVyaWVzIE1vZGVybml6YXRpb24FBUNPQUdNZxAFHkNvbmcuIE92ZXJzaWdodCBvbiBvbiBCaW9mdWVscwUFQ09DQklnEAVBQ29uZy4gT3ZlcnNpZ2h0IG9uIG9uIENpdmlsIEF2aWF0aW9uIEF1dGhvcml0eSBvZiB0aGUgUGhpbGlwcGluZXMFBUNPQ0NBZxAFNkNvbmcuIE92ZXJzaWdodCBvbiBvbiBDb21wcmVoZW5zaXZlIFRheCBSZWZvcm0gUHJvZ3JhbQUFQ09DVFJnEAUpQ29uZy4gT3ZlcnNpZ2h0IG9uIG9uIEN1c3RvbXMgYW5kIFRhcmlmZnMFBUNPQ0NUZxAFJUNvbmcuIE92ZXJzaWdodCBvbiBvbiBEYW5nZXJvdXMgRHJ1Z3MFBUNPRFJHZxAFI0NvbmcuIE92ZXJzaWdodCBvbiBvbiBFLUNvbW1lcmNlICAgBQVDT0VDQWcQBSpDb25nLiBPdmVyc2lnaHQgb24gb24gTGFib3IgYW5kIEVtcGxveW1lbnQFBUNMQUJSZxAFL0NvbmcuIE92ZXJzaWdodCBvbiBvbiBOYXRpb25hbCBIZWFsdGggSW5zdXJhbmNlBQVDT0NOSGcQBTJDb25nLiBPdmVyc2lnaHQgb24gb24gUXVhbGl0eSBBZmZvcmRhYmxlIE1lZGljaW5lcwUFQ09DUUFnEAU1Q29uZy4gT3ZlcnNpZ2h0IG9uIG9uIFRheCBJbmNlbnRpdmVzIGFuZCBUcmFuc3BhcmVuY3kFBUNPQ1RJZxAFM0NvbmcuIE92ZXJzaWdodCBvbiBvbiB0aGUgQW50aS1Nb25leSBMYXVuZGVyaW5nIExhdwUFQ09BTUxnEAU/Q29uZy4gT3ZlcnNpZ2h0IG9uIG9uIHRoZSBFY29sb2dpY2FsIFNvbGlkIFdhc3RlIE1hbmFnZW1lbnQgQWN0BQVDRUNPV2cQBUNDb25nLiBPdmVyc2lnaHQgb24gb24gdGhlIE9mZmljaWFsIERldmVsb3BtZW50IEFzc2lzdGFuY2UgKE9EQSkgTGF3BQVDT0NPRGcQBVJDb25nLiBPdmVyc2lnaHQgb24gb24gdGhlIFBoaWwuIERpc2FzdGVyIFJpc2sgUmVkdWN0aW9uIGFuZCBNYW5hZ2VtZW50IEFjdCBvZiAyMDEwBQVDT0NQRGcQBVRDb25nLiBPdmVyc2lnaHQgb24gb24gdGhlIFByb3BlciBJbXBsZW1lbnRhdGlvbiBvZiB0aGUgTmF0aW9uYWwgSW50ZXJuYWwgUmV2aWV3IENvZGUFBUNPQ1BJZxAFNUNvbmcuIE92ZXJzaWdodCBvbiBvbiB0aGUgU3BlY2lhbCBQdXJwb3NlIFZlaGljbGUgQWN0BQVDT0NTUGcQBS5Db25nLiBPdmVyc2lnaHQgb24gT3ZlcnNlYXMgVm90aW5nIEFjdCBvZiAyMDAzBQVDT0NPVmcQBS9Db25zdGl0dXRpb25hbCBBbWVuZG1lbnRzIGFuZCBSZXZpc2lvbiBvZiBDb2RlcwUFQ09OU1RnEAUMQ29vcGVyYXRpdmVzBQVDT09QRWcQBRRDdWx0dXJhbCBDb21tdW5pdGllcwUFQ1VMVFVnEAUQRWNvbm9taWMgQWZmYWlycwUFRUNPTk9nEAUbRWR1Y2F0aW9uLCBBcnRzIGFuZCBDdWx0dXJlBQVFRFVDQWcQBSxFbGVjdG9yYWwgUmVmb3JtcyAgYW5kIFBlb3BsZXMgUGFydGljaXBhdGlvbgUFRUxSUFBnEAUGRW5lcmd5BQVFTkVSR2cQBSFFbnZpcm9ubWVudCBhbmQgTmF0dXJhbCBSZXNvdXJjZXMFBUVOVklSZxAFMUVudmlyb25tZW50LCBOYXR1cmFsIFJlc291cmNlcyBhbmQgQ2xpbWF0ZSBDaGFuZ2UFBUVOUkNDZxAFFUV0aGljcyBhbmQgUHJpdmlsZWdlcwUFRVRISUNnEAUHRmluYW5jZQUFRklOQU5nEAUZRmluYW5jZSBTdWItQ29tbWl0dGVlICJBIgUFRklOQUFnEAUZRmluYW5jZSBTdWItQ29tbWl0dGVlICJCIgUFRklOQUJnEAUZRmluYW5jZSBTdWItQ29tbWl0dGVlICJDIgUFRklOQUNnEAUZRmluYW5jZSBTdWItQ29tbWl0dGVlICJEIgUFRklOQURnEAUZRmluYW5jZSBTdWItQ29tbWl0dGVlICJFIgUFRklOQUVnEAUZRmluYW5jZSBTdWItQ29tbWl0dGVlICJGIgUFRklOQUZnEAUZRmluYW5jZSBTdWItQ29tbWl0dGVlICJHIgUFRklOQUdnEAURRm9yZWlnbiBSZWxhdGlvbnMFBUZPUkVJZxAFGkdhbWVzIEFtdXNlbWVudCBhbmQgU3BvcnRzBQVHQUFTUGcQBRNHYW1lcyBhbmQgQW11c2VtZW50BQVHQU1FU2cQBS5Hb3Zlcm5tZW50IENvcnBvcmF0aW9ucyBhbmQgUHVibGljIEVudGVycHJpc2VzBQVHT1ZDT2cQBTJIZWFsdGggYW5kIERlbW9ncmFwaHkgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAUFSEVBTFRnEAUqSGlnaGVyLCBUZWNobmljYWwgYW5kIFZvY2F0aW9uYWwgRWR1Y2F0aW9uBQVIVEFWRWcQBTVKdC4gQ29uZy4gT3ZlcnNpZ2h0IENvbW1pdHRlZSAgb24gdGhlIENsZWFuIFdhdGVyIEFjdAUFSkNMV0FnEAVKSnQuIENvbmcuIE92ZXJzaWdodCBDb21taXR0ZWUgT20gdGhlIEVjb2xvZ2ljYWwgU29saWQgV2FzdGUgTWFuYWdlbWVudCBBY3QFBUpDT0NFZxAFR0p0LiBDb25nLiBPdmVyc2lnaHQgQ29tbWl0dGVlIG9uIHRoZSBBbHRlcm5hdGl2ZSBEaXNwdXRlIFJlc29sdXRpb24gQWN0BQVKQ09SQWcQBTpKdC4gQ29uZy4gT3ZlcnNpZ2h0IENvbW1pdHRlZSBvbiBBdXRvbWF0ZWQgRWxlY3Rpb24gU3lzdGVtBQVKQ09BRWcQBS1KdC4gQ29uZy4gT3ZlcnNpZ2h0IENvbW1pdHRlZSBvbiBDb29wZXJhdGl2ZXMFBUpDT0NDZxAFOUp0LiBDb25nLiBPdmVyc2lnaHQgQ29tbWl0dGVlIG9uIE92ZXJzZWFzIFdvcmtlcnMgQWZmYWlycwUFSkNPQ09nEAUySnQuIENvbmcuIE92ZXJzaWdodCBDb21taXR0ZWUgb24gdGhlIENoYWluIFNhdyBBY3QFBUpDT0NTZxAFMkp0LiBDb25nLiBPdmVyc2lnaHQgQ29tbWl0dGVlIG9uIHRoZSBDbGVhbiBBaXIgQWN0BQVKQ09DQWcQBT9KdC4gQ29uZy4gT3ZlcnNpZ2h0IENvbW1pdHRlZSBvbiB0aGUgR292ZXJubWVudCBQcm9jdXJlbWVudCBBY3QFBUpPQ0dQZxAFKEp0LiBDb25nLiBPdmVyc2lnaHQgQ29tbWl0dGVlIG9uIFRvdXJpc20FBUpDT0NUZxAFNkp0LiBDb25nLiBPdmVyc2lnaHQgQ29tbWl0dGVlIG9uIFVuaXZlcnNhbCBIZWFsdGggQ2FyZQUFSkNVSENnEAU5SnQuIENvbmcuIE92ZXJzaWdodCBDb21taXR0ZWUgT3ZlcnNlYXMgVm90aW5nIEFjdCBvZiAyMDAzBQVKQ09WQWcQBRtKdC4gQ29uZy4gUG93ZXIgQ29tbWlzc2lvbiAFBUpDUENNZxAFM0pvaW50IE92ZXJzaWdodCBDb21taXR0ZWUgb24gdGhlIEh1bWFuIFNlY3VyaXR5IEFjdAUFSk9DSFNnEAUYSnVzdGljZSBhbmQgSHVtYW4gUmlnaHRzBQVIVU1BTmcQBTFMYWJvciwgRW1wbG95bWVudCBhbmQgSHVtYW4gUmVzb3VyY2VzIERldmVsb3BtZW50BQVMQUJPUmcQBUBMZWdpc2xhdGl2ZSBPdmVyc2lnaHQgQ29tbWl0dGVlIG9uIHRoZSBWaXNpdGluZyBGb3JjZXMgQWdyZWVtZW50BQVMT1ZGQWcQBRBMb2NhbCBHb3Zlcm5tZW50BQVMT0NBTGcQBR1OYXRpb25hbCBEZWZlbnNlIGFuZCBTZWN1cml0eQUFREVGRU5nEAVETmF0aW9uYWwgRGVmZW5zZSBhbmQgU2VjdXJpdHksIFBlYWNlLCBVbmlmaWNhdGlvbiBhbmQgUmVjb25jaWxpYXRpb24FBU5EU1BVZxAFJ092ZXJzaWdodCBDb21taXR0ZWUgb24gQVJNTSBPcmdhbmljIEFjdAUFT0NBT0FnEAUnT3ZlcnNpZ2h0IENvbW1pdHRlZSBvbiBCYXNlcyBDb252ZXJzaW9uBQVPQ0JDT2cQBSVPdmVyc2lnaHQgQ29tbWl0dGVlIG9uIENsaW1hdGUgQ2hhbmdlBQVPQ0NMQ2cQBTpPdmVyc2lnaHQgQ29tbWl0dGVlIG9uIEludGVsbGlnZW5jZSBhbmQgQ29uZmlkZW50aWFsIEZ1bmRzBQVJTlRFTGcQBSpPdmVyc2lnaHQgQ29tbWl0dGVlIG9uIFB1YmxpYyBFeHBlbmRpdHVyZXMFBU9DUEVYZxAFO092ZXJzaWdodCBDb21taXR0ZWUgb24gdGhlIENvbXByZWhlbnNpdmUgVGF4IFJlZm9ybSBQcm9ncmFtBQVDQ1RSUGcQBURPdmVyc2lnaHQgQ29tbWl0dGVlIG9uIHRoZSBPZmZpY2lhbCBEZXZlbG9wbWVudCBBc3Npc3RhbmNlIChPREEpIExhdwUFQ09PREFnEAU8T3ZlcnNpZ2h0IENvbW1pdHRlZSBvbiB0aGUgUHJvcGVyIEltcGxlbWVudGF0aW9uIG9mIHRoZSBOSVJDBQVDT05JUmcQBSVQZWFjZSwgVW5pZmljYXRpb24gYW5kIFJlY29uY2lsaWF0aW9uBQVQRUFDRWcQBSFQdWJsaWMgSW5mb3JtYXRpb24gYW5kIE1hc3MgTWVkaWEFBUlORk9SZxAFIFB1YmxpYyBPcmRlciBhbmQgRGFuZ2Vyb3VzIERydWdzBQVJTExFR2cQBQ9QdWJsaWMgU2VydmljZXMFBVNFUlZJZxAFDFB1YmxpYyBXb3JrcwUFV09SS1NnEAUFUnVsZXMFBVJVTEVTZxAFFlNjaWVuY2UgYW5kIFRlY2hub2xvZ3kFBVNDSUVOZxAFNFNlbGVjdCBPdmVyc2lnaHQgQ29tbWl0dGVlIG9uIEdvdmVybm1lbnQgUHJvY3VyZW1lbnQFBVNPQ0dQZxAFSVNlbGVjdCBPdmVyc2lnaHQgQ29tbWl0dGVlIG9uIEludGVsbGlnZW5jZSBGdW5kcywgUHJvZ3JhbXMgYW5kIEFjdGl2aXRpZXMFBVNPQ0lGZxAFJlNlbGVjdCBPdmVyc2lnaHQgQ29tbWl0dGVlIG9uIFN1ZmZyYWdlBQVTT0NPU2cQBT9TZWxlY3QgT3ZlcnNpZ2h0IENvbW1pdHRlZSBvbiB0aGUgTG9jYWwgR292ZXJubWVudCBDb2RlIG9mIDE5OTEFBVNPQ0xHZxAFNlNlbmF0ZSBTcGVjaWFsIENvbW1pdHRlZSBvbiBNYXJhd2kgQ2l0eSBSZWhhYmlsaXRhdGlvbgUFU1NDTVJnEAUtU29jaWFsIEp1c3RpY2UsIFdlbGZhcmUgYW5kIFJ1cmFsIERldmVsb3BtZW50BQVKVVNUSWcQBS9TcGVjaWFsIE92ZXJzaWdodCBDb21taXR0ZWUgb24gRWNvbm9taWMgQWZmYWlycwUFU09DRUFnEAUGU3BvcnRzBQVTUE9SVGcQBSZTdWJjb21taXR0ZWUgb24gQW50aS1IdW1hbiBUcmFmZmlja2luZwUFU0NBSFRnEAU0U3ViY29tbWl0dGVlIG9uIEFudGktTW9uZXkgTGF1bmRlcmluZyBMYXcgQW1lbmRtZW50cwUFU0NBTUxnEAUqU3ViY29tbWl0dGVlIG9uIENoaWxkcmVuIGluIEFybWVkIENvbmZsaWN0BQVTQ0NBQ2cQBS5TdWJjb21taXR0ZWUgb24gRml4ZWQgSW5jb21lIFNlY3VyaXRpZXMgTWFya2V0BQVTQ0ZJU2cQBSVTdWJjb21taXR0ZWUgb24gUG9saXRpY2FsIFBhcnR5IEJpbGxzBQVTQ1BQQmcQBUBTdWJjb21taXR0ZWUgb24gUm9tZSBTdGF0dXRlIG9mIHRoZSBJbnRlcm5hdGlvbmFsIENyaW1pbmFsIENvdXJ0BQVTQ1JTSWcQBRZTdWJjb21taXR0ZWUgb24gU3BvcnRzBQVTQ1NQT2cQBRZTdWJjb21taXR0ZWUgb24gV2F0ZXJzBQVTQ1dBVGcQBT5TdXN0YWluYWJsZSBEZXZlbG9wbWVudCBHb2FscywgSW5ub3ZhdGlvbiBhbmQgRnV0dXJlcyBUaGlua2luZwUFU0RHSUZnEAUHVG91cmlzbQUFVE9VUklnEAUkVHJhZGUsIENvbW1lcmNlIGFuZCBFbnRyZXByZW5ldXJzaGlwBQVUUkFERWcQBTJVcmJhbiBQbGFubmluZywgSG91c2luZyBhbmQgUmVzZXR0bGVtZW50ICAgICAgICAgIAUFVVJCQU5nEAUOV2F5cyBhbmQgTWVhbnMFBU1FQU5TZxAFNVdvbWVuLCBDaGlsZHJlbiwgRmFtaWx5IFJlbGF0aW9ucyBhbmQgR2VuZGVyIEVxdWFsaXR5BQVXT01FTmcQBQVZb3V0aAUFWU9VVEhnEAUhWW91dGgsIFdvbWVuIGFuZCBGYW1pbHkgUmVsYXRpb25zBQVZV0ZSRWcWAWZkAgIPZBYCAgEPEGQPFjgCAQICAgMCBAIFAgYCBwIIAgkCCgILAgwCDQIOAg8CEAIRAhICEwIUAhUCFgIXAhgCGQIaAhsCHAIdAh4CHwIgAiECIgIjAiQCJQImAicCKAIpAioCKwIsAi0CLgIvAjACMQIyAjMCNAI1AjYCNwI4FjgQBQdBZG9wdGVkBQU5LTIwMGcQBSxBcHByb3ZlZCBieSB0aGUgUHJlc2lkZW50IG9mIHRoZSBQaGlsaXBwaW5lcwUFNi0yMDBnEAVAQXBwcm92ZWQgYnkgdGhlIFByZXNpZGVudCBvZiB0aGUgUGhpbGlwcGluZXMsIFZldG9lZCBPdGhlciBQYXJ0cwUFNi0yMTBnEAUsQXBwcm92ZWQgb24gIFNlY29uZCBSZWFkaW5nLCB3aXRoIEFtZW5kbWVudHMFBTItNTAwZxAFLUFwcHJvdmVkIG9uIFNlY29uZCBSZWFkaW5nLCBXaXRob3V0IEFtZW5kbWVudAUFMi00MDBnEAU5QXBwcm92ZWQgb24gVGhpcmQgUmVhZGluZyBieSB0aGUgSG91c2Ugb2YgUmVwcmVzZW50YXRpdmVzBQUzLTQxMGcQBSdBcHByb3ZlZCBvbiBUaGlyZCBSZWFkaW5nIGJ5IHRoZSBTZW5hdGUFBTMtNDAwZxAFGUNvbW1pdHRlZSBSZXBvcnQgQXBwcm92ZWQFBTEtMjAwZxAFJUNvbW1pdHRlZSBSZXBvcnQgU2VudCB0byB0aGUgQXJjaGl2ZXMFBTktODAwZxAFLkNvbmZlcmVuY2UgQ29tbWl0dGVlIFJlcG9ydCBBcHByb3ZlZCBieSBTZW5hdGUFBTQtMjAwZxAFOkNvbmZlcmVuY2UgQ29tbWl0dGVlIFJlcG9ydCBBcHByb3ZlZCBieSB0aGUgSG91c2Ugb2YgUmVwcy4FBTQtMTEwZxAFHUNvbnNvbGlkYXRlZCB3aXRoIEFkb3B0ZWQgSENSBQU5LTIwMmcQBSRDb25zb2xpZGF0ZWQgd2l0aCBBZG9wdGVkIFJlc29sdXRpb24FBTgtMjAwZxAFHUNvbnNvbGlkYXRlZCB3aXRoIEFkb3B0ZWQgU0NSBQU5LTIwMWcQBT5Db25zb2xpZGF0ZWQgd2l0aCBBZG9wdGVkIFNlbmF0ZSBDdC4gUmVzb2x1dGlvbiwgYXMgUmVjb25jaWxlZAUFOC0zMDBnEAUfQ29uc29saWRhdGVkIHdpdGggQXBwcm92ZWQgQmlsbAUFNi0zMDBnEAUiQ29uc29saWRhdGVkIHdpdGggQXBwcm92ZWQgSnQuUmVzLgUFNi0zMTBnEAUwQ29uc29saWRhdGVkL1N1YnN0aXR1dGVkIGluIHRoZSBDb21taXR0ZWUgUmVwb3J0BQU1LTMwMGcQBSBDb252ZXJ0ZWQgSW50byAgSm9pbnQgUmVzb2x1dGlvbgUFOC0xMTBnEAUeQ29udmVydGVkIEludG8gYSBTaW1wbGUgTW90aW9uBQU0LTIxMGcQBSRDb252ZXJ0ZWQgSW50byBDb25jdXJyZW50IFJlc29sdXRpb24FBTgtMTAwZxAFGUNvbnZlcnRlZCBJbnRvIFJlc29sdXRpb24FBTktOTMwZxAFF0NvcHkgb2YgUmVzb2x1dGlvbiBSZWFkBQUxLTExMGcQBTZFbnJvbGxlZCBDb3B5IFByZXBhcmVkIGJ5IHRoZSBIb3VzZSBvZiBSZXByZXNlbnRhdGl2ZXMFBTQtNTAwZxAFJEVucm9sbGVkIENvcHkgUHJlcGFyZWQgYnkgdGhlIFNlbmF0ZQUFNC00MDBnEAU3RW5yb2xsZWQgQ29weSBTZW50IEJhY2sgdG8gdGhlIEhvdXNlIG9mIFJlcHJlc2VudGF0aXZlcwUFNC01NTBnEAUlRW5yb2xsZWQgQ29weSBTZW50IEJhY2sgdG8gdGhlIFNlbmF0ZQUFNC01NzBnEAUgRW5yb2xsZWQgQ29weSBTZW50IHRvIE1hbGFjYW5hbmcFBTQtNTkwZxAFD0xhcHNlZCBJbnRvIExhdwUFNi0yMjBnEAUVUGFzc2VkIGJ5IEJvdGggSG91c2VzBQU0LTMxMGcQBRBQZW5kaW5nIEFkb3B0aW9uBQU5LTcwMGcQBRxQZW5kaW5nIENvbmZlcmVuY2UgQ29tbWl0dGVlBQU0LTEwMGcQBRVQZW5kaW5nIEZpcnN0IFJlYWRpbmcFBTEtMTAwZxAFGFBlbmRpbmcgaW4gdGhlIENvbW1pdHRlZQUFMS0xMjBnEAUnUGVuZGluZyBpbiB0aGUgSG91c2Ugb2YgUmVwcmVzZW50YXRpdmVzBQU3LTEwMGcQBTVQZW5kaW5nIGluIHRoZSBIb3VzZSB3aXRoIERlc2lnbmF0ZWQgU2VuYXRlIENvbmZlcmVlcwUFOS01MDBnEAUpUGVuZGluZyBTZWNvbmQgUmVhZGluZywgT3JkaW5hcnkgQnVzaW5lc3MFBTItMjAwZxAFJVBlbmRpbmcgU2Vjb25kIFJlYWRpbmcsIFNwZWNpYWwgT3JkZXIFBTItMzAwZxAFDlBlbmRpbmcgU2VuYXRlBQUxLTAwMGcQBRVSZWNhbGxlZCBieSB0aGUgSG91c2UFBTktOTEwZxAFFlJlY2FsbGVkIGJ5IHRoZSBTZW5hdGUFBTktOTIwZxAFG1JlY2VpdmVkIENvbW11bmljYXRpb24gT25seQUFOS05MTFnEAUcUmVjb21taXR0ZWQgdG8gdGhlIENvbW1pdHRlZQUFNC01MjBnEAUtUmVjb25zaWRlcmF0aW9uIG9mIEFwcHJvdmFsIG9uIFNlY29uZCBSZWFkaW5nBQUyLTYwMGcQBSxSZWNvbnNpZGVyYXRpb24gb2YgQXBwcm92YWwgb24gVGhpcmQgUmVhZGluZwUFMy0zMDBnEAU9UmVwb3J0ZWQgT3V0L05vdCBSZWZlcnJlZCB0byBDYWxlbmRhcmVkIGZvciBPcmRpbmFyeSBCdXNpbmVzcwUFOS02MDBnEAUqUmVwb3J0ZWQgT3V0L1JlZmVycmVkIHRvIEFub3RoZXIgQ29tbWl0dGVlBQU5LTQwMGcQBQ5TZWUgUmVzb2x1dGlvbgUFOS05MDBnEAUWU2VlIFJlc29sdXRpb24gQWRvcHRlZAUFOS05MDVnEAUpU2VudCBCYWNrIHRvIHRoZSBIb3VzZSBvZiBSZXByZXNlbnRhdGl2ZXMFBTctNTAwZxAFFFNlbnQgdG8gdGhlIEFyY2hpdmVzBQU0LTMwMGcQBRhTdXBlcnNlZGUgYnkgQWRvcHRlZCBIQ1IFBTktMjIwZxAFCFRyZWF0aWVzBQU5LTEwMGcQBSpWZXRvZWQgYnkgdGhlIFByZXNpZGVudCBvZiB0aGUgUGhpbGlwcGluZXMFBTYtMTAwZxAFIFdpdGggU2VuYXRlIERlc2lnbmF0ZWQgQ29uZmVyZWVzBQUyLTEwMWcQBQlXaXRoZHJhd24FBTktMzAwZxYBZmQCAw9kFgYCAQ8QDxYEHgVXaWR0aBsAAAAAAGBjQAEAAAAeBF8hU0ICgAJkDxYJZgIBAgICAwIEAgUCBgIHAggWCRAFEVNlbmF0ZSBSZXNvbHV0aW9uBQNTUk5nEAUiUmVzb2x1dGlvbiBvZiBCb3RoIEhvdXNlcyAtIFNlbmF0ZQUDU1JCZxAFF1NlbmF0ZSBKb2ludCBSZXNvbHV0aW9uBQNTSlJnEAUcU2VuYXRlIENvbmN1cnJlbnQgUmVzb2x1dGlvbgUDU0NSZxAFGVJlc29sdXRpb24gb2YgQm90aCBIb3VzZXMFA1JCSGcQBRBIb3VzZSBSZXNvbHV0aW9uBQNIUk5nEAUhUmVzb2x1dGlvbiBvZiBCb3RoIEhvdXNlcyAtIEhvdXNlBQNIUkJnEAUWSG91c2UgSm9pbnQgUmVzb2x1dGlvbgUDSEpSZxAFG0hvdXNlIENvbmN1cnJlbnQgUmVzb2x1dGlvbgUDSENSZxYBZmQCAw8PFgIeBFRleHQFDlRpdGxlL3N1YmplY3Q6ZGQCBA8PFgQfABsAAAAAAEBaQAEAAAAfAQKAAmRkAgQPZBYEAgEPDxYCHwIFCkRhdGUgZmlsZWRkZAIDDw8WAh8CBQ5SZXNvbHV0aW9uIE5vLmRkAgUPZBYEAgEPDxYCHwIFCkRhdGUgZmlsZWRkZAIDDw8WAh8CBQ5SZXNvbHV0aW9uIE5vLmRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBQVpbWdHb2Lksbte6zX2PS679V05M4AAVtv1" />
 </div>
 
 <script type="text/javascript">
@@ -197,7 +197,7 @@ function __doPostBack(eventTarget, eventArgument) {
 <div>
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2E1E9F71" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEW2wECj9vhoQcC7K3pTwLsrelPArbz/bUOApyC8a8LAoPI2KMHAvP47vcHAuzz8bQOAsyr4A4Co9beqAoChtaaVQLoyOj7BgKS2+uKCgKpnLXoAwK+nMHVAwLboNyEDQKyoszXAwLAp+AOAv6MhrkOAtun7A8C9ZiVlAQC7piBzwwC+ceY4AYC3KTgDgL0oszXAwLl+q3ZDwLKv8jfBgKutPjUBQKutPjUBQLz6py/AQKTt8C3CwLZsv2UBQKts93NAwKihbCrDQLrt4CnCwK7wIKzCwLYm7TUDAKFnqyoCwLR0amYDwKF1ND/BQKstsD5AgLStdjlCAL7m5S3AQKptvSCAQKhtoCuDgLStdyGCwKstoCuDgKC35HJDwLr4MvxBQLom6T6BQKotqSWAgKhtpi3DQKpttyGCwL6m8ynDgKvtsi1CwK8trCzCwK8tozqBAKptozqBALQtcD5AgKutrCzCwLVx9qXAQKJ6YS9DQLolYOTAgLx6ay9CwL99bqYCALfsf2NAQKn4fPgAQLxnrijCwKqsvnHCgKIydv4BgKIx9qZDwKNx9qZDwKMx9qZDwKPx9qZDwKOx9qZDwKxx9qZDwKwx9qZDwKzx9qZDwLJsK2PCALqmozUBgL5ve2XCAKAnYyyAgLhhsicAQKQhpSoDQLXkP/8CALg1Ij1BgLk1Lz7AgLg1OCMAQLm1Ij1BgL61Ij1BgL21Ij1BgLk1Ij1BgLpsdDaDALx1Ij1BgLk1IyWAQLvgsm3DwLqsayxDgLzue3oBQLCrtqEAQK7mMCBCAKvsNjlCAKSiumqDQLA2/qyCwLzhITsDwLErbK1BAK/t4ygDQLp7+zTBwLXh/H5DALH44SRAgKN6ZSeDwLbx9L0BQLogNyeAgKV9d38CAK0kfPnBgLivZH4BQLwvOW/AQKhk9/uBgKk3u24AQKAstDaDAKOsrjeBgKDsrCzCwKPsvytDQKCstj+BQKgxpbcCQKxsqiQDwLo1eiXAgLSh/DjAgLKh9y7DgKzsuj5CALQ9fGSBAK1g9XzBQLivdWUDwLHxv6zCwLAo9L6BgKin9uODgLU8NKLBALkh6TWCgKRqc79BgKfhvDGBgLUueWRCALY/Pr9BQKY8b2ECwKzp9isAQKzp9isAQKez/eQDgLTw/eQDgLTw8PNBwKGhtHQDAKpn7PKAgKKn4+nCgKKn7PKAgL2wfeQDgKs693ECAKRwveQDgK026XnDQKcz/eQDgK9z/eQDgKdz/eQDgKa9pX9CALI6pX9CALI6uHaAQLv6ZX9CALA2aXnDQKRwsPNBwLA2cmLBAKJkr/HCAKZ2qXnDQLAh9HQDALrkLPKAgLAh/2YAwLAh6XRAQLAh83WCwLTw9+qDwKO6eHaAQKH0ZyKAwK028mLBAKZ2smLBAKZ2rHcAgLX3MmLBALNhNHQDALXwveQDgLM6ZX9CAK8s6y9CgKJkteOCgKJkqPqAwKIkteOCgLAh7npDQLjrf+9CQKt6JX9CAKqqv+9CQLQnbPKAgKJkvvRAgKEkvvRAgLjh9HQDAKO6ZX9CAKez9+qDwKh2MmLBAL23MmLBAL728mLBAL79pX9CALdnefdBwK85pCyDgKQvYiZBQLAkJWtCALAkKmtCAKdmeKtCwKB5pCyDgKVvYiZBQLFkJWtCALFkKmtCALa9PCNDgK+sdPcCAKryeHrBgLk5aU6ArDSqPIOArHRrNwDAoHZ3tMNAqrkx+MFAuqF6qgJiDEJaWRiRYLhFwNp3IIhfcBQYi0=" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEW3AECk5Oh8wUC7K3pTwLsrelPArbz/bUOApyC8a8LAoPI2KMHAvP47vcHAuzz8bQOAsyr4A4Co9beqAoChtaaVQLoyOj7BgKS2+uKCgKpnLXoAwK+nMHVAwLboNyEDQKyoszXAwLAp+AOAv6MhrkOAtun7A8C9ZiVlAQC7piBzwwC+ceY4AYC3KTgDgL0oszXAwLl+q3ZDwLKv8jfBgKutPjUBQKutPjUBQLz6py/AQKTt8C3CwLZsv2UBQKts93NAwKihbCrDQLrt4CnCwK7wIKzCwLYm7TUDAKFnqyoCwLR0amYDwKF1ND/BQKstsD5AgLStdjlCAL7m5S3AQKptvSCAQKhtoCuDgLStdyGCwKstoCuDgKC35HJDwLr4MvxBQLom6T6BQKotqSWAgKhtpi3DQKpttyGCwL6m8ynDgKvtsi1CwK8trCzCwK8tozqBAKptozqBALQtcD5AgKutrCzCwLVx9qXAQKJ6YS9DQLolYOTAgLx6ay9CwL99bqYCALfsf2NAQKn4fPgAQLxnrijCwKqsvnHCgKIydv4BgKIx9qZDwKNx9qZDwKMx9qZDwKPx9qZDwKOx9qZDwKxx9qZDwKwx9qZDwKzx9qZDwLJsK2PCALqmozUBgL5ve2XCAKAnYyyAgLhhsicAQKQhpSoDQLXkP/8CALg1Ij1BgLk1Lz7AgLg1OCMAQLm1Ij1BgL61Ij1BgL21Ij1BgLk1Ij1BgLpsdDaDALx1Ij1BgKU8NrsCALk1IyWAQLvgsm3DwLqsayxDgLzue3oBQLCrtqEAQK7mMCBCAKvsNjlCAKSiumqDQLA2/qyCwLzhITsDwLErbK1BAK/t4ygDQLp7+zTBwLXh/H5DALH44SRAgKN6ZSeDwLbx9L0BQLogNyeAgKV9d38CAK0kfPnBgLivZH4BQLwvOW/AQKhk9/uBgKk3u24AQKAstDaDAKOsrjeBgKDsrCzCwKPsvytDQKCstj+BQKgxpbcCQKxsqiQDwLo1eiXAgLSh/DjAgLKh9y7DgKzsuj5CALQ9fGSBAK1g9XzBQLivdWUDwLHxv6zCwLAo9L6BgKin9uODgLU8NKLBALkh6TWCgKRqc79BgKfhvDGBgLUueWRCALY/Pr9BQKY8b2ECwKzp9isAQKzp9isAQKez/eQDgLTw/eQDgLTw8PNBwKGhtHQDAKpn7PKAgKKn4+nCgKKn7PKAgL2wfeQDgKs693ECAKRwveQDgK026XnDQKcz/eQDgK9z/eQDgKdz/eQDgKa9pX9CALI6pX9CALI6uHaAQLv6ZX9CALA2aXnDQKRwsPNBwLA2cmLBAKJkr/HCAKZ2qXnDQLAh9HQDALrkLPKAgLAh/2YAwLAh6XRAQLAh83WCwLTw9+qDwKO6eHaAQKH0ZyKAwK028mLBAKZ2smLBAKZ2rHcAgLX3MmLBALNhNHQDALXwveQDgLM6ZX9CAK8s6y9CgKJkteOCgKJkqPqAwKIkteOCgLAh7npDQLjrf+9CQKt6JX9CAKqqv+9CQLQnbPKAgKJkvvRAgKEkvvRAgLjh9HQDAKO6ZX9CAKez9+qDwKh2MmLBAL23MmLBAL728mLBAL79pX9CALdnefdBwK85pCyDgKQvYiZBQLAkJWtCALAkKmtCAKdmeKtCwKB5pCyDgKVvYiZBQLFkJWtCALFkKmtCALa9PCNDgK+sdPcCAKryeHrBgLk5aU6ArDSqPIOArHRrNwDAoHZ3tMNAqrkx+MFAuqF6qgJqtushRPWheqir3qr0P0NHxXYt+w=" />
 </div>
                   <div id="div_Filter">
                      <div class="closewindow">
@@ -310,6 +310,7 @@ function __doPostBack(eventTarget, eventArgument) {
 		<option value="JCOCA">Jt. Cong. Oversight Committee on the Clean Air Act</option>
 		<option value="JOCGP">Jt. Cong. Oversight Committee on the Government Procurement Act</option>
 		<option value="JCOCT">Jt. Cong. Oversight Committee on Tourism</option>
+		<option value="JCUHC">Jt. Cong. Oversight Committee on Universal Health Care</option>
 		<option value="JCOVA">Jt. Cong. Oversight Committee Overseas Voting Act of 2003</option>
 		<option value="JCPCM">Jt. Cong. Power Commission </option>
 		<option value="JOCHS">Joint Oversight Committee on the Human Security Act</option>
@@ -451,8 +452,8 @@ function __doPostBack(eventTarget, eventArgument) {
                      <input name="txtBillNo" type="text" maxlength="4" id="txtBillNo" style="width:40px;" />&nbsp;
                      <span id="lbKeyword">Title/subject:</span>
                      <input name="txtKeyword" type="text" maxlength="200" id="txtKeyword" style="width:105px;" />
-                     <input type="image" name="imgGo" id="imgGo" src="../images/go2_small.png" alt="Go" align="top" style="border-width:0px;" />
-                     <a href="leg_sys.aspx?congress=18&amp;type=resolution&amp;p=25#" onclick="ShowDiv('div_Filter');HideDiv('div_Help');HideSelect();">Filter</a> | <a href="leg_sys.aspx?congress=18&amp;type=resolution">Clear</a></p>
+                     <input type="image" name="imgGo" id="imgGo" src="/images/go2_small.png" alt="Go" align="top" style="border-width:0px;" />
+                     <a href="#" onclick="ShowDiv('div_Filter');HideDiv('div_Help');HideSelect();">Filter</a> | <a href="leg_sys.aspx?congress=18&amp;type=resolution">Clear</a></p>
 
                   </div>
                   
@@ -472,12 +473,12 @@ function __doPostBack(eventTarget, eventArgument) {
 <a href="leg_sys.aspx?congress=18&amp;type=resolution&amp;p=23">23</a> 
 <a href="leg_sys.aspx?congress=18&amp;type=resolution&amp;p=24">24</a> 
 25 
-<a href="http://senate.gov.ph/lis/leg_sys.aspx?congress=18&amp;type=resolution&amp;p=26">26</a> 
-<a href="http://senate.gov.ph/lis/leg_sys.aspx?congress=18&amp;type=resolution&amp;p=27">27</a> 
-<a href="http://senate.gov.ph/lis/leg_sys.aspx?congress=18&amp;type=resolution&amp;p=28">28</a> 
-<a href="http://senate.gov.ph/lis/leg_sys.aspx?congress=18&amp;type=resolution&amp;p=29">29</a> 
-<a href="http://senate.gov.ph/lis/leg_sys.aspx?congress=18&amp;type=resolution&amp;p=30">30</a> 
-<a href="http://senate.gov.ph/lis/leg_sys.aspx?congress=18&amp;type=resolution&amp;p=26">Next
+<a href="leg_sys.aspx?congress=18&amp;type=resolution&amp;p=26">26</a> 
+<a href="leg_sys.aspx?congress=18&amp;type=resolution&amp;p=27">27</a> 
+<a href="leg_sys.aspx?congress=18&amp;type=resolution&amp;p=28">28</a> 
+<a href="leg_sys.aspx?congress=18&amp;type=resolution&amp;p=29">29</a> 
+<a href="leg_sys.aspx?congress=18&amp;type=resolution&amp;p=30">30</a> 
+<a href="leg_sys.aspx?congress=18&amp;type=resolution&amp;p=26">Next
 </a></div>
                      <span id="lbSortBy">Sort by: </span>
                      <a id="lbDate" href="javascript:__doPostBack('lbDate','')">Date filed</a>
@@ -488,19 +489,20 @@ function __doPostBack(eventTarget, eventArgument) {
                   </div>
                
 </div>
-               <div class="alight"><p><a href="http://senate.gov.ph/lis/bill_res.aspx?congress=18&amp;q=SRN-244"><span>SRN-244: Commending Senator Juan Miguel F. Zubiri for Leading the Philippine National Team for Arnis</span><br />Resolution Commending Senator Juan Miguel F. Zubiri for Leading the Philippine National Team for Arnis to An Outstanding Performance in the 30th Southeast Asian Games, Where the Team Took...
+               <div class="alight"><p><a href="bill_res.aspx?congress=18&amp;q=SRN-246"><span>SRN-246: Congratulating and Commending Sarah Noveno Dequinan</span><br />Resolution Congratulating and Commending Sarah Noveno Dequinan for Winning a Gold Medal in the 30th Southeast Asian Games After Emerging Victorious in the Women’S Heptathlon At the...
+ Filed on December 9, 2019 by Zubiri, Juan Miguel "Migz" F., Angara, Sonny, Binay, Maria Lourdes Nancy S., Cayetano, Pia S., De Lima, Leila M., Dela Rosa, Ronald "Bato", Drilon, Franklin M., Gatchalian, Win, Go, Christopher Lawrence T., Gordon, Richard J., Hontiveros, Risa, Lacson, Panfilo "Ping" M., Lapid, Manuel "Lito" M., Marcos, Imee R., Pacquiao, Emmanuel "Manny" D., Pangilinan, Francis "Kiko" N., Pimentel, Aquilino "Koko" III, Poe, Grace, Recto, Ralph G., Revilla Jr., Ramon Bong, Sotto III, Vicente C., Tolentino, Francis "Tol" N., Villanueva, Joel, Villar, Cynthia A.</a></p>
+<p><a href="bill_res.aspx?congress=18&amp;q=SRN-245"><span>SRN-245: Congratulating and Commending Christine Hallasgo</span><br />Resolution Congratulating and Commending Christine Hallasgo for Winning a Gold Medal in the 30th Southeast Asian Games After Emerging Victorious in the Women’S Marathon At the New Clark...
+ Filed on December 9, 2019 by Zubiri, Juan Miguel "Migz" F., Angara, Sonny, Binay, Maria Lourdes Nancy S., Cayetano, Pia S., De Lima, Leila M., Dela Rosa, Ronald "Bato", Drilon, Franklin M., Gatchalian, Win, Go, Christopher Lawrence T., Gordon, Richard J., Hontiveros, Risa, Lacson, Panfilo "Ping" M., Lapid, Manuel "Lito" M., Marcos, Imee R., Pacquiao, Emmanuel "Manny" D., Pangilinan, Francis "Kiko" N., Pimentel, Aquilino "Koko" III, Poe, Grace, Recto, Ralph G., Revilla Jr., Ramon Bong, Sotto III, Vicente C., Tolentino, Francis "Tol" N., Villanueva, Joel, Villar, Cynthia A.</a></p>
+<p><a href="bill_res.aspx?congress=18&amp;q=SRN-244"><span>SRN-244: Commending Senator Juan Miguel F. Zubiri for Leading the Philippine National Team for Arnis</span><br />Resolution Commending Senator Juan Miguel F. Zubiri for Leading the Philippine National Team for Arnis to An Outstanding Performance in the 30th Southeast Asian Games, Where the Team Took...
  Filed on December 9, 2019 by Lapid, Manuel "Lito" M.</a></p>
-<p><a href="http://senate.gov.ph/lis/bill_res.aspx?congress=18&amp;q=SRN-243"><span>SRN-243: Congratulating and Commending the Philippine National Arnis Team and Their Coaching Staff</span><br />Resolution Congratulating and Commending the Philippine National Arnis Team and Their Coaching Staff for Winning Fourteeen Gold Medals, Four Silver Medals, and Two Bronze Medals At the 30th...
+<p><a href="bill_res.aspx?congress=18&amp;q=SRN-243"><span>SRN-243: Congratulating and Commending the Philippine National Arnis Team and Their Coaching Staff</span><br />Resolution Congratulating and Commending the Philippine National Arnis Team and Their Coaching Staff for Winning Fourteeen Gold Medals, Four Silver Medals, and Two Bronze Medals At the 30th...
  Filed on December 9, 2019 by Lapid, Manuel "Lito" M.</a></p>
 <p><a href="bill_res.aspx?congress=18&amp;q=SRN-242"><span>SRN-242: Results of the 2018 Programme for International Student Assessment</span><br />Resolution Directing the Proper Senate Committees to Conduct An Inquiry, in Aid of Legislation, Regarding the Results of the 2018 Programme for International Student Assessment Filed on December 9, 2019 by Binay, Maria Lourdes Nancy S.</a></p>
-<p><a href="http://senate.gov.ph/lis/bill_res.aspx?congress=18&amp;q=SRN-241"><span>SRN-241: Resolution Commending Senator Juan Miguel F. Zubiri for Leading the Philippine National Arnis Team</span><br />Resolution Commending Senator Juan Miguel F. Zubiri for Leading the Philippine National Arnis Team to Resounding Victory in the 30th Southeast Asian Games, Where the Team Took Fourteen Gold...
+<p><a href="bill_res.aspx?congress=18&amp;q=SRN-241"><span>SRN-241: Resolution Commending Senator Juan Miguel F. Zubiri for Leading the Philippine National Arnis Team</span><br />Resolution Commending Senator Juan Miguel F. Zubiri for Leading the Philippine National Arnis Team to Resounding Victory in the 30th Southeast Asian Games, Where the Team Took Fourteen Gold...
  Filed on December 9, 2019 by Binay, Maria Lourdes Nancy S.</a></p>
 <p><a href="bill_res.aspx?congress=18&amp;q=SRN-240"><span>SRN-240: Congratulating and Commending the Philippine National Arnis Team and Their Coaching Staff</span><br />Resolution Congratulating and Commending the Philippine National Arnis Team and Their Coaching Staff for Grabbing Fourteeen Gold Medals, Four Silver Medals, and Two Bronze Medals At the...
  Filed on December 9, 2019 by Binay, Maria Lourdes Nancy S.</a></p>
-<p><a href="http://senate.gov.ph/lis/bill_res.aspx?congress=18&amp;q=SRN-239"><span>SRN-239: Congratulating Senator Juan Miguel Zubiri</span><br />Resolution Congratulating Senator Juan Miguel "Migz" F. Zubiri and the Entire Philippine Arnis Team for Winning the Most Number of Medals for the Country in the 3Oth Southeast Asian Games Filed on December 9, 2019 by Revilla Jr., Ramon Bong</a></p>
-<p><a href="bill_res.aspx?congress=18&amp;q=SRN-238"><span>SRN-238: Commending and Congratulating the 2019 Ten (10) Outstanding Senior Citizens</span><br />Resolution Commending and Congratulating the 2019 Ten (10) Outstanding Senior Citizens Recognized as Sampung Ulirang Nakatatanda (Sun) Awardees Filed on December 9, 2019 by Revilla Jr., Ramon Bong</a></p>
-<p><a href="http://senate.gov.ph/lis/bill_res.aspx?congress=18&amp;q=SRN-237"><span>SRN-237: Honoring the Heroism and Valor of Police Senior Master Sergeant Jason Magno</span><br />Resolution Honoring the Heroism and Valor of Police Senior Master Sergeant Jason Magno Who Sacrificed His Own Life in Order to Protect and Save Others, and Expressing Profound Condolences...
- Filed on December 9, 2019 by Revilla Jr., Ramon Bong</a></p>
+<p><a href="bill_res.aspx?congress=18&amp;q=SRN-239"><span>SRN-239: Congratulating Senator Juan Miguel Zubiri</span><br />Resolution Congratulating Senator Juan Miguel "Migz" F. Zubiri and the Entire Philippine Arnis Team for Winning the Most Number of Medals for the Country in the 3Oth Southeast Asian Games Filed on December 9, 2019 by Revilla Jr., Ramon Bong</a></p>
 </div>
                <div id="pnl_NavBottom">
 	
@@ -513,12 +515,12 @@ function __doPostBack(eventTarget, eventArgument) {
 <a href="leg_sys.aspx?congress=18&amp;type=resolution&amp;p=23">23</a> 
 <a href="leg_sys.aspx?congress=18&amp;type=resolution&amp;p=24">24</a> 
 25 
-<a href="http://senate.gov.ph/lis/leg_sys.aspx?congress=18&amp;type=resolution&amp;p=26">26</a> 
-<a href="http://senate.gov.ph/lis/leg_sys.aspx?congress=18&amp;type=resolution&amp;p=27">27</a> 
-<a href="http://senate.gov.ph/lis/leg_sys.aspx?congress=18&amp;type=resolution&amp;p=28">28</a> 
-<a href="http://senate.gov.ph/lis/leg_sys.aspx?congress=18&amp;type=resolution&amp;p=29">29</a> 
-<a href="http://senate.gov.ph/lis/leg_sys.aspx?congress=18&amp;type=resolution&amp;p=30">30</a> 
-<a href="http://senate.gov.ph/lis/leg_sys.aspx?congress=18&amp;type=resolution&amp;p=26">Next
+<a href="leg_sys.aspx?congress=18&amp;type=resolution&amp;p=26">26</a> 
+<a href="leg_sys.aspx?congress=18&amp;type=resolution&amp;p=27">27</a> 
+<a href="leg_sys.aspx?congress=18&amp;type=resolution&amp;p=28">28</a> 
+<a href="leg_sys.aspx?congress=18&amp;type=resolution&amp;p=29">29</a> 
+<a href="leg_sys.aspx?congress=18&amp;type=resolution&amp;p=30">30</a> 
+<a href="leg_sys.aspx?congress=18&amp;type=resolution&amp;p=26">Next
 </a></div>
                      <span id="lbSortBy_bottom">Sort by: </span>
                      <a id="lbDate_bottom" href="javascript:__doPostBack('lbDate_bottom','')">Date filed</a>
@@ -538,21 +540,21 @@ Legislative Documents
 
 <div class="sidepane_nav">
 	<ul>
-		<li><a href="leg_sys.aspx?congress=18&amp;type=bill">Bills</a>
+		<li><a href="/lis/leg_sys.aspx?congress=18&amp;type=bill">Bills</a>
 		</li>
-		<li><a href="leg_sys.aspx?congress=18&amp;type=resolution">Resolutions</a>
+		<li><a href="/lis/leg_sys.aspx?congress=18&amp;type=resolution">Resolutions</a>
 		</li>
-		<li><a href="leg_sys.aspx?congress=18&amp;type=journal">Journals</a>
+		<li><a href="/lis/leg_sys.aspx?congress=18&amp;type=journal">Journals</a>
 		</li>
-		<li><a href="leg_sys.aspx?congress=18&amp;type=committee_rpt">Committee Reports</a>
+		<li><a href="/lis/leg_sys.aspx?congress=18&amp;type=committee_rpt">Committee Reports</a>
 		</li>
-		<li><a href="pdf_sys.aspx?congress=18&amp;type=republic_act">Republic Acts</a>
+		<li><a href="/lis/pdf_sys.aspx?congress=18&amp;type=republic_act">Republic Acts</a>
 		</li>
-		<li><a href="pdf_sys.aspx?congress=18&amp;type=adopted_res">Adopted Resolutions</a>
+		<li><a href="/lis/pdf_sys.aspx?congress=18&amp;type=adopted_res">Adopted Resolutions</a>
 		</li>
-		<li><a href="../18th_congress/treaties_18thcongress.asp">Treaties</a>
+		<li><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a>
 		</li>
-		<li><a href="../statistical.pdf">Statistical Data</a>
+		<li><a href="/statistical.pdf">Statistical Data</a>
 		</li>
 	</ul>
 </div>
@@ -562,7 +564,7 @@ Note
 </div>
 
 <div class="sidepane_nav">
-If you prefer to use a more advanced search, please use the <a href="../lis.aspx">Legislative Information System</a>.
+If you prefer to use a more advanced search, please use the <a href="/lis.aspx">Legislative Information System</a>.
 </div>
          </td>
       </tr>
@@ -571,8 +573,8 @@ If you prefer to use a more advanced search, please use the <a href="../lis.aspx
 	<td style="text-align: left; color: white; width: 381px;">© Senate of the Philippines. All rights reserved.</td>
 <td style="text-align: right">
 <a href="../job.pdf">Job Openings </a></a>| 
-<a href="../contact18thcongress.asp">Contact Info</a> | <a href="../rss.asp">RSS Feeds</a> <a href="../rss.asp">
-<img src="../images/feed10.png" alt="RSS icon" /></a> | <a href="../search.aspx">Search</a> | <a href="../sitemap.asp">Site Map</a></td></tr></table></div></div>
+<a href="/contact18thcongress.asp">Contact Info</a> | <a href="/rss.asp">RSS Feeds</a> <a href="/rss.asp">
+<img src="/images/feed10.png" alt="RSS icon" /></a> | <a href="/search.aspx">Search</a> | <a href="/sitemap.asp">Site Map</a></td></tr></table></div></div>
 
 
 </body>
