@@ -169,7 +169,7 @@
             
             -->            
                   
-            <form name="form1" method="post" action="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=20" id="form1" class="lis_div">
+            <form name="form1" method="post" action="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=23" id="form1" class="lis_div">
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="imgGo" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
@@ -444,18 +444,18 @@ function __doPostBack(eventTarget, eventArgument) {
 	
                   <div class="lis_pagesort">
                      <div class="lis_pagenav">
-                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=19">Previous</a>
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=16">16</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=17">17</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=18">18</a> 
+                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=22">Previous</a>
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=19">19</a> 
-20 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=20">20</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=21">21</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=22">22</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=23">23</a> 
+23 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=24">24</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=25">25</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=21">Next
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=26">26</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=27">27</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=28">28</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=24">Next
 </a></div>
                      <span id="lbSortBy">Sort by: </span>
                      <a id="lbDate" href="javascript:__doPostBack('lbDate','')">Date filed</a>
@@ -466,40 +466,38 @@ function __doPostBack(eventTarget, eventArgument) {
                   </div>
                
 </div>
-               <div class="alight"><p><a href="bill_res.aspx?congress=16&amp;q=SRN-1605"><span>SRN-1605: Congratulating and Commending the Gilas Pilipinas, the Philippine Men's National Basketball Team</span><br />Resolution Congratulating and Commending Gilas Pilipinas, the Philippine Men's Basketball Team, with Their Coaches and the Samahang Basketbol Ng Pilipinas (SBP), for Their Outstanding...
- Filed on October 5, 2015 by Angara, Juan Edgardo "Sonny" M.</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1604"><span>SRN-1604: Congratulating and Commending the Gilas Pilipinas Basketball Team</span><br />Resolution Congratulating and Commending the Gilas Pilipinas Basketball Team for Winning Silver in the Recently Concluded 2015 Fiba Asia Championship on October 3, 2015 At the Changsha...
- Filed on October 5, 2015 by Lapid, Manuel "Lito" M.</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1603"><span>SRN-1603: Japanese Encephalitis</span><br />Resolution Directing the Senate Committee on Health and Demography and Other Appropriate Senate Committees to Conduct An Inquiry, in Aid of Legislation, on the Reported Cases of Japanese...
- Filed on October 5, 2015 by Lapid, Manuel "Lito" M.</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1602"><span>SRN-1602: Wang-Od Oggay and Ligaya Fernando Amilbangsa (Manlilikha Ng Bayan Award)</span><br />Resolution Expressing the Sense of the Senate to Nominate Wang-Od  Oggay and Ligaya Fernando Amilbangsa for the Manlilikha Ng Bayan Award, Thereby Recognizing Them as National Living...
- Filed on October 1, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1601"><span>SRN-1601: Rice Terraces of the Iraynon-Bukidnon</span><br />Resolution Directing the National Commission for Culture and the Arts (NCCA) and Other Relevant Government Agencies to Ensure the Conservation and Preservation of the Antique Rice Terraces...
- Filed on October 1, 2015 by Legarda, Loren B.</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1600"><span>SRN-1600: Government Service Insurance System (GSIS)</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Commission on Audit Report That the Government Service Insurance System Spent a Total...
- Filed on September 29, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1599"><span>SRN-1599: Government Hospital Officials</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Report That the Commission on Audit Ordered Government Hospital Officials to Return a...
- Filed on September 29, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1598"><span>SRN-1598: Coa Audit Report Re National Housing Authority Use of Dap Funds</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Commission on Audit Report That the National Housing Authority Continued to Use...
- Filed on September 29, 2015 by Defensor Santiago, Miriam</a></p>
+               <div class="alight"><p><a href="bill_res.aspx?congress=16&amp;q=SRN-1581"><span>SRN-1581: Bureau of Customs</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Report That the Bureau of Customs Taxed a Martial Arts Fighter for a Championship Belt Filed on September 10, 2015 by Defensor Santiago, Miriam</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1580"><span>SRN-1580: Philippine Navy</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the 2014 Commission on Audit Report That the Philippine Navy Failed to Comply with the...
+ Filed on September 10, 2015 by Defensor Santiago, Miriam</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1579"><span>SRN-1579: Hydroelectric Plant</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Commission on Audit Report That the Power Sector Assets and Liabilities Management...
+ Filed on September 10, 2015 by Defensor Santiago, Miriam</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1578"><span>SRN-1578: Enforced Disappearance</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Report That Enforced Disappearance Remains a Problem in the Country Despite That...
+ Filed on September 10, 2015 by Defensor Santiago, Miriam</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1577"><span>SRN-1577: Fishing and Seafood Industries in Capiz Province</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Report That Fishing and Seafood Industries in Capiz Province Are Severely Suffering Amid Red Tide Filed on September 10, 2015 by Defensor Santiago, Miriam</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1576"><span>SRN-1576: Awardees of the Medal of Valor</span><br />Resolution Directing the Appropriate Committee/S to Inquire, Look Into, and Investigate, in Aid of Legislation, the Delay in the Issuance of the Implementing Rules and Regulations of...
+ Filed on September 9, 2015 by Trillanes, Antonio "Sonny" F.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1575"><span>SRN-1575: Extrajudicial Killing of Alcadev Executive Director Samarca, and Others</span><br />Resolution Directing the Appropriate Senate Committee to Conduct An Investigation, in Aid of Legislation, Into the Possible Case of Extrajudicial Killing of Alternative Learning Center for...
+ Filed on September 8, 2015 by Legarda, Loren B., Villar, Cynthia A.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1574"><span>SRN-1574: Lifting the Bank Secrecy Law on Tax Evasion Cases</span><br />Resolution Directing the Senate Committee on Ways and Means to Conduct An Investigation, in Aid of Legislation, on the Feasibility of Lifting the Bank Secrecy Law Provisions on Serious Tax...
+ Filed on September 8, 2015 by Angara, Juan Edgardo "Sonny" M.</a></p>
 </div>
                <div id="pnl_NavBottom">
 	
                   <div class="lis_pagesort">
                      <hr />
                      <div class="lis_pagenav">
-                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=19">Previous</a>
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=16">16</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=17">17</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=18">18</a> 
+                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=22">Previous</a>
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=19">19</a> 
-20 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=20">20</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=21">21</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=22">22</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=23">23</a> 
+23 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=24">24</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=25">25</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=21">Next
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=26">26</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=27">27</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=28">28</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=24">Next
 </a></div>
                      <span id="lbSortBy_bottom">Sort by: </span>
                      <a id="lbDate_bottom" href="javascript:__doPostBack('lbDate_bottom','')">Date filed</a>

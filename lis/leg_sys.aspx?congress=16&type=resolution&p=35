@@ -169,7 +169,7 @@
             
             -->            
                   
-            <form name="form1" method="post" action="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=20" id="form1" class="lis_div">
+            <form name="form1" method="post" action="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=35" id="form1" class="lis_div">
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="imgGo" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
@@ -444,18 +444,18 @@ function __doPostBack(eventTarget, eventArgument) {
 	
                   <div class="lis_pagesort">
                      <div class="lis_pagenav">
-                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=19">Previous</a>
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=16">16</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=17">17</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=18">18</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=19">19</a> 
-20 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=21">21</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=22">22</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=23">23</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=24">24</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=25">25</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=21">Next
+                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=34">Previous</a>
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=31">31</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=32">32</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=33">33</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=34">34</a> 
+35 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=36">36</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=37">37</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=38">38</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=39">39</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=40">40</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=36">Next
 </a></div>
                      <span id="lbSortBy">Sort by: </span>
                      <a id="lbDate" href="javascript:__doPostBack('lbDate','')">Date filed</a>
@@ -466,40 +466,36 @@ function __doPostBack(eventTarget, eventArgument) {
                   </div>
                
 </div>
-               <div class="alight"><p><a href="bill_res.aspx?congress=16&amp;q=SRN-1605"><span>SRN-1605: Congratulating and Commending the Gilas Pilipinas, the Philippine Men's National Basketball Team</span><br />Resolution Congratulating and Commending Gilas Pilipinas, the Philippine Men's Basketball Team, with Their Coaches and the Samahang Basketbol Ng Pilipinas (SBP), for Their Outstanding...
- Filed on October 5, 2015 by Angara, Juan Edgardo "Sonny" M.</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1604"><span>SRN-1604: Congratulating and Commending the Gilas Pilipinas Basketball Team</span><br />Resolution Congratulating and Commending the Gilas Pilipinas Basketball Team for Winning Silver in the Recently Concluded 2015 Fiba Asia Championship on October 3, 2015 At the Changsha...
- Filed on October 5, 2015 by Lapid, Manuel "Lito" M.</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1603"><span>SRN-1603: Japanese Encephalitis</span><br />Resolution Directing the Senate Committee on Health and Demography and Other Appropriate Senate Committees to Conduct An Inquiry, in Aid of Legislation, on the Reported Cases of Japanese...
- Filed on October 5, 2015 by Lapid, Manuel "Lito" M.</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1602"><span>SRN-1602: Wang-Od Oggay and Ligaya Fernando Amilbangsa (Manlilikha Ng Bayan Award)</span><br />Resolution Expressing the Sense of the Senate to Nominate Wang-Od  Oggay and Ligaya Fernando Amilbangsa for the Manlilikha Ng Bayan Award, Thereby Recognizing Them as National Living...
- Filed on October 1, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1601"><span>SRN-1601: Rice Terraces of the Iraynon-Bukidnon</span><br />Resolution Directing the National Commission for Culture and the Arts (NCCA) and Other Relevant Government Agencies to Ensure the Conservation and Preservation of the Antique Rice Terraces...
- Filed on October 1, 2015 by Legarda, Loren B.</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1600"><span>SRN-1600: Government Service Insurance System (GSIS)</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Commission on Audit Report That the Government Service Insurance System Spent a Total...
- Filed on September 29, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1599"><span>SRN-1599: Government Hospital Officials</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Report That the Commission on Audit Ordered Government Hospital Officials to Return a...
- Filed on September 29, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1598"><span>SRN-1598: Coa Audit Report Re National Housing Authority Use of Dap Funds</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Commission on Audit Report That the National Housing Authority Continued to Use...
- Filed on September 29, 2015 by Defensor Santiago, Miriam</a></p>
+               <div class="alight"><p><a href="bill_res.aspx?congress=16&amp;q=SRN-1485"><span>SRN-1485: Persons with Disabilities (PWDS)</span><br />Resolution Directing the Appropriate Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the State of Compliance and Implementation of Laws Empowering Persons with...
+ Filed on August 5, 2015 by Angara, Juan Edgardo "Sonny" M.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1484"><span>SRN-1484: Communities Affected by Super Typhoon Yolanda</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the United Nations Report Criticizing as Delayed and Inadequate Government Efforts At...
+ Filed on August 5, 2015 by Defensor Santiago, Miriam</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1483"><span>SRN-1483: Malnutrition</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Report That Double Malnutrition in the Philippines Has Increased Filed on August 4, 2015 by Defensor Santiago, Miriam</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1482"><span>SRN-1482: El Nino Affecting Rice Producftion</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Report That El Nino Is Negatively Affecting Rice Production Filed on August 4, 2015 by Defensor Santiago, Miriam</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1481"><span>SRN-1481: Illegal Fixing</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Report That Illegal Fixing Remains Rampant in the Quezon City Hall Filed on August 4, 2015 by Defensor Santiago, Miriam</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1480"><span>SRN-1480: Skyway Accident</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on Another Skyway Accident Reportedly Attributed to the Inferior Quality and Height of...
+ Filed on August 4, 2015 by Defensor Santiago, Miriam</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1479"><span>SRN-1479: Lease Agreement in Subic Base</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on Calls for the Senate to Investigate the Lease Agreement in Subic Base Filed on August 4, 2015 by Defensor Santiago, Miriam</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1478"><span>SRN-1478: Patients in the Philippines</span><br />Resolution Directing the Proper Seante Committee to Conduct An Inquiry, in Aid of Legislation, on the Report That Six Out of 10 Patients in the Philippines From 2007 to 2012 Have Been Filed...
+ Filed on August 4, 2015 by Defensor Santiago, Miriam</a></p>
 </div>
                <div id="pnl_NavBottom">
 	
                   <div class="lis_pagesort">
                      <hr />
                      <div class="lis_pagenav">
-                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=19">Previous</a>
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=16">16</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=17">17</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=18">18</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=19">19</a> 
-20 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=21">21</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=22">22</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=23">23</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=24">24</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=25">25</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=21">Next
+                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=34">Previous</a>
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=31">31</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=32">32</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=33">33</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=34">34</a> 
+35 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=36">36</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=37">37</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=38">38</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=39">39</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=40">40</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=36">Next
 </a></div>
                      <span id="lbSortBy_bottom">Sort by: </span>
                      <a id="lbDate_bottom" href="javascript:__doPostBack('lbDate_bottom','')">Date filed</a>

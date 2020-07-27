@@ -169,7 +169,7 @@
             
             -->            
                   
-            <form name="form1" method="post" action="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=20" id="form1" class="lis_div">
+            <form name="form1" method="post" action="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=54" id="form1" class="lis_div">
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="imgGo" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
@@ -444,18 +444,18 @@ function __doPostBack(eventTarget, eventArgument) {
 	
                   <div class="lis_pagesort">
                      <div class="lis_pagenav">
-                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=19">Previous</a>
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=16">16</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=17">17</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=18">18</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=19">19</a> 
-20 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=21">21</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=22">22</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=23">23</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=24">24</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=25">25</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=21">Next
+                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=53">Previous</a>
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=50">50</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=51">51</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=52">52</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=53">53</a> 
+54 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=55">55</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=56">56</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=57">57</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=58">58</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=59">59</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=55">Next
 </a></div>
                      <span id="lbSortBy">Sort by: </span>
                      <a id="lbDate" href="javascript:__doPostBack('lbDate','')">Date filed</a>
@@ -466,40 +466,37 @@ function __doPostBack(eventTarget, eventArgument) {
                   </div>
                
 </div>
-               <div class="alight"><p><a href="bill_res.aspx?congress=16&amp;q=SRN-1605"><span>SRN-1605: Congratulating and Commending the Gilas Pilipinas, the Philippine Men's National Basketball Team</span><br />Resolution Congratulating and Commending Gilas Pilipinas, the Philippine Men's Basketball Team, with Their Coaches and the Samahang Basketbol Ng Pilipinas (SBP), for Their Outstanding...
- Filed on October 5, 2015 by Angara, Juan Edgardo "Sonny" M.</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1604"><span>SRN-1604: Congratulating and Commending the Gilas Pilipinas Basketball Team</span><br />Resolution Congratulating and Commending the Gilas Pilipinas Basketball Team for Winning Silver in the Recently Concluded 2015 Fiba Asia Championship on October 3, 2015 At the Changsha...
- Filed on October 5, 2015 by Lapid, Manuel "Lito" M.</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1603"><span>SRN-1603: Japanese Encephalitis</span><br />Resolution Directing the Senate Committee on Health and Demography and Other Appropriate Senate Committees to Conduct An Inquiry, in Aid of Legislation, on the Reported Cases of Japanese...
- Filed on October 5, 2015 by Lapid, Manuel "Lito" M.</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1602"><span>SRN-1602: Wang-Od Oggay and Ligaya Fernando Amilbangsa (Manlilikha Ng Bayan Award)</span><br />Resolution Expressing the Sense of the Senate to Nominate Wang-Od  Oggay and Ligaya Fernando Amilbangsa for the Manlilikha Ng Bayan Award, Thereby Recognizing Them as National Living...
- Filed on October 1, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1601"><span>SRN-1601: Rice Terraces of the Iraynon-Bukidnon</span><br />Resolution Directing the National Commission for Culture and the Arts (NCCA) and Other Relevant Government Agencies to Ensure the Conservation and Preservation of the Antique Rice Terraces...
- Filed on October 1, 2015 by Legarda, Loren B.</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1600"><span>SRN-1600: Government Service Insurance System (GSIS)</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Commission on Audit Report That the Government Service Insurance System Spent a Total...
- Filed on September 29, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1599"><span>SRN-1599: Government Hospital Officials</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Report That the Commission on Audit Ordered Government Hospital Officials to Return a...
- Filed on September 29, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1598"><span>SRN-1598: Coa Audit Report Re National Housing Authority Use of Dap Funds</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Commission on Audit Report That the National Housing Authority Continued to Use...
- Filed on September 29, 2015 by Defensor Santiago, Miriam</a></p>
+               <div class="alight"><p><a href="bill_res.aspx?congress=16&amp;q=SRN-1333"><span>SRN-1333: Social Security Between the Republic of the Philippines and the Kingdom of Denmark</span><br />Resolution Concurring in the Ratification of the Agreement on Social Security Between the Republic of the Philippines and the Kingdom of Denmark Filed on May 12, 2015</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1332"><span>SRN-1332: Partnerships in Environmental Management for the Seas of East Asia (Pemsea)</span><br />Resolution Concurring in the Ratification of the Agreement Between the Government of the Republic of the Philippines and the Partnerships in Environmental Management for the Seas of East...
+ Filed on May 12, 2015</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1331"><span>SRN-1331: Nagoya Protocol</span><br />Resolution Concurring in the Accession to the Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising From Their Utilization to the Convention...
+ Filed on May 12, 2015</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1330"><span>SRN-1330: National Treasure and T'nalak Dream Weaver</span><br />Resolution Celebrating the Artistry and Grace of Cultural Icon Lang Dulay and Expressing the Deep Sympathy and Sincere Condolence of the Senate of the Philippines on the Passing of the...
+ Filed on May 11, 2015 by Lapid, Manuel "Lito" M.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1329"><span>SRN-1329: Hon. Domingo D. Lucenario Jr., the Philippine Ambassador to Pakistan</span><br />Resolution Expressing the Profound Condolences of the Senate of the Philippines on the Untimely Demise of Hon. Domingo D. Lucenario Jr., the Philippine Ambassador to Pakistan Filed on May 11, 2015 by Villar, Cynthia A.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1328"><span>SRN-1328: Philippine Envoy to Pakistan Hon. Domingo Lucenario Jr.</span><br />Resolution Expressing the Deep Sympathy and Sincere Condolence of the Senate of the Philippines on the Untimely Demise of the Philippine Envoy to Pakistan Hon. Domingo Lucenario Jr. Filed on May 11, 2015 by Lapid, Manuel "Lito" M., Angara, Juan Edgardo "Sonny" M., Aquino IV, Paolo Benigno "Bam", Binay, Maria Lourdes Nancy S., Cayetano, Alan Peter Companero S., Cayetano, Pia S., Drilon, Franklin M., Ejercito, Joseph Victor G., Escudero, Francis "Chiz" G., Guingona III, Teofisto "Tg", Honasan II, Gregorio B., Osmena III, Sergio R., Pimentel, Aquilino Koko III L., Poe, Grace L., Recto, Ralph G., Sotto III, Vicente C., Trillanes, Antonio "Sonny" F., Villar, Cynthia A.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1327"><span>SRN-1327: Flourishing Carnapping Industry</span><br />Resolution Urging the Senate Committee on Public Oder and Dangerous Drugs to Conduct An Inquiry, in Aid of Legislation, on the Alleged Existence of a Flourishing Carnapping Industry and the...
+ Filed on May 7, 2015 by Poe, Grace L.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1326"><span>SRN-1326: Earthquake Affected Familes Last October 15, 2013</span><br />Resolution Urging the Senate Committees on Local Government and Finance, to Update and Assess,In Aid of Legislation, on the Rebuilding and Reconstruction Efforts in Region Vii, in...
+ Filed on May 6, 2015 by Poe, Grace L.</a></p>
 </div>
                <div id="pnl_NavBottom">
 	
                   <div class="lis_pagesort">
                      <hr />
                      <div class="lis_pagenav">
-                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=19">Previous</a>
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=16">16</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=17">17</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=18">18</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=19">19</a> 
-20 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=21">21</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=22">22</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=23">23</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=24">24</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=25">25</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=21">Next
+                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=53">Previous</a>
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=50">50</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=51">51</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=52">52</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=53">53</a> 
+54 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=55">55</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=56">56</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=57">57</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=58">58</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=59">59</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=55">Next
 </a></div>
                      <span id="lbSortBy_bottom">Sort by: </span>
                      <a id="lbDate_bottom" href="javascript:__doPostBack('lbDate_bottom','')">Date filed</a>

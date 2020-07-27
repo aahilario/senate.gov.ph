@@ -169,7 +169,7 @@
             
             -->            
                   
-            <form name="form1" method="post" action="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=20" id="form1" class="lis_div">
+            <form name="form1" method="post" action="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=39" id="form1" class="lis_div">
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="imgGo" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
@@ -444,18 +444,18 @@ function __doPostBack(eventTarget, eventArgument) {
 	
                   <div class="lis_pagesort">
                      <div class="lis_pagenav">
-                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=19">Previous</a>
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=16">16</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=17">17</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=18">18</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=19">19</a> 
-20 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=21">21</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=22">22</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=23">23</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=24">24</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=25">25</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=21">Next
+                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=38">Previous</a>
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=35">35</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=36">36</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=37">37</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=38">38</a> 
+39 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=40">40</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=41">41</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=42">42</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=43">43</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=44">44</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=40">Next
 </a></div>
                      <span id="lbSortBy">Sort by: </span>
                      <a id="lbDate" href="javascript:__doPostBack('lbDate','')">Date filed</a>
@@ -466,40 +466,40 @@ function __doPostBack(eventTarget, eventArgument) {
                   </div>
                
 </div>
-               <div class="alight"><p><a href="bill_res.aspx?congress=16&amp;q=SRN-1605"><span>SRN-1605: Congratulating and Commending the Gilas Pilipinas, the Philippine Men's National Basketball Team</span><br />Resolution Congratulating and Commending Gilas Pilipinas, the Philippine Men's Basketball Team, with Their Coaches and the Samahang Basketbol Ng Pilipinas (SBP), for Their Outstanding...
- Filed on October 5, 2015 by Angara, Juan Edgardo "Sonny" M.</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1604"><span>SRN-1604: Congratulating and Commending the Gilas Pilipinas Basketball Team</span><br />Resolution Congratulating and Commending the Gilas Pilipinas Basketball Team for Winning Silver in the Recently Concluded 2015 Fiba Asia Championship on October 3, 2015 At the Changsha...
- Filed on October 5, 2015 by Lapid, Manuel "Lito" M.</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1603"><span>SRN-1603: Japanese Encephalitis</span><br />Resolution Directing the Senate Committee on Health and Demography and Other Appropriate Senate Committees to Conduct An Inquiry, in Aid of Legislation, on the Reported Cases of Japanese...
- Filed on October 5, 2015 by Lapid, Manuel "Lito" M.</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1602"><span>SRN-1602: Wang-Od Oggay and Ligaya Fernando Amilbangsa (Manlilikha Ng Bayan Award)</span><br />Resolution Expressing the Sense of the Senate to Nominate Wang-Od  Oggay and Ligaya Fernando Amilbangsa for the Manlilikha Ng Bayan Award, Thereby Recognizing Them as National Living...
- Filed on October 1, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1601"><span>SRN-1601: Rice Terraces of the Iraynon-Bukidnon</span><br />Resolution Directing the National Commission for Culture and the Arts (NCCA) and Other Relevant Government Agencies to Ensure the Conservation and Preservation of the Antique Rice Terraces...
- Filed on October 1, 2015 by Legarda, Loren B.</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1600"><span>SRN-1600: Government Service Insurance System (GSIS)</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Commission on Audit Report That the Government Service Insurance System Spent a Total...
- Filed on September 29, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1599"><span>SRN-1599: Government Hospital Officials</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Report That the Commission on Audit Ordered Government Hospital Officials to Return a...
- Filed on September 29, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1598"><span>SRN-1598: Coa Audit Report Re National Housing Authority Use of Dap Funds</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Commission on Audit Report That the National Housing Authority Continued to Use...
- Filed on September 29, 2015 by Defensor Santiago, Miriam</a></p>
+               <div class="alight"><p><a href="bill_res.aspx?congress=16&amp;q=SRN-1453"><span>SRN-1453: Sim Swap Scam</span><br />Resolution Urging the National Telecommunications Commission (NTC) to Act Swiftly on the Sim Swap Scam and Cases of Identity Theft Involving Postpaid Mobile Phone Subscribers, Jeopardizing...
+ Filed on July 27, 2015 by Poe, Grace L.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1452"><span>SRN-1452: Acef Scholarship Program</span><br />Resolution Directing the Senate Committee on Agriculture and Food to Investigate, in Aid of Legislation, the Current State of Acef Scholarship Program in Light of Reports and Complaints...
+ Filed on July 27, 2015 by Villar, Cynthia A.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1451"><span>SRN-1451: Online-Enabled Transportation Services</span><br />Resolution Urging the Senate Committee on Public Services to Conduct An Assessment, in Aid of Legislation, on Online-Enabled Transportation Services Including But Not Limited to Uber, Easy...
+ Filed on July 23, 2015 by Poe, Grace L.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1450"><span>SRN-1450: Malampaya Fund</span><br />Resolution Directing the Appropriate Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Conflicting Data of the Bureau of the Treasury and the Department of Energy on...
+ Filed on July 22, 2015 by Recto, Ralph G.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1449"><span>SRN-1449: Toxic and Hazardous Materials From Canada</span><br />Resolution Directing the Appropriate Senate Committee to Investigate, in Aid of Legislation, the Dumping of Canadian Trash Into the Country, and Institute Measures to Protect Public Health...
+ Filed on July 22, 2015 by Marcos, Ferdinand "Bongbong" R.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1448"><span>SRN-1448: Amusement Tax Collected by the LGUs in Metro Manila and Other Places Re: Any Film Festival Entry</span><br />Resolution Directing the Committees on Public Information and Mass Media, and on Ways and Means to Conduct An Inquiry, and Look Into, in Aid of Legislation, the Distribution of Amusement...
+ Filed on July 22, 2015 by Sotto III, Vicente C.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1447"><span>SRN-1447: Commending the Work of Lorenzo Lucero Mata</span><br />Resolution Commending the Work of Lorenzo Lucero Mata for His Dedication as a Public School Teacher and His Contribution to the Preservation of Philippine History Through the Cultural...
+ Filed on July 21, 2015 by Legarda, Loren B.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1446"><span>SRN-1446: Entry and Eventual Dumping of Waste Illegally Shipped From Canada</span><br />Resolution Directing the  Committees on Environment and Natural Resources and on Foreign Affairs to Look Into the Entry and Eventual Dumping At the Country's Sanitary Landfill of Waste...
+ Filed on July 21, 2015 by Legarda, Loren B.</a></p>
 </div>
                <div id="pnl_NavBottom">
 	
                   <div class="lis_pagesort">
                      <hr />
                      <div class="lis_pagenav">
-                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=19">Previous</a>
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=16">16</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=17">17</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=18">18</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=19">19</a> 
-20 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=21">21</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=22">22</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=23">23</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=24">24</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=25">25</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=21">Next
+                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=38">Previous</a>
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=35">35</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=36">36</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=37">37</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=38">38</a> 
+39 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=40">40</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=41">41</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=42">42</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=43">43</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=44">44</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=40">Next
 </a></div>
                      <span id="lbSortBy_bottom">Sort by: </span>
                      <a id="lbDate_bottom" href="javascript:__doPostBack('lbDate_bottom','')">Date filed</a>
