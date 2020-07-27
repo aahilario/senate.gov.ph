@@ -75,7 +75,7 @@
 &nbsp;GAD&nbsp;</div>
 <div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="/GAD/Bills&Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+<p><a href="../GAD/EDP%2018th%20GAD%20Bills4.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
 </div>
 </div>
 </td>
@@ -91,7 +91,7 @@
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjIyOTUxNjI5D2QWAgIBD2QWAgIBD2QWCgIBDw8WBh4IQ3NzQ2xhc3MFE2xpc19ib2xkX2xpbmtidXR0b24eB0VuYWJsZWRoHgRfIVNCAgJkZAIFDw8WAh4HVmlzaWJsZWhkZAIHDw8WAh8DaGRkAg0PDxYCHwNoZGQCDw8PFgIfA2hkZGRnLkO0vt9B+FdNLPXiBKDpfEiK7w==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjIyOTUxNjI5D2QWAgIBD2QWAgIBD2QWCgIBDw8WBh4IQ3NzQ2xhc3MFE2xpc19ib2xkX2xpbmtidXR0b24eB0VuYWJsZWRoHgRfIVNCAgJkZAIFDw8WAh4HVmlzaWJsZWhkZAIHDw8WAh8DaGRkAg0PDxYCHwNoZGQCDw8PFgIfA2hkZGSEndLfOSqaksA1CAiScmlLpQrvzw==" />
 </div>
 
 <script type="text/javascript">
@@ -114,7 +114,7 @@ function __doPostBack(eventTarget, eventArgument) {
 <div>
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="AB8B2AD5" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAL0yqT7AwLJ/IvGBwL4k9H6DAKLqrzFDSsd88uvryib73OCtWVYUStRyMgm" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBALwwNvsCwLJ/IvGBwL4k9H6DAKLqrzFDRa9GK7M58fJjvJV7Q3Pi4R+ULxo" />
 </div>
                <div>
                   <div id="pnlButtons" class="lis_navpanel">
