@@ -169,7 +169,7 @@
             
             -->            
                   
-            <form name="form1" method="post" action="leg_sys.aspx?congress=16&amp;type=bill&amp;p=10" id="form1" class="lis_div">
+            <form name="form1" method="post" action="leg_sys.aspx?congress=16&amp;type=bill&amp;p=29" id="form1" class="lis_div">
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="imgGo" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
@@ -439,18 +439,18 @@ function __doPostBack(eventTarget, eventArgument) {
 	
                   <div class="lis_pagesort">
                      <div class="lis_pagenav">
-                        Page: <a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=9">Previous</a>
-<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=6">6</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=7">7</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=8">8</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=9">9</a> 
-10 
-<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=11">11</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=12">12</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=13">13</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=14">14</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=15">15</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=11">Next
+                        Page: <a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=28">Previous</a>
+<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=25">25</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=26">26</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=27">27</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=28">28</a> 
+29 
+<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=30">30</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=31">31</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=32">32</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=33">33</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=34">34</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=30">Next
 </a></div>
                      <span id="lbSortBy">Sort by: </span>
                      <a id="lbDate" href="javascript:__doPostBack('lbDate','')">Date filed</a>
@@ -461,35 +461,32 @@ function __doPostBack(eventTarget, eventArgument) {
                   </div>
                
 </div>
-               <div class="alight"><p><a href="bill_res.aspx?congress=16&amp;q=SBN-3155"><span>SBN-3155: Civil Penalties and Damages Inflation Adjustment Act</span><br />An Act Providing the Procedure for the Regular Adjustment for Inflation of Civil Monetary Penalties as Provided in the Penal Code and Amount of Damages Caused by a Crime or Quasi-Delict Filed on January 28, 2016 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SBN-3154"><span>SBN-3154: Integrated Coastal Management Act</span><br />An Act to Adopt Integrated Coastal Management as a National Strategy to Ensure the Sustainable Development of the Coastal and Marine Environment and Resources and to Establish Supporting...
- Filed on January 27, 2016 by Legarda, Loren B., Villar, Cynthia A., Escudero, Francis "Chiz" G.</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SBN-3153"><span>SBN-3153: Extending the Life of the Human Rights Victims Claims Board</span><br />An Act Extending the Life of the Human Rights Victims Claims Board, Amending for This Purpose Section 29 of Republic Act No. 10368 Entitled, “An Act Providing for Reparation and Recognition...
- Filed on January 26, 2016 by Pimentel, Aquilino Koko III L.</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SBN-3152"><span>SBN-3152: Tax Exemption to Pia Alonzo Wurtzbach' Awards, Prices and Winnings</span><br />An Act Exempting From Income Tax the Prizes and Awards Given to Pia Alonzo Wurtzbach as Miss Universe 2015 Filed on January 26, 2016 by Recto, Ralph G.</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SBN-3151"><span>SBN-3151: Magna Carta for Scientists, Engineers, Researchers and Other S & T Personnel in the Philippines</span><br />An Act Amending Republic Act No. 8439, Otherwise Known as An Act Providing  a Magna Carta for Scientists, Engineers, Researchers and Other Science and Technology Personnel in Government Filed on January 26, 2016 by Aquino IV, Paolo Benigno "Bam"</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SBN-3150"><span>SBN-3150: The Philippine Islamic Financing Act of 2016</span><br />An Act Amending Republic Act No. 6848, Also Known as "Charter of Al-Amanah Islamic Investment Bank of the Philippines", and Providing for the Regulation and Organization of An Expanded...
- Filed on January 26, 2016 by Aquino IV, Paolo Benigno "Bam"</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SBN-3149"><span>SBN-3149: Reckless Driving Prevention Act</span><br />An Act Providing for Accessory Penalties for the Crime of Reckless Imprudence Committed While Operating a Motor Vehicle Filed on January 26, 2016 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SBN-3148"><span>SBN-3148: Marine Debris Research, Prevention, and Reduction  Act</span><br />An Act Establishing a Marine Debris Research, Prevention, and Reduction Program Filed on January 26, 2016 by Defensor Santiago, Miriam</a></p>
+               <div class="alight"><p><a href="bill_res.aspx?congress=16&amp;q=SBN-3003"><span>SBN-3003: Amending Sec. 24, Nirc (Rates of Tax on Taxable Income of Individuals)</span><br />An Act Amending Section 24 of the National Internal Revenue Code of 1997, as Amended, and for Other Purposes Filed on November 5, 2015 by Angara, Juan Edgardo "Sonny" M.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SBN-3002"><span>SBN-3002: Farm Tourism Development Act of 2015</span><br />An Act Providing for the Development and Promotion of Farm Tourism in the Philippines and for Other Purposes Filed on November 5, 2015 by Trillanes, Antonio "Sonny" F., Lapid, Manuel "Lito" M., Ejercito, Joseph Victor G., Angara, Juan Edgardo "Sonny" M., Villar, Cynthia A.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SBN-3001"><span>SBN-3001: Public Assembly Code</span><br />An Act Ensuring the Free Exercise by the People of Their Right Peaceably to Assemble and Petition the Government Filed on November 4, 2015 by Defensor Santiago, Miriam</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SBN-3000"><span>SBN-3000: Unlawful Acquisition, or Possession of Firearms and Ammunition</span><br />An Act Amending Republic Act No. 10591, Otherwise Known as An Act Providing for a Comprehensive Law on Firearms and Ammunition and Providing Penalties for Violations Thereof Filed on November 4, 2015 by Aquino IV, Paolo Benigno "Bam"</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SBN-2999"><span>SBN-2999: Road Speed Limiter Act of 2015</span><br />An Act Mandating the Installation of Speed Limiters and Setting Speed Limits for Public Utility Buses and for Other Purposes Filed on November 3, 2015 by Trillanes, Antonio "Sonny" F., Ejercito, Joseph Victor G., Defensor Santiago, Miriam, Legarda, Loren B.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SBN-2998"><span>SBN-2998: Amending Secs. 778 and 779, Civil Code (Succession)</span><br />An Act Amending the Civil Code, Also Known as Republic Act No. 386, Sections 778 and 779 on Succession Filed on October 29, 2015 by Defensor Santiago, Miriam</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SBN-2997"><span>SBN-2997: Government Propaganda Prohibition Act</span><br />An Act to Prohibit the Use of Government Funds for Propaganda Purposes Filed on October 29, 2015 by Defensor Santiago, Miriam</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SBN-2996"><span>SBN-2996: Safe Access in Fire Emergencies Act</span><br />An Act to Provide for Safe Access in Fire Emergencies Filed on October 29, 2015 by Defensor Santiago, Miriam</a></p>
 </div>
                <div id="pnl_NavBottom">
 	
                   <div class="lis_pagesort">
                      <hr />
                      <div class="lis_pagenav">
-                        Page: <a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=9">Previous</a>
-<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=6">6</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=7">7</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=8">8</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=9">9</a> 
-10 
-<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=11">11</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=12">12</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=13">13</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=14">14</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=15">15</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=11">Next
+                        Page: <a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=28">Previous</a>
+<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=25">25</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=26">26</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=27">27</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=28">28</a> 
+29 
+<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=30">30</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=31">31</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=32">32</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=33">33</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=34">34</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=bill&amp;p=30">Next
 </a></div>
                      <span id="lbSortBy_bottom">Sort by: </span>
                      <a id="lbDate_bottom" href="javascript:__doPostBack('lbDate_bottom','')">Date filed</a>
