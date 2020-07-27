@@ -74,7 +74,7 @@
 &nbsp;GAD&nbsp;</div>
 <div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="/GAD/Bills&Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+<p><a href="../GAD/EDP%2018th%20GAD%20Bills4.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
 </div>
 </div>
 </td>
@@ -137,7 +137,7 @@
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTc4NjQyOTc0Mw9kFgICAQ9kFgZmD2QWCAICDw8WBB4FV2lkdGgbAAAAAAAAcUABAAAAHgRfIVNCAoACZGQCBA8WAh4FVmFsdWVlZAIFDxYCHwJlZAIGDxYCHwJlZAIBD2QWAmYPDxYCHgRUZXh0BQhSZXMuIE5vLmRkAgIPZBYCZg8PFgIfAwUIUmVzLiBOby5kZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUFaW1nR28NMxfIxpn7GcFX0DX+AkPtwZV27w==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTc4NjQyOTc0Mw9kFgICAQ9kFgZmD2QWAgICDw8WBB4FV2lkdGgbAAAAAAAAcUABAAAAHgRfIVNCAoACZGQCAQ9kFgJmDw8WAh4EVGV4dAUIUmVzLiBOby5kZAICD2QWAmYPDxYCHwIFCFJlcy4gTm8uZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFBWltZ0dvP3o+Xy7XQuIkY5zOWnPj0SWzguM=" />
 </div>
 
 <script type="text/javascript">
@@ -160,7 +160,7 @@ function __doPostBack(eventTarget, eventArgument) {
 <div>
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="055069E4" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAKz4sS8BQLa9PCNDgK+sdPcCAKryeHrBgKw0qjyDgKx0azcAwKq5MfjBQLqheqoCY6mtglxP6WGSdYrIPRs5/wyhHc2" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAKF1eCYCQLa9PCNDgK+sdPcCAKryeHrBgKw0qjyDgKx0azcAwKq5MfjBQLqheqoCVwlvut8U/TAbNZNGYEzqUKOzjYN" />
 </div>
                <div id="pnl_Searchbox">
 	

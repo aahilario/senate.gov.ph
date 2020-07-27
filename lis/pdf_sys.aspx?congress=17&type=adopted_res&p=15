@@ -5,32 +5,32 @@
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
 	Adopted Resolutions - Senate of the Philippines
 </title><meta name="description" content="Browse or search republic acts and adopted resolutions." />
-   <script type="text/javascript" language="javascript" src="http://senate.gov.ph/scripts_web/div.js"></script>
-   <link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/print.css" media="print" /><link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/lis.css" media="all" /><link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml.css" media="all" /><link rel="stylesheet" type="text/css" href="http://senate.gov.ph/scripts_web/xhtml_body.css" media="all" /></head>
+   <script type="text/javascript" language="javascript" src="/scripts_web/div.js"></script>
+   <link rel="stylesheet" type="text/css" href="/scripts_web/print.css" media="print" /><link rel="stylesheet" type="text/css" href="../scripts_web/lis.css" media="all" /><link rel="stylesheet" type="text/css" href="../scripts_web/xhtml.css" media="all" /><link rel="stylesheet" type="text/css" href="../scripts_web/xhtml_body.css" media="all" /></head>
 <body>
-   <div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="../images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
-<table><tr><td><a href="../index.html">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
+   <div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="/images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
+<table><tr><td><a href="/">Home</a>&nbsp;</td><td>|</td><td><div onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
 &nbsp;About&nbsp;</div><div id="nav_About" class="div_hidden" onmouseover="ShowDiv('nav_About');HideSelect();" onmouseout="HideDiv('nav_About');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="../about/history.asp">History of the Senate</a></p>
-<p><a href="../about/symbols&#32;of&#32;authority.asp">Symbols of Authority</a></p><p><a href="../about/legpro.asp">Legislative Process</a></p>
+<div class="nav_dropdown"><p><a href="/about/rulesmenu.asp">Rules of the Senate</a></p><p><a href="/about/history.asp">History of the Senate</a></p>
+<p><a href="/about/symbols%20of%20authority.asp">Symbols of Authority</a></p><p><a href="/about/legpro.asp">Legislative Process</a></p>
 </div></div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
 &nbsp;Senators&nbsp;</div><div id="nav_Senators" class="div_hidden" onmouseover="ShowDiv('nav_Senators');HideSelect();" onmouseout="HideDiv('nav_Senators');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../senators/sen18th.asp">18th Congress Senators</a></p><p><a href="../senators/senlist.asp">List of Previous Senators</a></p>
-<p><a href="../senators/roll.asp">Roll of Senate President</a></p><p><a href="../senators/composition.asp">Composition of the Senate</a></p><p><a href="../senators/terms.asp">Terms of Office and Privileges</a></p>
+<div class="nav_dropdown"><p><a href="/senators/sen18th.asp">18th Congress Senators</a></p><p><a href="/senators/senlist.asp">List of Previous Senators</a></p>
+<p><a href="/senators/roll.asp">Roll of Senate President</a></p><p><a href="/senators/composition.asp">Composition of the Senate</a></p><p><a href="/senators/terms.asp">Terms of Office and Privileges</a></p>
 </div></div></td><td>|</td><td>
 <div onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">&nbsp;Committees&nbsp;</div>
 <div id="nav_Committees" class="div_hidden" onmouseover="ShowDiv('nav_Committees');HideSelect();" onmouseout="HideDiv('nav_Committees');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
-<p><a href="../committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="../images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
-<p><a href="../notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="../committee/schedwk.asp">Committee Schedule</a></p></div>
+<div class="nav_dropdown"><p><a href="/committee/ctte_list18th.pdf">Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/adhocctte_list18th.pdf">Oversight/Ad hoc Committee Chairmanship</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/duties.asp">Duties, Power &amp; Jurisdiction</a></p>
+<p><a href="/committee/ctte_mem18th.pdf">Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/committee/oversight_mem18th.pdf">Oversight/Ad hoc Committee Directory</a>&nbsp;<img src="/images/pdf1.gif" alt="Adobe PDF Format" width="12" height="12" /></p>
+<p><a href="/notice_ctte.asp">Notice of Committee Meetings</a></p><p><a href="/committee/schedwk.asp">Committee Schedule</a></p></div>
 </div></td><td>|</td><td><div onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
 &nbsp;Secretariat&nbsp;</div><div id="nav_Secretariat" class="div_hidden" onmouseover="ShowDiv('nav_Secretariat');HideSelect();" onmouseout="HideDiv('nav_Secretariat');ShowSelect();">
-<div class="nav_dropdown"><p><a href="../secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="../secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="../secretariat/osec.asp">Office of the Secretary</a></p>
-<p><a href="../secretariat/leg.asp">Legislation</a></p><p><a href="../secretariat/admin.asp">Administration and Financial Services</a></p>
-<p><a href="../secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="../secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
+<div class="nav_dropdown"><p><a href="/secretariat/mission_vision.asp">Vision and Mission</a></p><p><a href="/secretariat/officers.asp">Officers of the Secretariat</a></p><p><a href="/secretariat/osec.asp">Office of the Secretary</a></p>
+<p><a href="/secretariat/leg.asp">Legislation</a></p><p><a href="/secretariat/admin.asp">Administration and Financial Services</a></p>
+<p><a href="/secretariat/extaffairs.asp">External Affairs and Relations</a></p><p><a href="/secretariat/osaa.asp">Office of the Sergeant-At-Arms</a></p>
 </div></div></td><td>| </td>
 
 
@@ -39,14 +39,14 @@
 &nbsp;Legislative Documents&nbsp;</div>
 <div id="nav_LegislativeDocuments" class="div_hidden" onmouseover="ShowDiv('nav_LegislativeDocuments');HideSelect();" onmouseout="HideDiv('nav_LegislativeDocuments');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="leg_sys.aspx?congress=18&amp;type=bill">Bills</a></p>
-<p><a href="leg_sys.aspx?congress=18&amp;type=resolution">Resolutions</a></p>
-<p><a href="leg_sys.aspx?congress=18&amp;type=journal">Journals</a></p>
-<p><a href="leg_sys.aspx?congress=18&amp;type=committee_rpt">Committee Reports</a></p>
-<p><a href="pdf_sys.aspx?congress=18&amp;type=republic_act">Republic Acts</a></p>
-<p><a href="pdf_sys.aspx?congress=18&amp;type=adopted_res">Adopted Resolutions</a></p>
-<p><a href="../18th_congress/treaties_18thcongress.asp">Treaties</a></p>
-<p><a href="../statistical.pdf">Statistical Data</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=bill">Bills</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=resolution">Resolutions</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=journal">Journals</a></p>
+<p><a href="/lis/leg_sys.aspx?congress=18&type=committee_rpt">Committee Reports</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=republic_act">Republic Acts</a></p>
+<p><a href="/lis/pdf_sys.aspx?congress=18&type=adopted_res">Adopted Resolutions</a></p>
+<p><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a></p>
+<p><a href="/statistical.pdf">Statistical Data</a></p>
 </div>
 </div>
 </td>
@@ -57,13 +57,13 @@
 &nbsp;Publications&nbsp;</div>
 <div id="nav_publications" class="div_hidden" onmouseover="ShowDiv('nav_publications');HideSelect();" onmouseout="HideDiv('nav_publications');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../publications/sepo_publications.asp">SEPO Publications</a></p>
-<p><a href="../publications/stsro_publications.asp">STSRO Publications</a></p>
-<p><a href="../publications/lbrmo_publications.asp">LBRMO Publications</a></p>
-<p><a href="../publications/ils_publications.asp">ILS Publications</a></p>
-<p><a href="../publications/lrs_publications.asp">LRS Publications</a></p>
-<p><a href="../publications/lls_publications.asp">LLS Publications</a></p>
-<p><a href="../publications/other_publications.asp">Other Publications</a></p>
+<p><a href="/publications/sepo_publications.asp">SEPO Publications</a></p>
+<p><a href="/publications/stsro_publications.asp">STSRO Publications</a></p>
+<p><a href="/publications/lbrmo_publications.asp">LBRMO Publications</a></p>
+<p><a href="/publications/ils_publications.asp">ILS Publications</a></p>
+<p><a href="/publications/lrs_publications.asp">LRS Publications</a></p>
+<p><a href="/publications/lls_publications.asp">LLS Publications</a></p>
+<p><a href="/publications/other_publications.asp">Other Publications</a></p>
 </div>
 </div>
 </td>
@@ -74,7 +74,7 @@
 &nbsp;GAD&nbsp;</div>
 <div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="../GAD/Bills&amp;Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+<p><a href="../GAD/EDP%2018th%20GAD%20Bills4.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
 </div>
 </div>
 </td>
@@ -86,7 +86,7 @@
       <tr>
          <td id="content">
             <div id="lis_changecongress">
-               <a href="pdf_sys.aspx?congress=17&amp;type=adopted_res&amp;p=15#" onclick="ShowDiv('div_ChangeCongress');">Change Congress</a> | <a href="pdf_sys.aspx?congress=17&amp;type=adopted_res&amp;p=15#" onclick="ShowDiv('div_Help');">Help</a>
+               <a href="#" onclick="ShowDiv('div_ChangeCongress');">Change Congress</a> | <a href="#" onclick="ShowDiv('div_Help');">Help</a>
             </div>
 
             <div id="div_ChangeCongress">
@@ -97,17 +97,17 @@
 
              <hr />
              <ul>
-              	<li><a href="pdf_sys.aspx?congress=18&amp;type=adopted_res">Eighteenth (July 2019 - 2022)</a>
+              	<li><a href="pdf_sys.aspx?congress=18&type=adopted_res">Eighteenth (July 2019 - 2022)</a>
                 </li>
-                <li><a href="pdf_sys.aspx?congress=17&amp;type=adopted_res">Seventeenth (July 2016 - 2019)</a>
+                <li><a href="pdf_sys.aspx?congress=17&type=adopted_res">Seventeenth (July 2016 - 2019)</a>
                 </li>
-                <li><a href="pdf_sys.aspx?congress=16&amp;type=adopted_res">Sixteenth (July 2013 - 2016)</a>
+                <li><a href="pdf_sys.aspx?congress=16&type=adopted_res">Sixteenth (July 2013 - 2016)</a>
                 </li>
-				<li><a href="pdf_sys.aspx?congress=15&amp;type=adopted_res">Fifteenth (July 2010 - 2013)</a>
+				<li><a href="pdf_sys.aspx?congress=15&type=adopted_res">Fifteenth (July 2010 - 2013)</a>
                 </li>
-                <li><a href="pdf_sys.aspx?congress=14&amp;type=adopted_res">Fourteenth (July 2007 - 2010)</a>
+                <li><a href="pdf_sys.aspx?congress=14&type=adopted_res">Fourteenth (July 2007 - 2010)</a>
                 </li>
-                <li><a href="pdf_sys.aspx?congress=13&amp;type=adopted_res">Thirteenth (July 2004 - 2007)</a>
+                <li><a href="pdf_sys.aspx?congress=13&type=adopted_res">Thirteenth (July 2004 - 2007)</a>
                 </li>
              </ul>       
             </div>
@@ -128,7 +128,7 @@
                <p class="p15_bottom">
                   Example: <em>"ARMM election" -amendment</em></p>
                </small></blockquote>
-               <p class="p15_bottom">Note: If you prefer to use a more advanced search, please use the <a href="../lis.aspx">Legislative Information System</a>.</p>
+               <p class="p15_bottom">Note: If you prefer to use a more advanced search, please use the <a href="/lis.aspx">Legislative Information System</a>.</p>
             </div>
             <p class="h1_bold">Adopted Resolutions <span class="h1_sub">(17th Congress)</span></p>
             <br />
@@ -137,7 +137,7 @@
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTc4NjQyOTc0Mw9kFgICAQ9kFgZmD2QWCAICDw8WBB4FV2lkdGgbAAAAAAAAcUABAAAAHgRfIVNCAoACZGQCBA8WAh4FVmFsdWVlZAIFDxYCHwJlZAIGDxYCHwJlZAIBD2QWAmYPDxYCHgRUZXh0BQhSZXMuIE5vLmRkAgIPZBYCZg8PFgIfAwUIUmVzLiBOby5kZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUFaW1nR286MiwunJIcfh481rcdKsTNDZGQtQ==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTc4NjQyOTc0Mw9kFgICAQ9kFgZmD2QWAgICDw8WBB4FV2lkdGgbAAAAAAAAcUABAAAAHgRfIVNCAoACZGQCAQ9kFgJmDw8WAh4EVGV4dAUIUmVzLiBOby5kZAICD2QWAmYPDxYCHwIFCFJlcy4gTm8uZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFBWltZ0dvP3o+Xy7XQuIkY5zOWnPj0SWzguM=" />
 </div>
 
 <script type="text/javascript">
@@ -160,7 +160,7 @@ function __doPostBack(eventTarget, eventArgument) {
 <div>
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="055069E4" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAL9/PeSBwLa9PCNDgK+sdPcCAKryeHrBgKw0qjyDgKx0azcAwKq5MfjBQLqheqoCbEwNhJdXiT5UhFBkEBl0j+XkFa3" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAKF1eCYCQLa9PCNDgK+sdPcCAKryeHrBgKw0qjyDgKx0azcAwKq5MfjBQLqheqoCVwlvut8U/TAbNZNGYEzqUKOzjYN" />
 </div>
                <div id="pnl_Searchbox">
 	
@@ -171,7 +171,7 @@ function __doPostBack(eventTarget, eventArgument) {
 						&nbsp;
                         <span id="lbKeyword">Title:</span>
                         <input name="txtKeyword" type="text" maxlength="200" id="txtKeyword" style="width:272px;" />
-                        <input type="image" name="imgGo" id="imgGo" src="../images/go2_small.png" alt="Go" align="top" style="border-width:0px;" />
+                        <input type="image" name="imgGo" id="imgGo" src="/images/go2_small.png" alt="Go" align="top" style="border-width:0px;" />
                         <a href="pdf_sys.aspx?congress=17&amp;type=adopted_res">Clear</a> </p>
                      </div>
                
@@ -190,8 +190,8 @@ function __doPostBack(eventTarget, eventArgument) {
 <a href="pdf_sys.aspx?congress=17&amp;type=adopted_res&amp;p=13">13</a> 
 <a href="pdf_sys.aspx?congress=17&amp;type=adopted_res&amp;p=14">14</a> 
 15 
-<a href="http://senate.gov.ph/lis/pdf_sys.aspx?congress=17&amp;type=adopted_res&amp;p=16">16</a> 
-<a href="http://senate.gov.ph/lis/pdf_sys.aspx?congress=17&amp;type=adopted_res&amp;p=16">Next
+<a href="pdf_sys.aspx?congress=17&amp;type=adopted_res&amp;p=16">16</a> 
+<a href="pdf_sys.aspx?congress=17&amp;type=adopted_res&amp;p=16">Next
 </a></div>
                      Sort by:
                      <a id="lbType" href="javascript:__doPostBack('lbType','')">Res. No.</a>
@@ -200,19 +200,19 @@ function __doPostBack(eventTarget, eventArgument) {
                   </div>
                
 </div>
-               <div class="alight"><p><a href="http://senate.gov.ph/17th_congress/resolutions/resno14.pdf"><span>Adopted Resolution No. 14</span><br /> Resolution Honoring and Commending the Outstanding Philippine Soldiers (TOPS) of 2016 Awarded by the Metrobank Foundation, Incorporated and the Rotary Club of Makati Metro</a> <img src="../images/pdf1.gif" alt="PDF icon" /> <small>121.8KB</small></p>
-<p><a href="http://senate.gov.ph/17th_congress/resolutions/resno13.pdf"><span>Adopted Resolution No. 13</span><br /> Resolution Congratulating and Commending the Awardees of the 2016 Metrobank Foundation- Rotary Club of New Manila East Search for the Countrys Outstanding Police Officers in Service (COPS)</a> <img src="../images/pdf1.gif" alt="PDF icon" /> <small>116.3KB</small></p>
-<p><a href="http://senate.gov.ph/17th_congress/resolutions/resno12.pdf"><span>Adopted Resolution No. 12</span><br /> Resolution Honoring and Commending the Oustanding Teachers of 2016 Awarded by the Metrobank Foundation, Inc.</a> <img src="../images/pdf1.gif" alt="PDF icon" /> <small>99.2KB</small></p>
-<p><a href="http://senate.gov.ph/17th_congress/resolutions/resno11.pdf"><span>Adopted Resolution No. 11</span><br /> Resolution Expressing the Sense of the Senate to Condemn in the Strongest Possible Terms the Bombing At the Night Market in Roxas Avenue, Davao City That Claimed Fifteen (15) Innocent Lives...
-</a> <img src="../images/pdf1.gif" alt="PDF icon" /> <small>598.9KB</small></p>
-<p><a href="http://senate.gov.ph/17th_congress/resolutions/resno10.pdf"><span>Adopted Resolution No. 10</span><br /> Resolution Commending and Congratulating Hidilyn Diaz for Winning the Silver Medal in the Womens 53Kg Category in Weightlifting in the Rio 2016 Olympics</a> <img src="../images/pdf1.gif" alt="PDF icon" /> <small>81.2KB</small></p>
-<p><a href="http://senate.gov.ph/17th_congress/resolutions/resno9.pdf"><span>Adopted Resolution No. 9</span><br /> Resolution Repealing Section 8 of Resolution No. 5, as Amended, Otherwise Known as the Senate Rules of Procedure Governing Inquiries in Aid of Legislation</a> <img src="../images/pdf1.gif" alt="PDF icon" /> <small>81.9KB</small></p>
-<p><a href="http://senate.gov.ph/17th_congress/resolutions/resno8.pdf"><span>Adopted Resolution No. 8</span><br /> Resolution Recognizing and Commending Marestella Torres-Sunang for Winning Gold in the Womens Long Jump Event in the Kazakstan Open Held Last July 4, 2016, and Breaking the Philippine...
-</a> <img src="../images/pdf1.gif" alt="PDF icon" /> <small>97.2KB</small></p>
-<p><a href="http://senate.gov.ph/17th_congress/resolutions/resno3.pdf"><span>Adopted Resolution No. 3</span><br /> Resolution Amending Section 13 (35) Rule X of the Senate Rules by Dividing Into Two Separate Standing Committees the Committee on Games, Amusement and Sports</a> <img src="../images/pdf1.gif" alt="PDF icon" /> <small>96.9KB</small></p>
-<p><a href="http://senate.gov.ph/17th_congress/resolutions/resno7.pdf"><span>Adopted Resolution No. 7</span><br /> Resolution Recognizing, Commending and Extending Well-Wishes to the Twelve (12) Athletes Representing the Philippines in Various Events At the 2016 Summer Olympic Games in Rio De Janeiro,...
-</a> <img src="../images/pdf1.gif" alt="PDF icon" /> <small>138.6KB</small></p>
-<p><a href="http://senate.gov.ph/17th_congress/resolutions/resno6.pdf"><span>Adopted Resolution No. 6</span><br /> Resolution Commending and Congratulating Mighty Sports Philippines Team for Topping the 38th Jones Cup in An Eight-Game Sweep Held From July 23-31, 2016, in Taipei, Taiwan</a> <img src="../images/pdf1.gif" alt="PDF icon" /> <small>81.9KB</small></p>
+               <div class="alight"><p><a href="/17th_congress/resolutions/resno14.pdf"><span>Adopted Resolution No. 14</span><br /> Resolution Honoring and Commending the Outstanding Philippine Soldiers (TOPS) of 2016 Awarded by the Metrobank Foundation, Incorporated and the Rotary Club of Makati Metro</a> <img src="/images/pdf1.gif" alt="PDF icon" /> <small>121.8KB</small></p>
+<p><a href="/17th_congress/resolutions/resno13.pdf"><span>Adopted Resolution No. 13</span><br /> Resolution Congratulating and Commending the Awardees of the 2016 Metrobank Foundation- Rotary Club of New Manila East Search for the Countrys Outstanding Police Officers in Service (COPS)</a> <img src="/images/pdf1.gif" alt="PDF icon" /> <small>116.3KB</small></p>
+<p><a href="/17th_congress/resolutions/resno12.pdf"><span>Adopted Resolution No. 12</span><br /> Resolution Honoring and Commending the Oustanding Teachers of 2016 Awarded by the Metrobank Foundation, Inc.</a> <img src="/images/pdf1.gif" alt="PDF icon" /> <small>99.2KB</small></p>
+<p><a href="/17th_congress/resolutions/resno11.pdf"><span>Adopted Resolution No. 11</span><br /> Resolution Expressing the Sense of the Senate to Condemn in the Strongest Possible Terms the Bombing At the Night Market in Roxas Avenue, Davao City That Claimed Fifteen (15) Innocent Lives...
+</a> <img src="/images/pdf1.gif" alt="PDF icon" /> <small>598.9KB</small></p>
+<p><a href="/17th_congress/resolutions/resno10.pdf"><span>Adopted Resolution No. 10</span><br /> Resolution Commending and Congratulating Hidilyn Diaz for Winning the Silver Medal in the Womens 53Kg Category in Weightlifting in the Rio 2016 Olympics</a> <img src="/images/pdf1.gif" alt="PDF icon" /> <small>81.2KB</small></p>
+<p><a href="/17th_congress/resolutions/resno9.pdf"><span>Adopted Resolution No. 9</span><br /> Resolution Repealing Section 8 of Resolution No. 5, as Amended, Otherwise Known as the Senate Rules of Procedure Governing Inquiries in Aid of Legislation</a> <img src="/images/pdf1.gif" alt="PDF icon" /> <small>81.9KB</small></p>
+<p><a href="/17th_congress/resolutions/resno8.pdf"><span>Adopted Resolution No. 8</span><br /> Resolution Recognizing and Commending Marestella Torres-Sunang for Winning Gold in the Womens Long Jump Event in the Kazakstan Open Held Last July 4, 2016, and Breaking the Philippine...
+</a> <img src="/images/pdf1.gif" alt="PDF icon" /> <small>97.2KB</small></p>
+<p><a href="/17th_congress/resolutions/resno3.pdf"><span>Adopted Resolution No. 3</span><br /> Resolution Amending Section 13 (35) Rule X of the Senate Rules by Dividing Into Two Separate Standing Committees the Committee on Games, Amusement and Sports</a> <img src="/images/pdf1.gif" alt="PDF icon" /> <small>96.9KB</small></p>
+<p><a href="/17th_congress/resolutions/resno7.pdf"><span>Adopted Resolution No. 7</span><br /> Resolution Recognizing, Commending and Extending Well-Wishes to the Twelve (12) Athletes Representing the Philippines in Various Events At the 2016 Summer Olympic Games in Rio De Janeiro,...
+</a> <img src="/images/pdf1.gif" alt="PDF icon" /> <small>138.6KB</small></p>
+<p><a href="/17th_congress/resolutions/resno6.pdf"><span>Adopted Resolution No. 6</span><br /> Resolution Commending and Congratulating Mighty Sports Philippines Team for Topping the 38th Jones Cup in An Eight-Game Sweep Held From July 23-31, 2016, in Taipei, Taiwan</a> <img src="/images/pdf1.gif" alt="PDF icon" /> <small>81.9KB</small></p>
 </div>
                <div id="pnl_NavBottom">
 	
@@ -229,8 +229,8 @@ function __doPostBack(eventTarget, eventArgument) {
 <a href="pdf_sys.aspx?congress=17&amp;type=adopted_res&amp;p=13">13</a> 
 <a href="pdf_sys.aspx?congress=17&amp;type=adopted_res&amp;p=14">14</a> 
 15 
-<a href="http://senate.gov.ph/lis/pdf_sys.aspx?congress=17&amp;type=adopted_res&amp;p=16">16</a> 
-<a href="http://senate.gov.ph/lis/pdf_sys.aspx?congress=17&amp;type=adopted_res&amp;p=16">Next
+<a href="pdf_sys.aspx?congress=17&amp;type=adopted_res&amp;p=16">16</a> 
+<a href="pdf_sys.aspx?congress=17&amp;type=adopted_res&amp;p=16">Next
 </a></div>
                      Sort by:
                      <a id="lbType_bottom" href="javascript:__doPostBack('lbType_bottom','')">Res. No.</a>
@@ -250,21 +250,21 @@ Legislative Documents
 
 <div class="sidepane_nav">
 	<ul>
-		<li><a href="leg_sys.aspx?congress=17&amp;type=bill">Bills</a>
+		<li><a href="/lis/leg_sys.aspx?congress=17&amp;type=bill">Bills</a>
 		</li>
-		<li><a href="leg_sys.aspx?congress=17&amp;type=resolution">Resolutions</a>
+		<li><a href="/lis/leg_sys.aspx?congress=17&amp;type=resolution">Resolutions</a>
 		</li>
-		<li><a href="leg_sys.aspx?congress=17&amp;type=journal">Journals</a>
+		<li><a href="/lis/leg_sys.aspx?congress=17&amp;type=journal">Journals</a>
 		</li>
-		<li><a href="leg_sys.aspx?congress=17&amp;type=committee_rpt">Committee Reports</a>
+		<li><a href="/lis/leg_sys.aspx?congress=17&amp;type=committee_rpt">Committee Reports</a>
 		</li>
-		<li><a href="pdf_sys.aspx?congress=17&amp;type=republic_act">Republic Acts</a>
+		<li><a href="/lis/pdf_sys.aspx?congress=17&amp;type=republic_act">Republic Acts</a>
 		</li>
-		<li><a href="pdf_sys.aspx?congress=17&amp;type=adopted_res">Adopted Resolutions</a>
+		<li><a href="/lis/pdf_sys.aspx?congress=17&amp;type=adopted_res">Adopted Resolutions</a>
 		</li>
-		<li><a href="../18th_congress/treaties_18thcongress.asp">Treaties</a>
+		<li><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a>
 		</li>
-		<li><a href="../statistical.pdf">Statistical Data</a>
+		<li><a href="/statistical.pdf">Statistical Data</a>
 		</li>
 	</ul>
 </div>
@@ -274,7 +274,7 @@ Note
 </div>
 
 <div class="sidepane_nav">
-If you prefer to use a more advanced search, please use the <a href="../lis.aspx">Legislative Information System</a>.
+If you prefer to use a more advanced search, please use the <a href="/lis.aspx">Legislative Information System</a>.
 </div>
          </td>
       </tr>
@@ -283,8 +283,8 @@ If you prefer to use a more advanced search, please use the <a href="../lis.aspx
 	<td style="text-align: left; color: white; width: 381px;">© Senate of the Philippines. All rights reserved.</td>
 <td style="text-align: right">
 <a href="../job.pdf">Job Openings </a></a>| 
-<a href="../contact18thcongress.asp">Contact Info</a> | <a href="../rss.asp">RSS Feeds</a> <a href="../rss.asp">
-<img src="../images/feed10.png" alt="RSS icon" /></a> | <a href="../search.aspx">Search</a> | <a href="../sitemap.asp">Site Map</a></td></tr></table></div></div>
+<a href="/contact18thcongress.asp">Contact Info</a> | <a href="/rss.asp">RSS Feeds</a> <a href="/rss.asp">
+<img src="/images/feed10.png" alt="RSS icon" /></a> | <a href="/search.aspx">Search</a> | <a href="/sitemap.asp">Site Map</a></td></tr></table></div></div>
 
 
 </body>
