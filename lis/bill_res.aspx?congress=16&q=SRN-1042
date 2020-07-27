@@ -1,16 +1,12 @@
 
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
 
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Page Unavailable - Senate of the Philippines</title>
-<script type="text/javascript" language="javascript" src="/scripts_web/div.js"></script>
-<link rel="stylesheet" type="text/css" href="/scripts_web/print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="/scripts_web/xhtml.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/scripts_web/xhtml_body.css" media="all" />
-</head>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	16th Congress - Senate Resolution No. 1042 - Senate of the Philippines
+</title>
+   <script type="text/javascript" language="javascript" src="/scripts_web/div.js"></script>
+   <link rel="stylesheet" type="text/css" href="/scripts_web/print.css" media="print" /><link rel="stylesheet" type="text/css" href="../scripts_web/lis.css" media="all" /><link rel="stylesheet" type="text/css" href="../scripts_web/xhtml.css" media="all" /><link rel="stylesheet" type="text/css" href="../scripts_web/xhtml_body.css" media="all" /></head>
 
 <body>
    <div class="xhtml_nav"><img alt="Senate of the Philippines banner" src="/images/website_banner18th.jpg" class="nav_logo" width="800" height="96" /><div id="nav_top">
@@ -90,20 +86,94 @@
    <table id="container">
       <tr>
          <td id="content">
-           <p class="h1_bold">Page Unavailable</p>
-			<br />
-            <p>
-                We&#39;re sorry but the page you requested could not be 
-				found.<br />The page might have been removed, had its 
-				name changed,
-                or is temporarily unavailable.</p>
-            <p>
-                To look for the page, you may <a href="/search.aspx">
-				Search</a> our site
-                or browse the <a href="/sitemap.asp">Site Map</a>.</p>
+            16th Congress<br />Senate Resolution No. 1042<div class="lis_doctitle"><p class="h1_bold">SENIOR CITIZENS (IMPLEMENTATION OF R.A. NOS. 7432 AND 9994)</p></div>Filed on December 1, 2014 by Poe, Grace L.
+            <form name="form1" method="post" action="bill_res.aspx?congress=16&amp;q=SRN-1042" id="form1">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjIyOTUxNjI5D2QWAgIBD2QWAgIBD2QWCgIBDw8WBh4IQ3NzQ2xhc3MFE2xpc19ib2xkX2xpbmtidXR0b24eB0VuYWJsZWRoHgRfIVNCAgJkZAIFDw8WAh4HVmlzaWJsZWhkZAIHDw8WAh8DaGRkAg0PDxYCHwNoZGQCDw8PFgIfA2hkZGSEndLfOSqaksA1CAiScmlLpQrvzw==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="AB8B2AD5" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBALwwNvsCwLJ/IvGBwL4k9H6DAKLqrzFDRa9GK7M58fJjvJV7Q3Pi4R+ULxo" />
+</div>
+               <div>
+                  <div id="pnlButtons" class="lis_navpanel">
+	
+                     <a id="lbOverview" disabled="disabled" class="lis_bold_linkbutton">Overview</a>&nbsp;|
+                     <a id="lbCtte" href="javascript:__doPostBack('lbCtte','')">Committee Referral</a>&nbsp;|
+                     
+                     
+                     <a id="lbHistory" href="javascript:__doPostBack('lbHistory','')">Leg. History</a>
+                     <span id="lbHistory_div">|</span>
+                     
+                     
+                     <a id="lbAll" href="javascript:__doPostBack('lbAll','')">All Information</a><br />
+                  
+</div>
+               </div>
+            </form>            
+            <div id="lis_download">Download <img src="/images/pdf1.gif" alt="PDF icon" /><ul><li><a href="/lisdata/2015317267!.pdf">SRN-1042 (as filed)</a><br /><small>12/3/2014</small> <small>72.8KB</small></li>
+</ul>
+</div>
+<p>Long title</p><blockquote>RESOLUTION URGING THE SENATE COMMITTEES ON JUSTICE AND HUMAN RIGHTS AND SOCIAL JUSTICE, WELFARE AND RURAL DEVELOPMENT TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, AS TO THE IMPLEMENTATION OF REPUBLIC ACT NUMBERS 7432 AND 9994 BENEFITING OUR SENIOR CITIZENS AND THE HURDLES LEADING TO VARIOUS INTERPRETATIONS AND COMPLIANCE TO SAID LAWS, WITH THE OBJECTIVE OF FORMULATING A UNIFORM SET OF RULES OR GUIDELINES FOR ITS EFFECTIVE IMPLEMENTATION</blockquote>
+<p>Scope</p><blockquote>National</blockquote>
+<p>Legislative status</p><blockquote>Pending in the Committee (12/3/2014)</blockquote>
+
          </td>
          <td id="sidepane">
-         	<div id="sidepane_l2"></div></td>
+         	<div id="sidepane_l2"></div><div class="header_pane">
+Legislative Documents
+</div>
+
+<div class="sidepane_nav">
+	<ul>
+		<li><a href="/lis/leg_sys.aspx?congress=16&amp;type=bill">Bills</a>
+		</li>
+		<li><a href="/lis/leg_sys.aspx?congress=16&amp;type=resolution">Resolutions</a>
+		</li>
+		<li><a href="/lis/leg_sys.aspx?congress=16&amp;type=journal">Journals</a>
+		</li>
+		<li><a href="/lis/leg_sys.aspx?congress=16&amp;type=committee_rpt">Committee Reports</a>
+		</li>
+		<li><a href="/lis/pdf_sys.aspx?congress=16&amp;type=republic_act">Republic Acts</a>
+		</li>
+		<li><a href="/lis/pdf_sys.aspx?congress=16&amp;type=adopted_res">Adopted Resolutions</a>
+		</li>
+		<li><a href="/18th_congress/treaties_18thcongress.asp">Treaties</a>
+		</li>
+		<li><a href="/statistical.pdf">Statistical Data</a>
+		</li>
+	</ul>
+</div>
+
+<div class="header_pane">
+Note
+</div>
+
+<div class="sidepane_nav">
+If you prefer to use a more advanced search, please use the <a href="/lis.aspx">Legislative Information System</a>.
+</div>
+         </td>
       </tr>
    </table>
    <div class="xhtml_nav"><div id="nav_bottom"><table><tr>
@@ -116,4 +186,3 @@
 
 </body>
 
-</html>

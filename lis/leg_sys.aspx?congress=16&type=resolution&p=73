@@ -169,7 +169,7 @@
             
             -->            
                   
-            <form name="form1" method="post" action="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=75" id="form1" class="lis_div">
+            <form name="form1" method="post" action="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=73" id="form1" class="lis_div">
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="imgGo" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
@@ -444,18 +444,18 @@ function __doPostBack(eventTarget, eventArgument) {
 	
                   <div class="lis_pagesort">
                      <div class="lis_pagenav">
-                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=74">Previous</a>
+                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=72">Previous</a>
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=69">69</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=70">70</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=71">71</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=72">72</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=73">73</a> 
+73 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=74">74</a> 
-75 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=75">75</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=76">76</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=77">77</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=78">78</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=79">79</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=80">80</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=76">Next
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=74">Next
 </a></div>
                      <span id="lbSortBy">Sort by: </span>
                      <a id="lbDate" href="javascript:__doPostBack('lbDate','')">Date filed</a>
@@ -466,33 +466,39 @@ function __doPostBack(eventTarget, eventArgument) {
                   </div>
                
 </div>
-               <div class="alight"><p><a href="bill_res.aspx?congress=16&amp;q=SRN-1165"><span>SRN-1165: Papal Security Members</span><br />Resolution Directing the Proper Senate Committee, to Conduct An Inquiry, in Aid of Legislation, on the Report That the Papal Security Members Did Not Get Right Amount of Their Allowance Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1164"><span>SRN-1164: Light Rail Transit (LRT)</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Report That the Light Rail Transit (LRT) Suffered a Ticket Shortage Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1163"><span>SRN-1163: New Bilibid Prison</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Reported Rampant Drug Trade Inside New Bilibid Prison Perpetrated by Notorious Drug Lord Inmates Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1162"><span>SRN-1162: Hepatitis-B</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, to Investigate the Increasing Incidence of Hepatitis B in the Philippines Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1161"><span>SRN-1161: Crashed Drones</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Reported Discoveries and Recoveries of Crashed Drones, Allegedly Owned by the U.S...
+               <div class="alight"><p><a href="bill_res.aspx?congress=16&amp;q=SRN-1181"><span>SRN-1181: World Radio Day</span><br />Resolution Urging the National Government to Lead the National Observance of World Radio Day Every Thirteenth (13TH) Day of February in Recognition of the Important Role of Radio as a...
+ Filed on February 17, 2015 by Legarda, Loren B.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1180"><span>SRN-1180: Recommending and Awarding of the Medal of Valor to the Surviving Saf Officers and Wounded Personnel</span><br />Resolution Recommending the Awarding of the Medal of Valor to the Surviving Saf Officers and Wounded Personnel Who Directly Participated in the Police Operations in Mamasapano, Maguindanao...
+ Filed on February 16, 2015 by Aquino IV, Paolo Benigno "Bam"</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1179"><span>SRN-1179: Payment of the International Passenger Service Charge (IPSC) or Airport Terminal Fee</span><br />Resolution Strongly Urging the Manila International Airport Authority (MIAA) to Recall the Miaa Memorandum Circular No. 8, Series of 2014, Until After Miaa and Other Concerned Government...
+ Filed on February 11, 2015 by Villar, Cynthia A., Pimentel, Aquilino Koko III L., Binay, Maria Lourdes Nancy S., Cayetano, Alan Peter Companero S., Drilon, Franklin M., Recto, Ralph G., Legarda, Loren B., Osmena III, Sergio R., Guingona III, Teofisto "Tg", Sotto III, Vicente C., Ejercito, Joseph Victor G., Honasan II, Gregorio B., Lapid, Manuel "Lito" M., Angara, Juan Edgardo "Sonny" M., Aquino IV, Paolo Benigno "Bam", Marcos, Ferdinand "Bongbong" R., Cayetano, Pia S., Trillanes, Antonio "Sonny" F., Escudero, Francis "Chiz" G., Poe, Grace L.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1178"><span>SRN-1178: World Radio Day</span><br />Resolution Recognizing the World Radio Day on February 13 of Every Year and Encouraging the National Observance of the Event Through Appropriate Activities Filed on February 11, 2015 by Villar, Cynthia A.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1177"><span>SRN-1177: Road Management</span><br />Resolution Directing the Senate Committee on Public Services to Conduct An Inquiry and Assessment, in Aid of Legislation, Towards Crafting a Comprehensive, Integrated and Interdisciplinary...
+ Filed on February 10, 2015 by Revilla Jr., Ramon A.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1176"><span>SRN-1176: Philippine Health Insurance Corporation (Philhealth)</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Coa Audit Reports That for Two Consecutive Years, the Philippine Health Insurance...
  Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1160"><span>SRN-1160: National Bilibid Prison</span><br />Resolution Directing the Proper Senate Committee, to Conduct An Inquiry in Aid of Legislation, on the Reported Explosion That Killed One Inmate and Hurt 19 Others in the National Bilibid Prison Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1159"><span>SRN-1159: Water Crisis in Butuan City</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Reported Water Crisis in Butuan City Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1158"><span>SRN-1158: Indigenous People's Rights Law</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Report That Congress Needs to Review the Indigenous People's Rights Law Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1175"><span>SRN-1175: Coa Report Re Pag-Ibig Fund Spending P1.69 Billion in Rent</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Report That the Commission on Audit Is Questioning the Home Development Mutual Fund...
+ Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1174"><span>SRN-1174: Coa Report Re PCSO Failure to Remit its Earnings to the National Treasury</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Recent Coa Report That the Philippine Charity Sweepstakes Office Failed to Remit a...
+ Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
 </div>
                <div id="pnl_NavBottom">
 	
                   <div class="lis_pagesort">
                      <hr />
                      <div class="lis_pagenav">
-                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=74">Previous</a>
+                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=72">Previous</a>
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=69">69</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=70">70</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=71">71</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=72">72</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=73">73</a> 
+73 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=74">74</a> 
-75 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=75">75</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=76">76</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=77">77</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=78">78</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=79">79</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=80">80</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=76">Next
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=74">Next
 </a></div>
                      <span id="lbSortBy_bottom">Sort by: </span>
                      <a id="lbDate_bottom" href="javascript:__doPostBack('lbDate_bottom','')">Date filed</a>

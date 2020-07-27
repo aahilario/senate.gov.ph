@@ -169,7 +169,7 @@
             
             -->            
                   
-            <form name="form1" method="post" action="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=75" id="form1" class="lis_div">
+            <form name="form1" method="post" action="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=90" id="form1" class="lis_div">
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="imgGo" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
@@ -444,18 +444,18 @@ function __doPostBack(eventTarget, eventArgument) {
 	
                   <div class="lis_pagesort">
                      <div class="lis_pagenav">
-                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=74">Previous</a>
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=71">71</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=72">72</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=73">73</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=74">74</a> 
-75 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=76">76</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=77">77</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=78">78</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=79">79</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=80">80</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=76">Next
+                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=89">Previous</a>
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=86">86</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=87">87</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=88">88</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=89">89</a> 
+90 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=91">91</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=92">92</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=93">93</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=94">94</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=95">95</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=91">Next
 </a></div>
                      <span id="lbSortBy">Sort by: </span>
                      <a id="lbDate" href="javascript:__doPostBack('lbDate','')">Date filed</a>
@@ -466,33 +466,38 @@ function __doPostBack(eventTarget, eventArgument) {
                   </div>
                
 </div>
-               <div class="alight"><p><a href="bill_res.aspx?congress=16&amp;q=SRN-1165"><span>SRN-1165: Papal Security Members</span><br />Resolution Directing the Proper Senate Committee, to Conduct An Inquiry, in Aid of Legislation, on the Report That the Papal Security Members Did Not Get Right Amount of Their Allowance Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1164"><span>SRN-1164: Light Rail Transit (LRT)</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Report That the Light Rail Transit (LRT) Suffered a Ticket Shortage Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1163"><span>SRN-1163: New Bilibid Prison</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Reported Rampant Drug Trade Inside New Bilibid Prison Perpetrated by Notorious Drug Lord Inmates Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1162"><span>SRN-1162: Hepatitis-B</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, to Investigate the Increasing Incidence of Hepatitis B in the Philippines Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1161"><span>SRN-1161: Crashed Drones</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Reported Discoveries and Recoveries of Crashed Drones, Allegedly Owned by the U.S...
- Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1160"><span>SRN-1160: National Bilibid Prison</span><br />Resolution Directing the Proper Senate Committee, to Conduct An Inquiry in Aid of Legislation, on the Reported Explosion That Killed One Inmate and Hurt 19 Others in the National Bilibid Prison Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1159"><span>SRN-1159: Water Crisis in Butuan City</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Reported Water Crisis in Butuan City Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1158"><span>SRN-1158: Indigenous People's Rights Law</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Report That Congress Needs to Review the Indigenous People's Rights Law Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
+               <div class="alight"><p><a href="bill_res.aspx?congress=16&amp;q=SRN-1045"><span>SRN-1045: Commending Francisco Sionil Jose</span><br />Resolution Commending Francisco Sionil Jose for His Distinguished Contribution to Literature and Journalism Filed on December 1, 2014 by Legarda, Loren B., Angara, Juan Edgardo "Sonny" M., Aquino IV, Paolo Benigno "Bam", Binay, Maria Lourdes Nancy S., Cayetano, Alan Peter Companero S., Cayetano, Pia S., Drilon, Franklin M., Ejercito, Joseph Victor G., Escudero, Francis "Chiz" G., Honasan II, Gregorio B., Lapid, Manuel "Lito" M., Marcos, Ferdinand "Bongbong" R., Osmena III, Sergio R., Pimentel, Aquilino Koko III L., Poe, Grace L., Recto, Ralph G., Sotto III, Vicente C.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1044"><span>SRN-1044: Geopolitical Landscape and Risks Faced by Un International Missions</span><br />Resolution Expressing the Full Support of the Senate to the Review of Peacekeeping Operations and Special Political Missions Conducted by the United Nations in Light of Changes in the...
+ Filed on December 1, 2014 by Legarda, Loren B., Angara, Juan Edgardo "Sonny" M., Aquino IV, Paolo Benigno "Bam", Binay, Maria Lourdes Nancy S., Cayetano, Alan Peter Companero S., Drilon, Franklin M., Ejercito, Joseph Victor G., Escudero, Francis "Chiz" G., Guingona III, Teofisto "Tg", Honasan II, Gregorio B., Lapid, Manuel "Lito" M., Marcos, Ferdinand "Bongbong" R., Osmena III, Sergio R., Pimentel, Aquilino Koko III L., Poe, Grace L., Recto, Ralph G., Sotto III, Vicente C., Trillanes, Antonio "Sonny" F., Villar, Cynthia A.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1043"><span>SRN-1043: Sta. Ana District, City of Manila (Heritage Zone)</span><br />Resolution Affirming the Declaration by the National Historical Commission of the Philippines of Certain Portions of the Sta. Ana District in the City of Manila as An Important Heritage Zone Filed on December 1, 2014 by Legarda, Loren B.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1042"><span>SRN-1042: Senior Citizens (Implementation of R.A. Nos. 7432 and 9994)</span><br />Resolution Urging the Senate Committees on Justice and Human Rights and Social Justice, Welfare and Rural Development to Conduct An Inquiry, in Aid of Legislation, as to the Implementation...
+ Filed on December 1, 2014 by Poe, Grace L.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1041"><span>SRN-1041: Congratulating and Commending Filipino Filmmaker Jason Paul Laxamana</span><br />Resolution Congratulating and Commending Filipino Filmmaker Jason Paul Laxamana for Winning the Netpac Prize (The Network for the Promotion of Asian Cinema) At the 3rd Hanoi International...
+ Filed on December 1, 2014 by Lapid, Manuel "Lito" M.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1040"><span>SRN-1040: Congratulating and Commending Filipino Actor Allen Dizon</span><br />Resolution Congratulating and Commending Filipino Actor Allen Dizon for Winning the Best Actor Award At the 3rd Hanoi International Film Festival At the Viet-So Friendship Cultural Palace...
+ Filed on December 1, 2014 by Lapid, Manuel "Lito" M.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1039"><span>SRN-1039: Congratulating and Commending Jamie Herrelll, Miss Earth</span><br />Resolution Congratulating and Commending Jamie Herrell for Honoring the Philippines with the Prestigious Miss Earth 2014 Title on 29 November 2014 At the University of the Philippines...
+ Filed on December 1, 2014 by Lapid, Manuel "Lito" M., Angara, Juan Edgardo "Sonny" M., Aquino IV, Paolo Benigno "Bam", Binay, Maria Lourdes Nancy S., Cayetano, Alan Peter Companero S., Cayetano, Pia S., Drilon, Franklin M., Ejercito, Joseph Victor G., Escudero, Francis "Chiz" G., Honasan II, Gregorio B., Legarda, Loren B., Marcos, Ferdinand "Bongbong" R., Osmena III, Sergio R., Pimentel, Aquilino Koko III L., Poe, Grace L., Recto, Ralph G., Sotto III, Vicente C.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1038"><span>SRN-1038: 30 GOCC's to Return to the State Treasury P1.6 Billion</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Report That 30 Government-Owned And- Controlled Corporations Have Been Told to Return...
+ Filed on November 26, 2014 by Defensor Santiago, Miriam</a></p>
 </div>
                <div id="pnl_NavBottom">
 	
                   <div class="lis_pagesort">
                      <hr />
                      <div class="lis_pagenav">
-                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=74">Previous</a>
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=71">71</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=72">72</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=73">73</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=74">74</a> 
-75 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=76">76</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=77">77</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=78">78</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=79">79</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=80">80</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=76">Next
+                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=89">Previous</a>
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=86">86</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=87">87</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=88">88</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=89">89</a> 
+90 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=91">91</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=92">92</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=93">93</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=94">94</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=95">95</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=91">Next
 </a></div>
                      <span id="lbSortBy_bottom">Sort by: </span>
                      <a id="lbDate_bottom" href="javascript:__doPostBack('lbDate_bottom','')">Date filed</a>

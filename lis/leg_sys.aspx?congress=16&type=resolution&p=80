@@ -169,7 +169,7 @@
             
             -->            
                   
-            <form name="form1" method="post" action="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=75" id="form1" class="lis_div">
+            <form name="form1" method="post" action="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=80" id="form1" class="lis_div">
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="imgGo" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
@@ -444,18 +444,18 @@ function __doPostBack(eventTarget, eventArgument) {
 	
                   <div class="lis_pagesort">
                      <div class="lis_pagenav">
-                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=74">Previous</a>
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=71">71</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=72">72</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=73">73</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=74">74</a> 
-75 
+                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=79">Previous</a>
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=76">76</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=77">77</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=78">78</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=79">79</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=80">80</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=76">Next
+80 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=81">81</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=82">82</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=83">83</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=84">84</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=85">85</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=81">Next
 </a></div>
                      <span id="lbSortBy">Sort by: </span>
                      <a id="lbDate" href="javascript:__doPostBack('lbDate','')">Date filed</a>
@@ -466,33 +466,37 @@ function __doPostBack(eventTarget, eventArgument) {
                   </div>
                
 </div>
-               <div class="alight"><p><a href="bill_res.aspx?congress=16&amp;q=SRN-1165"><span>SRN-1165: Papal Security Members</span><br />Resolution Directing the Proper Senate Committee, to Conduct An Inquiry, in Aid of Legislation, on the Report That the Papal Security Members Did Not Get Right Amount of Their Allowance Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1164"><span>SRN-1164: Light Rail Transit (LRT)</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Report That the Light Rail Transit (LRT) Suffered a Ticket Shortage Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1163"><span>SRN-1163: New Bilibid Prison</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Reported Rampant Drug Trade Inside New Bilibid Prison Perpetrated by Notorious Drug Lord Inmates Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1162"><span>SRN-1162: Hepatitis-B</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, to Investigate the Increasing Incidence of Hepatitis B in the Philippines Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1161"><span>SRN-1161: Crashed Drones</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Reported Discoveries and Recoveries of Crashed Drones, Allegedly Owned by the U.S...
- Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1160"><span>SRN-1160: National Bilibid Prison</span><br />Resolution Directing the Proper Senate Committee, to Conduct An Inquiry in Aid of Legislation, on the Reported Explosion That Killed One Inmate and Hurt 19 Others in the National Bilibid Prison Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1159"><span>SRN-1159: Water Crisis in Butuan City</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Reported Water Crisis in Butuan City Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
-<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1158"><span>SRN-1158: Indigenous People's Rights Law</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Report That Congress Needs to Review the Indigenous People's Rights Law Filed on February 10, 2015 by Defensor Santiago, Miriam</a></p>
+               <div class="alight"><p><a href="bill_res.aspx?congress=16&amp;q=SRN-1125"><span>SRN-1125: Commending the Vatican City, Holy See, and the Catholic Bishop</span><br />Resolution Commending the Vatican City, Holy See, and the Catholic Bishop Conference of the Philippines for Uplifting the Spirit of and Strengthening the Catholic Faith of the Filipino People Filed on January 21, 2015 by Ejercito, Joseph Victor G.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1124"><span>SRN-1124: Commending Departments and Agencies for the Success of Pastoral Visit</span><br />Resolution Commending Department of Interior and Local Government Secretary Mar Roxas, Department of National Defense Secretary Voltaire Gazmin, Philippine National Police Officer-In-Charge...
+ Filed on January 21, 2015 by Lapid, Manuel "Lito" M.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1123"><span>SRN-1123: Air Pollution in the National Capital Region During the New Year</span><br />Resolution Directing the Senate Committee on Environment and Natural Resources and Other Appropriate Senate Committees to Conduct An Inquiry, in Aid of Legislation, on the Reports That Air...
+ Filed on January 21, 2015 by Lapid, Manuel "Lito" M.</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1122"><span>SRN-1122: Metropolitan Development Authority (MMDA)</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Alleged Failure of Metropolitan Manila Development Authority (MMDA) to Properly Account...
+ Filed on January 21, 2015 by Defensor Santiago, Miriam</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1121"><span>SRN-1121: Nursing Licensure Examination</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Report of Leakage of Nursing Licensure Examination Questions by a Former Board of...
+ Filed on January 21, 2015 by Defensor Santiago, Miriam</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1120"><span>SRN-1120: Philippine Atmospheric, Geophysical and Astronomical Services Administration</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Recent Commission on Audit Report That the Philippine Atmospheric, Geophysical and...
+ Filed on January 21, 2015 by Defensor Santiago, Miriam</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1119"><span>SRN-1119: Smuggling</span><br />Resolution Directing the Proper Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Report of Troops Being Tricked to Free Boat in Smuggling Filed on January 21, 2015 by Defensor Santiago, Miriam</a></p>
+<p><a href="bill_res.aspx?congress=16&amp;q=SRN-1118"><span>SRN-1118: Garlic Cartel Fabricated the Onion Racket</span><br />Resolution Directing the Senate Committee to Conduct An Inquiry, in Aid of Legislation, on the Report That Garlic Cartel Fabricated the Onion Racket Filed on January 21, 2015 by Defensor Santiago, Miriam</a></p>
 </div>
                <div id="pnl_NavBottom">
 	
                   <div class="lis_pagesort">
                      <hr />
                      <div class="lis_pagenav">
-                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=74">Previous</a>
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=71">71</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=72">72</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=73">73</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=74">74</a> 
-75 
+                        Page: <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=79">Previous</a>
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=76">76</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=77">77</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=78">78</a> 
 <a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=79">79</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=80">80</a> 
-<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=76">Next
+80 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=81">81</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=82">82</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=83">83</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=84">84</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=85">85</a> 
+<a href="leg_sys.aspx?congress=16&amp;type=resolution&amp;p=81">Next
 </a></div>
                      <span id="lbSortBy_bottom">Sort by: </span>
                      <a id="lbDate_bottom" href="javascript:__doPostBack('lbDate_bottom','')">Date filed</a>
