@@ -75,7 +75,7 @@
 &nbsp;GAD&nbsp;</div>
 <div id="nav_gad" class="div_hidden" onmouseover="ShowDiv('nav_gad');HideSelect();" onmouseout="HideDiv('nav_gad');ShowSelect();">
 <div class="nav_dropdown">
-<p><a href="/GAD/Bills&Resolutions_GAD18th1st.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
+<p><a href="../GAD/EDP%2018th%20GAD%20Bills4.pdf">Bills and Resolutions Referred to the Committee on Women, Children, Family Relations and Gender Equality (18th Congress 1st Reg. Session)</a></p>
 </div>
 </div>
 </td>
@@ -91,7 +91,7 @@
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjIyOTUxNjI5D2QWAgIBD2QWAgIBD2QWBgIBDw8WBh4IQ3NzQ2xhc3MFE2xpc19ib2xkX2xpbmtidXR0b24eB0VuYWJsZWRoHgRfIVNCAgJkZAINDw8WAh4HVmlzaWJsZWhkZAIPDw8WAh8DaGRkZPURg1y2K3z4lEzDGOUF25mCUweH" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjIyOTUxNjI5D2QWAgIBD2QWAgIBD2QWBgIBDw8WBh4IQ3NzQ2xhc3MFE2xpc19ib2xkX2xpbmtidXR0b24eB0VuYWJsZWRoHgRfIVNCAgJkZAINDw8WAh4HVmlzaWJsZWhkZAIPDw8WAh8DaGRkZN8q07kfVosiID1KXDms7hipEykX" />
 </div>
 
 <script type="text/javascript">
@@ -114,7 +114,7 @@ function __doPostBack(eventTarget, eventArgument) {
 <div>
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="AB8B2AD5" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQKGisP3AgLJ/IvGBwLH35XtCwL4k9H6DAKLqrzFDdvjcmmQzuVXyz0FuYkxGVrHMO6t" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQLsxPSqDALJ/IvGBwLH35XtCwL4k9H6DAKLqrzFDU4q15yBXRmVYOZmlE5Z/aSGCzMq" />
 </div>
                <div>
                   <div id="pnlButtons" class="lis_navpanel">
@@ -133,12 +133,13 @@ function __doPostBack(eventTarget, eventArgument) {
                </div>
             </form>            
             <div id="lis_download">Download <img src="/images/pdf1.gif" alt="PDF icon" /><ul><li><a href="/lisdata/3286229743!.pdf">SBN-1564 (Per Ctte. Rpt. No. 98)</a><br /><small>6/1/2020</small> <small>1.4MB</small></li>
+<li><a href="/lisdata/3286229963!.pdf">SBN-1564 (3rd Reading Copy)</a><br /><small>7/28/2020</small> <small>610.4KB</small></li>
 </ul>
 </div>
 <p>Long title</p><blockquote>AN ACT AUTHORIZING THE PRESIDENT OF THE REPUBLIC OF THE PHILIPPINES TO EXERCISE NECESSARY POWERS TO CARRY OUT THE DECLARED NATIONAL POLICY TO RESPOND TO
 CRISIS BROUGHT ABOUT BY THE 2019 CORONAVIRUS DISEASE (COVID-19) PANDEMIC AND PROVIDING MECHANISM TO ACCELERATE THE RECOVERY AND BOLSTER THE RESILIENCY OF THE PHILIPPINE ECONOMY, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES</blockquote>
 <p>Scope</p><blockquote>National</blockquote>
-<p>Legislative status</p><blockquote>Approved on  Second Reading, with Amendments (6/3/2020)</blockquote>
+<p>Legislative status</p><blockquote>Approved on Third Reading by the Senate (7/28/2020)</blockquote>
 
          </td>
          <td id="sidepane">
